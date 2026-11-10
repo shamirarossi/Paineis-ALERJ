@@ -1,0 +1,24 @@
+{
+ "atualizado": "2026-11-10T16:21:56+00:00",
+ "status": {
+  "ok": true,
+  "ultimaExecucao": "2026-11-10T16:20:00+00:00",
+  "edicaoLida": "2026-11-10",
+  "mensagem": null
+ },
+ "edicoes": [
+  {
+   "id": "2026-11-10",
+   "data": "2026-11-10",
+   "edicao": "Ano LII · Nº 206",
+   "extra": false,
+   "contagem": {
+    "total": 16,
+    "lgbt": 0,
+    "mulheres": 4,
+    "ct": 2,
+    "gabinete": 5
+   }
+  }
+ ]
+}
