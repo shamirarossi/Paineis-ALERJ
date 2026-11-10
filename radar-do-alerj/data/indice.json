@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-10T16:35:47+00:00",
+ "atualizado": "2026-11-10T16:39:17+00:00",
  "status": {
-  "ok": false,
-  "ultimaExecucao": "2026-11-10T16:35:39+00:00",
+  "ok": true,
+  "ultimaExecucao": "2026-11-10T16:37:16+00:00",
   "edicaoLida": "2026-11-10",
-  "mensagem": "A leitura de 10/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'tool_choice: type \"tool\" and \"any\" are not supported for this model.'}, 'request_id': 'req_011CguaAxbo5k1F6pqaB6KWm'}). Ela roda de novo no próximo agendamento."
+  "mensagem": null
  },
  "edicoes": [
   {
@@ -13,11 +13,11 @@
    "edicao": "Ano LII · Nº 206",
    "extra": false,
    "contagem": {
-    "total": 16,
+    "total": 13,
     "lgbt": 0,
-    "mulheres": 4,
-    "ct": 2,
-    "gabinete": 5
+    "mulheres": 3,
+    "ct": 1,
+    "gabinete": 1
    }
   }
  ]

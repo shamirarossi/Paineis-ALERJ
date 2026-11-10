@@ -3,167 +3,126 @@
  "edicao": "Ano LII · Nº 206",
  "extra": false,
  "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTA%3D",
- "lidoEm": "2026-11-10T16:20:00Z",
- "resumo": "Dia de pauta para o gabinete: a deputada Dani Balbi convocou, como presidenta da Comissão de Trabalho, a reunião de amanhã (11/11, 11h30), em que relata 11 projetos. Entre eles estão a política contra assédio sexual e violências contra mulheres nas universidades (PL 1475/2023) e o selo Empresa Amiga da Mãe Atípica (PL 5228/2025). Na mesma reunião será votado o PL 5631/2025, de autoria da deputada. O governador em exercício sancionou a lei da Campanha Check-up Feminino e outras 12 leis, sancionou com veto parcial a Patrulha da Pessoa Idosa e vetou integralmente o projeto de Lilian Behring sobre visitas de profissionais de enfermagem a familiares internados. No Plenário, saíram as emendas ao regime de ICMS do querosene de aviação, incluindo uma de equidade salarial de gênero. Nada específico sobre população LGBTQIA+ nesta edição.",
- "pessoal": "Também saíram 26 atos da Mesa de nomeação ou exoneração, 3 designações do Primeiro Secretário, 2 portarias de redistribuição de função e 6 despachos de férias, que não entram no resumo.",
+ "lidoEm": "2026-11-10T16:37:16+00:00",
+ "resumo": "O destaque do gabinete é o edital da Comissão de Trabalho, Legislação Social e Seguridade Social, presidida por Dani Balbi, que convoca a 1ª Reunião Ordinária remota para 11/11, às 11h30. A pauta traz o PL 1475/2023, sobre assédio sexual e violências contra mulheres no ensino superior, o PL 4428/2024, sobre coworking, inovação e startups, e uma audiência pública sobre a ECT. Dani consta como relatora na distribuição de proposições e é autora do PL 5631/2025, também listado. Há ainda a Lei 11.356/2026 (Campanha Check-up Feminino) e as emendas de plenário ao PL 8277/2026 do Executivo, uma delas com condição de equidade salarial de gênero. Nada no tema LGBT. A edição publica também o veto total ao PL 5086-A/2025, da deputada Lilian Behring (PCdoB), um veto parcial, outras leis sancionadas, a redação final do PL 3800/2021 e editais da Escola do Legislativo.",
+ "pessoal": "26 atos da Mesa Diretora (6 nomeações e 20 exonerações, 8 delas a pedido), 3 atos do Primeiro Secretário (2 designações e 1 dispensa de função gratificada), 2 portarias do Diretor-Geral (redistribuição de função gratificada), 6 férias deferidas e 3 erratas de atos de pessoal (atos 4352, 4353 e 4358).",
  "itens": [
   {
    "grupo": "Reuniões e audiências",
-   "tipo": "Edital de convocação",
-   "ref": "Comissão de Trabalho · 1ª Reunião Ordinária",
-   "autor": "Dep. Dani Balbi (presidenta)",
-   "ementa": "Reunião por meios remotos com distribuição de proposições, votação de 14 pareceres (11 deles com relatoria da Dani) e deliberação de audiência pública sobre a crise e a reestruturação dos Correios (ECT) e a precarização do trabalho no serviço postal.",
-   "situacao": "Quarta, 11/11/2026, às 11h30",
-   "gabinete": true,
-   "nota": "A reunião é convocada e presidida pela deputada, que relata a maior parte da pauta. Os pareceres precisam estar prontos até amanhã."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 1475/2023",
-   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
-   "ementa": "Institui a política de enfrentamento ao assédio sexual e a outras violências contra mulheres nas instituições de ensino superior do estado.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
+   "tipo": "Edital de convocação – 1ª Reunião Ordinária",
+   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social",
+   "autor": "Dep. Dani Balbi (presidenta da comissão)",
+   "ementa": "Convoca a reunião remota de 11/11/2026, às 11h30, com pauta em três partes: distribuição de proposições (PLs 5331/2025, 5228/2025, 7082/2026, 3162/2024, 4428/2024 e 5631/2025), votação de pareceres a oito projetos (PLs 2725/2023, 5425/2022, 7010/2026, 4824/2025, 1475/2023, 6026/2025, 5063/2025 e 4550/2024) e deliberação de audiência pública sobre a crise e a reestruturação da ECT.",
+   "situacao": "Reunião em 11/11/2026, 11h30, por meios remotos",
    "temas": [
     "mulheres",
     "ct"
    ],
    "gabinete": true,
-   "nota": "Une violência de gênero e universidades, e a relatoria é do gabinete. Vale preparar um parecer com dados das universidades estaduais."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 5228/2025",
-   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
-   "ementa": "Cria o selo 'Empresa Amiga da Mãe Atípica'.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "temas": [
-    "mulheres"
-   ],
-   "gabinete": true,
-   "nota": "Trata de maternidade atípica, ou seja, de mães de crianças com deficiência ou neurodivergentes no trabalho, e a relatoria é do gabinete."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 5631/2025",
-   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
-   "ementa": "Altera a Lei Estadual nº 6.165, de 15 de fevereiro de 2012.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "gabinete": true,
-   "nota": "Projeto de autoria da deputada, em votação na comissão que ela preside. Vale alinhar com o relator antes da reunião."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 4428/2024",
-   "autor": "Dep. Val Ceasa (relator: Dep. Professor Josemar)",
-   "ementa": "Cria espaços públicos de co-working no estado para fomentar inovação, colaboração e empreendedorismo entre pequenos empreendedores, freelancers e startups.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "temas": [
-    "ct"
-   ],
-   "nota": "Política de inovação e startups em votação na comissão presidida pela deputada."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Outras relatorias da Dani",
-   "ref": "9 projetos",
-   "autor": "Relatora: Dep. Dani Balbi",
-   "ementa": "PL 2725/2023 (Renato Miranda, altera a Lei 8.694/2019); PL 5425/2022 (Mônica Francisco e outros, auxílio emergencial para secas e enchentes); PL 7010/2026 (Renata Souza, apoio e fomento ao ofício das pessoas trancistas); PL 4824/2025 (Marina do MST, climatização das cozinhas escolares); PL 6026/2025 (Jorge Felippe Neto, área de descanso para técnicos em radiologia); PL 5063/2025 e PL 5331/2025 (Lilian Behring, saúde no trabalho e EPIs dos profissionais de saúde); PL 7082/2026 (Lilian Behring, enfermagem em home care); PL 4550/2024 (Professor Josemar, desprecarização dos agentes comunitários de saúde e de endemias).",
-   "situacao": "Pareceres em votação na Comissão de Trabalho em 11/11",
-   "gabinete": true,
-   "nota": "Lista para conferir se todos os pareceres estão prontos para amanhã."
+   "nota": "Dani Balbi preside a comissão e consta como relatora na distribuição de proposições; o texto extraído não deixa claro quais projetos ficam com ela, então vale conferir no original. O PL 5631/2025, que altera a Lei estadual 6.165/2012, é de autoria dela. A pauta inclui o PL 1475/2023 (assédio sexual e violências contra mulheres em instituições de ensino superior) e o PL 4428/2024 (espaços públicos de coworking para inovação e startups, marcado em ct na dúvida)."
   },
   {
    "grupo": "Leis e vetos",
    "tipo": "Lei sancionada",
    "ref": "Lei 11.356/2026 (PL 1412/2023)",
    "autor": "Dep. Felipinho Ravis",
-   "ementa": "Institui a Campanha Check-up Feminino, de orientação e prevenção de doenças no estado.",
-   "situacao": "Sancionada em 29/10/2026",
+   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no estado do Rio de Janeiro. Sancionada em 29/10/2026.",
+   "situacao": "Sancionada; ofício do governador em exercício despachado para impressão em 09.11.2026",
    "temas": [
     "mulheres"
    ],
-   "nota": "Nova lei de saúde da mulher. Pode servir de base para cobrar a execução da campanha ou para propostas complementares."
+   "nota": "Trata de saúde da mulher. Não há providência a tomar; serve de acompanhamento do tema."
   },
   {
    "grupo": "Projetos de lei",
-   "tipo": "Emendas de Plenário",
-   "ref": "PL 8277/2026 (Mensagem 19/2026)",
-   "autor": "Poder Executivo; emendas de Vinícius Cozzolino, Felipinho Ravis, Marina do MST, Luiz Paulo, Martha Rocha e outros",
-   "ementa": "Regime tributário especial de ICMS para o querosene de aviação, em urgência e discussão única. As emendas 14 a 20 tratam da redução gradual dos benefícios a partir de 2029, de metas de emprego, de arrecadação e ambientais, de conectividade com aeroportos do interior e de combustível sustentável de aviação.",
-   "situacao": "Emendas republicadas; em discussão única",
+   "tipo": "Emendas de plenário em urgência (nºs 14 a 20)",
+   "ref": "PL 8277/2026 (Mensagem nº 19/2026)",
+   "autor": "Poder Executivo; emendas de Vinícius Cozzolino, Franciane Motta, Célia Jordão, Luiz Paulo, Felipinho Ravis, Val Ceasa, Carlos Macedo, Marina do MST e Martha Rocha",
+   "ementa": "Emendas, em regime de urgência e discussão única, ao projeto do Executivo que, pelo conteúdo das emendas, trata de regime tributário especial (diferimento de ICMS) para distribuidoras de querosene de aviação, com anexo de metas de desempenho. Tratam de redução gradual de 20% ao ano dos benefícios a partir de 2029, do alcance do diferimento a transferências para estabelecimentos em aeroportos, das metas econômicas, sociais e ambientais, de compromisso com a conectividade regional e de metas de empregos e compensação climática.",
+   "situacao": "Emendas republicadas por incorreções; projeto em regime de urgência",
    "temas": [
     "mulheres"
    ],
-   "nota": "A emenda 19 (Marina do MST, Luiz Paulo e Martha Rocha) condiciona o benefício fiscal a crescimento de 5% nos empregos e garante equidade salarial de gênero. A emenda 17 inclui políticas de diversidade e inclusão nas metas sociais."
+   "nota": "A Emenda Modificativa nº 19 (Marina do MST, Luiz Paulo e Martha Rocha) exige equidade salarial de gênero na meta social de empregos. É uma menção pontual dentro de projeto tributário, marcada na dúvida. Vale acompanhar a votação."
   },
   {
    "grupo": "Leis e vetos",
    "tipo": "Veto total",
    "ref": "PL 5086-A/2025",
    "autor": "Dep. Lilian Behring",
-   "ementa": "Livre acesso de profissionais da enfermagem para visitar familiares internados fora do horário de visita. O governo alega interferência na autonomia dos hospitais, falta de isonomia com outras categorias e ausência de estimativa de impacto.",
-   "situacao": "Vetado; segue à Comissão de Emendas Constitucionais e Vetos",
-   "nota": "Projeto da vice-líder da bancada do PCdoB. Cabe articular a derrubada do veto."
+   "ementa": "O governador em exercício vetou integralmente o projeto que garantia aos profissionais de enfermagem livre acesso, fora do horário de visitas, a familiares internados em hospitais públicos e privados. Alegou perda de autonomia dos estabelecimentos, problemas de isonomia e proporcionalidade e ausência de estimativa de impacto orçamentário-financeiro.",
+   "situacao": "Razões de veto total publicadas; aguardam apreciação"
   },
   {
    "grupo": "Leis e vetos",
-   "tipo": "Veto parcial",
+   "tipo": "Lei sancionada com veto parcial",
    "ref": "Lei 11.358/2026 (PL 1764-A/2023)",
-   "autor": "Deps. Munir Neto, Tia Ju, Lucinha, Carlos Macedo e outros",
-   "ementa": "Cria o programa Patrulha da Pessoa Idosa. Foram vetados os §§ 1º a 4º do art. 1º (detalhamento das tarefas das secretarias) e o art. 4º (início das rondas no protocolo do pedido).",
-   "situacao": "Sancionada com veto parcial; veto segue à Comissão de Emendas Constitucionais e Vetos"
+   "autor": "Deps. Munir Neto, Tia Ju, Lucinha, Carlos Macedo, Guilherme Delaroli, Dionísio Lins, Chico Machado, Val Ceasa, Felipinho Ravis, Carlos Minc e Giovani Ratinho",
+   "ementa": "Cria o programa de proteção e atendimento à pessoa idosa \"Patrulha da Pessoa Idosa\". O veto recai sobre os §§1º a 4º do art. 1º, por detalharem medidas das Secretarias e violarem a reserva de administração, e sobre o art. 4º, por vincular o início das rondas e visitas ao simples protocolo do pedido de medida protetiva.",
+   "situacao": "Despacho de 09.11.2026: a imprimir e à Comissão de Emendas Constitucionais e Vetos"
   },
   {
    "grupo": "Leis e vetos",
-   "tipo": "Leis sancionadas",
-   "ref": "Leis 11.354, 11.355, 11.357, 11.359, 11.360 e 11.361/2026",
-   "autor": "Diversos autores",
-   "ementa": "Programa Cidade Amiga do Idoso (Valdecy da Saúde); Imunidade em Dia nas Escolas (Dr. Deodalto); política de atenção às doenças respiratórias (Renato Miranda); cuidado a pessoas com transtorno de acumulação de animais (Jorge Felippe Neto e outros); saúde mental de pessoas com uso compulsivo de jogos eletrônicos e de azar (Fred Pacheco, Yuri Moura e outros); programa Jovem Doador nas escolas (Marcelo Dino e outros).",
-   "situacao": "Sancionadas em 29/10 e 04/11/2026"
-  },
-  {
-   "grupo": "Leis e vetos",
-   "tipo": "Leis sancionadas",
-   "ref": "Leis 11.348 a 11.353/2026",
+   "tipo": "Leis sancionadas (datas comemorativas)",
+   "ref": "Leis 11.348 a 11.352/2026",
    "autor": "Deps. Tia Ju, Sérgio Fernandes, Felipinho Ravis, Val Ceasa e Carla Machado",
-   "ementa": "Datas comemorativas: conscientização sobre superdotação e altas habilidades, Dia do Instrutor de Trânsito, Dia do Marinheiro Profissional de Esporte e Recreio, Dia Estadual de São José e Dia do Mediador Escolar. A GRES Leão de Nova Iguaçu passa a ser patrimônio cultural imaterial.",
-   "situacao": "Sancionadas em 29/10/2026"
+   "ementa": "Incluem no calendário oficial do estado, alterando a Lei 5.645/2010, o Dia Estadual de Conscientização sobre a Superdotação e as Altas Habilidades (Lei 11.348, PL 7390-A/2026), o Dia do Instrutor de Trânsito (11.349, PL 5519-A/2025), o Dia Estadual do Marinheiro Profissional de Esporte e Recreio (11.350, PL 7289/2026), o Dia Estadual de São José (11.351, PL 5467-A/2025) e o Dia Estadual do Mediador Escolar (11.352, PL 6637-A/2025). Sancionadas em 29/10/2026.",
+   "situacao": "Sancionadas; ofícios despachados para impressão em 09.11.2026"
+  },
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Lei sancionada",
+   "ref": "Lei 11.353/2026 (PL 613-A/2023)",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Declara patrimônio cultural imaterial do estado do Rio de Janeiro o Grêmio Recreativo Escola de Samba Leão de Nova Iguaçu. Sancionada em 29/10/2026.",
+   "situacao": "Sancionada; ofício despachado para impressão em 09.11.2026"
+  },
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Leis sancionadas (saúde e programas)",
+   "ref": "Leis 11.354, 11.355, 11.357, 11.359, 11.360 e 11.361/2026",
+   "autor": "Deps. Valdecy da Saúde, Dr. Deodalto, Renato Miranda, Jorge Felippe Neto, Cláudio Caiado, Tia Ju, Lucinha, Fred Pacheco, Carlos Macedo, Yuri Moura, Marcelo Dino e outros",
+   "ementa": "Instituem o Programa Cidade Amiga do Idoso (11.354, PL 5326/2025), o Programa Imunidade em Dia nas Escolas da rede pública (11.355, PL 5906-A/2022), a Política Estadual de Atenção Integral às Doenças Respiratórias (11.357, PL 3392-A/2024), a Política Estadual de Cuidados às Pessoas com Transtorno de Acumulação Compulsiva de Animais (11.359, PL 1251-A/2023), diretrizes de atenção à saúde mental de pessoas com uso compulsivo de jogos eletrônicos e de azar (11.360, PL 6343-A/2025) e o Programa \"Jovem Doador\" nas escolas estaduais (11.361, PL 4066-A/2021). As Leis 11.354, 11.355 e 11.357 são de 29/10/2026; as demais, de 04/11/2026.",
+   "situacao": "Sancionadas; ofícios despachados para impressão em 09.11.2026"
   },
   {
    "grupo": "Projetos de lei",
-   "tipo": "Redação final",
+   "tipo": "Emendas de redação e redação final",
    "ref": "PL 3800/2021",
    "autor": "Dep. Carlos Macedo",
-   "ementa": "Altera o Programa Condomínio Seguro para obrigar condomínios a orientar moradores sobre prevenção de acidentes, emergências e combate a incêndio.",
-   "situacao": "Redação final republicada com emendas de redação"
+   "ementa": "Altera a Lei 5.883/2011 (Programa Condomínio Seguro) para acrescentar parágrafo único ao art. 2º, obrigando condomínios residenciais a dar aos condôminos instruções de prevenção de acidentes, e os incisos III e IV ao art. 3º, sobre orientação em ocorrências de segurança e instrução sobre emergência e combate a incêndio. As emendas de redação ajustam o texto e incluem a cláusula de vigência na data da publicação.",
+   "situacao": "Republicadas por incorreções no D.O. de 05.11.2026. Aprovada a subemenda aglutinativa da CCJ às emendas de Plenário 01 e 02 e aprovada a emenda de Plenário 03. Comissão de Redação em 04/11/2026"
   },
   {
    "grupo": "Reuniões e audiências",
-   "tipo": "Edital de convocação",
-   "ref": "Comissão de Minas e Energia · 4ª Reunião Extraordinária",
+   "tipo": "Edital de convocação – 4ª Reunião Extraordinária",
+   "ref": "Comissão de Minas e Energia",
    "autor": "Dep. Anderson Moraes (presidente)",
-   "ementa": "Deliberação de audiência pública para cobrar da Enel e da Light providências sobre falta de energia, demora no restabelecimento e investimentos no estado.",
-   "situacao": "Hoje, 10/11/2026, às 11h, por meios digitais"
+   "ementa": "Convoca reunião digital para 10/11/2026, às 11h, para deliberar sobre audiência pública destinada a cobrar da Enel e da Light providências sobre a falta de energia, a demora no restabelecimento e os investimentos previstos no estado.",
+   "situacao": "Reunião em 10/11/2026, 11h, por meios digitais"
   },
   {
    "grupo": "Atos da Mesa",
    "tipo": "Despachos da Mesa Diretora",
    "ref": "Processos 15053/2026 e 16700/2026",
-   "autor": "Mesa Diretora",
-   "ementa": "Autoriza a contratação, por dispensa de licitação, da Associação Niteroiense dos Deficientes Físicos (ANDEF) para o Departamento de Transportes. Autoriza também um pedido da Escola do Legislativo.",
-   "situacao": "Decididos em 29/10 e 09/11/2026"
+   "ementa": "A Mesa autorizou, em 29.10.2026, a contratação por dispensa de licitação da Associação Niteroiense dos Deficientes Físicos (ANDEF), a pedido do Departamento de Transportes (processo 15053/2026). Autorizou também, com base no Ato Normativo N/MD/Nº 623/2017, o solicitado pela Subdiretoria-Geral da Escola do Legislativo no processo 16700/2026, sem detalhar o objeto.",
+   "situacao": "Decididos pela Mesa Diretora"
   },
   {
    "grupo": "Escola do Legislativo",
-   "tipo": "Editais de curso",
-   "ref": "ELERJ",
-   "autor": "Escola do Legislativo",
-   "ementa": "Curso de Organização Financeira (método MOSPII), às quartas de 11/11 a 16/12, com inscrições até hoje. Curso de Língua Portuguesa no Processo Legislativo (coesão, coerência e redação oficial), às terças de 17/11 a 15/12, com inscrições até 16/11. Ambos híbridos e abertos ao público.",
-   "situacao": "Inscrições abertas"
+   "tipo": "Edital de curso",
+   "ref": "Curso Organização Financeira (Método MOSPII)",
+   "autor": "ELERJ",
+   "ementa": "Curso híbrido de 15 horas, em 6 módulos, com Ronaldo da Silva Leal, sobre mentalidade, organização, planejamento, investimento e independência financeira. As aulas são às quartas, das 10h às 12h30, de 11/11 a 16/12/2026, com até 100 vagas presenciais na Rua da Ajuda, nº 5, 2º andar.",
+   "situacao": "Inscrições até 10/11/2026"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de curso",
+   "ref": "Curso Língua Portuguesa no Processo Legislativo: Coesão, Coerência e Redação Oficial",
+   "autor": "ELERJ",
+   "ementa": "Curso híbrido de 18 horas, em 6 módulos, com Arthur Rezende da Silva, sobre língua portuguesa aplicada à comunicação oficial e aos atos normativos, com oficina de análise e reescrita. As aulas são às terças, em 17/11, 24/11 (10h às 13h e 14h às 17h), 01/12, 08/12 e 15/12/2026, com até 100 vagas presenciais.",
+   "situacao": "Inscrições até 16/11/2026"
   }
  ]
 }

@@ -1,84 +1,19 @@
 {
- "atualizado": "2026-11-10T16:35:47+00:00",
+ "atualizado": "2026-11-10T16:39:17+00:00",
  "itens": [
   {
    "grupo": "Reuniões e audiências",
-   "tipo": "Edital de convocação",
-   "ref": "Comissão de Trabalho · 1ª Reunião Ordinária",
-   "autor": "Dep. Dani Balbi (presidenta)",
-   "ementa": "Reunião por meios remotos com distribuição de proposições, votação de 14 pareceres (11 deles com relatoria da Dani) e deliberação de audiência pública sobre a crise e a reestruturação dos Correios (ECT) e a precarização do trabalho no serviço postal.",
-   "situacao": "Quarta, 11/11/2026, às 11h30",
-   "gabinete": true,
-   "nota": "A reunião é convocada e presidida pela deputada, que relata a maior parte da pauta. Os pareceres precisam estar prontos até amanhã.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 1475/2023",
-   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
-   "ementa": "Institui a política de enfrentamento ao assédio sexual e a outras violências contra mulheres nas instituições de ensino superior do estado.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
+   "tipo": "Edital de convocação – 1ª Reunião Ordinária",
+   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social",
+   "autor": "Dep. Dani Balbi (presidenta da comissão)",
+   "ementa": "Convoca a reunião remota de 11/11/2026, às 11h30, com pauta em três partes: distribuição de proposições (PLs 5331/2025, 5228/2025, 7082/2026, 3162/2024, 4428/2024 e 5631/2025), votação de pareceres a oito projetos (PLs 2725/2023, 5425/2022, 7010/2026, 4824/2025, 1475/2023, 6026/2025, 5063/2025 e 4550/2024) e deliberação de audiência pública sobre a crise e a reestruturação da ECT.",
+   "situacao": "Reunião em 11/11/2026, 11h30, por meios remotos",
    "temas": [
     "mulheres",
     "ct"
    ],
    "gabinete": true,
-   "nota": "Une violência de gênero e universidades, e a relatoria é do gabinete. Vale preparar um parecer com dados das universidades estaduais.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 5228/2025",
-   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
-   "ementa": "Cria o selo 'Empresa Amiga da Mãe Atípica'.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "temas": [
-    "mulheres"
-   ],
-   "gabinete": true,
-   "nota": "Trata de maternidade atípica, ou seja, de mães de crianças com deficiência ou neurodivergentes no trabalho, e a relatoria é do gabinete.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 5631/2025",
-   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
-   "ementa": "Altera a Lei Estadual nº 6.165, de 15 de fevereiro de 2012.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "gabinete": true,
-   "nota": "Projeto de autoria da deputada, em votação na comissão que ela preside. Vale alinhar com o relator antes da reunião.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Projeto em pauta",
-   "ref": "PL 4428/2024",
-   "autor": "Dep. Val Ceasa (relator: Dep. Professor Josemar)",
-   "ementa": "Cria espaços públicos de co-working no estado para fomentar inovação, colaboração e empreendedorismo entre pequenos empreendedores, freelancers e startups.",
-   "situacao": "Parecer em votação na Comissão de Trabalho em 11/11",
-   "temas": [
-    "ct"
-   ],
-   "nota": "Política de inovação e startups em votação na comissão presidida pela deputada.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Outras relatorias da Dani",
-   "ref": "9 projetos",
-   "autor": "Relatora: Dep. Dani Balbi",
-   "ementa": "PL 2725/2023 (Renato Miranda, altera a Lei 8.694/2019); PL 5425/2022 (Mônica Francisco e outros, auxílio emergencial para secas e enchentes); PL 7010/2026 (Renata Souza, apoio e fomento ao ofício das pessoas trancistas); PL 4824/2025 (Marina do MST, climatização das cozinhas escolares); PL 6026/2025 (Jorge Felippe Neto, área de descanso para técnicos em radiologia); PL 5063/2025 e PL 5331/2025 (Lilian Behring, saúde no trabalho e EPIs dos profissionais de saúde); PL 7082/2026 (Lilian Behring, enfermagem em home care); PL 4550/2024 (Professor Josemar, desprecarização dos agentes comunitários de saúde e de endemias).",
-   "situacao": "Pareceres em votação na Comissão de Trabalho em 11/11",
-   "gabinete": true,
-   "nota": "Lista para conferir se todos os pareceres estão prontos para amanhã.",
+   "nota": "Dani Balbi preside a comissão e consta como relatora na distribuição de proposições; o texto extraído não deixa claro quais projetos ficam com ela, então vale conferir no original. O PL 5631/2025, que altera a Lei estadual 6.165/2012, é de autoria dela. A pauta inclui o PL 1475/2023 (assédio sexual e violências contra mulheres em instituições de ensino superior) e o PL 4428/2024 (espaços públicos de coworking para inovação e startups, marcado em ct na dúvida).",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
@@ -87,26 +22,26 @@
    "tipo": "Lei sancionada",
    "ref": "Lei 11.356/2026 (PL 1412/2023)",
    "autor": "Dep. Felipinho Ravis",
-   "ementa": "Institui a Campanha Check-up Feminino, de orientação e prevenção de doenças no estado.",
-   "situacao": "Sancionada em 29/10/2026",
+   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no estado do Rio de Janeiro. Sancionada em 29/10/2026.",
+   "situacao": "Sancionada; ofício do governador em exercício despachado para impressão em 09.11.2026",
    "temas": [
     "mulheres"
    ],
-   "nota": "Nova lei de saúde da mulher. Pode servir de base para cobrar a execução da campanha ou para propostas complementares.",
+   "nota": "Trata de saúde da mulher. Não há providência a tomar; serve de acompanhamento do tema.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
   {
    "grupo": "Projetos de lei",
-   "tipo": "Emendas de Plenário",
-   "ref": "PL 8277/2026 (Mensagem 19/2026)",
-   "autor": "Poder Executivo; emendas de Vinícius Cozzolino, Felipinho Ravis, Marina do MST, Luiz Paulo, Martha Rocha e outros",
-   "ementa": "Regime tributário especial de ICMS para o querosene de aviação, em urgência e discussão única. As emendas 14 a 20 tratam da redução gradual dos benefícios a partir de 2029, de metas de emprego, de arrecadação e ambientais, de conectividade com aeroportos do interior e de combustível sustentável de aviação.",
-   "situacao": "Emendas republicadas; em discussão única",
+   "tipo": "Emendas de plenário em urgência (nºs 14 a 20)",
+   "ref": "PL 8277/2026 (Mensagem nº 19/2026)",
+   "autor": "Poder Executivo; emendas de Vinícius Cozzolino, Franciane Motta, Célia Jordão, Luiz Paulo, Felipinho Ravis, Val Ceasa, Carlos Macedo, Marina do MST e Martha Rocha",
+   "ementa": "Emendas, em regime de urgência e discussão única, ao projeto do Executivo que, pelo conteúdo das emendas, trata de regime tributário especial (diferimento de ICMS) para distribuidoras de querosene de aviação, com anexo de metas de desempenho. Tratam de redução gradual de 20% ao ano dos benefícios a partir de 2029, do alcance do diferimento a transferências para estabelecimentos em aeroportos, das metas econômicas, sociais e ambientais, de compromisso com a conectividade regional e de metas de empregos e compensação climática.",
+   "situacao": "Emendas republicadas por incorreções; projeto em regime de urgência",
    "temas": [
     "mulheres"
    ],
-   "nota": "A emenda 19 (Marina do MST, Luiz Paulo e Martha Rocha) condiciona o benefício fiscal a crescimento de 5% nos empregos e garante equidade salarial de gênero. A emenda 17 inclui políticas de diversidade e inclusão nas metas sociais.",
+   "nota": "A Emenda Modificativa nº 19 (Marina do MST, Luiz Paulo e Martha Rocha) exige equidade salarial de gênero na meta social de empregos. É uma menção pontual dentro de projeto tributário, marcada na dúvida. Vale acompanhar a votação.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   }
