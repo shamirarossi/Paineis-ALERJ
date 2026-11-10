@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-10T16:39:17+00:00",
+ "atualizado": "2026-11-10T16:42:08+00:00",
  "status": {
-  "ok": true,
-  "ultimaExecucao": "2026-11-10T16:37:16+00:00",
+  "ok": false,
+  "ultimaExecucao": "2026-11-10T16:40:12+00:00",
   "edicaoLida": "2026-11-10",
-  "mensagem": null
+  "mensagem": "A leitura de 10/11/2026 falhou (RuntimeError: a resposta do Claude ficou longa demais e veio cortada). Ela roda de novo no próximo agendamento."
  },
  "edicoes": [
   {
