@@ -197,6 +197,9 @@ ESQUEMA = {
 def classificar(texto: str, dia: dt.date, extra: bool) -> dict:
     import anthropic
 
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        raise RuntimeError("a chave do Claude não foi encontrada; cadastre o segredo ANTHROPIC_API_KEY em "
+                           "Settings → Secrets and variables → Actions")
     cliente = anthropic.Anthropic()
     modelo = os.environ.get("MODELO") or "claude-sonnet-5-5"
     cabecalho = f"Edição de {dia.strftime('%d/%m/%Y')}{' (edição extra)' if extra else ''}."
