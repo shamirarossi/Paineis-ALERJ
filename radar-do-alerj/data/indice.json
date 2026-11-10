@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-10T16:32:16+00:00",
+ "atualizado": "2026-11-10T16:35:47+00:00",
  "status": {
   "ok": false,
-  "ultimaExecucao": "2026-11-10T16:32:08+00:00",
+  "ultimaExecucao": "2026-11-10T16:35:39+00:00",
   "edicaoLida": "2026-11-10",
-  "mensagem": "A leitura de 10/11/2026 falhou (TypeError: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"). Ela roda de novo no próximo agendamento."
+  "mensagem": "A leitura de 10/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'tool_choice: type \"tool\" and \"any\" are not supported for this model.'}, 'request_id': 'req_011CguaAxbo5k1F6pqaB6KWm'}). Ela roda de novo no próximo agendamento."
  },
  "edicoes": [
   {
