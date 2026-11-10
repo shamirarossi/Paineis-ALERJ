@@ -1,19 +1,88 @@
 {
- "atualizado": "2026-11-10T16:42:08+00:00",
+ "atualizado": "2026-11-10T16:45:09+00:00",
  "itens": [
   {
    "grupo": "Reuniões e audiências",
-   "tipo": "Edital de convocação – 1ª Reunião Ordinária",
-   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social",
-   "autor": "Dep. Dani Balbi (presidenta da comissão)",
-   "ementa": "Convoca a reunião remota de 11/11/2026, às 11h30, com pauta em três partes: distribuição de proposições (PLs 5331/2025, 5228/2025, 7082/2026, 3162/2024, 4428/2024 e 5631/2025), votação de pareceres a oito projetos (PLs 2725/2023, 5425/2022, 7010/2026, 4824/2025, 1475/2023, 6026/2025, 5063/2025 e 4550/2024) e deliberação de audiência pública sobre a crise e a reestruturação da ECT.",
-   "situacao": "Reunião em 11/11/2026, 11h30, por meios remotos",
+   "tipo": "Edital de convocação de reunião",
+   "ref": "1ª Reunião Ordinária da Comissão de Trabalho, Legislação Social e Seguridade Social",
+   "autor": "Dep. Dani Balbi (presidenta)",
+   "ementa": "Reunião em 11/11/2026, às 11h30, por meios remotos, com 14 pareceres na pauta, distribuição de proposições e deliberação de audiência pública sobre a crise e a reestruturação da ECT (precarização do trabalho e perda de direitos dos trabalhadores dos Correios). Convoca titulares e suplentes, entre eles Tia Ju, Giselle Monteiro e Renan Jordy.",
+   "situacao": "Convocada em 09/11/2026",
    "temas": [
     "mulheres",
     "ct"
    ],
    "gabinete": true,
-   "nota": "Dani Balbi preside a comissão e consta como relatora na distribuição de proposições; o texto extraído não deixa claro quais projetos ficam com ela, então vale conferir no original. O PL 5631/2025, que altera a Lei estadual 6.165/2012, é de autoria dela. A pauta inclui o PL 1475/2023 (assédio sexual e violências contra mulheres em instituições de ensino superior) e o PL 4428/2024 (espaços públicos de coworking para inovação e startups, marcado em ct na dúvida).",
+   "nota": "Dani preside a reunião e, pela leitura da pauta, relata 11 dos 14 projetos, além de ser autora do PL 5631/2025. O texto do edital saiu com a diagramação embaralhada, então vale conferir as relatorias no original e preparar os pareceres e a condução da pauta.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projeto em pauta de comissão",
+   "ref": "PL 5631/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
+   "ementa": "Altera a Lei estadual 6.165, de 15 de fevereiro de 2012, e dá outras providências.",
+   "situacao": "Parecer em pauta na reunião de 11/11/2026, 11h30",
+   "gabinete": true,
+   "nota": "Projeto de autoria da Dani, com parecer do Dep. Professor Josemar na pauta da comissão que ela preside. Acompanhar a votação e articular o apoio dos membros.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projeto em pauta de comissão",
+   "ref": "PL 1475/2023",
+   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui a política de enfrentamento ao assédio sexual e outras violências praticadas contra mulheres nas instituições de ensino superior do Estado do Rio de Janeiro.",
+   "situacao": "Parecer em pauta na reunião de 11/11/2026, 11h30",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria da Dani de projeto sobre violência contra mulheres no ensino superior. Preparar o parecer para a reunião.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projeto em pauta de comissão",
+   "ref": "PL 5228/2025",
+   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria o selo 'Empresa Amiga da Mãe Atípica'.",
+   "situacao": "Parecer em pauta na reunião de 11/11/2026, 11h30",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Trata de mães atípicas, que contam como tema mulheres, e está sob relatoria da Dani. Preparar o parecer para a reunião.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projeto em pauta de comissão",
+   "ref": "PL 4428/2024",
+   "autor": "Dep. Val Ceasa (relator: Dep. Professor Josemar)",
+   "ementa": "Cria espaços públicos de co-working no Estado do Rio de Janeiro para fomentar inovação, colaboração e empreendedorismo entre pequenos empreendedores, freelancers e startups.",
+   "situacao": "Parecer em pauta na reunião de 11/11/2026, 11h30",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Tema de inovação e startups, com relatoria do Dep. Professor Josemar. Dani apenas preside a reunião; vale acompanhar o parecer.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias da Dani",
+   "ref": "Pauta de 11/11/2026 (Comissão de Trabalho)",
+   "autor": "Dep. Dani Balbi (relatora)",
+   "ementa": "PL 2725/2023 (Renato Miranda): altera a Lei 8.694/2019. PL 5425/2022 (Mônica Francisco e outros): auxílio emergencial para secas e enchentes (AESE). PL 7010/2026 (Renata Souza): política de apoio e fomento ao ofício das pessoas trancistas. PL 4824/2025 (Marina do MST): climatização das cozinhas das escolas estaduais. PL 6026/2025 (Jorge Felippe Neto): área de descanso para técnicos e tecnólogos em radiologia em plantão. PL 5063/2025 (Lilian Behring): política de bem-estar e qualidade de vida no trabalho dos profissionais da saúde. PL 4550/2024 (Professor Josemar): desprecarização dos vínculos de ACS e ACE. PL 5331/2025 (Lilian Behring): equipamentos de proteção individual para profissionais de saúde. PL 7082/2026 (Lilian Behring): diretrizes para enfermeiros e técnicos em home care.",
+   "situacao": "Pareceres em pauta em 11/11/2026, 11h30",
+   "gabinete": true,
+   "nota": "Relatorias atribuídas à Dani pela leitura da pauta, cuja diagramação saiu embaralhada; conferir no original. Há projetos de duas deputadas do PCdoB e do PSOL na lista.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
@@ -22,26 +91,26 @@
    "tipo": "Lei sancionada",
    "ref": "Lei 11.356/2026 (PL 1412/2023)",
    "autor": "Dep. Felipinho Ravis",
-   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no estado do Rio de Janeiro. Sancionada em 29/10/2026.",
-   "situacao": "Sancionada; ofício do governador em exercício despachado para impressão em 09.11.2026",
+   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no Estado do Rio de Janeiro.",
+   "situacao": "Sancionada em 29/10/2026; ofício 304/2026, despacho 'a imprimir' em 09/11/2026",
    "temas": [
     "mulheres"
    ],
-   "nota": "Trata de saúde da mulher. Não há providência a tomar; serve de acompanhamento do tema.",
+   "nota": "Nova lei de saúde da mulher. Sem providência necessária; útil para o acompanhamento da pauta de saúde das mulheres.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
   {
    "grupo": "Projetos de lei",
-   "tipo": "Emendas de plenário em urgência (nºs 14 a 20)",
-   "ref": "PL 8277/2026 (Mensagem nº 19/2026)",
-   "autor": "Poder Executivo; emendas de Vinícius Cozzolino, Franciane Motta, Célia Jordão, Luiz Paulo, Felipinho Ravis, Val Ceasa, Carlos Macedo, Marina do MST e Martha Rocha",
-   "ementa": "Emendas, em regime de urgência e discussão única, ao projeto do Executivo que, pelo conteúdo das emendas, trata de regime tributário especial (diferimento de ICMS) para distribuidoras de querosene de aviação, com anexo de metas de desempenho. Tratam de redução gradual de 20% ao ano dos benefícios a partir de 2029, do alcance do diferimento a transferências para estabelecimentos em aeroportos, das metas econômicas, sociais e ambientais, de compromisso com a conectividade regional e de metas de empregos e compensação climática.",
-   "situacao": "Emendas republicadas por incorreções; projeto em regime de urgência",
+   "tipo": "Emendas de Plenário (urgência)",
+   "ref": "PL 8277/2026 – Emendas 18, 19 e 20",
+   "autor": "Dep. Marina do MST, Luiz Paulo e Martha Rocha",
+   "ementa": "Condicionam o regime tributário especial à conectividade regional e alteram as metas do Anexo Único: emprego formal com crescimento mínimo de 5%, 'equidade salarial de gênero' e prioridade à contratação local. Exigem também créditos de descarbonização e plano de combustível sustentável de aviação (SAF).",
+   "situacao": "Emendas de Plenário em regime de urgência, discussão única; republicadas por incorreções",
    "temas": [
     "mulheres"
    ],
-   "nota": "A Emenda Modificativa nº 19 (Marina do MST, Luiz Paulo e Martha Rocha) exige equidade salarial de gênero na meta social de empregos. É uma menção pontual dentro de projeto tributário, marcada na dúvida. Vale acompanhar a votação.",
+   "nota": "A emenda 19 prevê a equidade salarial de gênero como condição da meta social, marcada por precaução. Acompanhar a votação do PL 8277/2026.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   }

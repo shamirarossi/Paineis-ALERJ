@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-10T16:42:08+00:00",
+ "atualizado": "2026-11-10T16:45:09+00:00",
  "status": {
-  "ok": false,
-  "ultimaExecucao": "2026-11-10T16:40:12+00:00",
+  "ok": true,
+  "ultimaExecucao": "2026-11-10T16:43:12+00:00",
   "edicaoLida": "2026-11-10",
-  "mensagem": "A leitura de 10/11/2026 falhou (RuntimeError: a resposta do Claude ficou longa demais e veio cortada). Ela roda de novo no próximo agendamento."
+  "mensagem": null
  },
  "edicoes": [
   {
@@ -13,11 +13,11 @@
    "edicao": "Ano LII · Nº 206",
    "extra": false,
    "contagem": {
-    "total": 13,
+    "total": 18,
     "lgbt": 0,
-    "mulheres": 3,
-    "ct": 1,
-    "gabinete": 1
+    "mulheres": 5,
+    "ct": 2,
+    "gabinete": 6
    }
   }
  ]
