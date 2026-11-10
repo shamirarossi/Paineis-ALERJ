@@ -2,7 +2,7 @@
 
 Leitura diária da **Parte II (Poder Legislativo)** do Diário Oficial do Estado do Rio de Janeiro para o gabinete da deputada estadual Dani Balbi.
 
-Todo dia útil de manhã, um robô do GitHub faz três coisas:
+Todo dia útil de manhã, um robô do GitHub faz quatro coisas:
 
 1. baixa a edição do dia no site da Imprensa Oficial (IOERJ);
 2. pede ao Claude um resumo do dia e a lista dos atos, marcando os que tratam de **LGBTQIA+**, **Mulheres** e **Ciência e Tecnologia**, além dos que envolvem o **gabinete**;
