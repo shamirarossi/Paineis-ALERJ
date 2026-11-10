@@ -42,6 +42,7 @@ MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
 GRUPOS = ["Leis e vetos", "Projetos de lei", "Pareceres de comissão", "Reuniões e audiências",
           "Indicações e requerimentos", "Atos da Mesa", "Escola do Legislativo", "Outros"]
 TEMAS = ["lgbt", "mulheres", "ct"]
+ACOES = ["nomeacao", "exoneracao", "designacao", "dispensa"]
 UA = {"User-Agent": "Mozilla/5.0 (radar-do; leitura do Diario Oficial RJ Parte II)"}
 
 
@@ -140,8 +141,24 @@ Liste os atos substantivos: leis sancionadas, vetos, mensagens do governador, pr
 editais de reunião ou audiência pública de comissão (com data, hora e pauta), requerimentos,
 indicações (agrupe as do dia num só item com o intervalo de números), atos normativos da Mesa, CPIs e
 editais da Escola do Legislativo. Agrupe itens muito parecidos (ex.: várias leis de datas comemorativas)
-num só item. NÃO liste atos individuais de pessoal (nomeação, exoneração, designação, férias,
-licenças, adicionais): apenas conte-os no campo "pessoal".
+num só item. NÃO coloque atos individuais de pessoal em "itens": eles vão em "atos_pessoal" (abaixo) e
+são contados no campo "pessoal".
+
+Atos de pessoal ("atos_pessoal"): liste CADA nomeação, exoneração, designação e dispensa de função
+gratificada publicada (atos da Mesa Diretora, do Presidente e do Primeiro Secretário). Para cada um:
+- acao: "nomeacao", "exoneracao", "designacao" ou "dispensa";
+- nome: em maiúsculas, como impresso, corrigindo espaços e hifens quebrados pelo PDF ("SAN- TO S" vira
+  "SANTOS", "M AY E R" vira "MAYER");
+- cargo: ex. "Assessor Parlamentar IX", "Assistente VII", "Auxiliar I";
+- simbolo: ex. "CCDAL-9", "CAI-16";
+- lotacao: onde a pessoa passa a trabalhar ou de onde sai, como impresso (ex.: "Gabinete do Deputado Sergio
+  Fernandes", "Assessoria Especial de Plenário", "Comissão de Defesa do Meio Ambiente");
+- deputado: o nome do parlamentar quando a lotação for gabinete, liderança ou comissão ligada a ele(a)
+  (ex.: "Sergio Fernandes", "Jorge Felippe Neto"); omita se não houver;
+- a_pedido: true se o texto disser "a pedido";
+- vaga_de: nome de quem deixou a vaga, se informado;
+- ato: ex. "Ato E/MD 4367/2026", "Ato E/GS 284/2026".
+Férias, licenças, adicionais, redistribuições de função e erratas NÃO entram em "atos_pessoal".
 
 Temas (um ato pode ter mais de um, ou nenhum):
 - "lgbt": população LGBTQIA+, pessoas trans e travestis, nome social, orientação sexual, identidade de
@@ -181,6 +198,25 @@ ESQUEMA = {
         "edicao": {"type": "string", "description": "Ano e número como no cabeçalho, ex.: 'Ano LII · Nº 206'"},
         "resumo": {"type": "string"},
         "pessoal": {"type": "string", "description": "Frase com as contagens de atos de pessoal"},
+        "atos_pessoal": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "acao": {"type": "string", "enum": ACOES},
+                    "nome": {"type": "string"},
+                    "cargo": {"type": "string"},
+                    "simbolo": {"type": "string"},
+                    "lotacao": {"type": "string"},
+                    "deputado": {"type": "string"},
+                    "a_pedido": {"type": "boolean"},
+                    "vaga_de": {"type": "string"},
+                    "ato": {"type": "string"},
+                },
+                "required": ["acao", "nome", "lotacao", "ato"],
+                "additionalProperties": False,
+            },
+        },
         "itens": {
             "type": "array",
             "items": {
@@ -201,7 +237,7 @@ ESQUEMA = {
             },
         },
     },
-    "required": ["edicao", "resumo", "itens"],
+    "required": ["edicao", "resumo", "itens", "atos_pessoal"],
     "additionalProperties": False,
 }
 
@@ -249,6 +285,15 @@ def limpar(leitura: dict) -> dict:
         itens.append(it)
     destaque = lambda it: 0 if (it.get("temas") or it.get("gabinete")) else 1
     leitura["itens"] = sorted(itens, key=destaque)
+    atos = []
+    for a in leitura.get("atos_pessoal", []) or []:
+        a = {k: (" ".join(v.split()) if isinstance(v, str) else v) for k, v in a.items() if v not in (None, "", [])}
+        if a.get("acao") not in ACOES or not a.get("nome"):
+            continue
+        if not a.get("a_pedido"):
+            a.pop("a_pedido", None)
+        atos.append(a)
+    leitura["atos_pessoal"] = atos
     return leitura
 
 
@@ -277,8 +322,9 @@ def gravar_json(p: Path, obj) -> None:
 
 
 def reconstruir_indices(status: dict) -> None:
-    """Refaz indice.json (lista de edições) e destaques.json (todos os atos com tema ou do gabinete)."""
-    eds, destaques = [], []
+    """Refaz indice.json (lista de edições), destaques.json (atos com tema ou do gabinete) e
+    pessoal.json (todas as nomeações, exonerações, designações e dispensas)."""
+    eds, destaques, pessoal = [], [], []
     for f in sorted(EDICOES.glob("*.json"), reverse=True):
         ed = ler_json(f, None)
         if not ed:
@@ -289,9 +335,12 @@ def reconstruir_indices(status: dict) -> None:
         for it in ed.get("itens", []):
             if it.get("temas") or it.get("gabinete"):
                 destaques.append({**it, "edicaoId": eid, "data": ed["data"]})
+        for a in ed.get("atosPessoal", []):
+            pessoal.append({**a, "edicaoId": eid, "data": ed["data"]})
     agora = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     gravar_json(DADOS / "indice.json", {"atualizado": agora, "status": status, "edicoes": eds})
     gravar_json(DADOS / "destaques.json", {"atualizado": agora, "itens": destaques})
+    gravar_json(DADOS / "pessoal.json", {"atualizado": agora, "atos": pessoal})
 
 
 def main() -> int:
@@ -337,6 +386,7 @@ def main() -> int:
                 "resumo": leitura.get("resumo"),
                 "pessoal": leitura.get("pessoal"),
                 "itens": leitura["itens"],
+                "atosPessoal": leitura["atos_pessoal"],
             })
             n = contagem(leitura["itens"])
             print(f"{c['id']}: {n['total']} atos · LGBTQIA+ {n['lgbt']} · Mulheres {n['mulheres']} · "

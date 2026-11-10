@@ -6,7 +6,8 @@ Todo dia útil de manhã, um robô do GitHub faz três coisas:
 
 1. baixa a edição do dia no site da Imprensa Oficial (IOERJ);
 2. pede ao Claude um resumo do dia e a lista dos atos, marcando os que tratam de **LGBTQIA+**, **Mulheres** e **Ciência e Tecnologia**, além dos que envolvem o **gabinete**;
-3. atualiza este painel, que a equipe abre pelo navegador.
+3. registra as nomeações, exonerações, designações e dispensas publicadas, por gabinete;
+4. atualiza este painel, que a equipe abre pelo navegador.
 
 Endereço do painel: `https://shamirarossi.github.io/Paineis-Gabinete-Dani-Balbi/radar-do-alerj/`
 
@@ -37,7 +38,7 @@ Para ler uma data específica ou refazer uma leitura, use **Run workflow**, pree
 - `scripts/ler_do.py` é o robô. Os critérios de cada tema ficam no texto `INSTRUCOES` e podem ser ajustados ali.
 - `index.html` é o painel.
 - `data/edicoes/AAAA-MM-DD.json` guarda uma edição por dia.
-- `data/indice.json` e `data/destaques.json` são a lista de edições e os atos por tema; o robô os refaz a cada leitura.
+- `data/indice.json`, `data/destaques.json` e `data/pessoal.json` são a lista de edições, os atos por tema e os atos de pessoal; o robô os refaz a cada leitura.
 - O agendamento fica em `../.github/workflows/radar-do-alerj.yml`.
 
 Os resumos são gerados automaticamente. Antes de citar, confira sempre o texto original pelo link "Abrir o Diário Oficial".

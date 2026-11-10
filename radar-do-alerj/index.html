@@ -29,19 +29,22 @@
   --band-fg: #f9f6ef;
   --warn-bg: #fff3c9;
   --warn-fg: #5a4300;
+  --ok: #067a0e;
+  --ok-bg: #e3f3e3;
+  --exo-bg: #fbe3f4;
   --font: "Source Sans 3", "Source Sans Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #16091e; --surface: #21122c; --fg: #f9f6ef; --muted: #b8aac2; --line: #3a2847; --soft: #2b1939;
     --accent: #c9a3f0; --mulheres: #f06ccf; --ct: #8fb0ff; --gab-fg: #16091e;
-    --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; color-scheme: dark;
+    --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #16091e; --surface: #21122c; --fg: #f9f6ef; --muted: #b8aac2; --line: #3a2847; --soft: #2b1939;
   --accent: #c9a3f0; --mulheres: #f06ccf; --ct: #8fb0ff; --gab-fg: #16091e;
-  --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; color-scheme: dark;
+  --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 16px; line-height: 1.5; }
@@ -137,6 +140,41 @@ main { padding-block: 10px 56px; }
 .theme-head p { margin: 0; color: var(--muted); flex-basis: 100%; max-width: 70ch; }
 .theme-mark { width: 34px; height: 34px; border-radius: 10px; flex: none; }
 .theme-col { max-width: 860px; }
+
+/* Nomeações e exonerações */
+.periodo { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; }
+.periodo button { font: 600 14px var(--font); color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.periodo button[aria-pressed="true"] { border-color: var(--accent); background: var(--soft); }
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin-bottom: 26px; }
+@media (max-width: 620px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; min-width: 0; }
+.stat .v { font-weight: 900; font-size: 32px; line-height: 1; font-variant-numeric: tabular-nums; }
+.stat .l { font-size: 14px; color: var(--muted); margin-top: 4px; }
+.stat.nom .v { color: var(--ok); } .stat.exo .v { color: var(--mulheres); }
+.tabela-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+table.mov { width: 100%; border-collapse: collapse; font-size: 15px; }
+table.mov th { text-align: left; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding: 10px 12px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+table.mov td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+table.mov tr:last-child td { border-bottom: 0; }
+table.mov td.n, table.mov th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+table.mov tbody tr { cursor: pointer; }
+table.mov tbody tr:hover { background: var(--soft); }
+table.mov tr.sel { background: var(--soft); box-shadow: inset 3px 0 0 var(--accent); }
+table.mov tr.dani td:first-child { font-weight: 700; }
+table.mov tr.dani td:first-child::after { content: " · gabinete"; font-weight: 600; color: var(--accent); font-size: 13px; }
+.bar { display: inline-block; height: 8px; border-radius: 4px; vertical-align: middle; margin-left: 8px; }
+@media (max-width: 620px) { .bar { display: none; } table.mov th, table.mov td { padding: 8px 8px; } }
+.bar.nom { background: var(--ok); } .bar.exo { background: var(--mulheres); }
+.saldo-pos { color: var(--ok); font-weight: 700; } .saldo-neg { color: var(--mulheres); font-weight: 700; }
+.ato { display: grid; grid-template-columns: 7.4em minmax(0, 1fr); gap: 4px 12px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.acao { justify-self: start; font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; border-radius: 6px; padding: 3px 8px; align-self: start; white-space: nowrap; }
+.acao.nomeacao, .acao.designacao { background: var(--ok-bg); color: var(--ok); }
+.acao.exoneracao, .acao.dispensa { background: var(--exo-bg); color: var(--mulheres); }
+.ato-nome { font-weight: 700; overflow-wrap: anywhere; }
+.ato-meta { grid-column: 2; font-size: 14px; color: var(--muted); }
+.lista-head { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; margin: 26px 0 10px; }
+.lista-head h3 { margin: 0; font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.linkbtn { font: 600 14px var(--font); color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
 footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 footer .wrap { padding-block: 18px 28px; }
 @media (prefers-reduced-motion: no-preference) { .item { transition: border-color .15s; } .item:hover { border-color: var(--accent); } }
@@ -193,6 +231,7 @@ footer .wrap { padding-block: 18px 28px; }
     <button class="tab" role="tab" data-view="mulheres" id="tab-mulheres"><span class="dot mulheres"></span>Mulheres <span class="count" data-count="mulheres"></span></button>
     <button class="tab" role="tab" data-view="ct" id="tab-ct"><span class="dot ct"></span>Ciência e Tecnologia <span class="count" data-count="ct"></span></button>
     <button class="tab" role="tab" data-view="gabinete" id="tab-gabinete"><span class="dot gabinete"></span>Do gabinete <span class="count" data-count="gabinete"></span></button>
+    <button class="tab" role="tab" data-view="pessoal" id="tab-pessoal">Nomeações e exonerações</button>
   </div>
 </nav>
 
@@ -230,7 +269,7 @@ footer .wrap { padding-block: 18px 28px; }
   var MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
   var SEMANA = ["domingo","segunda","terça","quarta","quinta","sexta","sábado"];
 
-  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null };
+  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null, pessoal: [], periodo: "30", orgao: null };
   var main = document.getElementById("main");
 
   function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
@@ -393,14 +432,112 @@ footer .wrap { padding-block: 18px 28px; }
     main.appendChild(col);
   }
 
+
+  var ACOES = { nomeacao: "Nomeação", exoneracao: "Exoneração", designacao: "Designação", dispensa: "Dispensa" };
+  function orgaoDe(a) { return a.deputado ? "Dep. " + a.deputado : (a.lotacao || "Não informado"); }
+  function ehDani(nome) { return norm(nome).indexOf("dani balbi") >= 0; }
+  function casaAto(a, q) { if (!q) return true; var hay = norm([a.nome, a.cargo, a.simbolo, a.lotacao, a.deputado, a.vaga_de, a.ato].join(" ")); return q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; }); }
+
+  function renderPessoal() {
+    main.textContent = "";
+    var col = el("section", "theme-col"); col.id = "pessoal"; col.style.maxWidth = "980px";
+    var head = el("div", "theme-head");
+    head.appendChild(el("h2", null, "Nomeações e exonerações"));
+    head.appendChild(el("p", null, "Atos de pessoal da ALERJ publicados na Parte II: cargos em comissão (atos da Mesa Diretora) e funções gratificadas (atos do Primeiro Secretário). Clique num gabinete para ver os atos dele."));
+    col.appendChild(head);
+
+    var todos = state.pessoal;
+    if (!todos.length) {
+      var e0 = el("div", "empty"); e0.appendChild(el("h3", null, "Nenhum ato de pessoal registrado ainda"));
+      e0.appendChild(el("p", null, "As nomeações e exonerações passam a aparecer aqui a partir da próxima leitura do Diário Oficial."));
+      col.appendChild(e0); main.appendChild(col); return;
+    }
+    var ultima = todos.reduce(function (m, a) { return a.data > m ? a.data : m; }, "");
+    var corte = null;
+    if (state.periodo === "ultima") corte = ultima;
+    else if (state.periodo !== "tudo") { var d = parseISO(ultima); d.setDate(d.getDate() - (+state.periodo - 1)); corte = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+    var periodo = todos.filter(function (a) { return !corte || a.data >= corte; });
+
+    var per = el("div", "periodo"); per.setAttribute("role", "group"); per.setAttribute("aria-label", "Período");
+    [["ultima", "Última edição (" + fmtCurto(ultima) + ")"], ["30", "Últimos 30 dias"], ["90", "Últimos 90 dias"], ["tudo", "Tudo"]].forEach(function (o) {
+      var b = el("button", null, o[1]); b.type = "button"; b.id = "periodo-" + o[0]; b.setAttribute("aria-pressed", state.periodo === o[0] ? "true" : "false");
+      b.addEventListener("click", function () { state.periodo = o[0]; state.orgao = null; render(); });
+      per.appendChild(b);
+    });
+    col.appendChild(per);
+
+    var c = { nomeacao: 0, exoneracao: 0, designacao: 0, dispensa: 0 }, pedido = 0;
+    periodo.forEach(function (a) { c[a.acao] = (c[a.acao] || 0) + 1; if (a.acao === "exoneracao" && a.a_pedido) pedido++; });
+    var stats = el("div", "stats"); stats.id = "totais";
+    [["nom", c.nomeacao, "nomeações"], ["exo", c.exoneracao, "exonerações" + (c.exoneracao ? " (" + pedido + " a pedido)" : "")], ["", c.designacao, "designações de função"], ["", c.dispensa, "dispensas de função"]].forEach(function (x) {
+      var st = el("div", "stat " + x[0]); st.appendChild(el("div", "v", String(x[1]))); st.appendChild(el("div", "l", x[2])); stats.appendChild(st);
+    });
+    col.appendChild(stats);
+
+    // por gabinete ou órgão
+    var grupos = {};
+    periodo.forEach(function (a) {
+      var k = orgaoDe(a), g = grupos[k] || (grupos[k] = { nome: k, ent: 0, sai: 0, dani: ehDani(a.deputado || a.lotacao) });
+      if (a.acao === "nomeacao" || a.acao === "designacao") g.ent++; else g.sai++;
+    });
+    var lista = Object.keys(grupos).map(function (k) { return grupos[k]; }).sort(function (a, b) { return (b.dani - a.dani) || ((b.ent + b.sai) - (a.ent + a.sai)) || a.nome.localeCompare(b.nome); });
+    var max = lista.reduce(function (m, g) { return Math.max(m, g.ent, g.sai); }, 1);
+    col.appendChild(el("div", "lista-head")).appendChild(el("h3", null, "Por gabinete ou órgão"));
+    var wrap = el("div", "tabela-wrap"), t = el("table", "mov"); t.id = "por-orgao";
+    var thead = el("thead"), tr0 = el("tr");
+    [["Gabinete ou órgão", ""], ["Entradas", "n"], ["Saídas", "n"], ["Saldo", "n"]].forEach(function (h) { tr0.appendChild(el("th", h[1], h[0])); });
+    thead.appendChild(tr0); t.appendChild(thead);
+    var tb = el("tbody");
+    lista.forEach(function (g) {
+      var tr = el("tr", (g.dani ? "dani " : "") + (state.orgao === g.nome ? "sel" : ""));
+      tr.tabIndex = 0;
+      tr.appendChild(el("td", null, g.nome));
+      var te = el("td", "n", String(g.ent)); var b1 = el("span", "bar nom"); b1.style.width = Math.round(40 * g.ent / max) + "px"; if (g.ent) te.appendChild(b1); tr.appendChild(te);
+      var ts = el("td", "n", String(g.sai)); var b2 = el("span", "bar exo"); b2.style.width = Math.round(40 * g.sai / max) + "px"; if (g.sai) ts.appendChild(b2); tr.appendChild(ts);
+      var sd = g.ent - g.sai; tr.appendChild(el("td", "n " + (sd > 0 ? "saldo-pos" : sd < 0 ? "saldo-neg" : ""), (sd > 0 ? "+" : "") + sd));
+      var pick = function () { state.orgao = state.orgao === g.nome ? null : g.nome; render(); var x = document.getElementById("atos"); if (x && state.orgao) x.scrollIntoView({ block: "start" }); };
+      tr.addEventListener("click", pick);
+      tr.addEventListener("keydown", function (ev) { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } });
+      tb.appendChild(tr);
+    });
+    t.appendChild(tb); wrap.appendChild(t); col.appendChild(wrap);
+    col.appendChild(el("p", "pessoal", "Entradas somam nomeações e designações; saídas somam exonerações e dispensas. Uma troca no mesmo cargo aparece como uma saída e uma entrada."));
+
+    // lista de atos
+    var q = norm(state.q);
+    var atos = periodo.filter(function (a) { return (!state.orgao || orgaoDe(a) === state.orgao) && casaAto(a, q); });
+    var lh = el("div", "lista-head"); lh.id = "atos";
+    lh.appendChild(el("h3", null, (state.orgao ? state.orgao : "Todos os atos") + " · " + atos.length));
+    if (state.orgao) { var lb = el("button", "linkbtn", "Mostrar todos"); lb.type = "button"; lb.addEventListener("click", function () { state.orgao = null; render(); }); lh.appendChild(lb); }
+    col.appendChild(lh);
+    var w = el("div", "items");
+    atos.slice(0, 300).forEach(function (a) {
+      var card = el("div", "ato");
+      card.appendChild(el("span", "acao " + a.acao, ACOES[a.acao] || a.acao));
+      card.appendChild(el("span", "ato-nome", a.nome));
+      var partes = [];
+      if (a.cargo) partes.push(a.cargo + (a.simbolo ? " (" + a.simbolo + ")" : ""));
+      if (a.lotacao) partes.push(a.lotacao);
+      if (a.a_pedido) partes.push("a pedido");
+      if (a.vaga_de) partes.push("na vaga de " + a.vaga_de);
+      partes.push(fmtCurto(a.data) + (a.ato ? " · " + a.ato : ""));
+      card.appendChild(el("span", "ato-meta", partes.join(" · ")));
+      w.appendChild(card);
+    });
+    if (!atos.length) { var e1 = el("div", "empty"); e1.appendChild(el("h3", null, "Nada encontrado")); e1.appendChild(el("p", null, "Nenhum ato corresponde à busca neste período.")); w.appendChild(e1); }
+    if (atos.length > 300) w.appendChild(el("p", "pessoal", "Mostrando os 300 atos mais recentes. Use a busca ou escolha um gabinete para ver os demais."));
+    col.appendChild(w);
+    main.appendChild(col);
+  }
+
   function render() {
     document.querySelectorAll(".tab").forEach(function (b) { b.setAttribute("aria-selected", b.getAttribute("data-view") === state.view ? "true" : "false"); });
     renderStatus(); counts();
     if (!state.indice) return;
-    if (state.view === "edicoes") renderEdicoes(); else renderTema(state.view);
+    if (state.view === "edicoes") renderEdicoes(); else if (state.view === "pessoal") renderPessoal(); else renderTema(state.view);
   }
 
-  function fromHash() { var h = (location.hash || "").replace("#", ""); state.view = (h === "edicoes" || TEMAS[h]) ? h : "edicoes"; }
+  function fromHash() { var h = (location.hash || "").replace("#", ""); state.view = (h === "edicoes" || h === "pessoal" || TEMAS[h]) ? h : "edicoes"; }
   document.querySelectorAll(".tab").forEach(function (b) {
     b.addEventListener("click", function () { var v = b.getAttribute("data-view"); if (location.hash !== "#" + v) location.hash = v; else { state.view = v; render(); } });
   });
@@ -409,8 +546,12 @@ footer .wrap { padding-block: 18px 28px; }
   qi.addEventListener("input", function () { clearTimeout(qt); qt = setTimeout(function () { state.q = qi.value.trim(); render(); }, 150); });
 
   fromHash(); render();
-  Promise.all([getJSON("data/indice.json"), getJSON("data/destaques.json").catch(function () { return { itens: [] }; })])
-    .then(function (r) { state.indice = r[0]; state.indice.edicoes = state.indice.edicoes || []; state.destaques = r[1].itens || []; render(); })
+  Promise.all([getJSON("data/indice.json"), getJSON("data/destaques.json").catch(function () { return { itens: [] }; }), getJSON("data/pessoal.json").catch(function () { return { atos: [] }; })])
+    .then(function (r) {
+      state.indice = r[0]; state.indice.edicoes = state.indice.edicoes || []; state.destaques = r[1].itens || [];
+      state.pessoal = (r[2].atos || []).slice().sort(function (a, b) { return a.data < b.data ? 1 : a.data > b.data ? -1 : 0; });
+      render();
+    })
     .catch(function () { state.erro = "Não foi possível carregar as edições. Recarregue a página em alguns instantes."; render(); });
 })();
 </script>
