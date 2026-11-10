@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-10T16:21:56+00:00",
+ "atualizado": "2026-11-10T16:32:16+00:00",
  "status": {
-  "ok": true,
-  "ultimaExecucao": "2026-11-10T16:20:00+00:00",
+  "ok": false,
+  "ultimaExecucao": "2026-11-10T16:32:08+00:00",
   "edicaoLida": "2026-11-10",
-  "mensagem": null
+  "mensagem": "A leitura de 10/11/2026 falhou (TypeError: \"Could not resolve authentication method. Expected one of api_key, auth_token, or credentials to be set. Or for the `Authorization` header to be explicitly omitted\"). Ela roda de novo no próximo agendamento."
  },
  "edicoes": [
   {
