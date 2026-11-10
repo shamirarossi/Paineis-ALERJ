@@ -1,4 +1,325 @@
 {
- "atualizado": "2026-11-10T17:09:25+00:00",
- "atos": []
+ "atualizado": "2026-11-10T17:12:37+00:00",
+ "atos": [
+  {
+   "acao": "nomeacao",
+   "nome": "GONDWANA DA CUNHA LAZARO DOS SANTOS",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "vaga_de": "Gilbert Jose Marques de Oliveira Junior",
+   "ato": "Ato E/MD 4367/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "AMANDA DA COSTA SOARES",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4368/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MONIQUE SILVA ANDRADE",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "vaga_de": "Amanda da Costa Soares",
+   "ato": "Ato E/MD 4369/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "LUCIANA CALADO PEREIRA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Jorge Felippe Neto",
+   "deputado": "Jorge Felippe Neto",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4370/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "LAIS CRISTINA MANO DOS SANTOS",
+   "cargo": "Assistente VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Comissão de Defesa do Meio Ambiente Deputado Jorge Felippe Neto",
+   "deputado": "Jorge Felippe Neto",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4371/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "TATIANE DA SILVA ALVES",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Comissão de Defesa do Meio Ambiente Deputado Jorge Felippe Neto",
+   "deputado": "Jorge Felippe Neto",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4372/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "BARBARA NOBREGA ROSA BRANDÃO",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4373/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MARCIO LOPES DE CARVALHO PREGAL",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "vaga_de": "Barbara Nobrega Rosa Brandão",
+   "ato": "Ato E/MD 4374/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "LEANDRO WALTER SUCENA MAYER",
+   "cargo": "Assessor Parlamentar VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4375/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "BARBARA NOBREGA ROSA BRANDÃO",
+   "cargo": "Assessor Parlamentar VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "vaga_de": "Leandro Walter Sucena Mayer",
+   "ato": "Ato E/MD 4376/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ROMARIO DA SILVA FREITAS",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Liderança do AGIR - Deputado Júlio Rocha",
+   "deputado": "Júlio Rocha",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4377/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "CARLOS VINICIUS PEREIRA DO COUTO",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete da Deputada Lucinha",
+   "deputado": "Lucinha",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4378/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "GEORJA DANIELA RAMOS",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Sergio Fernandes",
+   "deputado": "Sergio Fernandes",
+   "vaga_de": "Monique da Silva Lima",
+   "ato": "Ato E/MD 4379/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MAICON CAETANO SÓ DA SILVA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Assessoria Especial de Plenário",
+   "vaga_de": "Debora Silva da Conceição (falecimento)",
+   "ato": "Ato E/MD 4380/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "TATIANA DA ROCHA MOTTA",
+   "cargo": "Assistente VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Departamento de Estudos, Pesquisas e Informações Legislativas",
+   "ato": "Ato E/MD 4381/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "CRISTIANE DA CONCEIÇÃO COELHO",
+   "cargo": "Assistente VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Assessoria Especial de Plenário",
+   "ato": "Ato E/MD 4382/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ELIZABETH VIEIRA DE MORAES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral de Comunicação Social",
+   "ato": "Ato E/MD 4383/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JORGE ANTÔNIO DOS SANTOS SOUZA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Estudos, Pesquisas e Informações Legislativas",
+   "ato": "Ato E/MD 4384/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JOSIANE BARBOSA DE MORAES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Material",
+   "ato": "Ato E/MD 4385/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JOSILENE ROBAINA GONÇALVES COSTA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral de Recursos Humanos",
+   "ato": "Ato E/MD 4286/2026 (número como impresso)",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MONIQUE MOREIRA DA SILVA CRUZ SOUZA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral de Administração",
+   "ato": "Ato E/MD 4387/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "RODRIGO BARROS GUEDES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral de Controle Interno",
+   "ato": "Ato E/MD 4388/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ROGÉRIO RODRIGUES ALVES",
+   "cargo": "Assistente VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Subdiretoria-Geral de Segurança",
+   "ato": "Ato E/MD 4389/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "TELMA CRISTINA DE SOUZA LOPES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Expediente e Comunicações",
+   "ato": "Ato E/MD 4390/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JORGE DA CONCEIÇÃO CANECA",
+   "cargo": "Assistente VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Assessoria Especial de Plenário",
+   "ato": "Ato E/MD 4391/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "FLÁVIA MAHLER ROSSI",
+   "cargo": "Assistente V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Coordenadoria de Odontologia",
+   "ato": "Ato E/MD 4392/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "designacao",
+   "nome": "MARCOS PAULO ALVES DE ANDRADE",
+   "cargo": "Auxiliar I",
+   "simbolo": "CAI-16",
+   "lotacao": "Departamento de Patrimônio",
+   "vaga_de": "Willians Pinto Rios",
+   "ato": "Ato E/GS 284/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "designacao",
+   "nome": "LEANDRO DIAS DE OLIVEIRA",
+   "cargo": "Auxiliar I",
+   "simbolo": "CAI-16",
+   "lotacao": "Departamento de Análise e Consultoria Legislativa",
+   "vaga_de": "Luiz Carlos Amorim de Souza",
+   "ato": "Ato E/GS 285/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "acao": "dispensa",
+   "nome": "UMBERTO DE ALMEIDA JÚNIOR",
+   "cargo": "Auxiliar II",
+   "simbolo": "CAI-17",
+   "lotacao": "Presidência",
+   "a_pedido": true,
+   "ato": "Ato E/GS 286/2026",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  }
+ ]
 }

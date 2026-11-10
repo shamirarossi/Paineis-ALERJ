@@ -1,8 +1,8 @@
 {
- "atualizado": "2026-11-10T17:09:25+00:00",
+ "atualizado": "2026-11-10T17:12:37+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-10T16:43:12+00:00",
+  "ultimaExecucao": "2026-11-10T17:09:50+00:00",
   "edicaoLida": "2026-11-10",
   "mensagem": null
  },
@@ -15,9 +15,9 @@
    "contagem": {
     "total": 18,
     "lgbt": 0,
-    "mulheres": 5,
-    "ct": 2,
-    "gabinete": 6
+    "mulheres": 4,
+    "ct": 1,
+    "gabinete": 5
    }
   }
  ]
