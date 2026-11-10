@@ -187,10 +187,12 @@ ESQUEMA = {
                     "nota": {"type": "string"},
                 },
                 "required": ["grupo", "tipo", "ementa"],
+                "additionalProperties": False,
             },
         },
     },
     "required": ["edicao", "resumo", "itens"],
+    "additionalProperties": False,
 }
 
 
@@ -207,15 +209,19 @@ def classificar(texto: str, dia: dt.date, extra: bool) -> dict:
         model=modelo,
         max_tokens=16000,
         system=INSTRUCOES,
-        tools=[{"name": "registrar_edicao", "description": "Registra a leitura da edição no painel.",
-                "input_schema": ESQUEMA}],
-        tool_choice={"type": "tool", "name": "registrar_edicao"},
         messages=[{"role": "user", "content": f"{cabecalho}\n\n<diario_oficial>\n{texto}\n</diario_oficial>"}],
+        # resposta em JSON garantido pelo esquema (structured outputs)
+        extra_body={"output_config": {"format": {"type": "json_schema", "schema": ESQUEMA}}},
     )
-    for bloco in resp.content:
-        if getattr(bloco, "type", "") == "tool_use":
-            return bloco.input
-    raise RuntimeError("a resposta do Claude não trouxe a leitura da edição")
+    if resp.stop_reason == "max_tokens":
+        raise RuntimeError("a resposta do Claude ficou longa demais e veio cortada")
+    if resp.stop_reason == "refusal":
+        raise RuntimeError("o Claude não concluiu a leitura desta edição")
+    texto_resp = next((b.text for b in resp.content if getattr(b, "type", "") == "text"), "")
+    try:
+        return json.loads(texto_resp)
+    except json.JSONDecodeError:
+        raise RuntimeError("a resposta do Claude não veio no formato esperado")
 
 
 def limpar(leitura: dict) -> dict:
