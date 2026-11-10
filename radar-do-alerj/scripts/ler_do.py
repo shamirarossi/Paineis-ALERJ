@@ -158,6 +158,15 @@ explique na nota.
 "gabinete" = true quando Dani Balbi é autora, coautora, relatora, presidenta da comissão que convoca a
 reunião, ou quando o ato a cita diretamente.
 
+Pautas de comissão: nas listas de "Discussão e votação dos pareceres", a linha "Relator(a): Deputado(a) X"
+vale para todos os projetos abaixo dela, até o próximo "Relator(a)". Para cada edital de reunião:
+1) um item da reunião (data, hora, quantos pareceres, quem preside, audiências a deliberar);
+2) um item próprio para CADA projeto da pauta que tenha tema ou envolva o gabinete, com o autor no formato
+   "Dep. Fulana (relatora: Dep. Dani Balbi)" quando for o caso;
+3) se Dani Balbi relatar outros projetos da pauta, um item "Outras relatorias da Dani" listando número,
+   autor e assunto de cada um.
+Mães atípicas, mães de pessoas com deficiência e cuidadoras contam como tema "mulheres".
+
 "nota" (só para itens com tema ou gabinete): 1 ou 2 frases dizendo por que importa para o gabinete
 e o que fazer, se houver algo a fazer.
 
