@@ -172,7 +172,8 @@ e o que fazer, se houver algo a fazer.
 
 O "resumo" é um parágrafo de 3 a 5 frases que começa pelos destaques do gabinete e dos temas; se
 não houver nada nos temas, diga isso. Coloque os itens com tema ou gabinete primeiro na lista.
-Não invente nada: se um dado não aparece no texto, omita o campo."""
+Seja conciso: ementa com no máximo 2 frases curtas, nota com no máximo 2 frases, e no total não mais que
+35 itens (agrupe atos de rotina parecidos). Não invente nada: se um dado não aparece no texto, omita o campo."""
 
 ESQUEMA = {
     "type": "object",
@@ -214,14 +215,15 @@ def classificar(texto: str, dia: dt.date, extra: bool) -> dict:
     cliente = anthropic.Anthropic()
     modelo = os.environ.get("MODELO") or "claude-sonnet-5-5"
     cabecalho = f"Edição de {dia.strftime('%d/%m/%Y')}{' (edição extra)' if extra else ''}."
-    resp = cliente.messages.create(
+    with cliente.messages.stream(
         model=modelo,
-        max_tokens=16000,
+        max_tokens=48000,
         system=INSTRUCOES,
         messages=[{"role": "user", "content": f"{cabecalho}\n\n<diario_oficial>\n{texto}\n</diario_oficial>"}],
         # resposta em JSON garantido pelo esquema (structured outputs)
         extra_body={"output_config": {"format": {"type": "json_schema", "schema": ESQUEMA}}},
-    )
+    ) as fluxo:
+        resp = fluxo.get_final_message()
     if resp.stop_reason == "max_tokens":
         raise RuntimeError("a resposta do Claude ficou longa demais e veio cortada")
     if resp.stop_reason == "refusal":
