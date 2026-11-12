@@ -2,7 +2,7 @@
 
 Leitura diária da **Parte II (Poder Legislativo)** do Diário Oficial do Estado do Rio de Janeiro para o gabinete do deputado estadual Vinicius Cozzolino.
 
-Endereço do painel: `https://shamirarossi.github.io/Paineis-Gabinete-Dani-Balbi/radar-vinicius-cozzolino/`
+Endereço do painel: `https://shamirarossi.github.io/Paineis-ALERJ/radar-vinicius-cozzolino/`
 
 O painel destaca:
 

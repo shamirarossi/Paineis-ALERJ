@@ -9,7 +9,7 @@ Todo dia útil de manhã, um robô do GitHub faz quatro coisas:
 3. registra as nomeações, exonerações, designações e dispensas publicadas, por gabinete;
 4. atualiza este painel, que a equipe abre pelo navegador.
 
-Endereço do painel: `https://shamirarossi.github.io/Paineis-Gabinete-Dani-Balbi/radar-do-alerj/`
+Endereço do painel: `https://shamirarossi.github.io/Paineis-ALERJ/radar-do-alerj/`
 
 ## Configuração (uma vez só)
 
