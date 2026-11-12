@@ -160,8 +160,8 @@ table.mov td.n, table.mov th.n { text-align: right; font-variant-numeric: tabula
 table.mov tbody tr { cursor: pointer; }
 table.mov tbody tr:hover { background: var(--soft); }
 table.mov tr.sel { background: var(--soft); box-shadow: inset 3px 0 0 var(--accent); }
-table.mov tr.dani td:first-child { font-weight: 700; }
-table.mov tr.dani td:first-child::after { content: " · gabinete"; font-weight: 600; color: var(--accent); font-size: 13px; }
+table.mov tr.meu td:first-child { font-weight: 700; }
+table.mov tr.meu td:first-child::after { content: " · gabinete"; font-weight: 600; color: var(--accent); font-size: 13px; }
 .bar { display: inline-block; height: 8px; border-radius: 4px; vertical-align: middle; margin-left: 8px; }
 @media (max-width: 620px) { .bar { display: none; } table.mov th, table.mov td { padding: 8px 8px; } }
 .bar.nom { background: var(--ok); } .bar.exo { background: var(--mulheres); }
@@ -227,10 +227,7 @@ footer .wrap { padding-block: 18px 28px; }
 <nav class="tabs" aria-label="Seções">
   <div class="wrap" role="tablist" id="tablist">
     <button class="tab" role="tab" data-view="edicoes" id="tab-edicoes">Por dia</button>
-    <button class="tab" role="tab" data-view="lgbt" id="tab-lgbt"><span class="dot lgbt"></span>LGBTQIA+ <span class="count" data-count="lgbt"></span></button>
-    <button class="tab" role="tab" data-view="mulheres" id="tab-mulheres"><span class="dot mulheres"></span>Mulheres <span class="count" data-count="mulheres"></span></button>
-    <button class="tab" role="tab" data-view="ct" id="tab-ct"><span class="dot ct"></span>Ciência e Tecnologia <span class="count" data-count="ct"></span></button>
-    <button class="tab" role="tab" data-view="gabinete" id="tab-gabinete"><span class="dot gabinete"></span>Do gabinete <span class="count" data-count="gabinete"></span></button>
+    <span id="tabs-temas" hidden></span>
     <button class="tab" role="tab" data-view="pessoal" id="tab-pessoal">Nomeações e exonerações</button>
   </div>
 </nav>
@@ -258,13 +255,36 @@ footer .wrap { padding-block: 18px 28px; }
 </footer>
 
 <script>
+window.PERFIL = {
+  nome: "Dani Balbi",
+  corGabinete: "var(--amarelo)",
+  descGabinete: "Atos de autoria ou com participação da deputada Dani Balbi, incluindo relatorias e reuniões que ela preside.",
+  temas: [
+    { id: "lgbt", nome: "LGBTQIA+", cor: "conic-gradient(#c00a0a 0 16.6%, #ec6000 0 33.3%, #ffc200 0 50%, #068b0f 0 66.6%, #1648b6 0 83.3%, #590f93 0)", faixa: "linear-gradient(#c00a0a,#ec6000,#ffc200,#068b0f,#1648b6,#590f93)", desc: "Atos que tratam de população LGBTQIA+, pessoas trans, orientação sexual, identidade de gênero e discriminação por esses motivos." },
+    { id: "mulheres", nome: "Mulheres", cor: "var(--mulheres)", desc: "Atos sobre direitos das mulheres, violência de gênero, maternidade, saúde da mulher e igualdade." },
+    { id: "ct", nome: "Ciência e Tecnologia", cor: "var(--ct)", desc: "Atos sobre ciência, pesquisa, universidades, inovação, inclusão digital, dados pessoais e inteligência artificial." }
+  ]
+};
+</script>
+<script>
 (function () {
-  var TEMAS = {
-    lgbt: { nome: "LGBTQIA+", cor: "linear-gradient(#c00a0a,#ec6000,#ffc200,#068b0f,#1648b6,#590f93)", desc: "Atos que tratam de população LGBTQIA+, pessoas trans, orientação sexual, identidade de gênero e discriminação por esses motivos." },
-    mulheres: { nome: "Mulheres", cor: "var(--mulheres)", desc: "Atos sobre direitos das mulheres, violência de gênero, maternidade, saúde da mulher e igualdade." },
-    ct: { nome: "Ciência e Tecnologia", cor: "var(--ct)", desc: "Atos sobre ciência, pesquisa, universidades, inovação, inclusão digital, dados pessoais e inteligência artificial." },
-    gabinete: { nome: "Do gabinete", cor: "var(--amarelo)", desc: "Atos de autoria ou com participação da deputada Dani Balbi, incluindo relatorias e reuniões que ela preside." }
-  };
+  var PERFIL = window.PERFIL;
+  var TEMAS = {};
+  PERFIL.temas.forEach(function (t) { TEMAS[t.id] = t; });
+  TEMAS.gabinete = { id: "gabinete", nome: "Do gabinete", cor: PERFIL.corGabinete, desc: PERFIL.descGabinete };
+  var CHAVES = Object.keys(TEMAS);
+  function zeros() { var o = {}; CHAVES.forEach(function (k) { o[k] = 0; }); return o; }
+  function dotEl(k) { var d = document.createElement("span"); d.className = "dot " + k; d.style.background = TEMAS[k].cor; return d; }
+  (function () {
+    var ancora = document.getElementById("tabs-temas");
+    CHAVES.forEach(function (k) {
+      var b = document.createElement("button"); b.className = "tab"; b.type = "button"; b.setAttribute("role", "tab");
+      b.setAttribute("data-view", k); b.id = "tab-" + k;
+      b.appendChild(dotEl(k)); b.appendChild(document.createTextNode(TEMAS[k].nome + " "));
+      var c = document.createElement("span"); c.className = "count"; c.setAttribute("data-count", k); b.appendChild(c);
+      ancora.parentNode.insertBefore(b, ancora);
+    });
+  })();
   var ORDEM_GRUPOS = ["Leis e vetos", "Projetos de lei", "Pareceres de comissão", "Reuniões e audiências", "Indicações e requerimentos", "Atos da Mesa", "Escola do Legislativo", "Outros"];
   var MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
   var SEMANA = ["domingo","segunda","terça","quarta","quinta","sexta","sábado"];
@@ -280,13 +300,13 @@ footer .wrap { padding-block: 18px 28px; }
   function temas(it) { var t = Array.isArray(it.temas) ? it.temas.slice() : []; if (it.gabinete && t.indexOf("gabinete") < 0) t.push("gabinete"); return t.filter(function (k) { return TEMAS[k]; }); }
   function norm(s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
   function casa(it, q) { if (!q) return true; var hay = norm([it.tipo, it.ref, it.autor, it.ementa, it.situacao, it.nota].join(" ")); return q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; }); }
-  function chip(k) { var c = el("span", "chip"); c.appendChild(el("span", "dot " + k)); c.appendChild(document.createTextNode(TEMAS[k].nome)); return c; }
+  function chip(k) { var c = el("span", "chip"); c.appendChild(dotEl(k)); c.appendChild(document.createTextNode(TEMAS[k].nome)); return c; }
   function getJSON(url) { return fetch(url, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
 
   function itemCard(it, data) {
     var ts = temas(it);
     var card = el("article", "item" + (ts.length ? " hit" : ""));
-    if (ts.length) card.style.setProperty("--stripe", TEMAS[ts[0]].cor);
+    if (ts.length) card.style.setProperty("--stripe", TEMAS[ts[0]].faixa || TEMAS[ts[0]].cor);
     var top = el("div", "item-top");
     top.appendChild(el("span", "tipo", it.tipo || "Ato"));
     if (it.ref) top.appendChild(el("span", "ref", it.ref));
@@ -307,7 +327,7 @@ footer .wrap { padding-block: 18px 28px; }
   }
 
   function counts() {
-    var c = { lgbt: 0, mulheres: 0, ct: 0, gabinete: 0 };
+    var c = zeros();
     state.destaques.forEach(function (it) { temas(it).forEach(function (k) { c[k]++; }); });
     document.querySelectorAll("[data-count]").forEach(function (n) { var v = c[n.getAttribute("data-count")]; n.textContent = v ? String(v) : ""; });
   }
@@ -348,7 +368,7 @@ footer .wrap { padding-block: 18px 28px; }
       if (x.id === meta.id) b.setAttribute("aria-current", "true");
       b.appendChild(el("span", "day-date", fmtCurto(x.data) + (x.extra ? " · extra" : "")));
       var m = el("span", "day-meta"), any = false, c = x.contagem || {};
-      ["lgbt", "mulheres", "ct", "gabinete"].forEach(function (k) { if (c[k]) { any = true; m.appendChild(el("span", "dot " + k)); m.appendChild(document.createTextNode(String(c[k]))); } });
+      CHAVES.forEach(function (k) { if (c[k]) { any = true; m.appendChild(dotEl(k)); m.appendChild(document.createTextNode(String(c[k]))); } });
       if (!any) m.appendChild(document.createTextNode((c.total || 0) + " atos"));
       b.appendChild(m);
       b.addEventListener("click", function () { state.dia = x.id; state.filtro = null; render(); });
@@ -376,7 +396,7 @@ footer .wrap { padding-block: 18px 28px; }
     col.appendChild(sub);
     if (ed.resumo) col.appendChild(el("p", "resumo", ed.resumo));
 
-    var itens = ed.itens || [], hits = { lgbt: 0, mulheres: 0, ct: 0, gabinete: 0 };
+    var itens = ed.itens || [], hits = zeros();
     itens.forEach(function (it) { temas(it).forEach(function (k) { hits[k]++; }); });
     var tally = el("div", "tally");
     var todos = el("button", null); todos.type = "button"; todos.setAttribute("aria-pressed", state.filtro ? "false" : "true");
@@ -386,7 +406,7 @@ footer .wrap { padding-block: 18px 28px; }
     Object.keys(TEMAS).forEach(function (k) {
       var b = el("button", null); b.type = "button"; b.id = "filtro-" + k;
       b.setAttribute("aria-pressed", state.filtro === k ? "true" : "false");
-      b.appendChild(el("span", "dot " + k)); b.appendChild(document.createTextNode(TEMAS[k].nome + " ")); b.appendChild(el("span", "n", String(hits[k])));
+      b.appendChild(dotEl(k)); b.appendChild(document.createTextNode(TEMAS[k].nome + " ")); b.appendChild(el("span", "n", String(hits[k])));
       if (!hits[k]) b.disabled = true;
       b.addEventListener("click", function () { state.filtro = state.filtro === k ? null : k; render(); });
       tally.appendChild(b);
@@ -416,7 +436,7 @@ footer .wrap { padding-block: 18px 28px; }
     main.textContent = "";
     var t = TEMAS[k], col = el("section", "theme-col"); col.id = "tema-" + k;
     var head = el("div", "theme-head");
-    var mark = el("span", "theme-mark"); mark.style.background = t.cor; head.appendChild(mark);
+    var mark = el("span", "theme-mark"); mark.style.background = t.faixa || t.cor; head.appendChild(mark);
     head.appendChild(el("h2", null, t.nome)); head.appendChild(el("p", null, t.desc));
     col.appendChild(head);
     var q = norm(state.q);
@@ -435,7 +455,7 @@ footer .wrap { padding-block: 18px 28px; }
 
   var ACOES = { nomeacao: "Nomeação", exoneracao: "Exoneração", designacao: "Designação", dispensa: "Dispensa" };
   function orgaoDe(a) { return a.deputado ? "Dep. " + a.deputado : (a.lotacao || "Não informado"); }
-  function ehDani(nome) { return norm(nome).indexOf("dani balbi") >= 0; }
+  function ehGab(nome) { return norm(nome).indexOf(norm(PERFIL.nome)) >= 0; }
   function casaAto(a, q) { if (!q) return true; var hay = norm([a.nome, a.cargo, a.simbolo, a.lotacao, a.deputado, a.vaga_de, a.ato].join(" ")); return q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; }); }
 
   function renderPessoal() {
@@ -477,10 +497,10 @@ footer .wrap { padding-block: 18px 28px; }
     // por gabinete ou órgão
     var grupos = {};
     periodo.forEach(function (a) {
-      var k = orgaoDe(a), g = grupos[k] || (grupos[k] = { nome: k, ent: 0, sai: 0, dani: ehDani(a.deputado || a.lotacao) });
+      var k = orgaoDe(a), g = grupos[k] || (grupos[k] = { nome: k, ent: 0, sai: 0, meu: ehGab(a.deputado || a.lotacao) });
       if (a.acao === "nomeacao" || a.acao === "designacao") g.ent++; else g.sai++;
     });
-    var lista = Object.keys(grupos).map(function (k) { return grupos[k]; }).sort(function (a, b) { return (b.dani - a.dani) || ((b.ent + b.sai) - (a.ent + a.sai)) || a.nome.localeCompare(b.nome); });
+    var lista = Object.keys(grupos).map(function (k) { return grupos[k]; }).sort(function (a, b) { return (b.meu - a.meu) || ((b.ent + b.sai) - (a.ent + a.sai)) || a.nome.localeCompare(b.nome); });
     var max = lista.reduce(function (m, g) { return Math.max(m, g.ent, g.sai); }, 1);
     col.appendChild(el("div", "lista-head")).appendChild(el("h3", null, "Por gabinete ou órgão"));
     var wrap = el("div", "tabela-wrap"), t = el("table", "mov"); t.id = "por-orgao";
@@ -489,7 +509,7 @@ footer .wrap { padding-block: 18px 28px; }
     thead.appendChild(tr0); t.appendChild(thead);
     var tb = el("tbody");
     lista.forEach(function (g) {
-      var tr = el("tr", (g.dani ? "dani " : "") + (state.orgao === g.nome ? "sel" : ""));
+      var tr = el("tr", (g.meu ? "meu " : "") + (state.orgao === g.nome ? "sel" : ""));
       tr.tabIndex = 0;
       tr.appendChild(el("td", null, g.nome));
       var te = el("td", "n", String(g.ent)); var b1 = el("span", "bar nom"); b1.style.width = Math.round(40 * g.ent / max) + "px"; if (g.ent) te.appendChild(b1); tr.appendChild(te);

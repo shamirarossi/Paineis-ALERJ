@@ -35,7 +35,8 @@ Para ler uma data específica ou refazer uma leitura, use **Run workflow**, pree
 
 ## Arquivos
 
-- `scripts/ler_do.py` é o robô. Os critérios de cada tema ficam no texto `INSTRUCOES` e podem ser ajustados ali.
+- `scripts/ler_do.py` é o robô. Ele faz uma leitura só para todos os gabinetes cadastrados em `PERFIS` (hoje, Dani Balbi e [Vinicius Cozzolino](../radar-vinicius-cozzolino/)). Os critérios de cada tema também ficam ali.
+- `../leituras/AAAA-MM-DD.json` guarda a leitura completa de cada dia; cada painel recebe só a sua parte.
 - `index.html` é o painel.
 - `data/edicoes/AAAA-MM-DD.json` guarda uma edição por dia.
 - `data/indice.json`, `data/destaques.json` e `data/pessoal.json` são a lista de edições, os atos por tema e os atos de pessoal; o robô os refaz a cada leitura.
