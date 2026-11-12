@@ -1,6 +1,153 @@
 {
- "atualizado": "2026-11-12T14:11:31+00:00",
+ "atualizado": "2026-11-12T14:15:14+00:00",
  "itens": [
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Veto parcial",
+   "ref": "Lei 11.358/2026 (PL 1764-A/2023)",
+   "autor": "Dep. Munir Neto, Tia Ju, Lucinha, Carlos Macedo, Guilherme Delaroli, Dionísio Lins, Chico Machado, Val Ceasa, Felipinho Ravis, Carlos Minc e Giovani Ratinho",
+   "ementa": "O Governador em exercício sancionou com veto parcial o programa 'Patrulha da Pessoa Idosa'. Foram vetados os §§1º a 4º do art. 1º e o art. 4º, por invadirem a reserva de administração e por tratarem de rondas e visitas policiais requisitadas por MP e Defensoria.",
+   "situacao": "Republicado; despachado à Comissão de Emendas Constitucionais e Vetos em 09.11.2026.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "O programa prevê rondas e visitas policiais de proteção a idosos, assunto de segurança pública. Vale acompanhar a análise do veto na comissão.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2539/2026 (PR 2686/2026)",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja de Nova Vida, em Guapimirim.",
+   "situacao": "Promulgada em 10.11.2026.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagem a entidade de Guapimirim, município da Baixada Fluminense.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação final",
+   "ref": "PL 3800/2021",
+   "autor": "Dep. Carlos Macedo",
+   "ementa": "Altera a Lei 5.883/2011, que institui o Programa Condomínio Seguro no estado.",
+   "situacao": "Redação final aprovada em Plenário; vai a autógrafo.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "O nome do programa sugere tema de segurança. O texto não foi publicado, então vale conferir o conteúdo.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado com substitutivo",
+   "ref": "PL 8223/2026 (Mensagem 16/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Ratifica o Convênio ICMS 04/2026, com isenção e suspensão do ICMS para a Copa do Mundo Feminina da FIFA 2027, e fixa metas de desempenho. O substitutivo da CCJ aglutinou as emendas 1 e 7 e acolheu a 2; as demais foram rejeitadas.",
+   "situacao": "Aprovado em Plenário; vai a autógrafo.",
+   "gabinete": true,
+   "nota": "O deputado Vinicius Cozzolino é autor das emendas 3 a 7. A emenda 7 foi aglutinada à subemenda aprovada e as demais foram rejeitadas.​​​​​​​​​​​​​​​​",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado",
+   "ref": "PL 8277/2026 (Mensagem 19/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Institui regime tributário especial de ICMS para querosene de aviação (QAV), por adesão ao tratamento de Minas Gerais. A CCJ foi contrária às 19 emendas de Plenário, que ficaram prejudicadas.",
+   "situacao": "Projeto original aprovado; vai a autógrafo.",
+   "gabinete": true,
+   "nota": "O deputado Vinicius Cozzolino é autor das emendas 3 a 15, todas com parecer contrário e prejudicadas.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto apresentado",
+   "ref": "PL 8480/2026",
+   "autor": "Dep. Giselle Monteiro",
+   "ementa": "Estabelece diretrizes de educação financeira e consumo consciente para pessoas com TEA, com comunicação acessível e prevenção de golpes.",
+   "situacao": "Vai às comissões de CCJ, Pessoa com Deficiência, Defesa do Consumidor e Orçamento.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Projeto sobre inclusão e autonomia de pessoas com TEA. Vale acompanhar na Comissão da Pessoa com Deficiência e avaliar apoio ou coautoria.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projetos de resolução (Medalha Tiradentes)",
+   "ref": "PR 2844 e 2847/2026",
+   "autor": "Dep. Carla Machado; Dep. Renata Souza",
+   "ementa": "Medalha Tiradentes ao Padre Gilson da Silva Motta (2844) e à cantora Eliana Pittman (2847).",
+   "situacao": "Despachados à Comissão de Normas Internas.",
+   "gabinete": true,
+   "nota": "O deputado Vinicius Cozzolino consta entre os signatários das duas proposições.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2845/2026",
+   "autor": "Dep. Carla Machado",
+   "ementa": "Medalha Tiradentes ao Subtenente da PMERJ Anderson da Silva Campinho, com 24 anos de serviço e ex-secretário de Segurança de São João da Barra.",
+   "situacao": "Despachado à Comissão de Normas Internas.",
+   "temas": [
+    "seguranca"
+   ],
+   "gabinete": true,
+   "nota": "Homenagem a policial militar. O deputado Vinicius Cozzolino consta entre os signatários.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7245",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Solicita casa de bombas definitiva no bairro Pilar, em Duque de Caxias, contra alagamentos e enchentes.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Demanda de drenagem em Duque de Caxias, na Baixada Fluminense.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7247",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Pede alterar a Resolução SEPM 2.158/2022 para adequar a escala de serviço de policiais militares responsáveis por pessoas com deficiência que exigem atenção permanente.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Trata da escala de trabalho de policiais militares.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Sessão plenária (ata)",
+   "ref": "98ª Sessão Ordinária, 10/11/2026",
+   "ementa": "Parlamentares criticaram Enel e Light pelos apagões após as chuvas. O Presidente Douglas Ruas e o Dep. Anderson Moraes anunciaram audiência pública com concessionárias e agências reguladoras, com a Comissão de Defesa do Consumidor. Houve minuto de silêncio pelas dez vítimas do acidente em Barra Mansa.",
+   "situacao": "Ata publicada.",
+   "temas": [
+    "mage"
+   ],
+   "gabinete": true,
+   "nota": "O deputado Vinicius Cozzolino relatou diversos bairros de Magé sem água, apesar de reservatórios cheios, e cobrou a Agenersa. Vale encaminhar as demandas do município à audiência.",
+   "edicaoId": "2026-11-11",
+   "data": "2026-11-11"
+  },
   {
    "grupo": "Leis e vetos",
    "tipo": "Leis sancionadas (datas comemorativas)",

@@ -1,0 +1,547 @@
+{
+ "data": "2026-11-11",
+ "extra": false,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTE%3D",
+ "lidoEm": "2026-11-12T14:12:17+00:00",
+ "edicao": "Ano LII · Nº 206",
+ "resumos": {
+  "dani": "O principal para este gabinete é o PL 3560/2024, de Dani Balbi, sobre o nome social nas comunicações das concessionárias de água, luz e gás. Ele está na pauta da Comissão de Defesa do Consumidor desta quarta (11/11), às 14h30. Há também o PL 8481/2026, de Giselle Monteiro, que prioriza mulheres vulneráveis no empreendedorismo feminino e prevê proteção de dados (LGPD). A CCJ aprovou os pareceres do PL 3140/2024 (Dia de Combate à Violência Cibernética contra a Mulher) e do PL 8231/2026 (PcD com acompanhante em vagões exclusivos para mulheres). A Comissão de Defesa dos Direitos da Mulher aprovou o Edital Prêmio Leolinda 2027. A Comissão de Saúde pautou para quinta (12/11) o PL 4993/2025, sobre pré-eclâmpsia. O resto do dia foi dominado por apagões de energia e falta de água, pelas votações dos PLs do ICMS (Copa Feminina e QAV) e pelo prazo de emendas ao PPA e à LOA 2027 (13/11, 15h).",
+  "vc": "Houve forte atuação do deputado Vinicius Cozzolino. Ele apresentou emendas ao PL 8223/2026 (ICMS da Copa do Mundo Feminina 2027), em parte incorporadas ao substitutivo da CCJ aprovado, e 13 emendas ao PL 8277/2026 (ICMS do QAV), todas rejeitadas, com aprovação do texto original. No Plenário, ele denunciou a falta de água em vários bairros de Magé e a demora da concessionária de energia, o que levou à audiência pública conjunta sobre Enel e Light, marcada para o dia 16. Também constam o PL 8480/2026 (educação financeira para pessoas com TEA), a indicação 7245 (casa de bombas em Duque de Caxias), o Diploma Russell Philip Shedd à Igreja de Nova Vida, em Guapimirim, e a Medalha Tiradentes a um subtenente da PM, com o deputado entre os signatários. Há ainda o veto parcial à Lei 11.358/2026 (Patrulha da Pessoa Idosa), com rondas policiais."
+ },
+ "pessoal": "12 atos de pessoal: 8 nomeações, 4 exonerações, nenhuma designação ou dispensa de função gratificada.",
+ "itens": [
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Veto parcial",
+   "ref": "Lei 11.358/2026 (PL 1764-A/2023)",
+   "autor": "Dep. Munir Neto, Tia Ju, Lucinha, Carlos Macedo, Guilherme Delaroli, Dionísio Lins, Chico Machado, Val Ceasa, Felipinho Ravis, Carlos Minc e Giovani Ratinho",
+   "ementa": "O Governador em exercício sancionou com veto parcial o programa 'Patrulha da Pessoa Idosa'. Foram vetados os §§1º a 4º do art. 1º e o art. 4º, por invadirem a reserva de administração e por tratarem de rondas e visitas policiais requisitadas por MP e Defensoria.",
+   "situacao": "Republicado; despachado à Comissão de Emendas Constitucionais e Vetos em 09.11.2026.",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "O programa prevê rondas e visitas policiais de proteção a idosos, assunto de segurança pública. Vale acompanhar a análise do veto na comissão."
+   }
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resoluções promulgadas",
+   "ref": "Resoluções 2540, 2541 e 2542/2026",
+   "autor": "Dep. Val Ceasa, Alan Lopes e Rodrigo Amorim",
+   "ementa": "Concedem o Prêmio Anna Nery ao Dr. Pablo de Mello Rodrigues Guedes, o Diploma Russell Philip Shedd ao Pastor José Rodrigues da Silva e a Medalha Tiradentes ao Dr. William Akerman Gomes.",
+   "situacao": "Promulgadas em 10.11.2026."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2539/2026 (PR 2686/2026)",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja de Nova Vida, em Guapimirim.",
+   "situacao": "Promulgada em 10.11.2026.",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Homenagem a entidade de Guapimirim, município da Baixada Fluminense."
+   }
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Redação final",
+   "ref": "PR 2649/2026",
+   "autor": "Dep. Márcio Gualberto",
+   "ementa": "Concede o Prêmio Construtor da Paz ao Pastor Paulo Pereira da Silva Júnior, Presidente da Catedral das Assembleias de Deus em Areia Branca (CADAB). Foram aprovadas as emendas da Comissão de Normas Internas.",
+   "situacao": "Redação final assinada pela Comissão de Redação em 10.11.2026."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação final",
+   "ref": "PL 3800/2021",
+   "autor": "Dep. Carlos Macedo",
+   "ementa": "Altera a Lei 5.883/2011, que institui o Programa Condomínio Seguro no estado.",
+   "situacao": "Redação final aprovada em Plenário; vai a autógrafo.",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "O nome do programa sugere tema de segurança. O texto não foi publicado, então vale conferir o conteúdo."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação do vencido / parecer CCJ",
+   "ref": "PL 6555-A/2025",
+   "autor": "Dep. Tia Ju",
+   "ementa": "Inclui o Dia Estadual do Mega Dance no calendário oficial, no terceiro sábado de maio. A CCJ trocou 'Semana' por 'Dia', conforme a Súmula 15, e as emendas foram aprovadas.",
+   "situacao": "Redação do vencido para 2ª discussão."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado com substitutivo",
+   "ref": "PL 8223/2026 (Mensagem 16/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Ratifica o Convênio ICMS 04/2026, com isenção e suspensão do ICMS para a Copa do Mundo Feminina da FIFA 2027, e fixa metas de desempenho. O substitutivo da CCJ aglutinou as emendas 1 e 7 e acolheu a 2; as demais foram rejeitadas.",
+   "situacao": "Aprovado em Plenário; vai a autógrafo.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "O deputado Vinicius Cozzolino é autor das emendas 3 a 7. A emenda 7 foi aglutinada à subemenda aprovada e as demais foram rejeitadas.​​​​​​​​​​​​​​​​"
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado",
+   "ref": "PL 8277/2026 (Mensagem 19/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Institui regime tributário especial de ICMS para querosene de aviação (QAV), por adesão ao tratamento de Minas Gerais. A CCJ foi contrária às 19 emendas de Plenário, que ficaram prejudicadas.",
+   "situacao": "Projeto original aprovado; vai a autógrafo.",
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "O deputado Vinicius Cozzolino é autor das emendas 3 a 15, todas com parecer contrário e prejudicadas."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "1ª discussão",
+   "ref": "PL 4184/2024 e PL 4919/2025",
+   "autor": "Dep. Thiago Gagliasso; Dep. Renan Jordy",
+   "ementa": "PL 4184/2024 altera a Lei 3.613/2001 sobre direitos dos usuários da saúde; recebeu duas emendas (acompanhantes) e volta às comissões. PL 4919/2025 declara Itaperuna a Capital do Charque.",
+   "situacao": "PL 4184 retorna às comissões; PL 4919 aprovado em 1ª discussão."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos apresentados",
+   "ref": "PL 8478, 8485, 8486 e 8487/2026",
+   "autor": "Dep. Rodrigo Amorim; Felipinho Ravis; Chico Machado; Jair Bittencourt",
+   "ementa": "8478: Dia Estadual do Vinho (1º de junho). 8485: diretrizes 'Subsolo Seguro RJ' contra danos à infraestrutura subterrânea. 8486: nova prorrogação da carência dos financiamentos do FREMF (Petrópolis). 8487: dá o nome 'Instituto do Café Geraldo Vargas' ao instituto de Varre-Sai.",
+   "situacao": "Despachados às comissões em 10.11.2026."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos apresentados",
+   "ref": "PL 8479, 8482, 8483 e 8484/2026",
+   "autor": "Dep. Giselle Monteiro",
+   "ementa": "8479: diretrizes de saúde para calor extremo e El Niño. 8482 e 8483: campanhas e listas de kits domésticos de emergência. 8484: transparência nos gastos estaduais com pesquisas de opinião.",
+   "situacao": "Despachados às comissões em 10.11.2026."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto apresentado",
+   "ref": "PL 8480/2026",
+   "autor": "Dep. Giselle Monteiro",
+   "ementa": "Estabelece diretrizes de educação financeira e consumo consciente para pessoas com TEA, com comunicação acessível e prevenção de golpes.",
+   "situacao": "Vai às comissões de CCJ, Pessoa com Deficiência, Defesa do Consumidor e Orçamento.",
+   "temas": [
+    "tea"
+   ],
+   "notas": {
+    "vc": "Projeto sobre inclusão e autonomia de pessoas com TEA. Vale acompanhar na Comissão da Pessoa com Deficiência e avaliar apoio ou coautoria."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto apresentado",
+   "ref": "PL 8481/2026",
+   "autor": "Dep. Giselle Monteiro",
+   "ementa": "Altera a Lei 9.303/2021 para criar a 'Sala da Mulher Empreendedora'. Prioriza o atendimento de mulheres vulneráveis, inclusive vítimas de violência doméstica, e reforça a proteção de dados pela LGPD.",
+   "situacao": "Vai a CCJ, Direitos da Mulher, Educação, Ciência e Tecnologia, Economia e Orçamento.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "notas": {
+    "dani": "Trata de empreendedorismo feminino e do sigilo de dados de vítimas de violência. Passa pela Comissão de Ciência e Tecnologia. Cabe acompanhar a tramitação e avaliar apoio."
+   }
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projetos de resolução (honrarias)",
+   "ref": "PR 2842, 2843, 2846 e 2848/2026",
+   "autor": "Dep. Alan Lopes; Anderson Moraes; Rodrigo Amorim",
+   "ementa": "Prêmio Construtor da Paz a Alexandre Knoploch dos Santos. Medalha Tiradentes à advogada Viviane de Farias Machado e Silva e aos deputados Filipe Soares e Alexandre Knoploch.",
+   "situacao": "Despachados à Comissão de Normas Internas e Proposições Externas."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projetos de resolução (Medalha Tiradentes)",
+   "ref": "PR 2844 e 2847/2026",
+   "autor": "Dep. Carla Machado; Dep. Renata Souza",
+   "ementa": "Medalha Tiradentes ao Padre Gilson da Silva Motta (2844) e à cantora Eliana Pittman (2847).",
+   "situacao": "Despachados à Comissão de Normas Internas.",
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "O deputado Vinicius Cozzolino consta entre os signatários das duas proposições."
+   }
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2845/2026",
+   "autor": "Dep. Carla Machado",
+   "ementa": "Medalha Tiradentes ao Subtenente da PMERJ Anderson da Silva Campinho, com 24 anos de serviço e ex-secretário de Segurança de São João da Barra.",
+   "situacao": "Despachado à Comissão de Normas Internas.",
+   "temas": [
+    "seguranca"
+   ],
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "Homenagem a policial militar. O deputado Vinicius Cozzolino consta entre os signatários."
+   }
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7244",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Pede ao Governador alterar o Decreto 47.677/2021 para ressalvar pensionistas militares da vedação à emissão do DAP."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7245",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Solicita casa de bombas definitiva no bairro Pilar, em Duque de Caxias, contra alagamentos e enchentes.",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Demanda de drenagem em Duque de Caxias, na Baixada Fluminense."
+   }
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7246",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Solicita a criação de uma Delegacia de Atendimento à Mulher (DEAM) em Mangaratiba.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Pedido de DEAM, tema de enfrentamento à violência contra a mulher."
+   }
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7247",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Pede alterar a Resolução SEPM 2.158/2022 para adequar a escala de serviço de policiais militares responsáveis por pessoas com deficiência que exigem atenção permanente.",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "Trata da escala de trabalho de policiais militares."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer CCJ: juridicidade com emendas",
+   "ref": "PL 3140/2024",
+   "autor": "CPI (Resolução 31/2023); relator Dep. Rodrigo Amorim",
+   "ementa": "Institui o Dia Estadual de Combate à Violência Cibernética contra a Mulher, em 10 de dezembro. As emendas 1 e 2 ajustam o artigo da data e o anexo do calendário.",
+   "situacao": "Aprovado na CCJ em 10.11.2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Data sobre violência cibernética de gênero, tema que cruza mulheres e internet. Acompanhar a ida ao Plenário."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer CCJ: legalidade",
+   "ref": "PL 8231/2026",
+   "autor": "Dep. Fred Pacheco; relator Dep. Rodrigo Amorim",
+   "ementa": "Altera a Lei 4.733/2006 para assegurar à pessoa com deficiência a permanência com acompanhante ou atendente pessoal nos vagões exclusivos para mulheres.",
+   "situacao": "Aprovado na CCJ em 10.11.2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Mexe nas regras dos vagões exclusivos para mulheres. Vale avaliar o impacto na política de proteção."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer CCJ: juridicidade",
+   "ref": "PL 7960/2026",
+   "autor": "Dep. Chico Machado; relator Dep. Rodrigo Amorim",
+   "ementa": "Declara de utilidade pública a ILPI Toca de Assis Irmãs (Macaé), que acolhe mulheres em situação de rua e vulnerabilidade.",
+   "situacao": "Aprovado na CCJ em 10.11.2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "A entidade acolhe mulheres em situação de rua e abandono."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres CCJ",
+   "ref": "PL 5986/2022, 7122/2026, 7927/2026, 7904/2026 e 4142/2024",
+   "autor": "Dep. Val Ceasa; Carla Machado; Elika Takimoto; India Armelau; Jari Oliveira",
+   "ementa": "Utilidade pública da ABAS (juridicidade, com emenda); gratuidade provisória no transporte intermunicipal para PcD (juridicidade); Dia da Avaliação de Políticas Públicas e Dia do Adestrador de Animais (legalidade); PL 4142/2024 (merenda para professores) anexado ao PL 4133/2024, da Dep. Martha Rocha.",
+   "situacao": "Todos aprovados na CCJ em 10.11.2026."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião",
+   "ref": "Comissão de Defesa dos Direitos da Mulher, 4ª Reunião Ordinária",
+   "autor": "Dep. Renata Souza (presidenta)",
+   "ementa": "Em 10.11 a comissão aprovou, por unanimidade, o Edital Prêmio Leolinda 2027 e o evento de apresentação do Relatório de Atividades 2023/2026. Datas e locais serão definidos depois.",
+   "situacao": "Ata publicada.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "A comissão definiu o Prêmio Leolinda 2027 e o relatório 2023/2026. Vale acompanhar as datas."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de audiência pública",
+   "ref": "Comissão de Defesa dos Direitos da Mulher, 2ª Audiência Pública (19/05/2026)",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Debateu a saúde das mulheres negras. Os encaminhamentos incluem a Política Nacional de Saúde Integral da População Negra, o PL 7467/2026 (reparação racial), pobreza menstrual e uma casa de acolhimento para idosos LGBTQIAPN+.",
+   "situacao": "Ata publicada em 11.11.2026.",
+   "temas": [
+    "mulheres",
+    "lgbt"
+   ],
+   "notas": {
+    "dani": "Os encaminhamentos incluem pobreza menstrual, saúde da mulher negra e acolhimento de idosos LGBTQIAPN+."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "Comissão de Defesa do Consumidor, 1ª Reunião Extraordinária",
+   "autor": "Dep. Fábio Silva (presidente)",
+   "ementa": "Reunião em 11/11/2026, às 14h30, por meios digitais, com 20 pareceres em pauta. Também será deliberada a audiência pública conjunta com a Comissão de Minas e Energia, no dia 16, para cobrar Enel e Light sobre apagões e reposição de energia.",
+   "situacao": "Convocada.",
+   "temas": [
+    "lgbt"
+   ],
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Na pauta consta o PL 3560/2024, de Dani Balbi, sobre nome social nas comunicações das concessionárias."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3560/2024",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Inclui o nome social dos consumidores nas comunicações das concessionárias estaduais de água, luz e gás encanado.",
+   "situacao": "Item 04 da pauta da Defesa do Consumidor de 11/11, 14h30.",
+   "temas": [
+    "lgbt"
+   ],
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Projeto da deputada em pauta nesta quarta. Convém acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "Comissão de Saúde, 8ª Reunião Extraordinária",
+   "autor": "Dep. Dr. Pedro Ricardo (presidente)",
+   "ementa": "Reunião em 12/11/2026, às 13h, por meios digitais, com 11 pareceres. Os relatores são Vitor Júnior (itens 1 a 4), Marcelo Dino (5 a 9) e Poubel (10 e 11).",
+   "situacao": "Convocada."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 4993/2025",
+   "autor": "Dep. Renato Miranda (relator: Dep. Poubel)",
+   "ementa": "Institui a Campanha Permanente de Orientação, Predição e Prevenção à Pré-eclâmpsia.",
+   "situacao": "Item 11 da pauta da Comissão de Saúde de 12/11, às 13h.",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Tema de saúde materna, ligado à saúde da mulher."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "Comissão de Defesa do Meio Ambiente, 2ª Reunião Ordinária",
+   "autor": "Dep. Jorge Felippe Neto (presidente)",
+   "ementa": "Reunião em 11/11/2026, às 12h, remota, para deliberar sobre audiência pública acerca de alterações nas resoluções CONEMA 92/2021 e 95/2022.",
+   "situacao": "Convocada."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Sessão plenária (ata)",
+   "ref": "98ª Sessão Ordinária, 10/11/2026",
+   "ementa": "Parlamentares criticaram Enel e Light pelos apagões após as chuvas. O Presidente Douglas Ruas e o Dep. Anderson Moraes anunciaram audiência pública com concessionárias e agências reguladoras, com a Comissão de Defesa do Consumidor. Houve minuto de silêncio pelas dez vítimas do acidente em Barra Mansa.",
+   "situacao": "Ata publicada.",
+   "temas": [
+    "mage"
+   ],
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "O deputado Vinicius Cozzolino relatou diversos bairros de Magé sem água, apesar de reservatórios cheios, e cobrou a Agenersa. Vale encaminhar as demandas do município à audiência."
+   }
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Comunicado",
+   "ref": "PL 8377/2026 (PPA) e PL 8378/2026 (LOA 2027)",
+   "autor": "Dep. Gustavo Tutuca (Comissão de Orçamento)",
+   "ementa": "O prazo de emendas à revisão do PPA 2024-2027 e à LOA 2027 foi prorrogado até 13/11/2026, às 15h. As emendas devem ser protocoladas apenas no Sistema de Elaboração de Emendas.",
+   "situacao": "Prazo aberto."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de curso",
+   "ref": "Língua Portuguesa no Processo Legislativo",
+   "ementa": "Curso híbrido de 18 horas sobre coesão, coerência e redação oficial, com até 100 vagas presenciais. As aulas vão de 17/11 a 15/12/2026 e as inscrições vão até 16/11.",
+   "situacao": "Inscrições abertas."
+  },
+  {
+   "grupo": "Atos da Mesa",
+   "tipo": "Atos normativos e despachos",
+   "ref": "Atos E/MD 4393, 4403, 4404; 2976/2025 e 3033/2025; Portarias DG 444 e 445/2026",
+   "ementa": "Tornam sem efeito os Atos 4367, 4385 e 4391/2026. Republicam duas aposentadorias de especialistas legislativos (Júlio Cezar Sally e Rodrigo Kezen Leite). A Portaria 444 redistribui um cargo de Assistente VI e a 445 cessa efeito de portarias de 2024.",
+   "situacao": "Publicados em 11.11.2026."
+  }
+ ],
+ "atos_pessoal": [
+  {
+   "acao": "nomeacao",
+   "nome": "ALICE DE ASSIS SILVA",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Arthur Monteiro",
+   "deputado": "Arthur Monteiro",
+   "vaga_de": "Alessandra Borges de Oliveira",
+   "ato": "Ato E/MD 4394/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ALBERTO FERREIRA FARES NETO",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Júlio Rocha",
+   "deputado": "Júlio Rocha",
+   "vaga_de": "Reginaldo de Oliveira",
+   "ato": "Ato E/MD 4395/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "SILVIA ADRIANA DOS SANTOS",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete da Deputada Sarah Poncio",
+   "deputado": "Sarah Poncio",
+   "vaga_de": "Débora Valente Martins dos Santos",
+   "ato": "Ato E/MD 4396/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "REGINALDO DE OLIVEIRA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Júlio Rocha",
+   "deputado": "Júlio Rocha",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4397/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ALECSANDER DIAS ALMEIDA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Yuri Moura",
+   "deputado": "Yuri Moura",
+   "vaga_de": "Alex Papa Alves",
+   "ato": "Ato E/MD 4398/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "CRISTIANE DE ALMEIDA RODRIGUES ALVES",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Jorge Felippe Neto",
+   "deputado": "Jorge Felippe Neto",
+   "vaga_de": "Luciana Calado Pereira",
+   "ato": "Ato E/MD 4399/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "CAROLINE BRAGANÇA LAISE",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Gustavo Tutuca",
+   "deputado": "Gustavo Tutuca",
+   "vaga_de": "Rodrigo de Almeida Carneiro",
+   "ato": "Ato E/MD 4400/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "GONDWANA DA CUNHA LAZARO DOS SANTOS",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "vaga_de": "Gilbert José Marques de Oliveira Junior",
+   "ato": "Ato E/MD 4401/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ALESSANDRA BORGES DE OLIVEIRA",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Arthur Monteiro",
+   "deputado": "Arthur Monteiro",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4402/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "GONDWANA DA CUNHA LÁZARO DOS SANTOS",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Secretaria-Geral da Mesa Diretora",
+   "ato": "Ato E/MD 4405/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "SUZANA COSTA SIQUEIRA DOS SANTOS",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Superintendência Militar",
+   "ato": "Ato E/MD 4406/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ALEX NICODEMOS DE OLIVEIRA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Superintendência Militar",
+   "vaga_de": "Suzana Costa Siqueira dos Santos",
+   "ato": "Ato E/MD 4407/2026"
+  }
+ ]
+}

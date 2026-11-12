@@ -1,12 +1,26 @@
 {
- "atualizado": "2026-11-12T14:11:31+00:00",
+ "atualizado": "2026-11-12T14:15:14+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-12T14:08:44+00:00",
-  "edicaoLida": "2026-11-10",
+  "ultimaExecucao": "2026-11-12T14:12:17+00:00",
+  "edicaoLida": "2026-11-11",
   "mensagem": null
  },
  "edicoes": [
+  {
+   "id": "2026-11-11",
+   "data": "2026-11-11",
+   "edicao": "Ano LII · Nº 206",
+   "extra": false,
+   "contagem": {
+    "total": 35,
+    "gabinete": 5,
+    "mage": 1,
+    "tea": 1,
+    "seguranca": 4,
+    "baixada": 2
+   }
+  },
   {
    "id": "2026-11-10",
    "data": "2026-11-10",
