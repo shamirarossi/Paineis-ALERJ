@@ -1,6 +1,88 @@
 {
- "atualizado": "2026-11-12T14:15:14+00:00",
+ "atualizado": "2026-11-12T14:18:10+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado em 2ª discussão",
+   "ref": "PL 4671-A/2025",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Declara Guapimirim a Capital Estadual da Biodiversidade.",
+   "situacao": "Aprovado; segue para autógrafo.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Guapimirim integra a Baixada Fluminense; acompanhar a sanção e avaliar se há oportunidade de articulação regional.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "1ª discussão; CCJ pela inconstitucionalidade",
+   "ref": "PL 8111/2026",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Altera a Lei 6.882/2014 sobre ar-condicionado em veículos de transporte de pacientes. A CCJ (relator Luiz Paulo) viu vícios de iniciativa e de técnica legislativa e propôs convertê-lo em indicação legislativa.",
+   "situacao": "Parecer da CCJ aprovado; vai à Comissão de Indicações Legislativas para reformulação. Na Comissão de Economia, Val Ceasa deu parecer favorável.",
+   "gabinete": true,
+   "nota": "Cozzolino foi chamado a dar o parecer da Comissão de Economia, Indústria e Comércio, mas quem o emitiu foi Val Ceasa. Não há providência a tomar.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2545/2026",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja Cristã Charisma, de Guapimirim.",
+   "situacao": "Promulgada em 11/11/2026.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagem a entidade de Guapimirim, município da Baixada Fluminense.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8489/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Autoriza o Executivo a convocar os excedentes do concurso da PMERJ, mesmo após o prazo constitucional, para repor vagas. A justificativa cita efetivo de cerca de 42 mil policiais contra os 60 mil fixados em lei.",
+   "situacao": "A imprimir; vai às Comissões de CCJ, de Segurança Pública e de Orçamento.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Tema de segurança pública: reposição do efetivo da PM. Vale acompanhar na Comissão de Segurança Pública e avaliar apoio.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: anexação",
+   "ref": "PL 2413/2023",
+   "autor": "Dep. Leo Vieira (relator: Dep. Luiz Paulo)",
+   "ementa": "O projeto torna sem efeito multas de trânsito de viaturas da PM, Polícia Civil, administração penitenciária, bombeiros e ambulâncias. A CCJ aprovou sua anexação ao PL 4253/2018.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Afeta viaturas das forças de segurança; o debate segue no PL 4253/2018 (Bruno Dauaire e outros).",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7254/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Solicita ao Governador a criação de Casas Modelos Regionais, 'Casa do Autista', para atendimento integral de pessoas com TEA e mães atípicas.",
+   "situacao": "Publicada no Expediente.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Tema de TEA e mães atípicas; considerar apoio ou proposição complementar.   ​",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
   {
    "grupo": "Leis e vetos",
    "tipo": "Veto parcial",

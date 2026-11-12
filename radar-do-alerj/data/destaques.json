@@ -1,44 +1,17 @@
 {
- "atualizado": "2026-11-12T14:15:14+00:00",
+ "atualizado": "2026-11-12T14:18:10+00:00",
  "itens": [
   {
-   "grupo": "Outros",
-   "tipo": "Ofício de comissão especial",
-   "ref": "Ofício CE 82/2026",
-   "autor": "Comissão Especial das Favelas e Periferias (Res. 70/2025): Dep. Renata Souza (presidenta), Dani Balbi (vice-presidenta), Carlos Minc e Zeidan",
-   "ementa": "Pede à Presidência a suspensão do prazo de funcionamento da comissão de 14/10 a 12/11/2026, para consolidar as informações e elaborar o relatório final. Despacho do Presidente: a imprimir.",
-   "situacao": "Despachado: a imprimir (11.11.2026)",
-   "gabinete": true,
-   "nota": "Dani Balbi assina o ofício como vice-presidenta. A suspensão termina hoje (12/11), então vale acompanhar a retomada do prazo e a entrega do relatório final.",
-   "edicaoId": "2026-11-12",
-   "data": "2026-11-12"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer da CCJ: constitucionalidade com emendas",
-   "ref": "PL 7515/2026",
-   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
-   "ementa": "Institui a Política Estadual de Proteção à Imagem, à Identidade Digital e à Dignidade das Mulheres no ambiente digital, contra a violência digital de gênero. A CCJ aprovou na 9ª Reunião Extraordinária (10/11), com 6 emendas: correção da referência legal do art. 2º, definição de violência digital, preservação de provas e uso dos observatórios já existentes (Lei 11.231/2026).",
-   "situacao": "Aprovado na CCJ com emendas",
-   "temas": [
-    "mulheres",
-    "ct"
-   ],
-   "nota": "Trata de violência digital e uso de tecnologias contra mulheres, tema de interesse do gabinete. Vale acompanhar as próximas comissões e avaliar apoio ou subscrição.",
-   "edicaoId": "2026-11-12",
-   "data": "2026-11-12"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer da CCJ: anexação",
-   "ref": "PL 7809/2026",
-   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
-   "ementa": "Programa Estadual Reflorescer, de apoio humanizado à mulher em perda reprodutiva, infertilidade por patologias uterinas, histerectomia e luto gestacional. A CCJ aprovou a anexação ao PL 1642/2019, da CPI instituída pela Res. 05/2019, sobre direitos de mulheres com perda gestacional.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado em 2ª discussão",
+   "ref": "PL 7950/2026",
+   "autor": "Dep. Lilian Behring",
+   "ementa": "Inclui no calendário oficial o Dia Estadual da Enfermagem Forense. Na declaração de voto, a autora citou um caso de estupro de vulnerável identificado por enfermeira forense.",
+   "situacao": "Aprovado; segue para autógrafo.",
    "temas": [
     "mulheres"
    ],
-   "nota": "Trata de saúde da mulher e luto gestacional. Passa a tramitar junto ao PL 1642/2019, que então concentra a discussão.",
+   "nota": "A enfermagem forense apoia a identificação de violência sexual contra mulheres; vale acompanhar a sanção, por afinidade com a pauta.",
    "edicaoId": "2026-11-12",
    "data": "2026-11-12"
   },
@@ -46,41 +19,13 @@
    "grupo": "Pareceres de comissão",
    "tipo": "Parecer da CCJ: anexação",
    "ref": "PL 80/2023",
-   "autor": "Deps. Índia Armelau e Alan Lopes (relator: Dep. Fred Pacheco)",
-   "ementa": "Proíbe a chamada linguagem neutra em escolas, concursos, documentos oficiais e ações financiadas com verba pública, com sanções administrativas. A CCJ aprovou a anexação ao PL 54/2023 (Lei Geral dos Concursos, de Rodrigo Amorim), por conexão com as regras de provas de Português.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "autor": "Dep. Índia Armelau e Dep. Alan Lopes (relator: Dep. Fred Pacheco)",
+   "ementa": "O projeto veda a 'linguagem neutra' em escolas, concursos, documentos oficiais e ações custeadas com verba pública, com sanções administrativas. A CCJ aprovou sua anexação ao PL 54/2023 (Lei Geral dos Concursos, Rodrigo Amorim) por conexão material.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
    "temas": [
     "lgbt"
    ],
-   "nota": "É proposta contra a linguagem neutra, que atinge a pauta de identidade de gênero. O PL 80/2023 deixa de tramitar sozinho e vai junto do PL 54/2023, que merece atenção.",
-   "edicaoId": "2026-11-12",
-   "data": "2026-11-12"
-  },
-  {
-   "grupo": "Reuniões e audiências",
-   "tipo": "Edital de audiência pública",
-   "ref": "Comissão de Defesa dos Direitos da Mulher",
-   "autor": "Dep. Renata Souza (presidenta)",
-   "ementa": "4ª Audiência Pública em 17/11/2026, às 10h, na sala 1801 do Edifício Lúcio Costa. Tema: O Papel das Mulheres Negras na construção de Políticas Antirracistas.",
-   "situacao": "Convocada para 17/11, 10h",
-   "temas": [
-    "mulheres"
-   ],
-   "nota": "Dani Balbi não está entre os convocados. O gabinete pode avaliar presença ou participação.",
-   "edicaoId": "2026-11-12",
-   "data": "2026-11-12"
-  },
-  {
-   "grupo": "Indicações e requerimentos",
-   "tipo": "Indicação",
-   "ref": "Indicação 7254/2026",
-   "autor": "Dep. Rosenverg Reis",
-   "ementa": "Solicita ao Governador a criação de Casas Modelos Regionais, as Casas do Autista, para atendimento integral de pessoas com TEA e mães atípicas.",
-   "situacao": "Publicada",
-   "temas": [
-    "mulheres"
-   ],
-   "nota": "Inclui as mães atípicas, que contam como tema mulheres. Pode ser útil como referência para pautas de cuidado.",
+   "nota": "Proposta contra direitos LGBTQIA+ (restrição à linguagem neutra). A anexação não a arquiva; o tema pode seguir no PL 54/2023, que merece acompanhamento.",
    "edicaoId": "2026-11-12",
    "data": "2026-11-12"
   },
@@ -89,12 +34,94 @@
    "tipo": "Parecer da CCJ: anexação",
    "ref": "PL 5028/2025",
    "autor": "Dep. Marcelo Dino (relatora: Dep. Elika Takimoto)",
-   "ementa": "Inclui Inteligência Artificial como matéria transversal no ensino médio da rede pública. A CCJ aprovou a anexação ao PL 1574/2023 (Andrezinho Ceciliano), sobre o uso ético de IA nas escolas.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "ementa": "O projeto inclui inteligência artificial como matéria transversal no ensino médio da rede pública. A CCJ aprovou sua anexação ao PL 1574/2023 (uso ético de IA nas escolas, Andrezinho Ceciliano).",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
    "temas": [
     "ct"
    ],
-   "nota": "Trata de IA e educação. O PL 1574/2023 passa a ser o projeto principal da matéria.",
+   "nota": "Tema de inteligência artificial e educação; o debate agora tramita no PL 1574/2023.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: constitucionalidade com emendas",
+   "ref": "PL 7515/2026",
+   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui política estadual de proteção à imagem, à identidade digital e à dignidade das mulheres no ambiente digital, contra a violência digital de gênero. As seis emendas corrigem a referência legal do art. 2º, precisam definições e aproveitam o Observatório Estadual da Mulher (Lei 11.231/2026).",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Combina violência de gênero, proteção de dados e tecnologia. Segue para as demais comissões; vale buscar contato com a autora para apoio ou coautoria.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: anexação",
+   "ref": "PL 7809/2026",
+   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Institui diretrizes do Programa Reflorescer, de apoio humanizado à mulher em perda reprodutiva, infertilidade por patologias uterinas, histerectomia e luto gestacional. A CCJ aprovou sua anexação ao PL 1642/2019, da CPI de 2019.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de saúde da mulher e luto gestacional; o debate segue no PL 1642/2019.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: inconstitucionalidade",
+   "ref": "PL 7341/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Marcelo Dino)",
+   "ementa": "Instituiria o Estatuto do Patrimônio Digital da Criança e do Adolescente, com reserva de 30% da receita da exploração da imagem de menores em plataformas digitais. A CCJ viu invasão da competência privativa da União sobre direito civil e rejeitou o saneamento por emendas.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Marcado na dúvida: trata de proteção de crianças em ambiente digital e plataformas. O parecer lembra que o PL 895/2023 (Tia Ju), sobre o tema, teve veto total.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Ofício de comissão especial: suspensão de prazo",
+   "ref": "Ofício CE 82/2026",
+   "autor": "Comissão Especial das Favelas e Periferias (Res. 70/2025), presidida pela Dep. Renata Souza",
+   "ementa": "Solicita a suspensão do prazo de funcionamento da comissão de 14/10 a 12/11/2026, para sistematizar contribuições e elaborar relatório final. Assinam Renata Souza, Dani Balbi (vice-presidenta), Carlos Minc e Zeidan.",
+   "situacao": "Despacho: a imprimir.",
+   "gabinete": true,
+   "nota": "Dani Balbi assina como vice-presidenta. O prazo volta a correr após 12/11, então a fase final do relatório é agora.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Audiência pública da Comissão da Mulher",
+   "ref": "4ª Audiência Pública",
+   "autor": "Dep. Renata Souza (Presidenta da Comissão de Defesa dos Direitos da Mulher)",
+   "ementa": "Em 17/11/2026, às 10h, na sala 1801 do Edifício Lúcio Costa. Tema: 'O Papel das Mulheres Negras na construção de Políticas Antirracistas'. Convocados Zeidan, Tia Ju, Índia Armelau e Franciane Motta, mais suplentes.",
+   "situacao": "Convocada em 05/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Dani Balbi não consta entre os convocados, mas o tema é da pauta de mulheres; vale avaliar presença ou envio de assessoria.",
+   "edicaoId": "2026-11-12",
+   "data": "2026-11-12"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7254/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Solicita ao Governador a criação de Casas Modelos Regionais, 'Casa do Autista', para atendimento integral de pessoas com TEA e mães atípicas.",
+   "situacao": "Publicada no Expediente.",
+   "temas": [
+    "mulheres"
+   ],
    "edicaoId": "2026-11-12",
    "data": "2026-11-12"
   },

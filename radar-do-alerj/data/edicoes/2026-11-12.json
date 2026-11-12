@@ -3,212 +3,258 @@
  "edicao": "Ano LII · Nº 207",
  "extra": false,
  "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTI%3D",
- "lidoEm": "2026-11-12T12:42:31+00:00",
- "resumo": "Sem ato que cite Dani Balbi como autora ou relatora, mas ela assina, como vice-presidenta, o ofício da Comissão Especial das Favelas e Periferias que pede a suspensão do prazo de funcionamento (14/10 a 12/11). Nos temas, a CCJ aprovou a anexação do PL 80/2023, contra a linguagem neutra, ao PL 54/2023, e emitiu pareceres sobre PLs de mulheres (7515/2026, violência digital, constitucional com emendas; 7809/2026, luto gestacional, anexado ao PL 1642/2019). A CCJ também anexou o PL 5028/2025 (IA no ensino médio), e a Comissão da Mulher convocou audiência pública para 17/11 sobre mulheres negras e políticas antirracistas. O plenário aprovou em 2ª discussão cinco projetos de lei, entre eles o Dia Estadual da Enfermagem Forense, de Lilian Behring (PCdoB), e a Mesa publicou 35 atos de pessoal.",
- "pessoal": "15 nomeações, 16 exonerações, 1 designação e 3 dispensas de função gratificada (35 atos).",
+ "lidoEm": "2026-11-12T14:15:52+00:00",
+ "resumo": "A CCJ aprovou a anexação do PL 80/2023 (Índia Armelau e Alan Lopes), que veda a 'linguagem neutra', ao PL 54/2023; é proposta contra direitos LGBTQIA+. A CCJ também aprovou com emendas o PL 7515/2026 (Martha Rocha), sobre violência digital contra mulheres. Anexou o PL 7809/2026 (programa Reflorescer, luto gestacional) ao PL 1642/2019 e o PL 5028/2025 (inteligência artificial no ensino médio) ao PL 1574/2023. Dani Balbi é vice-presidenta da Comissão Especial das Favelas e Periferias, cujo prazo ficou suspenso até 12/11. Há ainda a audiência da Comissão da Mulher em 17/11 e a Indicação 7254 (Casa do Autista, com mães atípicas).",
+ "pessoal": "35 atos de pessoal: 15 nomeações, 16 exonerações (3 a pedido), 1 designação e 3 dispensas de função gratificada (todas a pedido).",
  "itens": [
   {
-   "grupo": "Outros",
-   "tipo": "Ofício de comissão especial",
-   "ref": "Ofício CE 82/2026",
-   "autor": "Comissão Especial das Favelas e Periferias (Res. 70/2025): Dep. Renata Souza (presidenta), Dani Balbi (vice-presidenta), Carlos Minc e Zeidan",
-   "ementa": "Pede à Presidência a suspensão do prazo de funcionamento da comissão de 14/10 a 12/11/2026, para consolidar as informações e elaborar o relatório final. Despacho do Presidente: a imprimir.",
-   "situacao": "Despachado: a imprimir (11.11.2026)",
-   "gabinete": true,
-   "nota": "Dani Balbi assina o ofício como vice-presidenta. A suspensão termina hoje (12/11), então vale acompanhar a retomada do prazo e a entrega do relatório final."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer da CCJ: constitucionalidade com emendas",
-   "ref": "PL 7515/2026",
-   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
-   "ementa": "Institui a Política Estadual de Proteção à Imagem, à Identidade Digital e à Dignidade das Mulheres no ambiente digital, contra a violência digital de gênero. A CCJ aprovou na 9ª Reunião Extraordinária (10/11), com 6 emendas: correção da referência legal do art. 2º, definição de violência digital, preservação de provas e uso dos observatórios já existentes (Lei 11.231/2026).",
-   "situacao": "Aprovado na CCJ com emendas",
-   "temas": [
-    "mulheres",
-    "ct"
-   ],
-   "nota": "Trata de violência digital e uso de tecnologias contra mulheres, tema de interesse do gabinete. Vale acompanhar as próximas comissões e avaliar apoio ou subscrição."
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer da CCJ: anexação",
-   "ref": "PL 7809/2026",
-   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
-   "ementa": "Programa Estadual Reflorescer, de apoio humanizado à mulher em perda reprodutiva, infertilidade por patologias uterinas, histerectomia e luto gestacional. A CCJ aprovou a anexação ao PL 1642/2019, da CPI instituída pela Res. 05/2019, sobre direitos de mulheres com perda gestacional.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado em 2ª discussão",
+   "ref": "PL 7950/2026",
+   "autor": "Dep. Lilian Behring",
+   "ementa": "Inclui no calendário oficial o Dia Estadual da Enfermagem Forense. Na declaração de voto, a autora citou um caso de estupro de vulnerável identificado por enfermeira forense.",
+   "situacao": "Aprovado; segue para autógrafo.",
    "temas": [
     "mulheres"
    ],
-   "nota": "Trata de saúde da mulher e luto gestacional. Passa a tramitar junto ao PL 1642/2019, que então concentra a discussão."
+   "nota": "A enfermagem forense apoia a identificação de violência sexual contra mulheres; vale acompanhar a sanção, por afinidade com a pauta."
   },
   {
    "grupo": "Pareceres de comissão",
    "tipo": "Parecer da CCJ: anexação",
    "ref": "PL 80/2023",
-   "autor": "Deps. Índia Armelau e Alan Lopes (relator: Dep. Fred Pacheco)",
-   "ementa": "Proíbe a chamada linguagem neutra em escolas, concursos, documentos oficiais e ações financiadas com verba pública, com sanções administrativas. A CCJ aprovou a anexação ao PL 54/2023 (Lei Geral dos Concursos, de Rodrigo Amorim), por conexão com as regras de provas de Português.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "autor": "Dep. Índia Armelau e Dep. Alan Lopes (relator: Dep. Fred Pacheco)",
+   "ementa": "O projeto veda a 'linguagem neutra' em escolas, concursos, documentos oficiais e ações custeadas com verba pública, com sanções administrativas. A CCJ aprovou sua anexação ao PL 54/2023 (Lei Geral dos Concursos, Rodrigo Amorim) por conexão material.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
    "temas": [
     "lgbt"
    ],
-   "nota": "É proposta contra a linguagem neutra, que atinge a pauta de identidade de gênero. O PL 80/2023 deixa de tramitar sozinho e vai junto do PL 54/2023, que merece atenção."
-  },
-  {
-   "grupo": "Reuniões e audiências",
-   "tipo": "Edital de audiência pública",
-   "ref": "Comissão de Defesa dos Direitos da Mulher",
-   "autor": "Dep. Renata Souza (presidenta)",
-   "ementa": "4ª Audiência Pública em 17/11/2026, às 10h, na sala 1801 do Edifício Lúcio Costa. Tema: O Papel das Mulheres Negras na construção de Políticas Antirracistas.",
-   "situacao": "Convocada para 17/11, 10h",
-   "temas": [
-    "mulheres"
-   ],
-   "nota": "Dani Balbi não está entre os convocados. O gabinete pode avaliar presença ou participação."
-  },
-  {
-   "grupo": "Indicações e requerimentos",
-   "tipo": "Indicação",
-   "ref": "Indicação 7254/2026",
-   "autor": "Dep. Rosenverg Reis",
-   "ementa": "Solicita ao Governador a criação de Casas Modelos Regionais, as Casas do Autista, para atendimento integral de pessoas com TEA e mães atípicas.",
-   "situacao": "Publicada",
-   "temas": [
-    "mulheres"
-   ],
-   "nota": "Inclui as mães atípicas, que contam como tema mulheres. Pode ser útil como referência para pautas de cuidado."
+   "nota": "Proposta contra direitos LGBTQIA+ (restrição à linguagem neutra). A anexação não a arquiva; o tema pode seguir no PL 54/2023, que merece acompanhamento."
   },
   {
    "grupo": "Pareceres de comissão",
    "tipo": "Parecer da CCJ: anexação",
    "ref": "PL 5028/2025",
    "autor": "Dep. Marcelo Dino (relatora: Dep. Elika Takimoto)",
-   "ementa": "Inclui Inteligência Artificial como matéria transversal no ensino médio da rede pública. A CCJ aprovou a anexação ao PL 1574/2023 (Andrezinho Ceciliano), sobre o uso ético de IA nas escolas.",
-   "situacao": "Anexação aprovada na CCJ em 10/11",
+   "ementa": "O projeto inclui inteligência artificial como matéria transversal no ensino médio da rede pública. A CCJ aprovou sua anexação ao PL 1574/2023 (uso ético de IA nas escolas, Andrezinho Ceciliano).",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
    "temas": [
     "ct"
    ],
-   "nota": "Trata de IA e educação. O PL 1574/2023 passa a ser o projeto principal da matéria."
-  },
-  {
-   "grupo": "Projetos de lei",
-   "tipo": "Projeto aprovado em 2ª discussão",
-   "ref": "PL 7950/2026",
-   "autor": "Dep. Lilian Behring",
-   "ementa": "Inclui no calendário oficial o Dia Estadual da Enfermagem Forense. Aprovado sem discussão e enviado a autógrafo. A autora fez declaração de voto, citando a atuação da enfermagem forense na identificação de um estupro de vulnerável.",
-   "situacao": "Aprovado; vai a autógrafo"
-  },
-  {
-   "grupo": "Projetos de lei",
-   "tipo": "Projetos aprovados em 2ª discussão",
-   "ref": "PL 6436-A/2022; PL 4671-A/2025; PL 6408/2025; PL 7739/2026",
-   "autor": "Deps. Márcio Gualberto, Júlio Rocha, Claudio Caiado e Fred Pacheco",
-   "ementa": "Dia Estadual de Conscientização sobre a Paternidade Responsável (14/8, redação do vencido emendada); Guapimirim como Capital Estadual da Biodiversidade; utilidade pública do Instituto Maria Angélica; Dia do Coroinha.",
-   "situacao": "Todos aprovados; vão a autógrafo"
-  },
-  {
-   "grupo": "Atos da Mesa",
-   "tipo": "Resoluções promulgadas",
-   "ref": "Resoluções 2543 a 2547/2026",
-   "autor": "Deps. Anderson Moraes, Alan Lopes, Júlio Rocha, Jari Oliveira e Tia Ju",
-   "ementa": "Medalha Tiradentes ao prefeito de Cabo Frio, Dr. Serginho (2543); Diploma Russell Philip Shedd ao Pastor Jucemir Pimenta (2544) e à Igreja Cristã Charisma (2545); Prêmio Anna Nery da Saúde a Fábio Guedes Valadares (2546); Diploma Ulysses Guimarães à vereadora Luciana de Oliveira Maciel de Almeida (2547).",
-   "situacao": "Aprovadas em 11/11 e promulgadas"
+   "nota": "Tema de inteligência artificial e educação; o debate agora tramita no PL 1574/2023."
   },
   {
    "grupo": "Pareceres de comissão",
-   "tipo": "Parecer da CCJ: inconstitucionalidade, vira indicação legislativa",
+   "tipo": "Parecer da CCJ: constitucionalidade com emendas",
+   "ref": "PL 7515/2026",
+   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui política estadual de proteção à imagem, à identidade digital e à dignidade das mulheres no ambiente digital, contra a violência digital de gênero. As seis emendas corrigem a referência legal do art. 2º, precisam definições e aproveitam o Observatório Estadual da Mulher (Lei 11.231/2026).",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Combina violência de gênero, proteção de dados e tecnologia. Segue para as demais comissões; vale buscar contato com a autora para apoio ou coautoria."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: anexação",
+   "ref": "PL 7809/2026",
+   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Institui diretrizes do Programa Reflorescer, de apoio humanizado à mulher em perda reprodutiva, infertilidade por patologias uterinas, histerectomia e luto gestacional. A CCJ aprovou sua anexação ao PL 1642/2019, da CPI de 2019.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de saúde da mulher e luto gestacional; o debate segue no PL 1642/2019."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: inconstitucionalidade",
+   "ref": "PL 7341/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Marcelo Dino)",
+   "ementa": "Instituiria o Estatuto do Patrimônio Digital da Criança e do Adolescente, com reserva de 30% da receita da exploração da imagem de menores em plataformas digitais. A CCJ viu invasão da competência privativa da União sobre direito civil e rejeitou o saneamento por emendas.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Marcado na dúvida: trata de proteção de crianças em ambiente digital e plataformas. O parecer lembra que o PL 895/2023 (Tia Ju), sobre o tema, teve veto total."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Ofício de comissão especial: suspensão de prazo",
+   "ref": "Ofício CE 82/2026",
+   "autor": "Comissão Especial das Favelas e Periferias (Res. 70/2025), presidida pela Dep. Renata Souza",
+   "ementa": "Solicita a suspensão do prazo de funcionamento da comissão de 14/10 a 12/11/2026, para sistematizar contribuições e elaborar relatório final. Assinam Renata Souza, Dani Balbi (vice-presidenta), Carlos Minc e Zeidan.",
+   "situacao": "Despacho: a imprimir.",
+   "gabinete": true,
+   "nota": "Dani Balbi assina como vice-presidenta. O prazo volta a correr após 12/11, então a fase final do relatório é agora."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Audiência pública da Comissão da Mulher",
+   "ref": "4ª Audiência Pública",
+   "autor": "Dep. Renata Souza (Presidenta da Comissão de Defesa dos Direitos da Mulher)",
+   "ementa": "Em 17/11/2026, às 10h, na sala 1801 do Edifício Lúcio Costa. Tema: 'O Papel das Mulheres Negras na construção de Políticas Antirracistas'. Convocados Zeidan, Tia Ju, Índia Armelau e Franciane Motta, mais suplentes.",
+   "situacao": "Convocada em 05/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Dani Balbi não consta entre os convocados, mas o tema é da pauta de mulheres; vale avaliar presença ou envio de assessoria."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação",
+   "ref": "Indicação 7254/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Solicita ao Governador a criação de Casas Modelos Regionais, 'Casa do Autista', para atendimento integral de pessoas com TEA e mães atípicas.",
+   "situacao": "Publicada no Expediente.",
+   "temas": [
+    "mulheres"
+   ]
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovados em 2ª discussão (datas comemorativas)",
+   "ref": "PL 6436-A/2022 e PL 7739/2026",
+   "autor": "Dep. Márcio Gualberto; Dep. Fred Pacheco",
+   "ementa": "Incluem no calendário oficial o Dia Estadual de Conscientização sobre a Paternidade Responsável (14 de agosto, redação do vencido) e o Dia do Coroinha.",
+   "situacao": "Aprovados; seguem para autógrafo."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado em 2ª discussão",
+   "ref": "PL 4671-A/2025",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Declara Guapimirim a Capital Estadual da Biodiversidade.",
+   "situacao": "Aprovado; segue para autógrafo."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Aprovado em 2ª discussão",
+   "ref": "PL 6408/2025",
+   "autor": "Dep. Claudio Caiado",
+   "ementa": "Considera de utilidade pública o Instituto Maria Angélica (IMA).",
+   "situacao": "Aprovado; segue para autógrafo."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "1ª discussão; CCJ pela inconstitucionalidade",
    "ref": "PL 8111/2026",
-   "autor": "Dep. Marcelo Dino (relator na CCJ: Dep. Luiz Paulo)",
-   "ementa": "Torna obrigatório ar-condicionado em veículos de transporte de pacientes. A CCJ concluiu pela inconstitucionalidade por vício de iniciativa e matéria estranha, com transformação em indicação legislativa. As demais comissões acompanharam a CCJ.",
-   "situacao": "Aprovado em plenário; vai à Comissão de Indicações Legislativas"
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Altera a Lei 6.882/2014 sobre ar-condicionado em veículos de transporte de pacientes. A CCJ (relator Luiz Paulo) viu vícios de iniciativa e de técnica legislativa e propôs convertê-lo em indicação legislativa.",
+   "situacao": "Parecer da CCJ aprovado; vai à Comissão de Indicações Legislativas para reformulação. Na Comissão de Economia, Val Ceasa deu parecer favorável."
   },
   {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Demais pareceres da CCJ (9ª Reunião Extraordinária, 10/11)",
-   "ref": "PL 2413/2023; 2708/2023; 4431/2024; 5915/2025; 6237/2025; 7221/2026; 7329/2026; 7341/2026; 7359/2026; 7372/2026; 7586/2026",
-   "autor": "Vários autores",
-   "ementa": "Anexações: 2413/2023 (ao PL 4253/2018), 6237/2025 (Dia dos Afrodescendentes, Renata Souza, ao PL 4791/2021) e 7359/2026 (ao PL 3166/2024). Prejudicados: 4431/2024 (canabidiol, pela Lei 10.201/2023), 5915/2025 (maus-tratos a animais, pela Lei 11.096/2026) e 7329/2026. Inconstitucionais: 7221/2026 (consignações) e 7341/2026 (patrimônio digital de crianças). Constitucionais com emendas: 2708/2023 (QR Code em transporte), 7372/2026 (abrigos de animais) e 7586/2026 (selo Ambiente Seguro para Alérgicos).",
-   "situacao": "Aprovados na CCJ"
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2545/2026",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja Cristã Charisma, de Guapimirim.",
+   "situacao": "Promulgada em 11/11/2026."
   },
   {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Ofícios da CCJ: anexações",
-   "ref": "Ofícios CCJ 319 a 324/2026",
-   "autor": "Dep. Rodrigo Amorim (presidente da CCJ)",
-   "ementa": "Anexações aprovadas na 23ª Reunião Ordinária: PL 7633/2026 e 7622/2026 ao PL 7389/2026; PL 3165/2024 ao 2922/2024; PL 7585/2026 ao 6004/2025; PL 7839/2026 ao 7838/2026; PL 7370/2026 ao 2907/2024.",
-   "situacao": "Deferidas pelo Presidente, a imprimir (11.11.2026)"
+   "grupo": "Outros",
+   "tipo": "Resoluções promulgadas",
+   "ref": "Resoluções 2543, 2544, 2546 e 2547/2026",
+   "autor": "Dep. Anderson Moraes; Dep. Alan Lopes; Dep. Jari Oliveira; Dep. Tia Ju",
+   "ementa": "Concedem a Medalha Tiradentes ao prefeito de Cabo Frio, Dr. Serginho, o Diploma Russell Philip Shedd ao Pastor Jucemir Pimenta, o Prêmio Anna Nery da Saúde ao Dr. Fábio Guedes Valadares e o Diploma Ulysses Guimarães à vereadora Luciana de Oliveira Maciel de Almeida, de Barra do Piraí.",
+   "situacao": "Promulgadas em 11/11/2026."
   },
   {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Ofícios da CCJ: prejudicabilidade",
-   "ref": "Ofícios CCJ 325 a 332/2026",
-   "autor": "Dep. Rodrigo Amorim (presidente da CCJ)",
-   "ementa": "Prejudicados os PL 3624/2024, 7652/2026, 6357/2022, 4024/2024, 4077/2024, 7331/2026, 7328/2026 e 7179/2026, por leis já existentes ou perda de objeto.",
-   "situacao": "Deferidas pelo Presidente, a imprimir (11.11.2026)"
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8489/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Autoriza o Executivo a convocar os excedentes do concurso da PMERJ, mesmo após o prazo constitucional, para repor vagas. A justificativa cita efetivo de cerca de 42 mil policiais contra os 60 mil fixados em lei.",
+   "situacao": "A imprimir; vai às Comissões de CCJ, de Segurança Pública e de Orçamento."
   },
   {
    "grupo": "Projetos de lei",
    "tipo": "Projetos de lei apresentados",
-   "ref": "PL 8488 a 8493/2026",
+   "ref": "PL 8488, 8490, 8491, 8492 e 8493/2026",
    "autor": "Dep. Rosenverg Reis",
-   "ementa": "Proíbe dispositivos que burlam o alerta do cinto de segurança (8488); convocação de excedentes do concurso da PMERJ (8489); linhas de crédito da AgeRio para geradores de energia (8490) e para energia solar off-grid (8493) em templos; programa de soro antiofídico em hospitais privados conveniados ao SUS (8491); atividade extracurricular Cine Bíblico Infantil na rede estadual (8492).",
-   "situacao": "A imprimir e às comissões (11.11.2026)"
+   "ementa": "Proíbem a venda de dispositivos que burlam o alerta do cinto de segurança (8488). Criam linhas de crédito da AgeRio para geradores (8490) e energia solar off-grid (8493) em templos religiosos. Instituem programa de soro antiofídico em hospitais privados conveniados ao SUS (8491) e o 'Cine Bíblico Infantil' em escolas estaduais (8492).",
+   "situacao": "A imprimir; seguem para as comissões indicadas nos despachos."
   },
   {
    "grupo": "Projetos de lei",
    "tipo": "Projetos apresentados",
-   "ref": "PL 8494/2026; PR 2849/2026; PR 2850/2026",
-   "autor": "Deps. Samuel Malafaia, Munir Neto e Filipe Soares",
-   "ementa": "Dia do Consulado (6 de agosto) no calendário oficial; Diploma Amigo do Idoso a Christine Abdalla; Medalha Tiradentes a Dr. Gabriel França Melsert.",
-   "situacao": "A imprimir e às comissões (11.11.2026)"
+   "ref": "PL 8494/2026; PR 2849 e 2850/2026",
+   "autor": "Dep. Samuel Malafaia; Dep. Munir Neto; Dep. Filipe Soares",
+   "ementa": "O PL 8494 institui o Dia do Consulado (6 de agosto) no calendário estadual. Os PR 2849 e 2850 concedem o Diploma Amigo do Idoso a Christine Abdalla e a Medalha Tiradentes ao Dr. Gabriel França Melsert.",
+   "situacao": "A imprimir; seguem para CCJ e comissões indicadas."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Ofícios da CCJ (anexações e prejudicabilidades)",
+   "ref": "Ofícios CCJ 319 a 332/2026",
+   "autor": "Dep. Rodrigo Amorim (Presidente da CCJ)",
+   "ementa": "Seis anexações: PL 7633 e 7622/2026 ao PL 7389/2026; PL 3165/2024 ao PL 2922/2024; PL 7585/2026 ao PL 6004/2025; PL 7839 ao PL 7838/2026; PL 7370/2026 ao PL 2907/2024. Oito prejudicabilidades: PL 3624/2024, 7652/2026, 6357/2022, 4024/2024, 4077/2024, 7331/2026, 7328/2026 e 7179/2026.",
+   "situacao": "Aprovados na 23ª Reunião Ordinária da CCJ; deferidos pelo Presidente em 11/11/2026."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer da CCJ: anexação",
+   "ref": "PL 2413/2023",
+   "autor": "Dep. Leo Vieira (relator: Dep. Luiz Paulo)",
+   "ementa": "O projeto torna sem efeito multas de trânsito de viaturas da PM, Polícia Civil, administração penitenciária, bombeiros e ambulâncias. A CCJ aprovou sua anexação ao PL 4253/2018.",
+   "situacao": "Aprovado na 9ª Reunião Extraordinária da CCJ, em 10/11/2026."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Demais pareceres da CCJ (9ª Reunião Extraordinária, 10/11)",
+   "ref": "PL 2708/2023, 7372/2026, 7586/2026, 7221/2026, 7359/2026, 4431/2024, 5915/2025, 6237/2025, 7329/2026",
+   "autor": "Diversos",
+   "ementa": "Constitucionalidade com emendas: PL 2708/2023 (QR Code para avaliar motoristas), PL 7372/2026 (proteção de abrigos de animais) e PL 7586/2026 (selo 'Ambiente Seguro para Alérgicos'). Inconstitucionalidade: PL 7221/2026 (limites de consignados, Flávio Serafini). Anexação: PL 7359/2026 (faixa para motos) ao PL 3166/2024 e PL 6237/2025 (Dia dos Afrodescendentes, Renata Souza) ao PL 4791/2021. Prejudicabilidade: PL 4431/2024 (canabidiol), PL 5915/2025 (maus-tratos a animais) e PL 7329/2026 (doador de órgãos).",
+   "situacao": "Pareceres aprovados pela CCJ em 10/11/2026."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Audiência pública conjunta (Minas e Energia e Defesa do Consumidor)",
+   "ref": "1ª Audiência Pública",
+   "autor": "Dep. Anderson Moraes e Dep. Fábio Silva (presidentes)",
+   "ementa": "Em 16/11/2026, às 11h, no plenário do Edifício Lúcio Costa. Pauta: cobrar de Enel e Light providências sobre falta de energia, demora no restabelecimento e investimentos previstos no estado.",
+   "situacao": "Convocada em 11/11/2026."
   },
   {
    "grupo": "Indicações e requerimentos",
    "tipo": "Indicações do dia",
-   "ref": "Indicações 7251 a 7257/2026",
-   "autor": "Deps. Índia Armelau, Felipinho Ravis, Sarah Poncio, Rosenverg Reis e Carla Machado",
-   "ementa": "Pedidos ao Governador, ao DER-RJ e à Águas do Rio: recuperação das rodovias RJ-104, RJ-121, RJ-200 e RJ-125; regularidade da água em Cachoeiras de Macacu; núcleo de Veteranos e Pensionistas no Centro Sul; Casas do Autista (7254, item à parte).",
-   "situacao": "Publicadas"
+   "ref": "Indicações 7251 a 7257/2026 (exceto 7254)",
+   "autor": "Dep. Índia Armelau, Felipinho Ravis, Sarah Poncio e Carla Machado",
+   "ementa": "Pedem recuperação das rodovias RJ-104 (Niterói), RJ-121, RJ-200 e RJ-125, solução para a falta de água em Cachoeiras de Macacu e um núcleo da Diretoria de Veteranos e Pensionistas na Região Centro Sul.",
+   "situacao": "Publicadas no Expediente."
   },
   {
-   "grupo": "Reuniões e audiências",
-   "tipo": "Edital de audiência pública conjunta",
-   "ref": "Comissões de Minas e Energia e de Defesa do Consumidor",
-   "autor": "Deps. Anderson Moraes e Fábio Silva (presidentes)",
-   "ementa": "1ª Audiência Pública em 16/11/2026, às 11h, no plenário do Edifício Lúcio Costa. Pauta: cobrar de Enel e Light providências sobre falta de energia, demora no restabelecimento e investimentos previstos.",
-   "situacao": "Convocada para 16/11, 11h"
+   "grupo": "Atos da Mesa",
+   "tipo": "Atos tornados sem efeito e portarias",
+   "ref": "Atos E/MD 4438 e 4439/2026; Portaria E/DG 446/2026",
+   "ementa": "A Mesa tornou sem efeito os atos E/MD 4382 e 4264/2026. A Portaria E/DG 446 cessa o efeito de cinco portarias de 2025 (375 a 379). Há ainda errata ao Ato E/MD 4401 (processo correto: 18900/2026).",
+   "situacao": "Publicados em 11/11/2026."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Edital de convocação para perícia médica",
+   "ref": "Concurso ALERJ (Edital 01/2025)",
+   "autor": "FGV e Mesa Diretora",
+   "ementa": "Convoca candidatos a vagas para pessoas com deficiência (Especialista Legislativo III e IV) para perícia presencial na Rua da Ajuda, 5, 22º andar, de 16/11 a 07/12/2026, às 9h ou 13h. Recurso em 2 dias úteis após o resultado preliminar.",
+   "situacao": "Publicado em 11/11/2026."
   },
   {
    "grupo": "Escola do Legislativo",
    "tipo": "Edital de curso",
    "ref": "Língua Portuguesa no Processo Legislativo",
-   "autor": "Escola do Legislativo (ELERJ)",
-   "ementa": "Curso híbrido de 18h sobre coesão, coerência e redação oficial, em seis encontros de 17/11 a 15/12, com até 100 vagas presenciais.",
-   "situacao": "Inscrições até 16/11/2026"
+   "autor": "Escola do Legislativo",
+   "ementa": "Curso híbrido de 18 horas sobre coesão, coerência e redação oficial, com Arthur Rezende da Silva. Aulas em 17/11, 24/11 (dois turnos), 1/12, 8/12 e 15/12; até 100 vagas presenciais; inscrição até 16/11.",
+   "situacao": "Edital de 09/11/2026."
   },
   {
    "grupo": "Outros",
-   "tipo": "Edital de concurso",
-   "ref": "Edital de Convocação para Perícia Médica",
-   "autor": "FGV e Mesa Diretora",
-   "ementa": "Convoca candidatos às vagas de pessoas com deficiência para Especialista Legislativo III e IV para perícia médica presencial, de 16/11 a 07/12/2026, na Rua da Ajuda, nº 5, 22º andar. Recurso em 2 dias úteis após o resultado preliminar.",
-   "situacao": "Publicado em 11.11.2026"
-  },
-  {
-   "grupo": "Outros",
-   "tipo": "Ata da Comissão de Redação",
-   "ref": "Reunião permanente de 01 a 27/10/2026",
-   "autor": "Dep. Carlos Macedo (presidente)",
-   "ementa": "Aprovou redações do vencido e redações finais de diversos projetos de lei e de resolução, entre eles PL 6436/2022, PL 374/2023 e PL 1062/2023.",
-   "situacao": "Ata publicada"
-  },
-  {
-   "grupo": "Outros",
-   "tipo": "Ata de comissão especial",
-   "ref": "Comissão Especial para Contenção dos Gastos do Estado (Req. 82/2026), 5ª Reunião Ordinária",
-   "autor": "Dep. Jair Bittencourt (presidente)",
-   "ementa": "Em 23/06/2026, debateu a adesão do Estado ao Propag, a agenda de oitivas (TJ-RJ, CGE, PGE, setor produtivo, servidores) e os projetos de lei de Luiz Paulo e Tia Ju.",
-   "situacao": "Ata publicada"
+   "tipo": "Atas de comissões",
+   "ref": "Comissão de Redação; Comissão Especial para Contenção dos Gastos",
+   "autor": "Dep. Carlos Macedo; Dep. Jair Bittencourt",
+   "ementa": "A Comissão de Redação aprovou, de 1 a 27/10, redações de vários projetos, entre eles o PL 6436/2022. A Comissão de Contenção dos Gastos (5ª reunião, 23/06) tratou do Propag, da dívida estadual e da LDO.",
+   "situacao": "Atas publicadas."
   }
  ],
  "atosPessoal": [
@@ -237,7 +283,7 @@
    "nome": "CLAUDIO ANTONIO EUSÉBIO CALABAÇA",
    "cargo": "Assessor Parlamentar V",
    "simbolo": "CCDAL-5",
-   "lotacao": "Liderança do AGIR",
+   "lotacao": "Liderança do AGIR - Deputado Júlio Rocha",
    "deputado": "Júlio Rocha",
    "vaga_de": "Romario da Silva Freitas",
    "ato": "Ato E/MD 4410/2026"
@@ -257,7 +303,7 @@
    "nome": "GLAYDSTON MOURA DOS SANTOS",
    "cargo": "Assistente IX",
    "simbolo": "CCDAL-9",
-   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos",
+   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos - Deputado Marcelo Dino",
    "deputado": "Marcelo Dino",
    "a_pedido": true,
    "ato": "Ato E/MD 4412/2026"
@@ -267,7 +313,7 @@
    "nome": "NICOLLY VIEIRA DE OLIVEIRA",
    "cargo": "Assistente IX",
    "simbolo": "CCDAL-9",
-   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos",
+   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos - Deputado Marcelo Dino",
    "deputado": "Marcelo Dino",
    "vaga_de": "Glaydston Moura dos Santos",
    "ato": "Ato E/MD 4413/2026"
@@ -317,7 +363,7 @@
    "nome": "NELSON ALEXANDRE DA SILVA",
    "cargo": "Assessor Parlamentar IX",
    "simbolo": "CCDAL-9",
-   "lotacao": "Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle",
+   "lotacao": "Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle - Deputado Gustavo Tutuca",
    "deputado": "Gustavo Tutuca",
    "vaga_de": "Gracielly Maceio Alves dos Santos",
    "ato": "Ato E/MD 4418/2026"
@@ -492,7 +538,7 @@
   {
    "acao": "dispensa",
    "nome": "CLEBER LIMA DE AZEREDO",
-   "cargo": "Auxiliar V",
+   "cargo": "Auxiliar V (função gratificada)",
    "simbolo": "CAI-20",
    "lotacao": "Superintendência Militar",
    "a_pedido": true,
@@ -501,7 +547,7 @@
   {
    "acao": "dispensa",
    "nome": "ISABELLE HABIB OLIVEIRA",
-   "cargo": "Auxiliar II",
+   "cargo": "Auxiliar II (função gratificada)",
    "simbolo": "CAI-17",
    "lotacao": "Presidência",
    "a_pedido": true,
@@ -510,7 +556,7 @@
   {
    "acao": "dispensa",
    "nome": "MARILENA FERREIRA BARRETO",
-   "cargo": "Auxiliar I",
+   "cargo": "Auxiliar I (função gratificada)",
    "simbolo": "CAI-16",
    "lotacao": "Presidência",
    "a_pedido": true,
@@ -519,7 +565,7 @@
   {
    "acao": "designacao",
    "nome": "VÂNIA MARIA DE OLIVEIRA NOGUEIRA",
-   "cargo": "Auxiliar I",
+   "cargo": "Auxiliar I (função gratificada)",
    "simbolo": "CAI-16",
    "lotacao": "Presidência",
    "vaga_de": "Marilena Ferreira Barreto",
