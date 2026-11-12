@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T12:44:10+00:00",
+ "atualizado": "2026-11-12T14:11:31+00:00",
  "atos": [
   {
    "acao": "nomeacao",
@@ -746,7 +746,7 @@
    "cargo": "Assistente IX",
    "simbolo": "CCDAL-9",
    "lotacao": "Subdiretoria-Geral de Recursos Humanos",
-   "ato": "Ato E/MD 4286/2026 (número como impresso)",
+   "ato": "Ato E/MD 4286/2026",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
@@ -813,7 +813,7 @@
   {
    "acao": "designacao",
    "nome": "MARCOS PAULO ALVES DE ANDRADE",
-   "cargo": "Auxiliar I",
+   "cargo": "Auxiliar I (função gratificada)",
    "simbolo": "CAI-16",
    "lotacao": "Departamento de Patrimônio",
    "vaga_de": "Willians Pinto Rios",
@@ -824,7 +824,7 @@
   {
    "acao": "designacao",
    "nome": "LEANDRO DIAS DE OLIVEIRA",
-   "cargo": "Auxiliar I",
+   "cargo": "Auxiliar I (função gratificada)",
    "simbolo": "CAI-16",
    "lotacao": "Departamento de Análise e Consultoria Legislativa",
    "vaga_de": "Luiz Carlos Amorim de Souza",
@@ -835,7 +835,7 @@
   {
    "acao": "dispensa",
    "nome": "UMBERTO DE ALMEIDA JÚNIOR",
-   "cargo": "Auxiliar II",
+   "cargo": "Auxiliar II (função gratificada)",
    "simbolo": "CAI-17",
    "lotacao": "Presidência",
    "a_pedido": true,

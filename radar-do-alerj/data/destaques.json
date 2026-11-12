@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T12:44:10+00:00",
+ "atualizado": "2026-11-12T14:11:31+00:00",
  "itens": [
   {
    "grupo": "Outros",
@@ -257,99 +257,97 @@
    "data": "2026-11-11"
   },
   {
-   "grupo": "Reuniões e audiências",
-   "tipo": "Edital de reunião de comissão",
-   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social",
-   "autor": "Dep. Dani Balbi (presidenta)",
-   "ementa": "1ª Reunião Ordinária em 11/11/2026, às 11h30, por meios remotos, com 14 pareceres na pauta e deliberação de audiência pública sobre a crise e a reestruturação da ECT (precarização, perda de direitos e qualidade do serviço postal público). Convocados os suplentes Giselle Monteiro, Renan Jordy e Tia Ju.",
-   "situacao": "Convocada em 09/11/2026",
-   "temas": [
-    "mulheres"
-   ],
-   "gabinete": true,
-   "nota": "Dani preside a reunião e relata 11 dos 14 pareceres, segundo a leitura do edital. O texto saiu com a diagramação embaralhada; confirme no sistema a lista de relatorias e prepare os pareceres e a audiência da ECT.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer na pauta",
-   "ref": "PL 1475/2023",
-   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
-   "ementa": "Institui a política de enfrentamento ao assédio sexual e a outras violências praticadas contra mulheres nas instituições de ensino superior do estado.",
-   "situacao": "Pauta de 11/11/2026",
-   "temas": [
-    "mulheres"
-   ],
-   "gabinete": true,
-   "nota": "Tema de violência contra mulheres, com Dani como relatora. Verificar se o parecer está pronto para a votação.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer na pauta",
-   "ref": "PL 5228/2025",
-   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
-   "ementa": "Cria o selo 'Empresa Amiga da Mãe Atípica'.",
-   "situacao": "Pauta de 11/11/2026",
-   "temas": [
-    "mulheres"
-   ],
-   "gabinete": true,
-   "nota": "Mães atípicas contam como tema mulheres, e Dani é a relatora. Confirmar o parecer.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer na pauta",
-   "ref": "PL 5631/2025",
-   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
-   "ementa": "Altera a Lei estadual 6.165, de 15/02/2012, e dá outras providências.",
-   "situacao": "Pauta de 11/11/2026",
-   "gabinete": true,
-   "nota": "Projeto de autoria da Dani, com parecer do Dep. Professor Josemar. Acompanhar a votação.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Outras relatorias da Dani",
-   "ref": "Pauta de 11/11/2026",
-   "autor": "Dep. Dani Balbi (relatora)",
-   "ementa": "PL 2725/2023 (Renato Miranda): altera a Lei 8.694/2019. PL 5425/2022 (Mônica Francisco e outros): auxílio emergencial para secas e enchentes. PL 7010/2026 (Renata Souza): política de apoio ao ofício das pessoas trancistas. PL 4824/2025 (Marina do MST): climatização das cozinhas das escolas estaduais. PL 6026/2025 (Jorge Felippe Neto): área de descanso para técnicos e tecnólogos em radiologia em plantão. PL 5063/2025 (Lilian Behring): bem-estar e qualidade de vida no trabalho dos profissionais de saúde. PL 4550/2024 (Prof. Josemar): desprecarização do vínculo dos ACS e ACE. PL 5331/2025 (Lilian Behring): equipamentos de proteção individual na saúde. PL 7082/2026 (Lilian Behring): diretrizes para enfermagem em home care.",
-   "situacao": "Pauta de 11/11/2026",
-   "gabinete": true,
-   "nota": "Relatorias atribuídas à Dani pela leitura do edital, que veio com a diagramação confusa; confirmar no sistema.",
-   "edicaoId": "2026-11-10",
-   "data": "2026-11-10"
-  },
-  {
    "grupo": "Leis e vetos",
    "tipo": "Lei sancionada",
    "ref": "Lei 11.356/2026 (PL 1412/2023)",
    "autor": "Dep. Felipinho Ravis",
-   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no estado.",
-   "situacao": "Sancionada em 29/10/2026",
+   "ementa": "Institui a Campanha Check-up Feminino para orientação e prevenção de doenças no Estado.",
+   "situacao": "Sancionada em 29/10/2026; ofício 304/2026 despachado para impressão em 09/11/2026.",
    "temas": [
     "mulheres"
    ],
-   "nota": "Saúde da mulher; serve de referência para a pauta do gabinete. Nenhuma ação necessária.",
+   "nota": "Política de saúde da mulher já em vigor. Vale acompanhar a regulamentação e a execução da campanha.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   },
   {
-   "grupo": "Pareceres de comissão",
-   "tipo": "Parecer na pauta",
+   "grupo": "Reuniões e audiências",
+   "tipo": "Reunião de comissão",
+   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social - 1ª Reunião Ordinária",
+   "autor": "Dep. Dani Balbi (presidenta)",
+   "ementa": "Reunião por meios remotos em 11/11/2026, às 11h30, com distribuição de proposições e discussão e votação de 14 pareceres (11 relatados por Dani Balbi, 1 por Valdecy da Saúde e 2 por Professor Josemar). Inclui a deliberação de audiência pública sobre a crise e a reestruturação da ECT.",
+   "situacao": "Convocada em 09/11/2026.",
+   "gabinete": true,
+   "nota": "Reunião presidida pela deputada, com a maior parte dos pareceres sob sua relatoria. Conferir a pauta e o quórum dos membros convocados.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Parecer em pauta",
+   "ref": "PL 1475/2023",
+   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui a política de enfrentamento ao assédio sexual e outras violências contra mulheres nas instituições de ensino superior do Estado.",
+   "situacao": "Parecer na pauta de 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Tema de violência contra mulheres, com a deputada como relatora. Preparar o parecer para a votação.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Parecer em pauta",
+   "ref": "PL 5228/2025",
+   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria o selo Empresa Amiga da Mãe Atípica.",
+   "situacao": "Parecer na pauta de 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Trata de mães atípicas e cuidadoras, e a deputada é a relatora. Preparar o parecer.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Parecer em pauta",
+   "ref": "PL 5631/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
+   "ementa": "Altera a Lei estadual 6.165, de 15/02/2012. A ementa não detalha o assunto.",
+   "situacao": "Parecer na pauta de 11/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com parecer do relator Professor Josemar na pauta. Acompanhar a votação.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Parecer em pauta",
    "ref": "PL 4428/2024",
    "autor": "Dep. Val Ceasa (relator: Dep. Professor Josemar)",
    "ementa": "Cria espaços públicos de co-working para fomentar inovação, colaboração e empreendedorismo entre pequenos empreendedores, freelancers e startups.",
-   "situacao": "Pauta de 11/11/2026 da Comissão de Trabalho",
+   "situacao": "Parecer na pauta de 11/11/2026.",
    "temas": [
     "ct"
    ],
-   "nota": "Trata de inovação e startups, tema de ciência e tecnologia, e está na pauta presidida pela Dani.",
+   "gabinete": true,
+   "nota": "Tema de inovação e startups, na pauta da comissão que a deputada preside.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias",
+   "ref": "Outras relatorias de Dani Balbi (pauta de 11/11/2026)",
+   "autor": "Dep. Dani Balbi (relatora)",
+   "ementa": "PL 2725/2023 (Renato Miranda, altera a Lei 8.694/2019); PL 5425/2022 (Mônica Francisco e outros, auxílio emergencial para secas e enchentes); PL 7010/2026 (Renata Souza, apoio ao ofício das trancistas); PL 4824/2025 (Marina do MST, climatização de cozinhas escolares); PL 6026/2025 (Jorge Felippe Neto, área de descanso para técnicos em radiologia); PL 5063/2025 (Lilian Behring, bem-estar dos profissionais da saúde); PL 4550/2024 (Professor Josemar, ACS e ACE); PL 5331/2025 (Lilian Behring, EPI na saúde); PL 7082/2026 (Lilian Behring, enfermagem em home care).",
+   "situacao": "Pareceres na pauta de 11/11/2026.",
+   "gabinete": true,
+   "nota": "Demais projetos relatados pela deputada na reunião, sem tema prioritário do gabinete.",
    "edicaoId": "2026-11-10",
    "data": "2026-11-10"
   }

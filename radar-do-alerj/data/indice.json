@@ -1,9 +1,9 @@
 {
- "atualizado": "2026-11-12T12:44:10+00:00",
+ "atualizado": "2026-11-12T14:11:31+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-12T12:42:31+00:00",
-  "edicaoLida": "2026-11-12",
+  "ultimaExecucao": "2026-11-12T14:08:44+00:00",
+  "edicaoLida": "2026-11-10",
   "mensagem": null
  },
  "edicoes": [
@@ -14,10 +14,10 @@
    "extra": false,
    "contagem": {
     "total": 22,
+    "gabinete": 1,
     "lgbt": 1,
     "mulheres": 4,
-    "ct": 2,
-    "gabinete": 1
+    "ct": 2
    }
   },
   {
@@ -27,23 +27,23 @@
    "extra": false,
    "contagem": {
     "total": 33,
+    "gabinete": 2,
     "lgbt": 3,
     "mulheres": 9,
-    "ct": 1,
-    "gabinete": 2
+    "ct": 1
    }
   },
   {
    "id": "2026-11-10",
    "data": "2026-11-10",
-   "edicao": "Ano LII · Nº 206",
+   "edicao": "Ano LII · Nº 205",
    "extra": false,
    "contagem": {
-    "total": 18,
+    "total": 20,
+    "gabinete": 6,
     "lgbt": 0,
-    "mulheres": 4,
-    "ct": 1,
-    "gabinete": 5
+    "mulheres": 3,
+    "ct": 1
    }
   }
  ]

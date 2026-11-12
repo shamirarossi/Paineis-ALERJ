@@ -1,0 +1,73 @@
+{
+ "atualizado": "2026-11-12T14:11:31+00:00",
+ "itens": [
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Leis sancionadas (datas comemorativas)",
+   "ref": "Leis 11.348 e 11.352/2026",
+   "autor": "Dep. Tia Ju (Lei 11.348); Dep. Carla Machado (Lei 11.352)",
+   "ementa": "A Lei 11.348 inclui no calendário oficial o Dia Estadual de Conscientização sobre a Superdotação e as Altas Habilidades. A Lei 11.352 inclui o Dia Estadual do Mediador Escolar.",
+   "situacao": "Sancionadas em 29/10/2026; ofícios despachados para impressão em 09/11/2026.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Na dúvida, marcado: superdotação costuma ser tratada como neurodivergência, e o mediador escolar atua na inclusão de alunos atípicos. Vale conferir se os textos tocam em TEA.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Lei sancionada",
+   "ref": "Lei 11.353/2026 (PL 613-A/2023)",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Declara patrimônio cultural imaterial do Estado o Grêmio Recreativo Escola de Samba Leão de Nova Iguaçu.",
+   "situacao": "Sancionada em 29/10/2026; ofício despachado para impressão em 09/11/2026.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagem a agremiação de Nova Iguaçu, município da Baixada Fluminense. Pode servir para contato com a base local.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Leis e vetos",
+   "tipo": "Lei sancionada com veto parcial",
+   "ref": "Lei 11.358/2026 (PL 1764-A/2023)",
+   "autor": "Deps. Munir Neto, Tia Ju, Lucinha, Carlos Macedo, Guilherme Delaroli, Dionísio Lins, Chico Machado, Val Ceasa, Felipinho Ravis, Carlos Minc e Giovani Ratinho",
+   "ementa": "Cria o programa Patrulha da Pessoa Idosa. O governador vetou os §§1º a 4º do art. 1º, por invadirem a reserva de administração do Executivo, e o art. 4º, que vinculava o início de rondas e visitas ao simples protocolo do pedido de medida protetiva.",
+   "situacao": "Despacho de 09/11/2026: a imprimir e à Comissão de Emendas Constitucionais e Vetos.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "O veto ao art. 4º atinge o emprego de rondas e visitas policiais, o que toca segurança pública. Acompanhar a apreciação do veto na comissão.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas de plenário (urgência)",
+   "ref": "PL 8277/2026 (Mensagem 19/2026) - Emendas 14, 15 e 16",
+   "autor": "Deps. Vinícius Cozzolino, Franciane Motta, Célia Jordão e Luiz Paulo",
+   "ementa": "A Aditiva 14 prevê que, a partir de 01/01/2029, a manutenção dos benefícios sofra redução de 20% ao ano, nos termos da LC federal 160/2017. As Modificativas 15 e 16 reescrevem o §1º do art. 2º, estendendo o diferimento às transferências da distribuidora para estabelecimento situado em aeroporto do Estado.",
+   "situacao": "Em regime de urgência, discussão única; republicadas por incorreções.",
+   "gabinete": true,
+   "nota": "Emendas de autoria do deputado a projeto do Executivo sobre o regime tributário do querosene de aviação. Acompanhar a votação em plenário.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Parecer em pauta",
+   "ref": "PL 5228/2025",
+   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria o selo Empresa Amiga da Mãe Atípica.",
+   "situacao": "Parecer na pauta de 11/11/2026.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Selo voltado a mães de pessoas atípicas, tema de famílias atípicas e cuidadores. Acompanhar o andamento.",
+   "edicaoId": "2026-11-10",
+   "data": "2026-11-10"
+  }
+ ]
+}
