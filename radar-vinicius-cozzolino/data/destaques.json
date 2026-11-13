@@ -1,6 +1,238 @@
 {
- "atualizado": "2026-11-12T15:15:48+00:00",
+ "atualizado": "2026-11-13T12:45:20+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados",
+   "ref": "PL 8496/2026 e PL 8497/2026",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "O PL 8496 disciplina o combate à poluição sonora de paredões de som e distribui competências entre PM, Polícia Civil e órgãos ambientais e de trânsito. O PL 8497 admite aprendizagem profissional em apoio à manutenção de viaturas das polícias e da Polícia Penal, como prevenção ao aliciamento de jovens pelo crime organizado.",
+   "situacao": "A imprimir; seguem para CCJ e comissões de mérito, inclusive Segurança Pública.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Os dois projetos tratam de atuação policial e prevenção ao crime. Vale acompanhar na Comissão de Segurança Pública.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2854/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede a Medalha Tiradentes a Adriano Álvaro de Melo, o Super Alvinho, menino da Maré com altas habilidades; a justificativa cita a defesa de educação inclusiva para crianças com altas habilidades.",
+   "situacao": "A imprimir; segue para a Comissão de Normas Internas.",
+   "temas": [
+    "tea"
+   ],
+   "gabinete": true,
+   "nota": "O deputado é signatário. O tema de altas habilidades e educação inclusiva toca neurodivergência; marcado na dúvida.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2855/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede a Medalha Tiradentes a Luyara Franco, filha de Marielle Franco e cofundadora do Instituto Marielle Franco, por sua defesa da memória, dos direitos humanos e da democracia.",
+   "situacao": "A imprimir; segue para a Comissão de Normas Internas.",
+   "gabinete": true,
+   "nota": "O deputado é signatário da proposição.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicações",
+   "ref": "Indicações 7258, 7259, 7261 e 7262",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Pedem tapa-buracos na Rua Gílson (Vila Iracema) e providências da Águas do Rio e da Agenersa contra problemas de saneamento e alagamentos na Rua Brasília, em Marapicu e Cabuçu, todos em Nova Iguaçu.",
+   "situacao": "Apresentadas.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Demandas de infraestrutura e saneamento em Nova Iguaçu, na Baixada.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicações",
+   "ref": "Indicações 7260 e 7264",
+   "autor": "Deps. Índia Armelau e Rodrigo Amorim",
+   "ementa": "A 7260 pede a revisão da Resolução SEPM 9.512/2026 e o restabelecimento da escala de serviço dos policiais militares responsáveis por pessoas com deficiência. A 7264 pede a convocação dos aprovados no concurso do Degase de 2025.",
+   "situacao": "Apresentadas.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Tratam de Polícia Militar e do quadro do Degase; este último marcado na dúvida.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Moções de aplausos",
+   "ref": "Moções 3184, 3186, 3194 e 3196",
+   "autor": "Deps. Pedro Brazão, Alexandre Knoploch e outros",
+   "ementa": "Homenageiam uma tenente-coronel dentista da PM (3184), um subtenente da PM (3186), cinco profissionais de segurança pública (3196) e um suboficial da reserva e pastor com atuação social na Baixada Fluminense (3194).",
+   "situacao": "Apresentadas.",
+   "temas": [
+    "seguranca",
+    "baixada"
+   ],
+   "nota": "Homenagens a agentes de segurança e, no caso da 3194, a trabalho comunitário na Baixada.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade com emendas e substitutivo",
+   "ref": "PL 4662/2025",
+   "autor": "Dep. Alexandre Knoploch (relatora: Dep. Sarah Poncio)",
+   "ementa": "Substitutivo troca o cadastro prévio obrigatório de torcedores estrangeiros por medidas de identificação, orientação e segurança em jogos, vedando exigências diferenciadas por nacionalidade e exigindo respeito à LGPD.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Trata de segurança em eventos esportivos; marcado na dúvida, por não envolver diretamente as forças de segurança.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade com emendas",
+   "ref": "PL 5396/2025",
+   "autor": "Dep. Vitor Junior (relator: Dep. Fred Pacheco)",
+   "ementa": "Uso de ferramentas de inteligência artificial por alunos com deficiência e neurodivergentes nas escolas. Emendas renumeram incisos e suprimem os arts. 5º e 7º, por interferência na atuação do Executivo.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Voltado a alunos neurodivergentes; avança na CCJ, e as emendas retiram obrigações do Executivo.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Juridicidade",
+   "ref": "PL 7115/2026",
+   "autor": "Dep. Vinicius Cozzolino (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 11.096/2026 (Código Estadual de Direito dos Animais) para criar mecanismo de incentivo à denúncia qualificada de maus-tratos contra animais.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "gabinete": true,
+   "nota": "Projeto do deputado superou a CCJ; falta o mérito nas comissões seguintes. Vale acompanhar a pauta.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Legalidade com emenda",
+   "ref": "PL 7210/2026 e PL 7424/2026",
+   "autor": "Dep. Índia Armelau (relator: Dep. Marcelo Dino); Dep. Marcelo Dino (relator: Dep. Fred Pacheco)",
+   "ementa": "O PL 7210 cria a Semana Estadual de Conscientização sobre a Apraxia de Fala na Infância, com emenda suprimindo o art. 2º. O PL 7424 amplia o rol de beneficiados pelo Selo Escola Amiga da Saúde Mental e recebeu emenda na ementa.",
+   "situacao": "Aprovados na CCJ em 10/11.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Tratam de condição do neurodesenvolvimento infantil e de inclusão escolar em saúde mental; marcados na dúvida.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Juridicidade com emendas",
+   "ref": "PL 7305/2026",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Elika Takimoto)",
+   "ementa": "Inclui no calendário oficial a Maratona Roberto Dinamite de Duque de Caxias, no segundo domingo de abril, com emendas ajustando o texto.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Evento de Duque de Caxias, na Baixada.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 10/2015",
+   "autor": "Dep. Paulo Ramos (relator: Dep. Anderson Moraes)",
+   "ementa": "Cria delegacias especializadas em acidentes do trabalho; parecer favorável com o substitutivo da CCJ às emendas de plenário.",
+   "situacao": "Aprovado em 27/10.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Cria delegacias da Polícia Civil especializadas.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (TEA)",
+   "ref": "PL 1576/2023, PL 3528/2024, PL 5438/2025",
+   "autor": "Deps. Rodrigo Amorim; Fred Pacheco e Rodrigo Amorim; Rosenverg Reis",
+   "ementa": "O PL 1576 dá gratuidade de inscrição em concursos a responsáveis de pessoas com deficiência, com emendas que incluem TEA. O PL 3528 prevê alimentação a pais e responsáveis que acompanham pessoa com TEA nas escolas, com emenda orçamentária. O PL 5438 altera a lei do laudo médico de deficiências irreversíveis e TEA.",
+   "situacao": "Favoráveis na Comissão de Orçamento em 27/10.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Três projetos de TEA avançam na Comissão de Orçamento; vale acompanhar a votação em plenário.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião",
+   "ref": "1ª Reunião Ordinária da Comissão de Economia, Indústria e Comércio (18/08/2026)",
+   "autor": "Presidência: Dep. Filipe Soares",
+   "ementa": "Pareceres aprovados por unanimidade, com retirada de pauta dos PLs 2609/2020 e 1013/2019. Vinicius Cozzolino relatou sete projetos. O PL 3895/2024, dele, teve parecer favorável da relatora Célia Jordão.",
+   "situacao": "Ata publicada.",
+   "gabinete": true,
+   "nota": "Membro efetivo da comissão e relator de sete projetos; seu PL 3895/2024 foi aprovado.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias",
+   "ref": "Outras relatorias de Vinicius Cozzolino (Economia)",
+   "autor": "Dep. Vinicius Cozzolino",
+   "ementa": "PL 1009/2023 (Elika Takimoto), 6390/2025 (Bruno Boaretto), 763/2023 (Dionísio Lins), 770/2023 (Marcio Gualberto), 5399/2022 (Waldeck Carneiro e André Ceciliano), 1392/2023 (Fred Pacheco) e 2721/2023 (Anderson Moraes), todos favoráveis, vários com emendas ou substitutivo da CCJ.",
+   "situacao": "Aprovados por unanimidade.",
+   "gabinete": true,
+   "nota": "Sete relatorias suas aprovadas na reunião.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3022/2024, PL 2851/2024 e PL 7396/2026",
+   "autor": "Deps. Marcelo Dino (relator: Rafael Nobre), Alan Lopes (relator: Fred Pacheco) e Munir Neto (relator: Alan Lopes)",
+   "ementa": "O PL 3022 fixa procedimentos com alunos autistas na escola. O PL 2851 dá continuidade, nos anos seguintes, ao profissional de apoio escolar na educação especial. O PL 7396 institui o laço azul com laranja de conscientização sobre a dislexia.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Três projetos de inclusão escolar e neurodivergência em votação; o 7396 (dislexia) foi marcado na dúvida.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "2ª Reunião Extraordinária da Comissão de Prevenção ao Uso de Drogas",
+   "autor": "Presidência: Dep. Danniel Librelon",
+   "ementa": "Dia 18/11/2026, 14h, por meio remoto, com quatro pareceres. O PL 2837/2020 (Danniel Librelon; relator: Fred Pacheco) destina bens e dinheiro apreendidos no tráfico a tratamento de dependentes químicos.",
+   "situacao": "Convocada.",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "O PL 2837/2020 liga o combate ao tráfico a políticas de recuperação.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
   {
    "grupo": "Projetos de lei",
    "tipo": "Aprovado em 2ª discussão",

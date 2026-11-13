@@ -1,0 +1,637 @@
+{
+ "data": "2026-11-13",
+ "edicao": "Ano LII · Nº 208",
+ "extra": false,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTM%3D",
+ "lidoEm": "2026-11-13T12:41:14+00:00",
+ "resumo": "Foi promulgada a Resolução 2548/2026, de autoria da deputada, que concede o Diploma Abdias Nascimento a Walkiria Nictheroy. O PL 8070/2026 (Bar da Fatinha), também dela, foi aprovado na CCJ pela constitucionalidade. Nos temas do gabinete, o PL 8499/2026 declara a Parada do Orgulho LGBTQIA+ de Niterói patrimônio imaterial. Em mulheres, foram aprovados em CCJ os PLs 7834/2026 (Dia da Mãe Solo) e 7978/2026 (Observatório do Feminicídio), e há evento 'O que tem de Lilás no Azul?' na Escola do Legislativo em 26/11. Na agenda, Cultura em 17/11 (14h), onde é membro efetiva, e Educação em 19/11 (15h), com relatoria do PL 6447/2022 (inclusão digital) e dois projetos de sua autoria na pauta.",
+ "pessoal": "26 atos de pessoal: 24 da Mesa Diretora (14 nomeações e 10 exonerações) e 2 do Primeiro Secretário (1 dispensa e 1 designação de função gratificada).",
+ "itens": [
+  {
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2548/2026 (PR 1296/2025)",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Concede o Diploma Abdias Nascimento a Walkiria Nictheroy, por sua atuação na afirmação de uma sociedade democrática plural e com igualdade entre componentes raciais e culturais.",
+   "situacao": "Aprovada em 12/11 e promulgada pelo Presidente.",
+   "gabinete": true,
+   "nota": "Projeto de sua autoria concluiu a tramitação com a promulgação; vale divulgar a homenagem."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8499/2026",
+   "autor": "Dep. Verônica Lima",
+   "ementa": "Declara a Parada do Orgulho LGBTQIA+ de Niterói patrimônio cultural imaterial do Estado e autoriza o Executivo a apoiar sua realização e a preservação do acervo.",
+   "situacao": "A imprimir; segue para CCJ, Cultura e Assuntos Municipais.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Reconhece a Parada de Niterói, que completa 20 anos em 2026. Vale acompanhar a tramitação e avaliar apoio ou coautoria."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8498/2026",
+   "autor": "Dep. Dr. Pedro Ricardo",
+   "ementa": "Inclui na Lei 11.215/2026 o acolhimento temporário gratuito de mães, pais e responsáveis durante a internação de recém-nascidos, crianças e adolescentes no SUS, com prioridade para puérperas e famílias em situação de rua.",
+   "situacao": "A imprimir; segue para CCJ, Criança, Direitos Humanos, Saúde e Orçamento.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de maternidade e cuidado; o texto dá atenção a puérperas e lactantes. Marcado na dúvida."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2855/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede a Medalha Tiradentes a Luyara Franco, filha de Marielle Franco e cofundadora do Instituto Marielle Franco, por sua defesa da memória, dos direitos humanos e da democracia.",
+   "situacao": "A imprimir; segue para a Comissão de Normas Internas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A justificativa destaca a luta contra a violência política e a participação de mulheres negras na política."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação do vencido aprovada",
+   "ref": "PL 5312-A/2022",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Altera a Lei 8.355/2019 sobre o direito de amamentar durante a realização de concursos públicos estaduais.",
+   "situacao": "Redação do vencido emendada aprovada em 12/11; vai a Autógrafo.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Garante o direito de amamentar em concursos públicos; avanço em direitos de mães e lactantes."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade com emendas",
+   "ref": "PL 5396/2025",
+   "autor": "Dep. Vitor Junior (relator: Dep. Fred Pacheco)",
+   "ementa": "Uso de ferramentas de inteligência artificial por alunos com deficiência e neurodivergentes nas escolas. Emendas renumeram incisos e suprimem os arts. 5º e 7º, por interferência na atuação do Executivo.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve inteligência artificial e tecnologia assistiva na educação."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Legalidade / juridicidade",
+   "ref": "PL 7834/2026 e PL 7978/2026",
+   "autor": "Dep. Giselle Monteiro (relator: Dep. Alexandre Knoploch); Dep. Zeidan (relatora: Dep. Elika Takimoto)",
+   "ementa": "O PL 7834 institui o Dia da Mãe Solo em 4 de abril. O PL 7978 altera a Lei 9.644/2022, que criou o Observatório do Feminicídio.",
+   "situacao": "Aprovados na CCJ em 10/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Duas pautas de mulheres avançam: valorização da maternidade solo e aprimoramento do Observatório do Feminicídio."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade",
+   "ref": "PL 8070/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Elika Takimoto)",
+   "ementa": "Declara o Bar da Fatinha, em Santa Teresa, patrimônio histórico, cultural e material do Estado.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "gabinete": true,
+   "nota": "Projeto seu avançou na CCJ. Acompanhe a próxima comissão e a inclusão na pauta."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião",
+   "ref": "1ª Reunião Ordinária da Comissão de Economia, Indústria e Comércio (18/08/2026)",
+   "autor": "Presidência: Dep. Filipe Soares",
+   "ementa": "Pareceres aprovados por unanimidade, com retirada de pauta dos PLs 2609/2020 e 1013/2019. Vinicius Cozzolino relatou sete projetos. O PL 3895/2024, dele, teve parecer favorável da relatora Célia Jordão.",
+   "situacao": "Ata publicada.",
+   "gabinete": true,
+   "nota": "Relatou nove pareceres na reunião; um foi retirado de pauta a pedido do relator."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias",
+   "ref": "Outras relatorias de Dani Balbi (Economia)",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "PL 4078/2018 e 1515/2023 e 2519/2023 (Carlos Minc), 1156/2023 (Verônica Lima), 822/2019 (Márcio Canella), 2607/2017 (Dionisio Lins), 2364/2023 (Fred Pacheco) e 2038/2023 (Flávio Serafini, Marina do MST, Prof. Josemar e Dani Monteiro), favoráveis. O PL 2609/2020 foi retirado de pauta a pedido do relator.",
+   "situacao": "Aprovados por unanimidade.",
+   "gabinete": true,
+   "nota": "Oito relatorias suas aprovadas na reunião."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "2ª Reunião Ordinária da Comissão de Cultura",
+   "autor": "Presidência: Dep. Verônica Lima",
+   "ementa": "Dia 17/11/2026, 14h, Sala 1809 (semipresencial). Dez pareceres em pauta (relatores: Thiago Gagliasso 1 a 3, Chico Machado 4 e 5, Dani Monteiro 6 a 8, Franciane Motta 9 e 10) e apresentação dos nomes do Diploma Heloneida Studart de Cultura/2026.",
+   "situacao": "Convocada.",
+   "gabinete": true,
+   "nota": "A deputada é membro efetiva da comissão e está convocada."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 4909/2025",
+   "autor": "Dep. Elika Takimoto (relatora: Dep. Dani Monteiro)",
+   "ementa": "Inclui no calendário oficial o Dia Estadual Fernanda Torres das Mulheres no Cinema e no Audiovisual.",
+   "situacao": "Na pauta da Comissão de Cultura em 17/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta de mulheres no audiovisual; a deputada vota como membro da comissão."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "3ª Reunião Ordinária da Comissão de Educação",
+   "autor": "Presidência: Dep. Alan Lopes",
+   "ementa": "Dia 19/11/2026, 15h, por meios remotos. Dezenove pareceres em pauta, com relatoria de Dani Balbi no PL 6447/2022 e dois projetos de autoria dela (7035/2026 e 7301/2026).",
+   "situacao": "Convocada.",
+   "gabinete": true,
+   "nota": "Tem relatoria e autoria na pauta; confirmar presença e voto."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 6447/2022",
+   "autor": "Dep. Danniel Librelon (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui programa de incentivo à inclusão digital e tecnológica para erradicar o analfabetismo digital em áreas rurais.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria da deputada, em tema de inclusão digital. A leitura do edital sugere que o projeto seja o primeiro da pauta; confira a distribuição."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 7035/2026 e PL 7301/2026",
+   "autor": "Dep. Dani Balbi (relatores: Dep. Vitor Junior e Dep. Márcio Gualberto)",
+   "ementa": "O PL 7035 altera a Lei 8.712/2020 sobre ar-condicionado nas escolas públicas. O PL 7301 altera a Lei 7.202/2016, que proíbe taxas de repetência, disciplina eletiva e prova nas instituições particulares de ensino superior.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "gabinete": true,
+   "nota": "Dois projetos seus em votação na Educação; vale articular com os relatores."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 7201/2026",
+   "autor": "Dep. Marina do MST (relator: Dep. Alan Lopes)",
+   "ementa": "Diretrizes para as Estantes Literárias Maria da Penha nas escolas e bibliotecas públicas estaduais.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta de enfrentamento à violência contra a mulher na educação."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "3ª Reunião Ordinária da Comissão de Esporte e Lazer",
+   "autor": "Presidência: Dep. Carlinhos BNH",
+   "ementa": "Dia 17/11/2026, 11h30, por meios remotos, com sete pareceres. Destaque: PL 6184/2025, de Carlinhos BNH (relator: Alan Lopes), que proíbe o ingresso em estádios de condenados por violência doméstica contra a mulher.",
+   "situacao": "Convocada.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "O PL 6184/2025 trata de violência doméstica e de gênero em estádios."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul: 'O que tem de Lilás no Azul?'",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Dia 26/11/2026, das 13h às 17h, presencial, com 100 vagas. Debate saúde do homem e responsabilidade masculina no enfrentamento à violência contra a mulher, com mesa com ativista da Lei Maria da Penha. Inscrições até 16/11.",
+   "situacao": "Inscrições abertas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Evento liga a saúde do homem ao combate à violência contra a mulher; a equipe pode divulgar e participar."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Diplomas, medalhas e títulos",
+   "ref": "Res. 2549 a 2551/2026; PR 2851 a 2853 e 2856/2026",
+   "autor": "Deps. Alan Lopes, Renato Miranda, Giselle Monteiro, Danniel Librelon",
+   "ementa": "Promulgadas as Resoluções 2549 (Diploma Russell Philip Shedd), 2550 (Diploma Juíza Patrícia Acioli) e 2551 (Diploma José Alencar à Casteliano Pescados). Apresentados os PRs 2851 a 2853 (Medalha Tiradentes a Suen Tao, Zhao Yan e Chen Yiming) e 2856 (Título de Empresa Cidadã à State Grid Brazil Holding S.A.).",
+   "situacao": "Resoluções promulgadas; PRs enviados à Comissão de Normas Internas."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados",
+   "ref": "PL 8496/2026 e PL 8497/2026",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "O PL 8496 disciplina o combate à poluição sonora de paredões de som e distribui competências entre PM, Polícia Civil e órgãos ambientais e de trânsito. O PL 8497 admite aprendizagem profissional em apoio à manutenção de viaturas das polícias e da Polícia Penal, como prevenção ao aliciamento de jovens pelo crime organizado.",
+   "situacao": "A imprimir; seguem para CCJ e comissões de mérito, inclusive Segurança Pública."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8495/2026",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Altera a Lei 5.981/2011 para ampliar a transparência e a rastreabilidade dos recursos públicos estaduais repassados a entidades privadas sem fins lucrativos.",
+   "situacao": "A imprimir; segue para CCJ, Economia e Orçamento."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2854/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede a Medalha Tiradentes a Adriano Álvaro de Melo, o Super Alvinho, menino da Maré com altas habilidades; a justificativa cita a defesa de educação inclusiva para crianças com altas habilidades.",
+   "situacao": "A imprimir; segue para a Comissão de Normas Internas."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicações",
+   "ref": "Indicações 7258, 7259, 7261 e 7262",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Pedem tapa-buracos na Rua Gílson (Vila Iracema) e providências da Águas do Rio e da Agenersa contra problemas de saneamento e alagamentos na Rua Brasília, em Marapicu e Cabuçu, todos em Nova Iguaçu.",
+   "situacao": "Apresentadas."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicações",
+   "ref": "Indicações 7260 e 7264",
+   "autor": "Deps. Índia Armelau e Rodrigo Amorim",
+   "ementa": "A 7260 pede a revisão da Resolução SEPM 9.512/2026 e o restabelecimento da escala de serviço dos policiais militares responsáveis por pessoas com deficiência. A 7264 pede a convocação dos aprovados no concurso do Degase de 2025.",
+   "situacao": "Apresentadas."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Moções de aplausos",
+   "ref": "Moções 3184, 3186, 3194 e 3196",
+   "autor": "Deps. Pedro Brazão, Alexandre Knoploch e outros",
+   "ementa": "Homenageiam uma tenente-coronel dentista da PM (3184), um subtenente da PM (3186), cinco profissionais de segurança pública (3196) e um suboficial da reserva e pastor com atuação social na Baixada Fluminense (3194).",
+   "situacao": "Apresentadas."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação e moções",
+   "ref": "Indicação 7263; Moções 3175 a 3200 (demais)",
+   "autor": "Diversos",
+   "ementa": "A indicação 7263 pede ampliação do acesso ao medicamento Trikafta para crianças de 2 a 5 anos com fibrose cística. As demais moções são homenagens a sindicalistas da Fiocruz, pastores, professores, enfermeira, jornalistas, artistas e assessores parlamentares.",
+   "situacao": "Apresentadas."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do Dia",
+   "ref": "PL 4051-A/2024, PL 4907/2025, PL 6226/2025",
+   "autor": "Deps. Brazão, Elika Takimoto e Tia Ju",
+   "ementa": "Aprovada em redação do vencido a declaração do Grêmio Renascer de Jacarepaguá como patrimônio imaterial (4051-A). Aprovados em 1ª discussão o Dia do Educador Parental (4907) e o Dia Estadual do Grupo Arimateia (6226). Foram aprovados três requerimentos de inclusão na Ordem do Dia (PRs 2825 e 2813/2026 e PL 6119/2022), e o PR 1401/2025 foi retirado de pauta a pedido da autora.",
+   "situacao": "4051-A segue a Autógrafo; 4907 e 6226 voltam em 2ª discussão."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Reunião da CCJ",
+   "ref": "9ª Reunião Extraordinária da CCJ, 10/11/2026",
+   "autor": "Presidência: Dep. Rodrigo Amorim",
+   "ementa": "Entre os pareceres aprovados: inconstitucionalidade do PL 2810/2023 (dispensa de vistoria anual de caminhões); juridicidade com emenda do PL 2820/2023 (Clube de Pesca de Piraí) e do PL 7261/2026 (Paróquia São Mateus); injuridicidade dos PLs 7194/2026 (Independência do Brasil na Bahia) e 7406/2026 (renomear praça em Bangu); legalidade com substitutivo do PL 7594/2026 (Dia Estadual de Limpeza dos Mares, 21/3).",
+   "situacao": "Pareceres aprovados."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade com emendas e substitutivo",
+   "ref": "PL 4662/2025",
+   "autor": "Dep. Alexandre Knoploch (relatora: Dep. Sarah Poncio)",
+   "ementa": "Substitutivo troca o cadastro prévio obrigatório de torcedores estrangeiros por medidas de identificação, orientação e segurança em jogos, vedando exigências diferenciadas por nacionalidade e exigindo respeito à LGPD.",
+   "situacao": "Aprovado na CCJ em 10/11."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Juridicidade",
+   "ref": "PL 7115/2026",
+   "autor": "Dep. Vinicius Cozzolino (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 11.096/2026 (Código Estadual de Direito dos Animais) para criar mecanismo de incentivo à denúncia qualificada de maus-tratos contra animais.",
+   "situacao": "Aprovado na CCJ em 10/11."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Legalidade com emenda",
+   "ref": "PL 7210/2026 e PL 7424/2026",
+   "autor": "Dep. Índia Armelau (relator: Dep. Marcelo Dino); Dep. Marcelo Dino (relator: Dep. Fred Pacheco)",
+   "ementa": "O PL 7210 cria a Semana Estadual de Conscientização sobre a Apraxia de Fala na Infância, com emenda suprimindo o art. 2º. O PL 7424 amplia o rol de beneficiados pelo Selo Escola Amiga da Saúde Mental e recebeu emenda na ementa.",
+   "situacao": "Aprovados na CCJ em 10/11."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Juridicidade com emendas",
+   "ref": "PL 7305/2026",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Elika Takimoto)",
+   "ementa": "Inclui no calendário oficial a Maratona Roberto Dinamite de Duque de Caxias, no segundo domingo de abril, com emendas ajustando o texto.",
+   "situacao": "Aprovado na CCJ em 10/11."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis",
+   "ref": "10ª Reunião Extraordinária da Comissão de Orçamento (27/10/2026)",
+   "autor": "Presidência: Dep. Gustavo Tutuca",
+   "ementa": "Parecer favorável, em geral com emendas ou substitutivos da CCJ, a: PL 2940/2017 (teste de Zika em doadores de sangue), 1418/2019 (coleta de exames em domicílio), 2778/2020 (IPVA), 1257/2023 (canabinoides veterinários), 2415/2023 (câncer de cabeça e pescoço), 3504/2024 (laudo de doenças autoimunes), 3991/2024 (refúgios climáticos), 4193/2024 (cinoterapia) e 4657/2025 (ensino de inglês).",
+   "situacao": "Pareceres aprovados em 27/10 e publicados agora."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 10/2015",
+   "autor": "Dep. Paulo Ramos (relator: Dep. Anderson Moraes)",
+   "ementa": "Cria delegacias especializadas em acidentes do trabalho; parecer favorável com o substitutivo da CCJ às emendas de plenário.",
+   "situacao": "Aprovado em 27/10."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (TEA)",
+   "ref": "PL 1576/2023, PL 3528/2024, PL 5438/2025",
+   "autor": "Deps. Rodrigo Amorim; Fred Pacheco e Rodrigo Amorim; Rosenverg Reis",
+   "ementa": "O PL 1576 dá gratuidade de inscrição em concursos a responsáveis de pessoas com deficiência, com emendas que incluem TEA. O PL 3528 prevê alimentação a pais e responsáveis que acompanham pessoa com TEA nas escolas, com emenda orçamentária. O PL 5438 altera a lei do laudo médico de deficiências irreversíveis e TEA.",
+   "situacao": "Favoráveis na Comissão de Orçamento em 27/10."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias",
+   "ref": "Outras relatorias de Vinicius Cozzolino (Economia)",
+   "autor": "Dep. Vinicius Cozzolino",
+   "ementa": "PL 1009/2023 (Elika Takimoto), 6390/2025 (Bruno Boaretto), 763/2023 (Dionísio Lins), 770/2023 (Marcio Gualberto), 5399/2022 (Waldeck Carneiro e André Ceciliano), 1392/2023 (Fred Pacheco) e 2721/2023 (Anderson Moraes), todos favoráveis, vários com emendas ou substitutivo da CCJ.",
+   "situacao": "Aprovados por unanimidade."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3022/2024, PL 2851/2024 e PL 7396/2026",
+   "autor": "Deps. Marcelo Dino (relator: Rafael Nobre), Alan Lopes (relator: Fred Pacheco) e Munir Neto (relator: Alan Lopes)",
+   "ementa": "O PL 3022 fixa procedimentos com alunos autistas na escola. O PL 2851 dá continuidade, nos anos seguintes, ao profissional de apoio escolar na educação especial. O PL 7396 institui o laço azul com laranja de conscientização sobre a dislexia.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "2ª Reunião Extraordinária da Comissão de Prevenção ao Uso de Drogas",
+   "autor": "Presidência: Dep. Danniel Librelon",
+   "ementa": "Dia 18/11/2026, 14h, por meio remoto, com quatro pareceres. O PL 2837/2020 (Danniel Librelon; relator: Fred Pacheco) destina bens e dinheiro apreendidos no tráfico a tratamento de dependentes químicos.",
+   "situacao": "Convocada."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Editais de curso e evento",
+   "ref": "Língua Portuguesa no Processo Legislativo; Controle Interno em Rede",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Curso de 18h em seis encontros (17/11 a 15/12), híbrido, com 100 vagas presenciais. Evento Controle Interno em Rede em 25/11, das 9h às 16h, presencial. Inscrições até 16/11.",
+   "situacao": "Inscrições abertas."
+  },
+  {
+   "grupo": "Atos da Mesa",
+   "tipo": "Despachos e portaria",
+   "ref": "Processos 16512/2026 e 18661/2023; Portaria E/DG 448/2026",
+   "autor": "Mesa Diretora e Diretor-Geral",
+   "ementa": "A Mesa autorizou o solicitado no processo 16512/2026 e a emissão de empenho estimativo para 2026 à Prefeitura de Campos dos Goytacazes, pelo ressarcimento de servidor cedido. A Portaria 448 cessa o efeito de seis portarias de 2024 e 2025.",
+   "situacao": "Publicados em 12/11."
+  }
+ ],
+ "atosPessoal": [
+  {
+   "acao": "nomeacao",
+   "nome": "HENRIQUE EDY GONÇALVES DE OLIVEIRA E SILVA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Jorge Felippe Neto",
+   "deputado": "Jorge Felippe Neto",
+   "vaga_de": "Samia Barbosa dos Santos",
+   "ato": "Ato E/MD 4441/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "GEORGITON LUIZ RAMOS",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Val Ceasa",
+   "deputado": "Val Ceasa",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4442/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "HANYELLE BARBOSA ALVES DA PENHA",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Val Ceasa",
+   "deputado": "Val Ceasa",
+   "vaga_de": "Georgiton Luiz Ramos",
+   "ato": "Ato E/MD 4443/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "VERONICA DE FARIAS SANTOS",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos - Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4444/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MARCELLE LOURENÇO MIRANDA RODRIGUES",
+   "cargo": "Assessor Parlamentar III",
+   "simbolo": "CCDAL-3",
+   "lotacao": "Comissão de Educação - Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4445/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "DEMETRIO ABDENNUR FARAH NETO",
+   "cargo": "Assessor Parlamentar III",
+   "simbolo": "CCDAL-3",
+   "lotacao": "Comissão de Educação - Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "vaga_de": "Marcelle Lourenço Miranda Rodrigues",
+   "ato": "Ato E/MD 4446/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "VANESSA AGUIAR DE SOUZA",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete do Deputado Arthur Monteiro",
+   "deputado": "Arthur Monteiro",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4448/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "LAIZA DA SILVA",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete do Deputado Arthur Monteiro",
+   "deputado": "Arthur Monteiro",
+   "vaga_de": "Vanessa Aguiar de Souza",
+   "ato": "Ato E/MD 4449/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "BRUNO RIBEIRO BATISTA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle - Deputado Gustavo Tutuca",
+   "deputado": "Gustavo Tutuca",
+   "vaga_de": "Sanderson da Silva Costa Junior",
+   "ato": "Ato E/MD 4450/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ANGELO DA SILVA PITTA",
+   "cargo": "Assessor Parlamentar VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Gabinete da Deputada Zeidan",
+   "deputado": "Zeidan",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4451/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "JHONATAN GOUVEIA DE ALMEIDA CAETANO",
+   "cargo": "Assessor Parlamentar VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Gabinete da Deputada Zeidan",
+   "deputado": "Zeidan",
+   "vaga_de": "Angelo da Silva Pitta",
+   "ato": "Ato E/MD 4452/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "VERONICA DE FARIAS SANTOS",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "vaga_de": "Josevania Azevedo Gomes Guimarães",
+   "ato": "Ato E/MD 4453/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JOSEVANIA AZEVEDO GOMES GUIMARÃES",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4454/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "JOSEVANIA AZEVEDO GOMES GUIMARÃES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Comissão de Legislação Constitucional Complementar e Códigos - Deputado Marcelo Dino",
+   "deputado": "Marcelo Dino",
+   "vaga_de": "Veronica de Farias Santos",
+   "ato": "Ato E/MD 4455/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "DIOGO FELIPE CABRAL PEREIRA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Assessoria Especial de Plenário",
+   "vaga_de": "Cristiele Sueli Rodrigues Cajazeira",
+   "ato": "Ato E/MD 4456/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "SEBASTIÃO JORGE COELHO DA CUNHA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Secretaria-Geral da Mesa Diretora",
+   "ato": "Ato E/MD 4457/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "TATIANE DA SILVEIRA DOS SANTOS DE SOUSA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Secretaria-Geral da Mesa Diretora",
+   "vaga_de": "Sebastião Jorge Coelho da Cunha",
+   "ato": "Ato E/MD 4458/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ANA CRISTINA DA SILVA",
+   "cargo": "Assistente VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Assessoria Especial de Plenário",
+   "vaga_de": "Alexandre Francisco de Freitas",
+   "ato": "Ato E/MD 4459/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "WANESSA DOS SANTOS ALVES DE OLIVEIRA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Transportes",
+   "ato": "Ato E/MD 4460/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "RAYANE GOMES LOPES DE QUEIROZ",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Transportes",
+   "vaga_de": "Wanessa dos Santos Alves de Oliveira",
+   "ato": "Ato E/MD 4461/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "CRISTIANE GREGÓRIO SOARES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Apoio às Comissões Permanentes",
+   "ato": "Ato E/MD 4462/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MARCELLE LOURENÇO MIRANDA RODRIGUES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Apoio às Comissões Permanentes",
+   "vaga_de": "Cristiane Gregório Soares",
+   "ato": "Ato E/MD 4463/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "GABRIEL ELIAZARFE DE ARAUJO ALVES",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Expediente e Comunicações",
+   "ato": "Ato E/MD 4464/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MIRELA VERONICA FERNANDES PEREIRA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Departamento de Expediente e Comunicações",
+   "vaga_de": "Gabriel Eliazarfe de Araujo Alves",
+   "ato": "Ato E/MD 4465/2026"
+  },
+  {
+   "acao": "dispensa",
+   "nome": "GILMAR DE PAULA SILVA",
+   "cargo": "Auxiliar IV",
+   "simbolo": "CAI-19",
+   "lotacao": "Gabinete do Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "a_pedido": true,
+   "ato": "Ato E/GS 291/2026"
+  },
+  {
+   "acao": "designacao",
+   "nome": "GILMAR DE PAULA SILVA",
+   "cargo": "Auxiliar V",
+   "simbolo": "CAI-20",
+   "lotacao": "Superintendência Militar",
+   "vaga_de": "Cleber Lima de Azevedo",
+   "ato": "Ato E/GS 293/2026"
+  }
+ ]
+}

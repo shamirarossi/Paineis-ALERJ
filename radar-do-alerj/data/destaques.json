@@ -1,6 +1,245 @@
 {
- "atualizado": "2026-11-12T15:15:48+00:00",
+ "atualizado": "2026-11-13T12:45:20+00:00",
  "itens": [
+  {
+   "grupo": "Outros",
+   "tipo": "Resolução promulgada",
+   "ref": "Resolução 2548/2026 (PR 1296/2025)",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Concede o Diploma Abdias Nascimento a Walkiria Nictheroy, por sua atuação na afirmação de uma sociedade democrática plural e com igualdade entre componentes raciais e culturais.",
+   "situacao": "Aprovada em 12/11 e promulgada pelo Presidente.",
+   "gabinete": true,
+   "nota": "Projeto de sua autoria concluiu a tramitação com a promulgação; vale divulgar a homenagem.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8499/2026",
+   "autor": "Dep. Verônica Lima",
+   "ementa": "Declara a Parada do Orgulho LGBTQIA+ de Niterói patrimônio cultural imaterial do Estado e autoriza o Executivo a apoiar sua realização e a preservação do acervo.",
+   "situacao": "A imprimir; segue para CCJ, Cultura e Assuntos Municipais.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Reconhece a Parada de Niterói, que completa 20 anos em 2026. Vale acompanhar a tramitação e avaliar apoio ou coautoria.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8498/2026",
+   "autor": "Dep. Dr. Pedro Ricardo",
+   "ementa": "Inclui na Lei 11.215/2026 o acolhimento temporário gratuito de mães, pais e responsáveis durante a internação de recém-nascidos, crianças e adolescentes no SUS, com prioridade para puérperas e famílias em situação de rua.",
+   "situacao": "A imprimir; segue para CCJ, Criança, Direitos Humanos, Saúde e Orçamento.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de maternidade e cuidado; o texto dá atenção a puérperas e lactantes. Marcado na dúvida.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução (Medalha Tiradentes)",
+   "ref": "PR 2855/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede a Medalha Tiradentes a Luyara Franco, filha de Marielle Franco e cofundadora do Instituto Marielle Franco, por sua defesa da memória, dos direitos humanos e da democracia.",
+   "situacao": "A imprimir; segue para a Comissão de Normas Internas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A justificativa destaca a luta contra a violência política e a participação de mulheres negras na política.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação do vencido aprovada",
+   "ref": "PL 5312-A/2022",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Altera a Lei 8.355/2019 sobre o direito de amamentar durante a realização de concursos públicos estaduais.",
+   "situacao": "Redação do vencido emendada aprovada em 12/11; vai a Autógrafo.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Garante o direito de amamentar em concursos públicos; avanço em direitos de mães e lactantes.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade com emendas",
+   "ref": "PL 5396/2025",
+   "autor": "Dep. Vitor Junior (relator: Dep. Fred Pacheco)",
+   "ementa": "Uso de ferramentas de inteligência artificial por alunos com deficiência e neurodivergentes nas escolas. Emendas renumeram incisos e suprimem os arts. 5º e 7º, por interferência na atuação do Executivo.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve inteligência artificial e tecnologia assistiva na educação.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Legalidade / juridicidade",
+   "ref": "PL 7834/2026 e PL 7978/2026",
+   "autor": "Dep. Giselle Monteiro (relator: Dep. Alexandre Knoploch); Dep. Zeidan (relatora: Dep. Elika Takimoto)",
+   "ementa": "O PL 7834 institui o Dia da Mãe Solo em 4 de abril. O PL 7978 altera a Lei 9.644/2022, que criou o Observatório do Feminicídio.",
+   "situacao": "Aprovados na CCJ em 10/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Duas pautas de mulheres avançam: valorização da maternidade solo e aprimoramento do Observatório do Feminicídio.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Constitucionalidade",
+   "ref": "PL 8070/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Elika Takimoto)",
+   "ementa": "Declara o Bar da Fatinha, em Santa Teresa, patrimônio histórico, cultural e material do Estado.",
+   "situacao": "Aprovado na CCJ em 10/11.",
+   "gabinete": true,
+   "nota": "Projeto seu avançou na CCJ. Acompanhe a próxima comissão e a inclusão na pauta.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião",
+   "ref": "1ª Reunião Ordinária da Comissão de Economia, Indústria e Comércio (18/08/2026)",
+   "autor": "Presidência: Dep. Filipe Soares",
+   "ementa": "Pareceres aprovados por unanimidade, com retirada de pauta dos PLs 2609/2020 e 1013/2019. Vinicius Cozzolino relatou sete projetos. O PL 3895/2024, dele, teve parecer favorável da relatora Célia Jordão.",
+   "situacao": "Ata publicada.",
+   "gabinete": true,
+   "nota": "Relatou nove pareceres na reunião; um foi retirado de pauta a pedido do relator.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias",
+   "ref": "Outras relatorias de Dani Balbi (Economia)",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "PL 4078/2018 e 1515/2023 e 2519/2023 (Carlos Minc), 1156/2023 (Verônica Lima), 822/2019 (Márcio Canella), 2607/2017 (Dionisio Lins), 2364/2023 (Fred Pacheco) e 2038/2023 (Flávio Serafini, Marina do MST, Prof. Josemar e Dani Monteiro), favoráveis. O PL 2609/2020 foi retirado de pauta a pedido do relator.",
+   "situacao": "Aprovados por unanimidade.",
+   "gabinete": true,
+   "nota": "Oito relatorias suas aprovadas na reunião.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "2ª Reunião Ordinária da Comissão de Cultura",
+   "autor": "Presidência: Dep. Verônica Lima",
+   "ementa": "Dia 17/11/2026, 14h, Sala 1809 (semipresencial). Dez pareceres em pauta (relatores: Thiago Gagliasso 1 a 3, Chico Machado 4 e 5, Dani Monteiro 6 a 8, Franciane Motta 9 e 10) e apresentação dos nomes do Diploma Heloneida Studart de Cultura/2026.",
+   "situacao": "Convocada.",
+   "gabinete": true,
+   "nota": "A deputada é membro efetiva da comissão e está convocada.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 4909/2025",
+   "autor": "Dep. Elika Takimoto (relatora: Dep. Dani Monteiro)",
+   "ementa": "Inclui no calendário oficial o Dia Estadual Fernanda Torres das Mulheres no Cinema e no Audiovisual.",
+   "situacao": "Na pauta da Comissão de Cultura em 17/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta de mulheres no audiovisual; a deputada vota como membro da comissão.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "3ª Reunião Ordinária da Comissão de Educação",
+   "autor": "Presidência: Dep. Alan Lopes",
+   "ementa": "Dia 19/11/2026, 15h, por meios remotos. Dezenove pareceres em pauta, com relatoria de Dani Balbi no PL 6447/2022 e dois projetos de autoria dela (7035/2026 e 7301/2026).",
+   "situacao": "Convocada.",
+   "gabinete": true,
+   "nota": "Tem relatoria e autoria na pauta; confirmar presença e voto.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 6447/2022",
+   "autor": "Dep. Danniel Librelon (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui programa de incentivo à inclusão digital e tecnológica para erradicar o analfabetismo digital em áreas rurais.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria da deputada, em tema de inclusão digital. A leitura do edital sugere que o projeto seja o primeiro da pauta; confira a distribuição.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 7035/2026 e PL 7301/2026",
+   "autor": "Dep. Dani Balbi (relatores: Dep. Vitor Junior e Dep. Márcio Gualberto)",
+   "ementa": "O PL 7035 altera a Lei 8.712/2020 sobre ar-condicionado nas escolas públicas. O PL 7301 altera a Lei 7.202/2016, que proíbe taxas de repetência, disciplina eletiva e prova nas instituições particulares de ensino superior.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "gabinete": true,
+   "nota": "Dois projetos seus em votação na Educação; vale articular com os relatores.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 7201/2026",
+   "autor": "Dep. Marina do MST (relator: Dep. Alan Lopes)",
+   "ementa": "Diretrizes para as Estantes Literárias Maria da Penha nas escolas e bibliotecas públicas estaduais.",
+   "situacao": "Na pauta da Comissão de Educação em 19/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta de enfrentamento à violência contra a mulher na educação.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "3ª Reunião Ordinária da Comissão de Esporte e Lazer",
+   "autor": "Presidência: Dep. Carlinhos BNH",
+   "ementa": "Dia 17/11/2026, 11h30, por meios remotos, com sete pareceres. Destaque: PL 6184/2025, de Carlinhos BNH (relator: Alan Lopes), que proíbe o ingresso em estádios de condenados por violência doméstica contra a mulher.",
+   "situacao": "Convocada.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "O PL 6184/2025 trata de violência doméstica e de gênero em estádios.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul: 'O que tem de Lilás no Azul?'",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Dia 26/11/2026, das 13h às 17h, presencial, com 100 vagas. Debate saúde do homem e responsabilidade masculina no enfrentamento à violência contra a mulher, com mesa com ativista da Lei Maria da Penha. Inscrições até 16/11.",
+   "situacao": "Inscrições abertas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Evento liga a saúde do homem ao combate à violência contra a mulher; a equipe pode divulgar e participar.",
+   "edicaoId": "2026-11-13",
+   "data": "2026-11-13"
+  },
   {
    "grupo": "Projetos de lei",
    "tipo": "Aprovado em 2ª discussão",
