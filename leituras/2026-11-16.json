@@ -1,0 +1,724 @@
+{
+ "data": "2026-11-16",
+ "extra": false,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTY%3D",
+ "lidoEm": "2026-11-16T13:38:20+00:00",
+ "edicao": "Ano LII · Nº 209",
+ "resumos": {
+  "dani": "Na terça (17/11), a CCJ (11h) tem na pauta três projetos da deputada: PL 1244/2023 (filosofia e sociologia no ensino médio), PL 7335/2026 (segunda geração do assédio moral) e PL 7232/2026 (saúde integral de mulheres lésbicas e bissexuais). A Comissão de Cultura também se reúne no dia 17 (14h), com Dani Balbi como relatora de dois projetos. O PL 7315/2026, programa 'Me Ajude' de proteção silenciosa a mulheres em risco, está na ordem do dia de 17/11 em urgência, e a Escola do Legislativo anuncia o Novembro Azul 'O que tem de Lilás no Azul?' (26/11). Há ainda o PL 8500/2026 do governo, que mexe com professor visitante, e pareceres sobre ciência e tecnologia.",
+  "vc": "O PL 6317/2025 do deputado (compensação penitenciária aos municípios do interior) está na pauta da CCJ de terça (17/11, 11h), com relatoria de Sarah Poncio. Ele também figura entre os relatores do PL 3708/2024 (sarcopenia), na ordem do dia de 19/11. O gabinete teve seis atos de pessoal (exonerações e nomeações de assessores). Não há atos sobre Magé hoje. Na Baixada, há diplomas para igrejas de Guapimirim, um vereador de Mesquita e uma secretária de Duque de Caxias, além do PL 6250/2025 (Prodes Caxias). Em segurança e TEA, há pareceres de Orçamento e projetos na pauta da CCJ."
+ },
+ "pessoal": "18 atos de pessoal: 9 nomeações, 7 exonerações, 1 designação e 1 dispensa; 6 deles no gabinete do deputado Vinícius Cozzolino.",
+ "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (urgência)",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', para auxílio a mulheres em situação de risco. A CCJ (relatora: Dep. Sarah Poncio) opinou pela constitucionalidade, com emendas, concluindo por substitutivo.",
+   "situacao": "Sessão de 17/11, 15h, discussão única em urgência; pendente parecer das comissões de Direitos da Mulher, Ciência e Tecnologia, Segurança Pública e Orçamento",
+   "temas": [
+    "mulheres",
+    "ct",
+    "seguranca"
+   ],
+   "notas": {
+    "dani": "Programa de proteção a mulheres em risco, ainda sem parecer da Comissão de Direitos da Mulher e da de Ciência e Tecnologia. Vale acompanhar a votação e as emendas.",
+    "vc": "Tem interface com segurança pública, pois falta o parecer da Comissão de Segurança Pública."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia 17/11 (demais)",
+   "ref": "PL 4919/2025 e outros",
+   "ementa": "Pautados: PL 4919/2025 (Itaperuna Capital do Charque), PLs 3797/2024 e 6590/2025 (Dia da Cinofilia e Dia do Mestre de Jiu-Jitsu), 5361/2022 (Código de Proteção aos Animais), 6951/2025 (utilidade pública), 7518/2026 (Lilian Behring, dia de capacitação sobre violências contra crianças) e 8191/2026 (Luiz Paulo, prorrogação de concursos). Também os PRs 1378/2025, 2652, 2736 e 2771/2026 (diplomas).",
+   "situacao": "Sessão ordinária de 17/11, 15h"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resoluções (diplomas) - Guapimirim",
+   "ref": "PR 2682/2026 e PR 2673/2026",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concedem o Diploma Russell Philip Shedd a igrejas evangélicas de Guapimirim (Assembleia de Deus Crescendo em Cristo e Ministério Várzea Alegre). Parecer favorável da Comissão de Normas Internas (relator: Dep. Rodrigo Amorim).",
+   "situacao": "PR 2682 na ordem do dia de 17/11 (1ª discussão); PR 2673 na de 18/11",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Homenagens a igrejas de Guapimirim, município da Baixada, em votação nesta semana."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia 18/11",
+   "ref": "PL 6605/2025 e outros",
+   "ementa": "Redação final do PL 6605/2025 (Daniel Martins, prioridade de vaga na rede estadual para filhos de pais com deficiência). Também o PL 374-A/2023 (redação do vencido; Programa Orquestra nas Escolas, texto parcialmente truncado) e os PRs 2653, 2745, 2784 e 2807/2026 (diplomas e medalha).",
+   "situacao": "Sessão ordinária de 18/11, 15h"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resolução (diploma) - Mesquita",
+   "ref": "PR 1509/2025",
+   "autor": "Dep. Renato Miranda",
+   "ementa": "Concede o Diploma Ulysses Guimarães ao vereador de Mesquita Marcel Roberto Pinheiro Gomes. Parecer favorável da Comissão de Normas Internas (relator: Dep. Poubel).",
+   "situacao": "Discussão única na sessão de 19/11, 10h30",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Homenagem a vereador de Mesquita, município da Baixada."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resolução (medalha) - Duque de Caxias",
+   "ref": "PR 2813/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Concede a Medalha Tiradentes à secretária municipal de Educação de Duque de Caxias, Iracema Medeiros da Costa Silva.",
+   "situacao": "Incluída na ordem do dia de 19/11 (art. 47, §1º, RI); pendente parecer da Comissão de Normas Internas",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Homenagem a autoridade de Duque de Caxias, na Baixada."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (1ª discussão)",
+   "ref": "PL 3708/2024",
+   "autor": "Dep. Renan Jordy",
+   "ementa": "Cria o Programa de Prevenção de Saúde da Sarcopenia no estado. Há pareceres favoráveis de CCJ, Saúde, Criança e Idoso, Assuntos Municipais e Orçamento.",
+   "situacao": "Sessão de 19/11, 10h30; Vinicius Cozzolino consta entre os relatores",
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "O deputado aparece entre os relatores dos pareceres, provavelmente o da Comissão de Orçamento. Confirmar a relatoria antes da votação."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia 19/11 (demais)",
+   "ref": "PL 4446-A/2024 e outros",
+   "ementa": "Redação do vencido dos PLs 4446-A/2024 (Dani Monteiro, Dia dos ODS), 5124-A/2025 (Dia do Pickleball) e 6555-A/2025 (Dia do Mega Dance); PL 6100/2025 (utilidade pública, VRB Social). Também os PRs 2769 e 2780/2026 e o 2825/2026 (pendente de parecer).",
+   "situacao": "Sessão ordinária de 19/11, 10h30"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Mensagem do governador (urgência)",
+   "ref": "PLC 66/2026 (Mensagem 25/2026)",
+   "autor": "Governador em exercício Ricardo Couto de Castro",
+   "ementa": "Institui programa de regularização de ICMS com redução de 95% de juros e multas (Convênio 111/2026), e remissão parcial de 50% do ICMS do setor de petróleo e gás (Convênio 114/2026). Adesão até 21/12/2026; o governo pede urgência.",
+   "situacao": "Despachado em 13/11 a CCJ, Legislação Constitucional Complementar, Economia, Tributação e Orçamento"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Mensagem do governador (urgência)",
+   "ref": "PL 8500/2026 (Mensagem 24/2026)",
+   "autor": "Governador em exercício Ricardo Couto de Castro",
+   "ementa": "Regula a contratação temporária de pessoal por excepcional interesse público (prazo de 2 anos, prorrogável por 1) e revoga a Lei 6.901/2014. Altera a Lei 10.363/2024 sobre professores visitantes e visitantes estrangeiros em pós-graduação, pesquisa e intercâmbio científico.",
+   "situacao": "Despachado em 13/11 a seis comissões, inclusive Educação e Ciência e Tecnologia",
+   "temas": [
+    "ct"
+   ],
+   "notas": {
+    "dani": "O art. 16 trata de professor visitante em programas de pós-graduação e pesquisa, com limite de 20% do corpo docente efetivo. Interessa ao tema de universidades e pesquisa."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (Orçamento)",
+   "ref": "PL 3226/2020 e outros",
+   "autor": "Relator: Dep. Anderson Moraes",
+   "ementa": "Aprovados em 27/10 pareceres favoráveis aos PLs 3226/2020 (proteção a agentes de segurança gestantes, Rosenverg Reis), 6024/2022 (alto-falante em viaturas), 19/2023 (matrícula de filhos de agentes), 846/2023 (segurança escolar), 1787/2023 (energia solar em órgãos de segurança) e 3800/2021 (Condomínio Seguro).",
+   "situacao": "10ª Reunião Extraordinária da Comissão de Orçamento, 27/10/2026",
+   "temas": [
+    "seguranca",
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "O PL 3226/2020 protege servidoras gestantes e lactantes da segurança pública (maternidade).",
+    "vc": "Seis propostas de segurança pública avançam na Comissão de Orçamento."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 4003/2024",
+   "autor": "Dep. Martha Rocha (relator: Dep. André Corrêa)",
+   "ementa": "Prevê convênios do Executivo com grupos de pesquisa de instituições de ensino para diagnóstico e tratamento de doenças autoimunes. Favorável, com emenda da CCJ que retira o art. 2º.",
+   "situacao": "Aprovado na Comissão de Orçamento em 27/10/2026",
+   "temas": [
+    "ct"
+   ],
+   "notas": {
+    "dani": "Projeto que fomenta pesquisa em instituições de ensino fluminenses, no tema ciência e universidades."
+   }
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Demais pareceres (Orçamento)",
+   "ref": "PL 3759/2017 e outros",
+   "ementa": "Pareceres favoráveis aos PLs 3759/2017 (telhados verdes, Minc), 4587/2021 (pé diabético), 5353/2022, 6007/2022 (polos de fauna), 448/2023, 1231/2023, 1237/2023, 2529/2023, 2759/2023 (onça-parda), 3503/2024, 4004/2024 (doenças negligenciadas) e 4965/2025 (campos de futebol amador).",
+   "situacao": "10ª Reunião Extraordinária da Comissão de Orçamento, 27/10/2026"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião da CCJ",
+   "ref": "10ª Reunião Extraordinária da CCJ",
+   "autor": "Presidente: Dep. Rodrigo Amorim",
+   "ementa": "Reunião em 17/11/2026, às 11h, sala 1809 do Edifício Lúcio Costa, com 59 itens na pauta (58 proposições e a Indicação 701/2026). Entre eles, projetos de Dani Balbi e Vinicius Cozzolino.",
+   "situacao": "Convocada em 13/11/2026",
+   "temas": [
+    "lgbt",
+    "mulheres",
+    "ct",
+    "tea",
+    "seguranca",
+    "baixada"
+   ],
+   "gabinetes": [
+    "dani",
+    "vc"
+   ],
+   "notas": {
+    "dani": "Três projetos da deputada na pauta: PL 1244/2023, PL 7335/2026 e PL 7232/2026. Há também vários sobre mulheres, IA e TEA.",
+    "vc": "O PL 6317/2025 do deputado está na pauta. Há ainda projetos de segurança, TEA e Duque de Caxias."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 1244/2023",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Garante duas aulas semanais de Filosofia e Sociologia em cada série do ensino médio da rede pública estadual. Retorna de pedido de vistas do Dep. Luiz Paulo (3ª RO, 26/03/2025), sem voto divergente.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Projeto da deputada, de volta de vistas sem voto divergente. Vale articular a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7335/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Sarah Poncio)",
+   "ementa": "Dispõe sobre prevenção, caracterização e responsabilização da segunda geração do assédio moral na administração pública estadual direta e fundacional, e altera o Decreto-Lei 220/1975.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Projeto da deputada com relatoria de Sarah Poncio. Vale acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7232/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Elika Takimoto)",
+   "ementa": "Institui a Política Estadual de Saúde Integral de Mulheres Lésbicas e Bissexuais, com metas, monitoramento e inclusão de orientação sexual nos sistemas de informação em saúde, com proteção de dados.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Projeto da deputada sobre saúde LGBTQIA+ e da mulher, com relatoria de Elika Takimoto. Acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 8431/2026",
+   "autor": "Dep. Chico Machado (relator: Dep. Fred Pacheco)",
+   "ementa": "Inclui a categorização de TEA e outras neurodivergências nos registros oficiais de denúncias de violência e exploração sexual contra crianças e adolescentes.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "tea"
+   ],
+   "notas": {
+    "vc": "Trata de TEA e neurodivergências em registros de violência contra crianças. Acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 8430/2026",
+   "autor": "Dep. Chico Machado (relator: Dep. Fred Pacheco)",
+   "ementa": "Altera a Lei 4.733/2006 sobre espaços exclusivos para mulheres nos sistemas ferroviário e metroviário.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Altera lei sobre espaços exclusivos para mulheres no transporte sobre trilhos. Acompanhar."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 6317/2025",
+   "autor": "Dep. Vinicius Cozzolino (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui o Programa Estadual de Compensação Penitenciária, para repassar recursos aos municípios do interior que abrigam estabelecimentos prisionais.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "gabinetes": [
+    "vc"
+   ],
+   "notas": {
+    "vc": "Projeto do deputado, sobre sistema prisional, com relatoria de Sarah Poncio. Acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7781/2026",
+   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Estabelece diretrizes para política estadual de atendimento integrado a vítimas de violência sexual.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Atendimento a vítimas de violência sexual, tema próximo ao de violência de gênero."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2454/2023",
+   "autor": "Dep. Carlinhos BNH (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Obriga planos de saúde a cobrir a criopreservação de óvulos para pacientes de câncer de mama em quimioterapia.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Saúde da mulher, com cobertura de preservação da fertilidade em tratamento de câncer de mama."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 1944/2023",
+   "autor": "Dep. Rodrigo Amorim (relatora: Dep. Sarah Poncio)",
+   "ementa": "Altera a Lei 5.588/2009, que determina sistema de vídeo e áudio nas viaturas automotivas que menciona.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "Equipamento de vídeo e áudio em viaturas, tema de segurança pública."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2873/2024",
+   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui a notificação compulsória de atendimento a vítimas de acidentes com armas de fogo na rede pública de saúde.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "Trata de armas de fogo. Marcado na dúvida, pois o foco é a saúde."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 6250/2025",
+   "autor": "Dep. Arthur Monteiro (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Cria o Programa Estadual de Desenvolvimento Socioeconômico Integrado de Duque de Caxias (Prodes Caxias).",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "baixada"
+   ],
+   "notas": {
+    "vc": "Programa estadual para Duque de Caxias, na Baixada."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7673/2026",
+   "autor": "Dep. Anderson Moraes (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Inclui o Dia do Piloto de Helicóptero da Polícia, Comandante Felipe Marques, em 17 de maio, no calendário oficial.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "Homenagem a piloto da polícia, tema de segurança pública."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7353/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Torna a condenação por feminicídio, ou sua tentativa, conduta incompatível com a função pública, com pena de demissão na administração estadual.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Pune servidor condenado por feminicídio com demissão. Acompanhar a votação."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7801/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Institui a política estadual de prevenção e enfrentamento à violência digital contra a mulher.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "notas": {
+    "dani": "Reúne violência de gênero e ambiente digital (internet), nos temas mulheres e tecnologia."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2006/2023",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 7.856/2018, do programa de prevenção ao assédio nos transportes públicos e privados. Retorna de vistas do Dep. Luiz Paulo (11ª RO, 04/06/2025), sem voto divergente.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Prevenção ao assédio no transporte. Marcado na dúvida, pois a lei não é restrita a mulheres."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7084/2026",
+   "autor": "Dep. Lilian Behring (relatora: Dep. Elika Takimoto)",
+   "ementa": "Dispõe sobre o desenvolvimento, fomento e uso ético e responsável da inteligência artificial, com centralidade da pessoa humana.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "ct"
+   ],
+   "notas": {
+    "dani": "Projeto de IA de Lilian Behring, vice-líder da bancada do PCdoB. Tema direto de ciência e tecnologia."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7966/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Institui o Selo Lojista Amigo da Pessoa com Transtorno do Espectro Autista (TEA).",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "tea"
+   ],
+   "notas": {
+    "vc": "Selo de inclusão para pessoas com TEA no comércio. Acompanhar."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7303/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Veda a oferta, comercialização e uso, em locais públicos, de capinhas de celular que simulem armas de fogo ou brancas.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "notas": {
+    "vc": "Trata de simulacros de armas, tema de segurança pública."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7254/2026",
+   "autor": "Dep. Renata Souza (relator: Dep. Marcelo Dino)",
+   "ementa": "Autoriza o Executivo a adotar, como critério para incentivos fiscais futuros, regra de proteção ao trabalho da mulher gestante.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "Proteção da trabalhadora gestante, no tema maternidade e direitos das mulheres."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7323/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Institui diretrizes para ações educativas da Polícia Militar contra a violência doméstica, com ênfase na proteção da mulher, destinadas a porteiros e funcionários de condomínios.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres",
+    "seguranca"
+   ],
+   "notas": {
+    "dani": "Prevenção da violência doméstica com foco na proteção da mulher.",
+    "vc": "Envolve a atuação educativa da Polícia Militar."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião da Comissão de Cultura",
+   "ref": "3ª Reunião Ordinária da Comissão de Cultura",
+   "autor": "Presidente: Dep. Verônica Lima",
+   "ementa": "Reunião em 17/11/2026, às 14h, sala 1809 do Edifício Lúcio Costa, semipresencial, com 10 pareceres e distribuição de proposições. Também a apresentação dos nomes para o Diploma Heloneida Studart de Cultura/2026.",
+   "situacao": "Convocada em 11/11/2026 (republicada)",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Dani Balbi é membro efetivo e relatora de dois projetos (PL 957/2023 e PL 4909/2025). Confirmar presença."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta Comissão de Cultura 17/11",
+   "ref": "PL 4909/2025",
+   "autor": "Dep. Élika Takimoto (relatora: Dep. Dani Balbi)",
+   "ementa": "Inclui no calendário oficial o Dia Estadual Fernanda Torres das Mulheres no Cinema e no Audiovisual.",
+   "situacao": "Pauta da Comissão de Cultura, 17/11, 14h",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "A deputada é a relatora e precisa apresentar o parecer."
+   }
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias de Dani Balbi (Cultura)",
+   "ref": "PL 957/2023",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Dani Balbi)",
+   "ementa": "PL 957/2023 (Rosenverg Reis): altera a Lei 2.217/1994, que dispõe sobre o patrimônio público estadual.",
+   "situacao": "Pauta da Comissão de Cultura, 17/11, 14h",
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "Segunda relatoria da deputada na reunião. Preparar o parecer."
+   }
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Editais de curso e evento",
+   "ref": "Língua Portuguesa no Processo Legislativo; Controle Interno em Rede",
+   "ementa": "Curso híbrido de 18h sobre coesão, coerência e redação oficial, em seis encontros (17/11 a 15/12), inscrições até 16/11. Evento presencial Controle Interno em Rede em 25/11, das 9h às 16h.",
+   "situacao": "Editais de 9 e 12/11/2026"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul - 'O que tem de Lilás no Azul?'",
+   "ementa": "Evento presencial em 26/11, das 13h às 17h, sobre saúde do homem e responsabilidade masculina no enfrentamento à violência contra a mulher. Haverá mesas e atendimentos de saúde e autocuidado.",
+   "situacao": "Edital de 11/11/2026; inscrições até 16/11",
+   "temas": [
+    "mulheres"
+   ],
+   "notas": {
+    "dani": "A atividade liga a saúde do homem ao combate à violência contra a mulher. Pode servir para articulação e divulgação."
+   }
+  }
+ ],
+ "atos_pessoal": [
+  {
+   "acao": "exoneracao",
+   "nome": "LUYANNE FIGUEIRA DA SILVA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete da Deputada Marina do MST",
+   "deputado": "Marina do MST",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4466/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "FABIO ALVES FIGUEIREDO DE ALMEIDA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete da Deputada Marina do MST",
+   "deputado": "Marina do MST",
+   "vaga_de": "Luyanne Figueira da Silva",
+   "ato": "Ato E/MD 4467/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "RICARDO TORQUATO CAVALCANTI DE MELLO",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4468/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "GILSON PEREIRA DIAS",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4469/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "RICARDO TORQUATO CAVALCANTI DE MELLO",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "vaga_de": "Gilson Pereira Dias",
+   "ato": "Ato E/MD 4470/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "GILSON PEREIRA DIAS",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Comissão de Educação - Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "vaga_de": "Eduardo de Souza Azevedo",
+   "ato": "Ato E/MD 4471/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "JAQUELINE DE OLIVEIRA VIEIRA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete da Deputada Sarah Poncio",
+   "deputado": "Sarah Poncio",
+   "vaga_de": "Samuel Gomes Domingues Junior",
+   "ato": "Ato E/MD 4472/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "BRENNO SILVA MACHADO",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4473/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "DIEGO DE CARVALHO ALVES",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4474/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "BRENNO SILVA MACHADO",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "vaga_de": "Caroline Branco Teixeira",
+   "ato": "Ato E/MD 4475/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "DIEGO DE CARVALHO ALVES",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "vaga_de": "Adriane Monteiro da Conceição",
+   "ato": "Ato E/MD 4476/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ADRIANA MONTEIRO DA CONCEIÇÃO",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4477/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ADRIANA MONTEIRO DA CONCEIÇÃO",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete do Deputado Vinícius Cozzolino",
+   "deputado": "Vinícius Cozzolino",
+   "vaga_de": "Vanessa Branco Teixeira",
+   "ato": "Ato E/MD 4478/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "THAIANE GOMES DE BARROS",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Thiago Gagliasso",
+   "deputado": "Thiago Gagliasso",
+   "vaga_de": "Adma Rabelo da Fonte Lopes",
+   "ato": "Ato E/MD 4479/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "PATRICIA FERNANDES RIBEIRO",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Assessoria da Presidência",
+   "ato": "Ato E/MD 4480/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "CAROLINE ARIEL KIMBERLY MARTINS LEITE",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Assessoria da Presidência",
+   "vaga_de": "Patricia Fernandes Ribeiro",
+   "ato": "Ato E/MD 4481/2026"
+  },
+  {
+   "acao": "designacao",
+   "nome": "GILBERTO AUGUSTO DOS SANTOS",
+   "cargo": "Assistente de Subdiretor-Geral",
+   "simbolo": "CCDAL-1",
+   "lotacao": "Subdiretoria Geral de Segurança",
+   "ato": "Portaria E/GS 15/2026"
+  },
+  {
+   "acao": "dispensa",
+   "nome": "VALDECI BASTOS DA COSTA",
+   "cargo": "Assistente VI",
+   "simbolo": "CCDAL-06",
+   "lotacao": "Subdiretoria Geral de Segurança",
+   "ato": "Portaria E/GS 15/2026"
+  }
+ ]
+}

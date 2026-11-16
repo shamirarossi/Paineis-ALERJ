@@ -1,6 +1,232 @@
 {
- "atualizado": "2026-11-13T15:08:32+00:00",
+ "atualizado": "2026-11-16T13:42:13+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (urgência)",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', para auxílio a mulheres em situação de risco. A CCJ (relatora: Dep. Sarah Poncio) opinou pela constitucionalidade, com emendas, concluindo por substitutivo.",
+   "situacao": "Sessão de 17/11, 15h, discussão única em urgência; pendente parecer das comissões de Direitos da Mulher, Ciência e Tecnologia, Segurança Pública e Orçamento",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Tem interface com segurança pública, pois falta o parecer da Comissão de Segurança Pública.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resoluções (diplomas) - Guapimirim",
+   "ref": "PR 2682/2026 e PR 2673/2026",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Concedem o Diploma Russell Philip Shedd a igrejas evangélicas de Guapimirim (Assembleia de Deus Crescendo em Cristo e Ministério Várzea Alegre). Parecer favorável da Comissão de Normas Internas (relator: Dep. Rodrigo Amorim).",
+   "situacao": "PR 2682 na ordem do dia de 17/11 (1ª discussão); PR 2673 na de 18/11",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagens a igrejas de Guapimirim, município da Baixada, em votação nesta semana.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resolução (diploma) - Mesquita",
+   "ref": "PR 1509/2025",
+   "autor": "Dep. Renato Miranda",
+   "ementa": "Concede o Diploma Ulysses Guimarães ao vereador de Mesquita Marcel Roberto Pinheiro Gomes. Parecer favorável da Comissão de Normas Internas (relator: Dep. Poubel).",
+   "situacao": "Discussão única na sessão de 19/11, 10h30",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagem a vereador de Mesquita, município da Baixada.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Resolução (medalha) - Duque de Caxias",
+   "ref": "PR 2813/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Concede a Medalha Tiradentes à secretária municipal de Educação de Duque de Caxias, Iracema Medeiros da Costa Silva.",
+   "situacao": "Incluída na ordem do dia de 19/11 (art. 47, §1º, RI); pendente parecer da Comissão de Normas Internas",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Homenagem a autoridade de Duque de Caxias, na Baixada.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (1ª discussão)",
+   "ref": "PL 3708/2024",
+   "autor": "Dep. Renan Jordy",
+   "ementa": "Cria o Programa de Prevenção de Saúde da Sarcopenia no estado. Há pareceres favoráveis de CCJ, Saúde, Criança e Idoso, Assuntos Municipais e Orçamento.",
+   "situacao": "Sessão de 19/11, 10h30; Vinicius Cozzolino consta entre os relatores",
+   "gabinete": true,
+   "nota": "O deputado aparece entre os relatores dos pareceres, provavelmente o da Comissão de Orçamento. Confirmar a relatoria antes da votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (Orçamento)",
+   "ref": "PL 3226/2020 e outros",
+   "autor": "Relator: Dep. Anderson Moraes",
+   "ementa": "Aprovados em 27/10 pareceres favoráveis aos PLs 3226/2020 (proteção a agentes de segurança gestantes, Rosenverg Reis), 6024/2022 (alto-falante em viaturas), 19/2023 (matrícula de filhos de agentes), 846/2023 (segurança escolar), 1787/2023 (energia solar em órgãos de segurança) e 3800/2021 (Condomínio Seguro).",
+   "situacao": "10ª Reunião Extraordinária da Comissão de Orçamento, 27/10/2026",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Seis propostas de segurança pública avançam na Comissão de Orçamento.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião da CCJ",
+   "ref": "10ª Reunião Extraordinária da CCJ",
+   "autor": "Presidente: Dep. Rodrigo Amorim",
+   "ementa": "Reunião em 17/11/2026, às 11h, sala 1809 do Edifício Lúcio Costa, com 59 itens na pauta (58 proposições e a Indicação 701/2026). Entre eles, projetos de Dani Balbi e Vinicius Cozzolino.",
+   "situacao": "Convocada em 13/11/2026",
+   "temas": [
+    "tea",
+    "seguranca",
+    "baixada"
+   ],
+   "gabinete": true,
+   "nota": "O PL 6317/2025 do deputado está na pauta. Há ainda projetos de segurança, TEA e Duque de Caxias.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 8431/2026",
+   "autor": "Dep. Chico Machado (relator: Dep. Fred Pacheco)",
+   "ementa": "Inclui a categorização de TEA e outras neurodivergências nos registros oficiais de denúncias de violência e exploração sexual contra crianças e adolescentes.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Trata de TEA e neurodivergências em registros de violência contra crianças. Acompanhar a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 6317/2025",
+   "autor": "Dep. Vinicius Cozzolino (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui o Programa Estadual de Compensação Penitenciária, para repassar recursos aos municípios do interior que abrigam estabelecimentos prisionais.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "gabinete": true,
+   "nota": "Projeto do deputado, sobre sistema prisional, com relatoria de Sarah Poncio. Acompanhar a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 1944/2023",
+   "autor": "Dep. Rodrigo Amorim (relatora: Dep. Sarah Poncio)",
+   "ementa": "Altera a Lei 5.588/2009, que determina sistema de vídeo e áudio nas viaturas automotivas que menciona.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Equipamento de vídeo e áudio em viaturas, tema de segurança pública.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2873/2024",
+   "autor": "Dep. Martha Rocha (relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui a notificação compulsória de atendimento a vítimas de acidentes com armas de fogo na rede pública de saúde.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Trata de armas de fogo. Marcado na dúvida, pois o foco é a saúde.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 6250/2025",
+   "autor": "Dep. Arthur Monteiro (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Cria o Programa Estadual de Desenvolvimento Socioeconômico Integrado de Duque de Caxias (Prodes Caxias).",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "baixada"
+   ],
+   "nota": "Programa estadual para Duque de Caxias, na Baixada.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7673/2026",
+   "autor": "Dep. Anderson Moraes (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Inclui o Dia do Piloto de Helicóptero da Polícia, Comandante Felipe Marques, em 17 de maio, no calendário oficial.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Homenagem a piloto da polícia, tema de segurança pública.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7966/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Institui o Selo Lojista Amigo da Pessoa com Transtorno do Espectro Autista (TEA).",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "tea"
+   ],
+   "nota": "Selo de inclusão para pessoas com TEA no comércio. Acompanhar.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7303/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Veda a oferta, comercialização e uso, em locais públicos, de capinhas de celular que simulem armas de fogo ou brancas.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Trata de simulacros de armas, tema de segurança pública.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7323/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Institui diretrizes para ações educativas da Polícia Militar contra a violência doméstica, com ênfase na proteção da mulher, destinadas a porteiros e funcionários de condomínios.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "seguranca"
+   ],
+   "nota": "Envolve a atuação educativa da Polícia Militar.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
   {
    "grupo": "Projetos de lei",
    "tipo": "Projetos de lei apresentados",

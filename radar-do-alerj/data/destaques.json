@@ -1,6 +1,302 @@
 {
- "atualizado": "2026-11-13T15:08:32+00:00",
+ "atualizado": "2026-11-16T13:42:13+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (urgência)",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', para auxílio a mulheres em situação de risco. A CCJ (relatora: Dep. Sarah Poncio) opinou pela constitucionalidade, com emendas, concluindo por substitutivo.",
+   "situacao": "Sessão de 17/11, 15h, discussão única em urgência; pendente parecer das comissões de Direitos da Mulher, Ciência e Tecnologia, Segurança Pública e Orçamento",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Programa de proteção a mulheres em risco, ainda sem parecer da Comissão de Direitos da Mulher e da de Ciência e Tecnologia. Vale acompanhar a votação e as emendas.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Mensagem do governador (urgência)",
+   "ref": "PL 8500/2026 (Mensagem 24/2026)",
+   "autor": "Governador em exercício Ricardo Couto de Castro",
+   "ementa": "Regula a contratação temporária de pessoal por excepcional interesse público (prazo de 2 anos, prorrogável por 1) e revoga a Lei 6.901/2014. Altera a Lei 10.363/2024 sobre professores visitantes e visitantes estrangeiros em pós-graduação, pesquisa e intercâmbio científico.",
+   "situacao": "Despachado em 13/11 a seis comissões, inclusive Educação e Ciência e Tecnologia",
+   "temas": [
+    "ct"
+   ],
+   "nota": "O art. 16 trata de professor visitante em programas de pós-graduação e pesquisa, com limite de 20% do corpo docente efetivo. Interessa ao tema de universidades e pesquisa.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (Orçamento)",
+   "ref": "PL 3226/2020 e outros",
+   "autor": "Relator: Dep. Anderson Moraes",
+   "ementa": "Aprovados em 27/10 pareceres favoráveis aos PLs 3226/2020 (proteção a agentes de segurança gestantes, Rosenverg Reis), 6024/2022 (alto-falante em viaturas), 19/2023 (matrícula de filhos de agentes), 846/2023 (segurança escolar), 1787/2023 (energia solar em órgãos de segurança) e 3800/2021 (Condomínio Seguro).",
+   "situacao": "10ª Reunião Extraordinária da Comissão de Orçamento, 27/10/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "O PL 3226/2020 protege servidoras gestantes e lactantes da segurança pública (maternidade).",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 4003/2024",
+   "autor": "Dep. Martha Rocha (relator: Dep. André Corrêa)",
+   "ementa": "Prevê convênios do Executivo com grupos de pesquisa de instituições de ensino para diagnóstico e tratamento de doenças autoimunes. Favorável, com emenda da CCJ que retira o art. 2º.",
+   "situacao": "Aprovado na Comissão de Orçamento em 27/10/2026",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Projeto que fomenta pesquisa em instituições de ensino fluminenses, no tema ciência e universidades.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião da CCJ",
+   "ref": "10ª Reunião Extraordinária da CCJ",
+   "autor": "Presidente: Dep. Rodrigo Amorim",
+   "ementa": "Reunião em 17/11/2026, às 11h, sala 1809 do Edifício Lúcio Costa, com 59 itens na pauta (58 proposições e a Indicação 701/2026). Entre eles, projetos de Dani Balbi e Vinicius Cozzolino.",
+   "situacao": "Convocada em 13/11/2026",
+   "temas": [
+    "lgbt",
+    "mulheres",
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Três projetos da deputada na pauta: PL 1244/2023, PL 7335/2026 e PL 7232/2026. Há também vários sobre mulheres, IA e TEA.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 1244/2023",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Garante duas aulas semanais de Filosofia e Sociologia em cada série do ensino médio da rede pública estadual. Retorna de pedido de vistas do Dep. Luiz Paulo (3ª RO, 26/03/2025), sem voto divergente.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "gabinete": true,
+   "nota": "Projeto da deputada, de volta de vistas sem voto divergente. Vale articular a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7335/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Sarah Poncio)",
+   "ementa": "Dispõe sobre prevenção, caracterização e responsabilização da segunda geração do assédio moral na administração pública estadual direta e fundacional, e altera o Decreto-Lei 220/1975.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "gabinete": true,
+   "nota": "Projeto da deputada com relatoria de Sarah Poncio. Vale acompanhar a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7232/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Elika Takimoto)",
+   "ementa": "Institui a Política Estadual de Saúde Integral de Mulheres Lésbicas e Bissexuais, com metas, monitoramento e inclusão de orientação sexual nos sistemas de informação em saúde, com proteção de dados.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Projeto da deputada sobre saúde LGBTQIA+ e da mulher, com relatoria de Elika Takimoto. Acompanhar a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 8430/2026",
+   "autor": "Dep. Chico Machado (relator: Dep. Fred Pacheco)",
+   "ementa": "Altera a Lei 4.733/2006 sobre espaços exclusivos para mulheres nos sistemas ferroviário e metroviário.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Altera lei sobre espaços exclusivos para mulheres no transporte sobre trilhos. Acompanhar.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7781/2026",
+   "autor": "Dep. Dr. Pedro Ricardo (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Estabelece diretrizes para política estadual de atendimento integrado a vítimas de violência sexual.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Atendimento a vítimas de violência sexual, tema próximo ao de violência de gênero.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2454/2023",
+   "autor": "Dep. Carlinhos BNH (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Obriga planos de saúde a cobrir a criopreservação de óvulos para pacientes de câncer de mama em quimioterapia.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Saúde da mulher, com cobertura de preservação da fertilidade em tratamento de câncer de mama.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7353/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Torna a condenação por feminicídio, ou sua tentativa, conduta incompatível com a função pública, com pena de demissão na administração estadual.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pune servidor condenado por feminicídio com demissão. Acompanhar a votação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7801/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Institui a política estadual de prevenção e enfrentamento à violência digital contra a mulher.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Reúne violência de gênero e ambiente digital (internet), nos temas mulheres e tecnologia.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 2006/2023",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 7.856/2018, do programa de prevenção ao assédio nos transportes públicos e privados. Retorna de vistas do Dep. Luiz Paulo (11ª RO, 04/06/2025), sem voto divergente.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Prevenção ao assédio no transporte. Marcado na dúvida, pois a lei não é restrita a mulheres.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7084/2026",
+   "autor": "Dep. Lilian Behring (relatora: Dep. Elika Takimoto)",
+   "ementa": "Dispõe sobre o desenvolvimento, fomento e uso ético e responsável da inteligência artificial, com centralidade da pessoa humana.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Projeto de IA de Lilian Behring, vice-líder da bancada do PCdoB. Tema direto de ciência e tecnologia.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7254/2026",
+   "autor": "Dep. Renata Souza (relator: Dep. Marcelo Dino)",
+   "ementa": "Autoriza o Executivo a adotar, como critério para incentivos fiscais futuros, regra de proteção ao trabalho da mulher gestante.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Proteção da trabalhadora gestante, no tema maternidade e direitos das mulheres.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta CCJ 17/11",
+   "ref": "PL 7323/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Marcelo Dino)",
+   "ementa": "Institui diretrizes para ações educativas da Polícia Militar contra a violência doméstica, com ênfase na proteção da mulher, destinadas a porteiros e funcionários de condomínios.",
+   "situacao": "Pauta da CCJ, 17/11, 11h",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Prevenção da violência doméstica com foco na proteção da mulher.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião da Comissão de Cultura",
+   "ref": "3ª Reunião Ordinária da Comissão de Cultura",
+   "autor": "Presidente: Dep. Verônica Lima",
+   "ementa": "Reunião em 17/11/2026, às 14h, sala 1809 do Edifício Lúcio Costa, semipresencial, com 10 pareceres e distribuição de proposições. Também a apresentação dos nomes para o Diploma Heloneida Studart de Cultura/2026.",
+   "situacao": "Convocada em 11/11/2026 (republicada)",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Dani Balbi é membro efetivo e relatora de dois projetos (PL 957/2023 e PL 4909/2025). Confirmar presença.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta Comissão de Cultura 17/11",
+   "ref": "PL 4909/2025",
+   "autor": "Dep. Élika Takimoto (relatora: Dep. Dani Balbi)",
+   "ementa": "Inclui no calendário oficial o Dia Estadual Fernanda Torres das Mulheres no Cinema e no Audiovisual.",
+   "situacao": "Pauta da Comissão de Cultura, 17/11, 14h",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "A deputada é a relatora e precisa apresentar o parecer.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Outras relatorias de Dani Balbi (Cultura)",
+   "ref": "PL 957/2023",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Dani Balbi)",
+   "ementa": "PL 957/2023 (Rosenverg Reis): altera a Lei 2.217/1994, que dispõe sobre o patrimônio público estadual.",
+   "situacao": "Pauta da Comissão de Cultura, 17/11, 14h",
+   "gabinete": true,
+   "nota": "Segunda relatoria da deputada na reunião. Preparar o parecer.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul - 'O que tem de Lilás no Azul?'",
+   "ementa": "Evento presencial em 26/11, das 13h às 17h, sobre saúde do homem e responsabilidade masculina no enfrentamento à violência contra a mulher. Haverá mesas e atendimentos de saúde e autocuidado.",
+   "situacao": "Edital de 11/11/2026; inscrições até 16/11",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A atividade liga a saúde do homem ao combate à violência contra a mulher. Pode servir para articulação e divulgação.",
+   "edicaoId": "2026-11-16",
+   "data": "2026-11-16"
+  },
   {
    "grupo": "Outros",
    "tipo": "Resolução promulgada",
