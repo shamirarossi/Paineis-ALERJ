@@ -22,8 +22,7 @@ Endereço do painel: `https://shamirarossi.github.io/Paineis-ALERJ/radar-do-aler
 
 | Quando | O que acontece |
 | --- | --- |
-| Dias úteis, 8h47 (horário de Brasília) | Primeira leitura do dia. |
-| Dias úteis, 11h17 | Leitura de reserva, caso a edição tenha saído tarde. Se a edição já estiver no painel, não faz nada. |
+| Dias úteis, 7h37, 8h47, 9h53, 11h17 e 13h41 (horário de Brasília) | Várias tentativas, porque o GitHub às vezes atrasa ou pula execuções agendadas. A primeira que encontra a edição faz a leitura; as seguintes veem que ela já está no painel e não fazem nada. |
 | Feriado ou dia sem Parte II | Nenhuma edição nova; só atualiza a hora da última verificação. |
 | Falha (site fora do ar, erro da API) | O aviso aparece no topo do painel e o GitHub manda e-mail para quem administra o repositório. |
 

@@ -444,15 +444,17 @@ def main() -> int:
     try:
         cadernos = cadernos_parte_ii(dia, s)
         if not cadernos:
-            print(f"Sem Parte II em {dia}.")
-            reconstruir_indices({"ok": True, "ultimaExecucao": agora, "edicaoLida": status.get("edicaoLida"),
-                                 "mensagem": None})
+            print(f"Sem Parte II em {dia} (ainda não saiu, ou não há edição hoje).")
+            if status.get("ok") is False:  # limpa um aviso de falha antigo
+                reconstruir_indices({**status, "ok": True, "mensagem": None})
             return 0
+        novas = 0
         for c in cadernos:
             destino = LEITURAS / f"{c['id']}.json"
             if destino.exists() and not a.forcar:
                 print(f"{c['id']} já foi lida; use --forcar para reler.")
                 continue
+            novas += 1
             texto = baixar_texto(c["pdf"], s)
             if len(texto.strip()) < 500:
                 raise RuntimeError("o PDF veio sem texto legível")
@@ -464,7 +466,10 @@ def main() -> int:
             for pid in PERFIS:
                 n = contagem([item_do_perfil(it, pid) for it in leitura["itens"]], pid)
                 print(f"{c['id']} [{pid}]: " + " · ".join(f"{k} {v}" for k, v in n.items()))
-        reconstruir_indices({"ok": True, "ultimaExecucao": agora, "edicaoLida": dia.isoformat(), "mensagem": None})
+        if not novas and status.get("ok") is not False:
+            return 0  # nada novo: não grava nada, para não gerar publicações à toa
+        reconstruir_indices({"ok": True, "ultimaExecucao": agora if novas else status.get("ultimaExecucao", agora),
+                             "edicaoLida": dia.isoformat(), "mensagem": None})
         return 0
     except Exception as e:  # registra a falha nos painéis e sai com erro para o GitHub avisar
         msg = f"A leitura de {dia.strftime('%d/%m/%Y')} falhou ({type(e).__name__}: {e}). Ela roda de novo no próximo agendamento."

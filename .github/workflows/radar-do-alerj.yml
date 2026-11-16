@@ -2,10 +2,15 @@ name: Radar DO ALERJ - leitura diária (Dani Balbi e Vinicius Cozzolino)
 
 on:
   schedule:
-    # Dias úteis às 8h47 e, de reserva, às 11h17 (horário de Brasília, UTC-3).
-    # A segunda execução só lê se a edição ainda não estiver no painel.
+    # Dias úteis, horário de Brasília (UTC-3): 7h37, 8h47, 9h53, 11h17 e 13h41.
+    # O GitHub às vezes atrasa ou descarta execuções agendadas em horário de pico, por isso há
+    # várias tentativas. Quando a edição do dia já foi lida, a execução termina em segundos,
+    # sem chamar o Claude e sem gravar nada.
+    - cron: "37 10 * * 1-5"
     - cron: "47 11 * * 1-5"
+    - cron: "53 12 * * 1-5"
     - cron: "17 14 * * 1-5"
+    - cron: "41 16 * * 1-5"
   workflow_dispatch:
     inputs:
       data:
