@@ -1,6 +1,32 @@
 {
- "atualizado": "2026-11-16T13:42:13+00:00",
+ "atualizado": "2026-11-17T11:26:01+00:00",
  "itens": [
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de convocação de reunião",
+   "ref": "2ª Reunião Ordinária - Comissão de Trabalho, Legislação Social e Seguridade Social",
+   "autor": "Dep. Dani Balbi (Presidenta)",
+   "ementa": "Reunião remota em 18/11/2026, às 11h30, com um único item de pauta: indicar o titular e o suplente da Comissão para uma vaga no Conselho Estadual de Economia Solidária (CEES/RJ), conforme o ofício SETRAB/GABSEC nº 202/2026. Convocados o vice-presidente Professor Josemar, os titulares Valdecy da Saúde e Val Ceasa e os suplentes Flávio Serafini, Giselle Monteiro, Renan Jordy e Tia Ju.",
+   "situacao": "Reunião em 18/11/2026, 11h30, por meios remotos",
+   "gabinete": true,
+   "nota": "A deputada preside a Comissão e convocou a reunião. Convém garantir quórum e definir os nomes a indicar ao CEES/RJ.",
+   "edicaoId": "2026-11-17",
+   "data": "2026-11-17"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul - 'O que tem de Lilás no Azul?'",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Evento presencial em 26/11/2026, das 13h às 17h, com mesas sobre saúde do homem e uma segunda mesa que liga o Novembro Azul ao enfrentamento da violência contra a mulher, com ativista da Lei Maria da Penha. Haverá atendimentos ao público masculino e 100 vagas, com inscrição indicada até 16/11/2026.",
+   "situacao": "Evento em 26/11/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "O evento aborda a participação masculina no combate à violência contra a mulher, tema do gabinete. O prazo de inscrição indicado já passou, então vale checar com a Escola se há vagas.",
+   "edicaoId": "2026-11-17",
+   "data": "2026-11-17"
+  },
   {
    "grupo": "Projetos de lei",
    "tipo": "Ordem do dia (urgência)",

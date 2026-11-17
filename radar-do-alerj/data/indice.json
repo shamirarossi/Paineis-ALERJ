@@ -1,12 +1,25 @@
 {
- "atualizado": "2026-11-16T13:42:13+00:00",
+ "atualizado": "2026-11-17T11:26:01+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-16T13:38:20+00:00",
-  "edicaoLida": "2026-11-16",
+  "ultimaExecucao": "2026-11-17T11:24:05+00:00",
+  "edicaoLida": "2026-11-17",
   "mensagem": null
  },
  "edicoes": [
+  {
+   "id": "2026-11-17",
+   "data": "2026-11-17",
+   "edicao": "Ano LII · Nº 210",
+   "extra": false,
+   "contagem": {
+    "total": 9,
+    "gabinete": 1,
+    "lgbt": 0,
+    "mulheres": 1,
+    "ct": 0
+   }
+  },
   {
    "id": "2026-11-16",
    "data": "2026-11-16",
