@@ -33,7 +33,7 @@ EDICOES = PASTA / "data" / "edicoes"
 SAIDA = PASTA / "relatorios"
 FONTES = PASTA / "relatorio" / "fontes"
 MANIFESTO = SAIDA / "manifesto.json"
-VERSAO = 2   # aumente para refazer todos os PDFs depois de mudar o modelo
+VERSAO = 3   # aumente para refazer todos os PDFs depois de mudar o modelo
 
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",
          "setembro", "outubro", "novembro", "dezembro"]
