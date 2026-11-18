@@ -1,6 +1,107 @@
 {
- "atualizado": "2026-11-17T11:26:01+00:00",
+ "atualizado": "2026-11-18T11:36:28+00:00",
  "atos": [
+  {
+   "acao": "exoneracao",
+   "nome": "BRUNA PEREZ DUARTE DE OLIVEIRA GONÇALVES BRAGA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Procuradoria-Geral da Alerj",
+   "ato": "Ato E/MD 4500/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "BRUNA PEREZ DUARTE DE OLIVEIRA GONÇALVES BRAGA",
+   "cargo": "Assistente VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Secretaria-Geral da Mesa Diretora",
+   "vaga_de": "Elena Amara da Conceição",
+   "ato": "Ato E/MD 4501/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JOZEMAR SANTOS DE SOUZA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Liderança do MDB - Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4502/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MATEUS SANTOS DE CASTRO VIANA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Liderança do MDB - Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "vaga_de": "Jozemar dos Santos de Souza",
+   "ato": "Ato E/MD 4503/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MATEUS SANTOS DE CASTRO VIANA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4504/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MARCOS VINICIUS LEIROZ DE ANDRADE",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete da Deputada Giselle Monteiro",
+   "deputado": "Giselle Monteiro",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4496/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ALEX DE ALMEIDA AZEREDO",
+   "cargo": "Assistente de Coordenadoria",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Coordenadoria de Portaria",
+   "ato": "Ato E/MD 4505/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ALEX DE ALMEIDA AZEREDO",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral da Escola do Legislativo",
+   "vaga_de": "Nicoli de Souza Dias",
+   "ato": "Ato E/MD 4506/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MARIANA CHAVES VIEIRA",
+   "cargo": "Assistente de Coordenadoria",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Coordenadoria de Portaria",
+   "vaga_de": "Alex de Almeida Azeredo",
+   "ato": "Ato E/MD 4507/2026",
+   "edicaoId": "2026-11-18",
+   "data": "2026-11-18"
+  },
   {
    "acao": "nomeacao",
    "nome": "BRUNO SOUZA DO NASCIMENTO",

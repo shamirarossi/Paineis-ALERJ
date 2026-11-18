@@ -1,0 +1,485 @@
+{
+ "data": "2026-11-18",
+ "edicao": "Ano LII · Nº 211",
+ "extra": false,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMTg%3D",
+ "lidoEm": "2026-11-18T11:31:45+00:00",
+ "resumo": "A CCJ aprovou, em 17/11, parecer pela inconstitucionalidade do PL 7232/2026, de autoria da deputada (saúde integral de mulheres lésbicas e bissexuais), sob o argumento de ofensa à isonomia. O mandato também protocolou o PL 8519/2026, que cria o Estatuto de Proteção das Religiões de Matrizes Africanas, e assinou o pedido de urgência da tornozeleira rosa (PL 7549/2026). Em plenário, o PL 7315/2026 'Me Ajude' foi aprovado e segue para a Redação Final, e Dani Balbi e outras deputadas repudiaram a agressão ao professor André Aires, que interveio numa tentativa de feminicídio e foi alvo de ofensas homofóbicas. Na CCJ, os PLs 7254 (prejudicado), 7353 (vira indicação), 7781 (prejudicado) e 7801 (anexado) tratam de mulheres, e a Comissão de Cultura aprovou parecer de Dani Balbi sobre o Dia Fernanda Torres das Mulheres no Cinema. Nos temas de ciência e tecnologia, chamam atenção o PL 8512 (núcleo de crimes cibernéticos com IA) e a anexação do PL 7084 sobre IA ética; o PR 2835 (UNE), da deputada, está na pauta de 19/11.",
+ "pessoal": "9 atos de pessoal: 4 nomeações, 5 exonerações, 0 designações e 0 dispensas.",
+ "itens": [
+  {
+   "grupo": "Outros",
+   "tipo": "Resoluções promulgadas",
+   "ref": "Resoluções 2552, 2553, 2554 e 2555/2026",
+   "autor": "Franciane Motta; Júlio Rocha; Alan Lopes; Fred Pacheco",
+   "ementa": "Promulgadas após aprovação em 17/11: Diploma Juíza Patricia Acioli a José Alberto Simonetti Cabral (OAB) e Diploma Russell Philip Shedd à Igreja Assembleia de Deus Crescendo em Cristo (Guapimirim), ao Pastor Rodrigo Souza dos Santos e ao Pastor Felippe Valadão.",
+   "situacao": "Promulgadas em 17/11/2026",
+   "gabinete": true,
+   "nota": "A bancada do PCdoB registrou voto contrário ao diploma ao Pastor Felippe Valadão (Res. 2555), junto com o PSOL."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8519/2026",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Institui o Estatuto de Proteção das Religiões de Matrizes Africanas, com registro estadual de ocorrências, canal de denúncias, protocolo de resposta em 48h, formação de servidores e forças de segurança e reparação às vítimas.",
+   "situacao": "A imprimir; CCJ, Combate às Discriminações, Segurança Pública e Orçamento",
+   "gabinete": true,
+   "nota": "Proposição de autoria do mandato; acompanhar a distribuição e a relatoria na CCJ."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados",
+   "ref": "PL 8508/2026 e PL 8526/2026",
+   "autor": "Dep. Rosenverg Reis (8508); Dep. Giselle Monteiro (8526)",
+   "ementa": "O PL 8508 dá prioridade no Programa Estadual de Aprendizagem a adolescentes e jovens órfãos de feminicídio. O PL 8526 fixa diretrizes de divulgação de direitos das mães solo.",
+   "situacao": "A imprimir; em tramitação nas comissões",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Ambos tratam de proteção a mulheres e maternidade; vale acompanhar e avaliar apoio ou emendas."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8512/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Cria Núcleo Especializado de Investigação de Crimes Cibernéticos com uso de Inteligência Artificial na DRCI da Polícia Civil.",
+   "situacao": "A imprimir; CCJ, Segurança Pública, Ciência e Tecnologia e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de IA, proteção de dados e supervisão humana; passa pela Comissão de Ciência e Tecnologia."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados",
+   "ref": "PL 8523/2026 e PL 8510/2026",
+   "autor": "Dep. Marcelo Dino (8523); Dep. Rosenverg Reis (8510)",
+   "ementa": "O PL 8523 (Localiza RJ) prevê prevenção do desaparecimento e localização assistida de pessoas com TEA, TDAH, alterações sensoriais ou Alzheimer. O PL 8510 institui política de identificação e atendimento de estudantes com altas habilidades/superdotação, inclusive com dupla excepcionalidade (TEA, TDAH).",
+   "situacao": "A imprimir; comissões de Pessoa com Deficiência, Educação, Segurança, Ciência e Tecnologia e Orçamento",
+   "temas": [
+    "ct"
+   ]
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8525/2026",
+   "autor": "Deps. Lucinha, Anderson Moraes e Rodrigo Amorim (com Fábio Silva e Rafael Picciani)",
+   "ementa": "Cria programa de capacitação técnica e empregabilidade no setor elétrico, em cooperação entre a FAETEC e as distribuidoras (Light e Enel), após as falhas de energia de novembro.",
+   "situacao": "A imprimir; CCJ, Minas e Energia, Ciência e Tecnologia, Trabalho, Economia e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Ligação indireta com ciência e tecnologia (educação profissional tecnológica da FAETEC); passa pela Comissão de Ciência e Tecnologia."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Republicações",
+   "ref": "PLs 5992/2022, 380/2023, 560/2023, 1479/2023, 4511/2024, 5417/2025, 6554/2025, 6555/2025, 7315/2026 e PR 2633/2026",
+   "autor": "Vários autores",
+   "ementa": "Republicados por incorreções: projetos de Carlos Minc e Dani Monteiro (cânhamo e cannabis, redutor de danos, policiais penais no rol de agentes de segurança), semanas de Tia Ju (Mega Help e Mega Dance), o PL 7315 'Me Ajude' e o PR 2633 (Prêmio Anna Nery).",
+   "situacao": "Republicados no D.O.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Inclui o PL 7315 'Me Ajude', aprovado em plenário; Dani Monteiro (coautora de vários) é outra parlamentar."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Requerimento de urgência",
+   "ref": "PL 7549/2026 (tornozeleira rosa)",
+   "autor": "Dep. Fred Pacheco, com 27 signatários, entre eles Dani Balbi e Vinícius Cozzolino",
+   "ementa": "Pede regime de urgência para o PL 7549/2026, que implanta a tornozeleira rosa no monitoramento eletrônico de agressores de mulheres.",
+   "situacao": "Deferido automaticamente (art. 127, § 4º, do RI); a imprimir",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "O mandato assina o requerimento; o PL pode ir a plenário em breve, convém preparar o voto."
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Requerimentos de urgência",
+   "ref": "PR 2829/2026 e PL 8415/2026",
+   "autor": "Dep. Rosenverg Reis, com 24 signatários, entre eles Dani Balbi e Vinícius Cozzolino",
+   "ementa": "Pedem urgência para o Diploma Reverendo John Wesley (PR 2829) e para o Dia Estadual da Igreja Metodista Wesleyana (PL 8415).",
+   "situacao": "Deferidos automaticamente; a imprimir",
+   "gabinete": true,
+   "nota": "O mandato consta como signatário."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do Dia – aprovado",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão (relatora na CCJ: Sarah Poncio)",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', para mulheres em situação de risco. Os pareceres das comissões de Mulher, Ciência e Tecnologia, Segurança e Orçamento acompanharam a CCJ.",
+   "situacao": "Aprovado o substitutivo da CCJ em discussão única; vai à Redação Final",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Dani Balbi elogiou o projeto no Expediente; resta acompanhar a Redação Final."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Pronunciamentos em plenário",
+   "ref": "Expediente de 17/11/2026",
+   "autor": "Deps. Elika Takimoto, Renata Souza, Marina do MST e Dani Balbi",
+   "ementa": "Repúdio à agressão ao professor e estudante da UniRio André Aires, em estado gravíssimo após intervir em tentativa de feminicídio, com xingamentos homofóbicos; o agressor teve a prisão convertida em preventiva. Dani Balbi notificou a Polícia Civil, o MP e a Prefeitura para preservar provas.",
+   "situacao": "Registrado em ata",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "A deputada já notificou as autoridades; acompanhar o caso e o Pacto contra o Feminicídio."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade",
+   "ref": "PL 7232/2026",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Política Estadual de Saúde Integral de Mulheres Lésbicas e Bissexuais no SUS. O relator vê ofensa à isonomia (art. 5º, caput) por falta de delimitação do tratamento diferenciado.",
+   "situacao": "Parecer pela inconstitucionalidade aprovado na CCJ em 17/11/2026",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Parecer contrário a proposição do mandato; avaliar recurso ou nova redação com fundamento clínico-epidemiológico para a diferenciação."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela prejudicabilidade",
+   "ref": "PL 7254/2026",
+   "autor": "Dep. Renata Souza (relator: Dep. Marcelo Dino)",
+   "ementa": "Autorizava condicionar incentivos fiscais à proteção do trabalho da gestante. Considerado prejudicado pela Lei 11.199/2026, que já trata da inclusão da mulher no mercado de trabalho; o PL 7421/2026 é correlato.",
+   "situacao": "Aprovado na CCJ em 17/11/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Proteção à gestante e maternidade no trabalho; a Lei 11.199/2026 passa a ser a referência."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade, com transformação em indicação",
+   "ref": "PL 7353/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Previa demissão de servidor condenado por feminicídio, tentado ou consumado. A CCJ viu vício de iniciativa (regime de servidores) e propôs convertê-lo em indicação ao governador.",
+   "situacao": "Aprovado na CCJ em 17/11/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta de enfrentamento ao feminicídio; o mérito segue por indicação legislativa."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres sobre violência contra a mulher",
+   "ref": "PLs 7256/2026, 7781/2026, 7801/2026, 2006/2023 e 6184/2025",
+   "autor": "Guilherme Delaroli; Dr. Pedro Ricardo; Rosenverg Reis; Carlinhos BNH",
+   "ementa": "A CCJ aprovou o PL 7256 (amplia o Sinal Vermelho a idosos e crianças, em 10/11), declarou prejudicado o PL 7781 (Lei 4.158/2003), anexou o PL 7801 (violência digital) ao PL 7437/2026 e deu juridicidade com emendas ao PL 2006/2023 (assédio nos transportes). A Comissão de Esporte aprovou o PL 6184/2025, que proíbe agressores domésticos em estádios.",
+   "situacao": "CCJ em 17/11 (7256 em 10/11); Esporte e Lazer em 17/11",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Cinco proposições ligadas a violência contra a mulher que avançaram ou foram arquivadas; o PL 7801 trata de violência digital."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres sobre segurança e saúde ocupacional",
+   "ref": "PLs 7303/2026, 7323/2026, 2402/2023, 2404/2023 e 2406/2023",
+   "autor": "Rosenverg Reis; Márcio Canella",
+   "ementa": "Prejudicados os PLs 7303 (capinhas que simulam armas, Lei 2.403/1995) e 7323 (ações da PM em condomínios contra violência doméstica). Inconstitucionais os PLs 2402, 2404 (agentes de segurança, penitenciária e defesa civil) e 2406, sobre vacinação por categoria, por invadirem o direito do trabalho.",
+   "situacao": "Aprovados na CCJ em 17/11/2026",
+   "temas": [
+    "mulheres"
+   ]
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela constitucionalidade com substitutivo",
+   "ref": "PL 2454/2023",
+   "autor": "Dep. Carlinhos BNH (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Proteção à beneficiária de plano de saúde contra negativa de cobertura da criopreservação de óvulos indicada antes de quimioterapia para câncer de mama.",
+   "situacao": "Aprovado na CCJ em 17/11/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Saúde da mulher com câncer de mama; o substitutivo trata a negativa como abusiva."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela anexação",
+   "ref": "PL 7084/2026",
+   "autor": "Dep. Lilian Behring (relatora: Dep. Elika Takimoto)",
+   "ementa": "Uso ético e responsável da inteligência artificial, anexado ao PL 1568/2023, de Verônica Lima, que trata do mesmo tema.",
+   "situacao": "Aprovado na CCJ em 17/11/2026",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Projeto da vice-líder da bancada do PCdoB sobre IA, que passa a tramitar junto ao PL 1568/2023."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis",
+   "ref": "PL 957/2023 e PL 4909/2025",
+   "autor": "Dep. Rosenverg Reis (957); Dep. Elika Takimoto (4909); relatora: Dep. Dani Balbi",
+   "ementa": "O PL 957/2023 cria multa de 5.000 UFIR por depredação do patrimônio público estadual. O PL 4909/2025 institui o Dia Estadual Fernanda Torres das Mulheres no Cinema e no Audiovisual (6 de janeiro).",
+   "situacao": "Aprovados na Comissão de Cultura em 17/11/2026",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "A deputada relatou os dois pareceres; o PL 4909 valoriza mulheres da cultura e do audiovisual."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "Comissão de Normas Internas e Proposições Externas, 6ª Reunião Ordinária",
+   "autor": "Dep. Rodrigo Amorim, Presidente",
+   "ementa": "Reunião remota em 19/11/2026, a partir das 14h, com 34 pareceres sobre medalhas, diplomas e prêmios (PRs) e utilidade pública (PLs 6119/2022, 7509/2026 e 8434/2026). Relatores: Rodrigo Amorim (itens 1 a 10), Poubel (11 a 17), Fred Pacheco (18 a 23), Chico Machado (24 a 28) e Yuri Moura (29 a 34).",
+   "situacao": "Convocada em 17/11/2026",
+   "gabinete": true,
+   "nota": "O PR 2835, da deputada, está na pauta."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projeto de resolução em pauta",
+   "ref": "PR 2835/2026",
+   "autor": "Dep. Dani Balbi (relator: Dep. Yuri Moura)",
+   "ementa": "Concede a Medalha Tiradentes e o diploma à União Nacional dos Estudantes (UNE).",
+   "situacao": "Pauta de 19/11/2026",
+   "gabinete": true,
+   "nota": "Proposição do mandato na pauta; conferir a presença do relator."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Editais de eventos",
+   "ref": "Controle Interno em Rede e Novembro Azul",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "'Controle Interno em Rede': 25/11, das 9h às 16h, sobre controle preventivo e integridade, com 100 vagas. 'Novembro Azul': 26/11, das 13h às 17h, sobre saúde do homem, com o debate 'O que tem de Lilás no Azul?' sobre a responsabilidade masculina contra a violência à mulher.",
+   "situacao": "Os editais fixam inscrições até 16/11, prazo já encerrado",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "O Novembro Azul inclui debate sobre o papel dos homens contra a violência à mulher."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados",
+   "ref": "PL 8511/2026, PL 8518/2026 e PL 8524/2026",
+   "autor": "Dep. Rosenverg Reis (8511); Dep. Índia Armelau (8518); Dep. Marcelo Dino (8524)",
+   "ementa": "O PL 8511 cria a política 'Farmácia Segura' contra roubos e desvio de medicamentos. O PL 8518 atualiza o programa de formação periódica dos profissionais de segurança pública (uso da força, armas, primeiros socorros). O PL 8524 trata do compartilhamento de informações de segurança com as guardas municipais.",
+   "situacao": "A imprimir; comissões de Segurança Pública e outras"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projetos de lei apresentados (demais)",
+   "ref": "PLs 8501 a 8507, 8509, 8513 a 8517, 8520 a 8522 e 8527/2026",
+   "autor": "Vários autores",
+   "ementa": "Utilidade pública (8501, 8502); jornada de 30h para psicólogos (8503) e banco de créditos de consumo (8504), ambos de Martha Rocha; teqball (8505); vacina meningocócica B para crianças com paralisia cerebral (8506); isenção de IPVA para motos até 180 cc (8507, Douglas Ruas); passe pago por motoristas de aplicativo (8509); horários de shows, revogações de leis antigas e Libras (8513 a 8517, Índia Armelau); emendas impositivas para educação (8520) e multas da AGENERSA aos municípios (8521), de Renato Miranda; vínculos na saúde (8522, Elika Takimoto); Dia do Cuidador de Animais Comunitários (8527).",
+   "situacao": "A imprimir; em tramitação nas comissões"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projeto de resolução",
+   "ref": "PR 2857/2026",
+   "autor": "Dep. Marcelo Dino (coautores: Anderson Moraes, Cláudio Caiado, Giselle Monteiro, Lucinha, Márcio Gualberto, Rafael Nobre, Val Ceasa e Vinicius Cozzolino)",
+   "ementa": "Concede a Medalha Tiradentes a Nayib Bukele, presidente de El Salvador, pela atuação contra o crime organizado, com ressalva na justificativa sobre questionamentos de organismos internacionais ao regime de exceção.",
+   "situacao": "A imprimir; Comissão de Normas Internas e Proposições Externas"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projetos de resolução",
+   "ref": "PR 2858/2026 e PR 2859/2026",
+   "autor": "Dep. Sergio Fernandes (2858); Dep. Chico Machado (2859)",
+   "ementa": "O PR 2858 concede o Prêmio Chico Xavier ao PM Leonardo Siqueira Lima. O PR 2859 cria o Diploma Alysson Paolinelli para destaques do setor agropecuário.",
+   "situacao": "A imprimir; Normas Internas (2858) e Mesa Diretora (2859)"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação legislativa",
+   "ref": "Indicação 709/2026",
+   "autor": "Dep. Martha Rocha",
+   "ementa": "Pede ao governador mensagem para estender a integralidade e a paridade da LC 227/2025 a agentes de segurança aposentados por incapacidade permanente e a pensões por morte em serviço anteriores à lei.",
+   "situacao": "A imprimir; Comissão de Indicações Legislativas"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Indicação legislativa",
+   "ref": "Indicação 710/2026",
+   "autor": "Dep. Marcelo Dino",
+   "ementa": "Pede ao governador mensagem sobre tratamento tributário favorecido (ICMS) a alimentos sem glúten para pessoas com doença celíaca.",
+   "situacao": "A imprimir; Comissão de Indicações Legislativas"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do Dia – demais votações",
+   "ref": "PLs 4919/2025, 6590/2025, 8191/2026, 3797/2024 e PR 2652/2026",
+   "autor": "Renan Jordy; Rodrigo Amorim; Luiz Paulo; Felipinho Ravis; Márcio Gualberto",
+   "ementa": "Aprovados: Itaperuna Capital do Charque (2ª discussão, autógrafo), Dia do Mestre de Jiu-Jitsu (com emenda da CCJ, Redação do Vencido) e PR 2652 (Redação Final). Os PLs 8191 (prorrogação de concursos) e 3797 (Dia da Cinofilia) receberam emendas de plenário e voltam às comissões.",
+   "situacao": "Sessão de 17/11/2026"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Pronunciamento em plenário",
+   "ref": "Expediente de 17/11/2026",
+   "autor": "Dep. Júlio Rocha",
+   "ementa": "Pede ao governador eleito um hospital estadual na região de Teresópolis, uma DEAM no município e a retomada de obras de infraestrutura em Cachoeiras de Macacu, Guapimirim e Magé.",
+   "situacao": "Registrado em ata"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Ofícios e despachos",
+   "ref": "Ofícios GDJR 17 e 18/2026, GDGM 38/2026, GDTJ 417/2026 e pedido de Tia Ju",
+   "autor": "Deps. Júlio Rocha, Giselle Monteiro e Tia Ju",
+   "ementa": "Júlio Rocha, de volta ao mandato pelo AGIR desde 02/11, pede para reassumir a presidência da Comissão de Turismo e do Conselho de Ética. Autorizadas a licença de Giselle Monteiro (12/11, UNALE) e a missão de Tia Ju no Japão e em Taiwan (5 a 15/12).",
+   "situacao": "Despachados em 17/11/2026"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela constitucionalidade com emendas",
+   "ref": "PL 6250/2025",
+   "autor": "Dep. Arthur Monteiro (relator: Dep. Alexandre Knoploch)",
+   "ementa": "PRODES Caxias, programa de desenvolvimento socioeconômico de Duque de Caxias. As emendas suprimem os artigos do fundo, do conselho e do prazo de regulamentação.",
+   "situacao": "Aprovado na CCJ em 17/11/2026"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres sobre TEA e neurodivergência",
+   "ref": "PL 7966/2026 e PL 8431/2026",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Elika Takimoto); Dep. Chico Machado (relator: Dep. Fred Pacheco)",
+   "ementa": "O PL 7966 (selo Lojista Amigo do TEA) foi anexado ao PL 589/2023. O PL 8431 (categorização de TEA e neurodivergência nos registros de violência sexual contra crianças) foi considerado constitucional.",
+   "situacao": "Aprovados na CCJ em 17/11/2026"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Demais pareceres da CCJ",
+   "ref": "Reunião de 17/11/2026",
+   "autor": "Vários",
+   "ementa": "Prejudicados: PLs 2856/2014, 414/2023, 635/2023, 7167/2026, 7330/2026, 7725/2026, 7777/2026 e 8112/2026. Anexado o PL 6012/2022 (vape). Inconstitucional o PL 6182/2022. Aprovados, com ou sem emendas: PLs 3868/2024 (substitutivo), 4084/2024, 7216/2026, 7628/2026, 7800/2026, 7808/2026, 7824/2026, 7985/2026, 8013/2026, 8066/2026, 8068/2026, 8074/2026 e 8115/2026, a Indicação 701/2026 e as emendas de plenário ao PL 4418/2018.",
+   "situacao": "Aprovados na 10ª Reunião Extraordinária da CCJ"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Outros pareceres",
+   "ref": "Comissões de Cultura, Esporte e Lazer e Defesa dos Animais",
+   "autor": "Vários",
+   "ementa": "Cultura (17/11): PLs 1052/2023, 2046/2023, 4464/2024, 4505/2024, 4536/2024 (Petrópolis, capital do antigomobilismo), 5303/2025, 5363/2025 e 6639/2025. Esporte e Lazer (17/11): PLs 6608/2025, 7049/2026, 7076/2026, 7127/2026, 7288/2026 e 7428/2026. Defesa dos Animais (ata de 01/09): PLs 1882/2023, 4995/2025, 5359/2025, 6285/2025, 1331/2023, 7050/2026 e emenda ao PL 1506/2019.",
+   "situacao": "Todos favoráveis"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Projetos de resolução em pauta",
+   "ref": "PR 2823/2026 e PR 2826/2026",
+   "autor": "Dep. Vinicius Cozzolino (relatores: Dep. Chico Machado, PR 2823; Dep. Fred Pacheco, PR 2826)",
+   "ementa": "O PR 2823 concede a Medalha Tiradentes à prefeita de Magé, Jamille Cozzolino Harb. O PR 2826 concede a mesma medalha ao Pastor Erodião Francisco das Chagas.",
+   "situacao": "Pauta de 19/11/2026"
+  },
+  {
+   "grupo": "Atos da Mesa",
+   "tipo": "Atos administrativos",
+   "ref": "Atos E/MD 4497 a 4499, despachos e Portarias E/DG 453 e 454/2026",
+   "autor": "Mesa Diretora; Primeiro Secretário; Diretor-Geral",
+   "ementa": "Os Atos 4497 a 4499 tornam sem efeito os Atos 4495, 4427 e 4428. Houve despachos de processos (Tia Ju autorizada), redistribuição de cargo Assistente IX (CCDAL-9) para a Diretoria-Geral, cessação de portarias de 2024, férias deferidas e errata aos Atos 4483 e 4485.",
+   "situacao": "Publicados em 17/11/2026"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Atas",
+   "ref": "Comissão Especial de Contenção de Gastos (6ª reunião, 07/07) e eleição do Comitê de Prevenção e Combate à Tortura (12/06)",
+   "autor": "Dep. Tia Ju (Comissão Especial); comissão eleitoral",
+   "ementa": "A Comissão Especial ouviu a CGE-RJ e aprovou os PLCs de Tia Ju (SIFIGRJ) e de Luiz Paulo (impacto de despesa com pessoal). Foram eleitas cinco organizações da sociedade civil para o Comitê Estadual contra a Tortura no biênio 2026/2028.",
+   "situacao": "Atas publicadas"
+  }
+ ],
+ "atosPessoal": [
+  {
+   "acao": "exoneracao",
+   "nome": "BRUNA PEREZ DUARTE DE OLIVEIRA GONÇALVES BRAGA",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Procuradoria-Geral da Alerj",
+   "ato": "Ato E/MD 4500/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "BRUNA PEREZ DUARTE DE OLIVEIRA GONÇALVES BRAGA",
+   "cargo": "Assistente VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Secretaria-Geral da Mesa Diretora",
+   "vaga_de": "Elena Amara da Conceição",
+   "ato": "Ato E/MD 4501/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "JOZEMAR SANTOS DE SOUZA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Liderança do MDB - Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4502/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MATEUS SANTOS DE CASTRO VIANA",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Liderança do MDB - Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "vaga_de": "Jozemar dos Santos de Souza",
+   "ato": "Ato E/MD 4503/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MATEUS SANTOS DE CASTRO VIANA",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4504/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "MARCOS VINICIUS LEIROZ DE ANDRADE",
+   "cargo": "Assessor Parlamentar VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Gabinete da Deputada Giselle Monteiro",
+   "deputado": "Giselle Monteiro",
+   "a_pedido": true,
+   "ato": "Ato E/MD 4496/2026"
+  },
+  {
+   "acao": "exoneracao",
+   "nome": "ALEX DE ALMEIDA AZEREDO",
+   "cargo": "Assistente de Coordenadoria",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Coordenadoria de Portaria",
+   "ato": "Ato E/MD 4505/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ALEX DE ALMEIDA AZEREDO",
+   "cargo": "Assistente IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Subdiretoria-Geral da Escola do Legislativo",
+   "vaga_de": "Nicoli de Souza Dias",
+   "ato": "Ato E/MD 4506/2026"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "MARIANA CHAVES VIEIRA",
+   "cargo": "Assistente de Coordenadoria",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Coordenadoria de Portaria",
+   "vaga_de": "Alex de Almeida Azeredo",
+   "ato": "Ato E/MD 4507/2026"
+  }
+ ]
+}
