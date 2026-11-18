@@ -407,8 +407,11 @@ def reconstruir_indices(status: dict) -> None:
             if not ed:
                 continue
             eid = f.stem
-            eds.append({"id": eid, "data": ed["data"], "edicao": ed.get("edicao"), "extra": ed.get("extra", False),
-                        "contagem": contagem(ed.get("itens", []), pid)})
+            entrada = {"id": eid, "data": ed["data"], "edicao": ed.get("edicao"), "extra": ed.get("extra", False),
+                       "contagem": contagem(ed.get("itens", []), pid)}
+            if (RAIZ / p["pasta"] / "relatorios" / f"{eid}.pdf").exists():
+                entrada["relatorio"] = f"relatorios/{eid}.pdf"
+            eds.append(entrada)
             for it in ed.get("itens", []):
                 if it.get("temas") or it.get("gabinete"):
                     destaques.append({**it, "edicaoId": eid, "data": ed["data"]})

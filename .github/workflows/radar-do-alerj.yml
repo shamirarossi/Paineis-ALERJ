@@ -61,11 +61,15 @@ jobs:
           if [ "$FORCAR" = "true" ]; then ARGS="$ARGS --forcar"; fi
           if python radar-do-alerj/scripts/ler_do.py $ARGS; then echo "ok=1" >> "$GITHUB_OUTPUT"; else echo "ok=0" >> "$GITHUB_OUTPUT"; fi
 
+      - name: Gerar relatórios em PDF (painel da Dani)
+        # O Chrome já vem instalado no runner do GitHub. Só gera o PDF de edições novas ou relidas.
+        run: python radar-do-alerj/scripts/relatorio_pdf.py || echo "::warning::Algum relatório em PDF não foi gerado; o painel segue funcionando."
+
       - name: Publicar no painel
         run: |
           git config user.name "radar-do[bot]"
           git config user.email "radar-do@users.noreply.github.com"
-          git add leituras radar-do-alerj/data radar-vinicius-cozzolino/data
+          git add leituras radar-do-alerj/data radar-do-alerj/relatorios radar-vinicius-cozzolino/data
           if git diff --cached --quiet; then
             echo "Nada novo para publicar."
           else

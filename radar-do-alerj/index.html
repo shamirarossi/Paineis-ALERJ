@@ -107,6 +107,9 @@ main { padding-block: 10px 56px; }
 .ed-sub { color: var(--muted); font-size: 15px; }
 .ed-sub a { color: var(--accent); font-weight: 600; }
 .badge { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; border-radius: 6px; padding: 2px 8px; background: var(--warn-bg); color: var(--warn-fg); }
+.btn-pdf { display: inline-flex; align-items: center; gap: 8px; margin-top: 12px; font: 700 15px var(--font); color: #fff; background: var(--roxo); border-radius: 999px; padding: 9px 16px 9px 13px; text-decoration: none; }
+.btn-pdf:hover { filter: brightness(1.12); }
+.btn-pdf svg { width: 18px; height: 18px; fill: none; stroke: var(--amarelo); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
 .resumo { margin: 14px 0 0; font-size: 18px; line-height: 1.55; max-width: 68ch; }
 .tally { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 8px; }
 .tally button { font: 600 14px var(--font); color: var(--fg); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; display: inline-flex; gap: 8px; align-items: center; }
@@ -147,7 +150,11 @@ main { padding-block: 10px 56px; }
 .periodo button[aria-pressed="true"] { border-color: var(--accent); background: var(--soft); }
 .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin-bottom: 26px; }
 @media (max-width: 620px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; min-width: 0; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; min-width: 0; text-align: left; font: inherit; color: inherit; cursor: pointer; }
+.stat:hover { border-color: var(--accent); }
+.stat[aria-pressed="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); background: var(--soft); }
+.stat.des .v { color: var(--accent); } .stat.dis .v { color: var(--muted); }
+table.mov td.zero { color: var(--muted); opacity: .55; }
 .stat .v { font-weight: 900; font-size: 32px; line-height: 1; font-variant-numeric: tabular-nums; }
 .stat .l { font-size: 14px; color: var(--muted); margin-top: 4px; }
 .stat.nom .v { color: var(--ok); } .stat.exo .v { color: var(--mulheres); }
@@ -168,8 +175,10 @@ table.mov tr.meu td:first-child::after { content: " · gabinete"; font-weight: 6
 .saldo-pos { color: var(--ok); font-weight: 700; } .saldo-neg { color: var(--mulheres); font-weight: 700; }
 .ato { display: grid; grid-template-columns: 7.4em minmax(0, 1fr); gap: 4px 12px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
 .acao { justify-self: start; font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; border-radius: 6px; padding: 3px 8px; align-self: start; white-space: nowrap; }
-.acao.nomeacao, .acao.designacao { background: var(--ok-bg); color: var(--ok); }
-.acao.exoneracao, .acao.dispensa { background: var(--exo-bg); color: var(--mulheres); }
+.acao.nomeacao { background: var(--ok-bg); color: var(--ok); }
+.acao.designacao { background: var(--soft); color: var(--accent); }
+.acao.exoneracao { background: var(--exo-bg); color: var(--mulheres); }
+.acao.dispensa { background: var(--soft); color: var(--muted); }
 .ato-nome { font-weight: 700; overflow-wrap: anywhere; }
 .ato-meta { grid-column: 2; font-size: 14px; color: var(--muted); }
 .lista-head { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; margin: 26px 0 10px; }
@@ -228,7 +237,7 @@ footer .wrap { padding-block: 18px 28px; }
   <div class="wrap" role="tablist" id="tablist">
     <button class="tab" role="tab" data-view="edicoes" id="tab-edicoes">Por dia</button>
     <span id="tabs-temas" hidden></span>
-    <button class="tab" role="tab" data-view="pessoal" id="tab-pessoal">Nomeações e exonerações</button>
+    <button class="tab" role="tab" data-view="pessoal" id="tab-pessoal">Nomeações, exonerações e designações</button>
   </div>
 </nav>
 
@@ -289,7 +298,7 @@ window.PERFIL = {
   var MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
   var SEMANA = ["domingo","segunda","terça","quarta","quinta","sexta","sábado"];
 
-  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null, pessoal: [], periodo: "30", orgao: null };
+  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null, pessoal: [], periodo: "30", orgao: null, tipo: null };
   var main = document.getElementById("main");
 
   function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
@@ -394,6 +403,13 @@ window.PERFIL = {
     if (ed.edicao) sub.appendChild(document.createTextNode(ed.edicao + " · "));
     if (ed.link) { var a = el("a", null, "Abrir o Diário Oficial"); a.href = ed.link; a.target = "_blank"; a.rel = "noopener"; sub.appendChild(a); }
     col.appendChild(sub);
+    if (meta.relatorio) {
+      var pdf = el("a", "btn-pdf"); pdf.id = "baixar-relatorio"; pdf.href = meta.relatorio;
+      pdf.setAttribute("download", "Radar-DO-ALERJ-Dani-Balbi-" + meta.id + ".pdf");
+      pdf.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11m0 0l-4.5-4.5M12 15l4.5-4.5M5 19h14"/></svg>';
+      pdf.appendChild(document.createTextNode("Baixar relatório do dia (PDF)"));
+      col.appendChild(pdf);
+    }
     if (ed.resumo) col.appendChild(el("p", "resumo", ed.resumo));
 
     var itens = ed.itens || [], hits = zeros();
@@ -462,7 +478,7 @@ window.PERFIL = {
     main.textContent = "";
     var col = el("section", "theme-col"); col.id = "pessoal"; col.style.maxWidth = "980px";
     var head = el("div", "theme-head");
-    head.appendChild(el("h2", null, "Nomeações e exonerações"));
+    head.appendChild(el("h2", null, "Nomeações, exonerações e designações"));
     head.appendChild(el("p", null, "Atos de pessoal da ALERJ publicados na Parte II: cargos em comissão (atos da Mesa Diretora) e funções gratificadas (atos do Primeiro Secretário). Clique num gabinete para ver os atos dele."));
     col.appendChild(head);
 
@@ -481,7 +497,7 @@ window.PERFIL = {
     var per = el("div", "periodo"); per.setAttribute("role", "group"); per.setAttribute("aria-label", "Período");
     [["ultima", "Última edição (" + fmtCurto(ultima) + ")"], ["30", "Últimos 30 dias"], ["90", "Últimos 90 dias"], ["tudo", "Tudo"]].forEach(function (o) {
       var b = el("button", null, o[1]); b.type = "button"; b.id = "periodo-" + o[0]; b.setAttribute("aria-pressed", state.periodo === o[0] ? "true" : "false");
-      b.addEventListener("click", function () { state.periodo = o[0]; state.orgao = null; render(); });
+      b.addEventListener("click", function () { state.periodo = o[0]; state.orgao = null; state.tipo = null; render(); });
       per.appendChild(b);
     });
     col.appendChild(per);
@@ -489,46 +505,50 @@ window.PERFIL = {
     var c = { nomeacao: 0, exoneracao: 0, designacao: 0, dispensa: 0 }, pedido = 0;
     periodo.forEach(function (a) { c[a.acao] = (c[a.acao] || 0) + 1; if (a.acao === "exoneracao" && a.a_pedido) pedido++; });
     var stats = el("div", "stats"); stats.id = "totais";
-    [["nom", c.nomeacao, "nomeações"], ["exo", c.exoneracao, "exonerações" + (c.exoneracao ? " (" + pedido + " a pedido)" : "")], ["", c.designacao, "designações de função"], ["", c.dispensa, "dispensas de função"]].forEach(function (x) {
-      var st = el("div", "stat " + x[0]); st.appendChild(el("div", "v", String(x[1]))); st.appendChild(el("div", "l", x[2])); stats.appendChild(st);
+    [["nomeacao", "nom", "nomeações para cargo em comissão"], ["exoneracao", "exo", "exonerações" + (c.exoneracao ? " (" + pedido + " a pedido)" : "")], ["designacao", "des", "designações para função ou substituição"], ["dispensa", "dis", "dispensas de função"]].forEach(function (x) {
+      var st = el("button", "stat " + x[1]); st.type = "button"; st.id = "tipo-" + x[0];
+      st.setAttribute("aria-pressed", state.tipo === x[0] ? "true" : "false");
+      st.title = "Mostrar só " + { nomeacao: "nomeações", exoneracao: "exonerações", designacao: "designações", dispensa: "dispensas" }[x[0]];
+      st.appendChild(el("div", "v", String(c[x[0]]))); st.appendChild(el("div", "l", x[2]));
+      st.addEventListener("click", function () { state.tipo = state.tipo === x[0] ? null : x[0]; render(); var y = document.getElementById("atos"); if (y && state.tipo) y.scrollIntoView({ block: "start" }); });
+      stats.appendChild(st);
     });
     col.appendChild(stats);
 
     // por gabinete ou órgão
     var grupos = {};
     periodo.forEach(function (a) {
-      var k = orgaoDe(a), g = grupos[k] || (grupos[k] = { nome: k, ent: 0, sai: 0, meu: ehGab(a.deputado || a.lotacao) });
-      if (a.acao === "nomeacao" || a.acao === "designacao") g.ent++; else g.sai++;
+      var k = orgaoDe(a), g = grupos[k] || (grupos[k] = { nome: k, nomeacao: 0, exoneracao: 0, designacao: 0, dispensa: 0, meu: ehGab(a.deputado || a.lotacao) });
+      g[a.acao] = (g[a.acao] || 0) + 1;
     });
-    var lista = Object.keys(grupos).map(function (k) { return grupos[k]; }).sort(function (a, b) { return (b.meu - a.meu) || ((b.ent + b.sai) - (a.ent + a.sai)) || a.nome.localeCompare(b.nome); });
-    var max = lista.reduce(function (m, g) { return Math.max(m, g.ent, g.sai); }, 1);
+    var lista = Object.keys(grupos).map(function (k) { return grupos[k]; }).sort(function (a, b) { var ta = a.nomeacao + a.exoneracao + a.designacao + a.dispensa, tb = b.nomeacao + b.exoneracao + b.designacao + b.dispensa; return (b.meu - a.meu) || (tb - ta) || a.nome.localeCompare(b.nome); });
     col.appendChild(el("div", "lista-head")).appendChild(el("h3", null, "Por gabinete ou órgão"));
     var wrap = el("div", "tabela-wrap"), t = el("table", "mov"); t.id = "por-orgao";
     var thead = el("thead"), tr0 = el("tr");
-    [["Gabinete ou órgão", ""], ["Entradas", "n"], ["Saídas", "n"], ["Saldo", "n"]].forEach(function (h) { tr0.appendChild(el("th", h[1], h[0])); });
+    [["Gabinete ou órgão", ""], ["Nomeações", "n"], ["Exonerações", "n"], ["Designações", "n"], ["Dispensas", "n"], ["Saldo", "n"]].forEach(function (h) { tr0.appendChild(el("th", h[1], h[0])); });
     thead.appendChild(tr0); t.appendChild(thead);
     var tb = el("tbody");
     lista.forEach(function (g) {
       var tr = el("tr", (g.meu ? "meu " : "") + (state.orgao === g.nome ? "sel" : ""));
       tr.tabIndex = 0;
       tr.appendChild(el("td", null, g.nome));
-      var te = el("td", "n", String(g.ent)); var b1 = el("span", "bar nom"); b1.style.width = Math.round(40 * g.ent / max) + "px"; if (g.ent) te.appendChild(b1); tr.appendChild(te);
-      var ts = el("td", "n", String(g.sai)); var b2 = el("span", "bar exo"); b2.style.width = Math.round(40 * g.sai / max) + "px"; if (g.sai) ts.appendChild(b2); tr.appendChild(ts);
-      var sd = g.ent - g.sai; tr.appendChild(el("td", "n " + (sd > 0 ? "saldo-pos" : sd < 0 ? "saldo-neg" : ""), (sd > 0 ? "+" : "") + sd));
+      ["nomeacao", "exoneracao", "designacao", "dispensa"].forEach(function (k) { tr.appendChild(el("td", "n" + (g[k] ? "" : " zero"), String(g[k]))); });
+      var sd = (g.nomeacao + g.designacao) - (g.exoneracao + g.dispensa); tr.appendChild(el("td", "n " + (sd > 0 ? "saldo-pos" : sd < 0 ? "saldo-neg" : ""), (sd > 0 ? "+" : "") + sd));
       var pick = function () { state.orgao = state.orgao === g.nome ? null : g.nome; render(); var x = document.getElementById("atos"); if (x && state.orgao) x.scrollIntoView({ block: "start" }); };
       tr.addEventListener("click", pick);
       tr.addEventListener("keydown", function (ev) { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } });
       tb.appendChild(tr);
     });
     t.appendChild(tb); wrap.appendChild(t); col.appendChild(wrap);
-    col.appendChild(el("p", "pessoal", "Entradas somam nomeações e designações; saídas somam exonerações e dispensas. Uma troca no mesmo cargo aparece como uma saída e uma entrada."));
+    col.appendChild(el("p", "pessoal", "Nomeações e exonerações são de cargos em comissão (atos da Mesa Diretora). Designações e dispensas são de funções gratificadas ou de substituições (atos do Primeiro Secretário e portarias). O saldo soma nomeações e designações e subtrai exonerações e dispensas; uma troca no mesmo cargo aparece como uma saída e uma entrada. Clique num gabinete ou num dos totais acima para filtrar a lista."));
 
     // lista de atos
     var q = norm(state.q);
-    var atos = periodo.filter(function (a) { return (!state.orgao || orgaoDe(a) === state.orgao) && casaAto(a, q); });
+    var atos = periodo.filter(function (a) { return (!state.orgao || orgaoDe(a) === state.orgao) && (!state.tipo || a.acao === state.tipo) && casaAto(a, q); });
     var lh = el("div", "lista-head"); lh.id = "atos";
-    lh.appendChild(el("h3", null, (state.orgao ? state.orgao : "Todos os atos") + " · " + atos.length));
-    if (state.orgao) { var lb = el("button", "linkbtn", "Mostrar todos"); lb.type = "button"; lb.addEventListener("click", function () { state.orgao = null; render(); }); lh.appendChild(lb); }
+    var rotTipo = { nomeacao: "Nomeações", exoneracao: "Exonerações", designacao: "Designações", dispensa: "Dispensas" };
+    lh.appendChild(el("h3", null, [state.tipo ? rotTipo[state.tipo] : "Todos os atos", state.orgao].filter(Boolean).join(" · ") + " · " + atos.length));
+    if (state.orgao || state.tipo) { var lb = el("button", "linkbtn", "Mostrar todos"); lb.type = "button"; lb.addEventListener("click", function () { state.orgao = null; state.tipo = null; render(); }); lh.appendChild(lb); }
     col.appendChild(lh);
     var w = el("div", "items");
     atos.slice(0, 300).forEach(function (a) {

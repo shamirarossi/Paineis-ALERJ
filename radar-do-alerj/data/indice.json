@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T11:36:28+00:00",
+ "atualizado": "2026-11-18T16:12:52+00:00",
  "status": {
   "ok": true,
   "ultimaExecucao": "2026-11-18T11:31:45+00:00",
@@ -18,7 +18,8 @@
     "lgbt": 2,
     "mulheres": 13,
     "ct": 6
-   }
+   },
+   "relatorio": "relatorios/2026-11-18.pdf"
   },
   {
    "id": "2026-11-17",
@@ -31,7 +32,8 @@
     "lgbt": 0,
     "mulheres": 1,
     "ct": 0
-   }
+   },
+   "relatorio": "relatorios/2026-11-17.pdf"
   },
   {
    "id": "2026-11-16",
@@ -44,7 +46,8 @@
     "lgbt": 2,
     "mulheres": 15,
     "ct": 6
-   }
+   },
+   "relatorio": "relatorios/2026-11-16.pdf"
   },
   {
    "id": "2026-11-13",
@@ -57,7 +60,8 @@
     "lgbt": 1,
     "mulheres": 8,
     "ct": 2
-   }
+   },
+   "relatorio": "relatorios/2026-11-13.pdf"
   },
   {
    "id": "2026-11-12",
@@ -70,7 +74,8 @@
     "lgbt": 1,
     "mulheres": 5,
     "ct": 3
-   }
+   },
+   "relatorio": "relatorios/2026-11-12.pdf"
   },
   {
    "id": "2026-11-11",
@@ -83,7 +88,8 @@
     "lgbt": 3,
     "mulheres": 9,
     "ct": 1
-   }
+   },
+   "relatorio": "relatorios/2026-11-11.pdf"
   },
   {
    "id": "2026-11-10",
@@ -96,7 +102,8 @@
     "lgbt": 0,
     "mulheres": 3,
     "ct": 1
-   }
+   },
+   "relatorio": "relatorios/2026-11-10.pdf"
   }
  ]
 }

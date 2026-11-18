@@ -2,12 +2,13 @@
 
 Leitura diária da **Parte II (Poder Legislativo)** do Diário Oficial do Estado do Rio de Janeiro para o gabinete da deputada estadual Dani Balbi.
 
-Todo dia útil de manhã, um robô do GitHub faz quatro coisas:
+Todo dia útil de manhã, um robô do GitHub faz cinco coisas:
 
 1. baixa a edição do dia no site da Imprensa Oficial (IOERJ);
 2. pede ao Claude um resumo do dia e a lista dos atos, marcando os que tratam de **LGBTQIA+**, **Mulheres** e **Ciência e Tecnologia**, além dos que envolvem o **gabinete**;
 3. registra as nomeações, exonerações, designações e dispensas publicadas, por gabinete;
-4. atualiza este painel, que a equipe abre pelo navegador.
+4. gera o **relatório do dia em PDF**, com o resumo, os destaques, os demais atos e os atos de pessoal;
+5. atualiza este painel, que a equipe abre pelo navegador.
 
 Endereço do painel: `https://shamirarossi.github.io/Paineis-ALERJ/radar-do-alerj/`
 
@@ -37,6 +38,7 @@ Para ler uma data específica ou refazer uma leitura, use **Run workflow**, pree
 - `scripts/ler_do.py` é o robô. Ele faz uma leitura só para todos os gabinetes cadastrados em `PERFIS` (hoje, Dani Balbi e [Vinicius Cozzolino](../radar-vinicius-cozzolino/)). Os critérios de cada tema também ficam ali.
 - `../leituras/AAAA-MM-DD.json` guarda a leitura completa de cada dia; cada painel recebe só a sua parte.
 - `index.html` é o painel.
+- `scripts/relatorio_pdf.py` gera os relatórios em PDF (`relatorios/AAAA-MM-DD.pdf`), usando o Chrome e a fonte Source Sans da identidade visual (`relatorio/fontes/`). O botão "Baixar relatório do dia (PDF)" de cada edição aponta para eles.
 - `data/edicoes/AAAA-MM-DD.json` guarda uma edição por dia.
 - `data/indice.json`, `data/destaques.json` e `data/pessoal.json` são a lista de edições, os atos por tema e os atos de pessoal; o robô os refaz a cada leitura.
 - O agendamento fica em `../.github/workflows/radar-do-alerj.yml`.
