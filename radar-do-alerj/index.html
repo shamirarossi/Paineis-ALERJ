@@ -32,19 +32,21 @@
   --ok: #067a0e;
   --ok-bg: #e3f3e3;
   --exo-bg: #fbe3f4;
+  --alerta: #c2410c;
+  --alerta-bg: #fdebdd;
   --font: "Source Sans 3", "Source Sans Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #16091e; --surface: #21122c; --fg: #f9f6ef; --muted: #b8aac2; --line: #3a2847; --soft: #2b1939;
     --accent: #c9a3f0; --mulheres: #f06ccf; --ct: #8fb0ff; --gab-fg: #16091e;
-    --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; color-scheme: dark;
+    --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; --alerta: #ff9a5c; --alerta-bg: #3d2112; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #16091e; --surface: #21122c; --fg: #f9f6ef; --muted: #b8aac2; --line: #3a2847; --soft: #2b1939;
   --accent: #c9a3f0; --mulheres: #f06ccf; --ct: #8fb0ff; --gab-fg: #16091e;
-  --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; color-scheme: dark;
+  --band: #3d0a66; --band-fg: #f9f6ef; --warn-bg: #3b2f05; --warn-fg: #ffe07a; --ok: #6fd977; --ok-bg: #173a1c; --exo-bg: #3d1433; --alerta: #ff9a5c; --alerta-bg: #3d2112; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 16px; line-height: 1.5; }
@@ -184,6 +186,33 @@ table.mov tr.meu td:first-child::after { content: " · gabinete"; font-weight: 6
 .lista-head { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: baseline; margin: 26px 0 10px; }
 .lista-head h3 { margin: 0; font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 .linkbtn { font: 600 14px var(--font); color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+
+/* Ordem do Dia */
+.od-sessao { margin: 10px 0 22px; }
+.od-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-bottom: 2px; }
+.od-head h3 { margin: 0; font-size: 20px; font-weight: 900; letter-spacing: 0; text-transform: none; color: var(--fg); }
+.od-item { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px 12px 18px; position: relative; overflow: hidden; min-width: 0; }
+.od-item::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 5px; background: var(--line); }
+.od-item.cat-executivo::before { background: var(--accent); }
+.od-item.cat-pautas::before { background: var(--mulheres); }
+.od-item.cat-comissoes::before { background: var(--ok); }
+.od-item.cat-premio::before { background: var(--alerta); }
+.od-item.compacto { padding: 8px 14px; border-radius: 10px; }
+.od-item.compacto::before { display: none; }
+.od-ordem { font-weight: 900; font-size: 14px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.od-ref { font-weight: 700; font-size: 14px; color: var(--accent); }
+a.od-ref { text-decoration: underline; text-underline-offset: 3px; }
+.od-meta { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.od-polemica { margin: 10px 0 0; font-size: 15px; padding: 8px 12px; border-radius: 8px; background: var(--alerta-bg); color: var(--fg); }
+.od-polemica::before { content: "Por que é polêmico: "; font-weight: 700; color: var(--alerta); }
+.chip.od-executivo { background: var(--soft); color: var(--accent); }
+.chip.od-comissoes { background: var(--ok-bg); color: var(--ok); }
+.chip.od-premio { background: var(--alerta-bg); color: var(--alerta); }
+.od-dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+.od-dot.od-executivo { background: var(--accent); } .od-dot.od-pautas { background: var(--mulheres); }
+.od-dot.od-comissoes { background: var(--ok); } .od-dot.od-premio { background: var(--alerta); }
+.od-resto { margin-top: 8px; }
+.od-sessao > .linkbtn { margin-top: 10px; }
 footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 footer .wrap { padding-block: 18px 28px; }
 @media (prefers-reduced-motion: no-preference) { .item { transition: border-color .15s; } .item:hover { border-color: var(--accent); } }
@@ -236,6 +265,7 @@ footer .wrap { padding-block: 18px 28px; }
 <nav class="tabs" aria-label="Seções">
   <div class="wrap" role="tablist" id="tablist">
     <button class="tab" role="tab" data-view="edicoes" id="tab-edicoes">Por dia</button>
+    <button class="tab" role="tab" data-view="ordem" id="tab-ordem">Ordem do Dia <span class="count" data-count-ordem></span></button>
     <span id="tabs-temas" hidden></span>
     <button class="tab" role="tab" data-view="pessoal" id="tab-pessoal">Nomeações, exonerações e designações</button>
   </div>
@@ -260,7 +290,7 @@ footer .wrap { padding-block: 18px 28px; }
 </main>
 
 <footer>
-  <div class="wrap">Fonte: Diário Oficial do Estado do Rio de Janeiro, Parte II (Poder Legislativo), publicado pela Imprensa Oficial (IOERJ). Os resumos são gerados automaticamente com o Claude e atualizados todo dia útil de manhã; confira sempre o texto original antes de citar.</div>
+  <div class="wrap">Fontes: Diário Oficial do Estado do Rio de Janeiro, Parte II (Poder Legislativo), publicado pela Imprensa Oficial (IOERJ), e pautas da Ordem do Dia publicadas pela ALERJ. Os resumos são gerados automaticamente com o Claude e atualizados todo dia útil de manhã; confira sempre o texto original antes de citar.</div>
 </footer>
 
 <script>
@@ -298,7 +328,7 @@ window.PERFIL = {
   var MESES = ["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
   var SEMANA = ["domingo","segunda","terça","quarta","quinta","sexta","sábado"];
 
-  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null, pessoal: [], periodo: "30", orgao: null, tipo: null };
+  var state = { view: "edicoes", dia: null, filtro: null, q: "", indice: null, destaques: [], cache: {}, erro: null, pessoal: [], periodo: "30", orgao: null, tipo: null, ordem: null, pautas: {}, catOrdem: null, abertas: {} };
   var main = document.getElementById("main");
 
   function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
@@ -570,14 +600,149 @@ window.PERFIL = {
     main.appendChild(col);
   }
 
+
+  var CATS = {
+    executivo: { nome: "Do Executivo", desc: "Projetos do Poder Executivo, qualquer que seja o assunto." },
+    pautas: { nome: "Nossas pautas", desc: "Projetos sobre LGBTQIA+, Mulheres ou Ciência e Tecnologia, de qualquer autoria." },
+    comissoes: { nome: "Pendentes nas nossas comissões", desc: "Projetos que aguardam parecer das comissões de Trabalho, Cultura, Economia ou Ciência e Tecnologia." },
+    premio: { nome: "Prêmios polêmicos", desc: "Medalhas, diplomas e prêmios para figuras com controvérsia pública relevante." }
+  };
+  var ORDEM_CATS = ["executivo", "pautas", "comissoes", "premio"];
+  function hojeISO() { var d = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Sao_Paulo" })); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+  function contarOrdem() {
+    var n = document.querySelector("[data-count-ordem]"); if (!n || !state.ordem) return;
+    var h = hojeISO(), c = 0;
+    state.ordem.pautas.forEach(function (p) { if (p.data >= h) { var k = p.contagem || {}; c += (k.executivo || 0) + (k.pautas || 0) + (k.comissoes || 0) + (k.premio || 0); } });
+    n.textContent = c ? String(c) : "";
+  }
+  function relevante(it) { return (it.categorias && it.categorias.length) || it.gabinete; }
+
+  function itemOrdem(it, compacto) {
+    var cats = it.categorias || [];
+    var card = el("article", "od-item" + (compacto ? " compacto" : "") + (cats.length ? " cat-" + cats[0] : ""));
+    var top = el("div", "item-top");
+    top.appendChild(el("span", "od-ordem", it.ordem || ""));
+    var ref = it.link ? el("a", "od-ref", it.ref || it.tipo) : el("span", "od-ref", it.ref || it.tipo);
+    if (it.link) { ref.href = it.link; ref.target = "_blank"; ref.rel = "noopener"; ref.title = "Abrir o projeto no site da ALERJ"; }
+    top.appendChild(ref);
+    if (it.fase) top.appendChild(el("span", "ref", it.fase));
+    card.appendChild(top);
+    card.appendChild(el("p", "ementa", it.ementa || ""));
+    if (compacto) { if (it.autor) card.appendChild(el("p", "od-meta", it.autor)); return card; }
+    var meta = el("div", "meta");
+    if (it.autor) { var a = el("span"); a.appendChild(el("b", null, "Autoria: ")); a.appendChild(document.createTextNode(it.autor)); meta.appendChild(a); }
+    if (it.pareceres) { var pr = el("span"); pr.appendChild(el("b", null, "Pareceres: ")); pr.appendChild(document.createTextNode(it.pareceres)); meta.appendChild(pr); }
+    if (it.pendente_de && it.pendente_de.length) { var pe = el("span"); pe.appendChild(el("b", null, "Pendente de parecer: ")); pe.appendChild(document.createTextNode(it.pendente_de.join("; "))); meta.appendChild(pe); }
+    if (meta.childNodes.length) card.appendChild(meta);
+    if (it.motivo_polemica) card.appendChild(el("p", "od-polemica", it.motivo_polemica));
+    if (it.nota) card.appendChild(el("p", "nota", it.nota));
+    var ch = el("div", "chips");
+    cats.forEach(function (k) {
+      if (k === "pautas") { (it.temas || []).forEach(function (t) { if (TEMAS[t]) { var c = el("span", "chip"); c.appendChild(dotEl(t)); c.appendChild(document.createTextNode(TEMAS[t].nome)); ch.appendChild(c); } }); return; }
+      var txt = k === "comissoes" ? "Pendente: " + (it.comissoes_alvo || []).join(", ") : CATS[k].nome.replace("Prêmios polêmicos", "Prêmio polêmico");
+      ch.appendChild(el("span", "chip od-" + k, txt));
+    });
+    if (it.gabinete) { var g = el("span", "chip"); g.appendChild(dotEl("gabinete")); g.appendChild(document.createTextNode("Do gabinete")); ch.appendChild(g); }
+    if (ch.childNodes.length) card.appendChild(ch);
+    return card;
+  }
+
+  function sessaoOrdem(meta, alvo) {
+    var box = el("section", "od-sessao"); box.id = "pauta-" + meta.data;
+    var h = el("div", "od-head");
+    h.appendChild(el("h3", null, fmtLongo(meta.data)));
+    if (meta.sessoes && meta.sessoes.length) h.appendChild(el("span", "ref", meta.sessoes.join(" · ")));
+    box.appendChild(h);
+    alvo.appendChild(box);
+    var p = state.pautas[meta.data];
+    if (!p) {
+      box.appendChild(el("p", "ed-sub", "Carregando a pauta…"));
+      getJSON("data/ordem/" + meta.data + ".json").then(function (d) { state.pautas[meta.data] = d; if (state.view === "ordem") render(); })
+        .catch(function () { box.appendChild(el("p", "notice", "Não foi possível abrir esta pauta.")); });
+      return;
+    }
+    var sub = el("div", "ed-sub");
+    if (p.atualizadaSite) sub.appendChild(document.createTextNode("Atualizada pela ALERJ em " + p.atualizadaSite + " · "));
+    var a = el("a", null, "Ver no site da ALERJ"); a.href = "https://www2.alerj.rj.gov.br/ordemdodia/"; a.target = "_blank"; a.rel = "noopener"; sub.appendChild(a);
+    box.appendChild(sub);
+    var q = norm(state.q);
+    var itens = (p.itens || []).filter(function (it) { return casa(it, q) || norm([it.pareceres, (it.pendente_de || []).join(" ")].join(" ")).indexOf(q) >= 0; });
+    var dest = itens.filter(function (it) { return relevante(it) && (!state.catOrdem || (it.categorias || []).indexOf(state.catOrdem) >= 0 || (state.catOrdem === "gabinete" && it.gabinete)); });
+    var w = el("div", "items");
+    dest.forEach(function (it) { w.appendChild(itemOrdem(it)); });
+    if (!dest.length) w.appendChild(el("p", "pessoal", state.catOrdem ? "Nenhum item desta categoria nesta pauta." : "Nenhum item desta pauta se encaixa nos destaques."));
+    box.appendChild(w);
+    var resto = itens.filter(function (it) { return dest.indexOf(it) < 0; });
+    if (resto.length) {
+      var aberta = !!state.abertas[meta.data];
+      var b = el("button", "linkbtn", (aberta ? "Esconder" : "Ver") + " o resto da pauta (" + resto.length + (resto.length === 1 ? " item)" : " itens)"));
+      b.type = "button"; b.setAttribute("aria-expanded", aberta ? "true" : "false");
+      b.addEventListener("click", function () { state.abertas[meta.data] = !aberta; render(); });
+      box.appendChild(b);
+      if (aberta) { var w2 = el("div", "items od-resto"); resto.forEach(function (it) { w2.appendChild(itemOrdem(it, true)); }); box.appendChild(w2); }
+    }
+  }
+
+  function renderOrdem() {
+    main.textContent = "";
+    var col = el("section", "theme-col"); col.id = "ordem"; col.style.maxWidth = "900px";
+    var head = el("div", "theme-head");
+    head.appendChild(el("h2", null, "Ordem do Dia"));
+    head.appendChild(el("p", null, "Pauta das sessões do Plenário publicada pela ALERJ, com os projetos do Executivo, os que tratam das nossas pautas, os que aguardam parecer das comissões de Trabalho, Cultura, Economia e Ciência e Tecnologia, e os prêmios polêmicos."));
+    col.appendChild(head);
+    main.appendChild(col);
+    if (!state.ordem) {
+      col.appendChild(el("p", "ed-sub", "Carregando as pautas…"));
+      getJSON("data/ordem/indice.json").then(function (d) { state.ordem = d; state.ordem.pautas = d.pautas || []; contarOrdem(); if (state.view === "ordem") render(); })
+        .catch(function () { state.ordem = { pautas: [] }; if (state.view === "ordem") render(); });
+      return;
+    }
+    var pautas = state.ordem.pautas.slice().sort(function (a, b) { return a.data < b.data ? -1 : 1; });
+    if (!pautas.length) {
+      var e = el("div", "empty"); e.appendChild(el("h3", null, "Nenhuma pauta lida ainda"));
+      e.appendChild(el("p", null, "As pautas da Ordem do Dia aparecem aqui assim que a ALERJ publicar e o robô fizer a próxima leitura, nos dias úteis de manhã."));
+      col.appendChild(e); return;
+    }
+    var h = hojeISO();
+    var prox = pautas.filter(function (p) { return p.data >= h; });
+    var ant = pautas.filter(function (p) { return p.data < h; }).reverse();
+    var tot = { executivo: 0, pautas: 0, comissoes: 0, premio: 0 };
+    (prox.length ? prox : ant.slice(0, 1)).forEach(function (p) { ORDEM_CATS.forEach(function (k) { tot[k] += (p.contagem || {})[k] || 0; }); });
+    var fil = el("div", "tally");
+    var todos = el("button", null, "Todos os destaques"); todos.type = "button"; todos.setAttribute("aria-pressed", state.catOrdem ? "false" : "true");
+    todos.addEventListener("click", function () { state.catOrdem = null; render(); }); fil.appendChild(todos);
+    ORDEM_CATS.forEach(function (k) {
+      var b = el("button", null); b.type = "button"; b.id = "od-filtro-" + k; b.title = CATS[k].desc;
+      b.setAttribute("aria-pressed", state.catOrdem === k ? "true" : "false");
+      b.appendChild(el("span", "od-dot od-" + k)); b.appendChild(document.createTextNode(CATS[k].nome + " ")); b.appendChild(el("span", "n", String(tot[k])));
+      b.addEventListener("click", function () { state.catOrdem = state.catOrdem === k ? null : k; render(); });
+      fil.appendChild(b);
+    });
+    col.appendChild(fil);
+    col.appendChild(el("p", "pessoal", prox.length ? "Os números acima somam as próximas sessões." : "Ainda não há pauta publicada para as próximas sessões; os números acima são da última sessão."));
+    var g1 = el("div", "group"); g1.appendChild(el("h3", null, "Próximas sessões")); col.appendChild(g1);
+    if (prox.length) prox.forEach(function (p) { sessaoOrdem(p, g1); });
+    else g1.appendChild(el("p", "pessoal", "A ALERJ ainda não publicou a pauta das próximas sessões."));
+    if (ant.length) {
+      var g2 = el("div", "group"); g2.appendChild(el("h3", null, "Sessões anteriores")); col.appendChild(g2);
+      var mostrar = state.abertas.__anteriores ? ant : ant.slice(0, 2);
+      mostrar.forEach(function (p) { sessaoOrdem(p, g2); });
+      if (ant.length > 2) {
+        var b = el("button", "linkbtn", state.abertas.__anteriores ? "Mostrar menos" : "Mostrar todas as sessões anteriores (" + ant.length + ")");
+        b.type = "button"; b.addEventListener("click", function () { state.abertas.__anteriores = !state.abertas.__anteriores; render(); });
+        g2.appendChild(b);
+      }
+    }
+  }
+
   function render() {
     document.querySelectorAll(".tab").forEach(function (b) { b.setAttribute("aria-selected", b.getAttribute("data-view") === state.view ? "true" : "false"); });
     renderStatus(); counts();
     if (!state.indice) return;
-    if (state.view === "edicoes") renderEdicoes(); else if (state.view === "pessoal") renderPessoal(); else renderTema(state.view);
+    if (state.view === "edicoes") renderEdicoes(); else if (state.view === "pessoal") renderPessoal(); else if (state.view === "ordem") renderOrdem(); else renderTema(state.view);
   }
 
-  function fromHash() { var h = (location.hash || "").replace("#", ""); state.view = (h === "edicoes" || h === "pessoal" || TEMAS[h]) ? h : "edicoes"; }
+  function fromHash() { var h = (location.hash || "").replace("#", ""); state.view = (h === "edicoes" || h === "pessoal" || h === "ordem" || TEMAS[h]) ? h : "edicoes"; }
   document.querySelectorAll(".tab").forEach(function (b) {
     b.addEventListener("click", function () { var v = b.getAttribute("data-view"); if (location.hash !== "#" + v) location.hash = v; else { state.view = v; render(); } });
   });
@@ -589,6 +754,7 @@ window.PERFIL = {
   Promise.all([getJSON("data/indice.json"), getJSON("data/destaques.json").catch(function () { return { itens: [] }; }), getJSON("data/pessoal.json").catch(function () { return { atos: [] }; })])
     .then(function (r) {
       state.indice = r[0]; state.indice.edicoes = state.indice.edicoes || []; state.destaques = r[1].itens || [];
+      getJSON("data/ordem/indice.json").then(function (d) { if (!state.ordem) { state.ordem = d; state.ordem.pautas = d.pautas || []; } contarOrdem(); if (state.view === "ordem") render(); }).catch(function () {});
       state.pessoal = (r[2].atos || []).slice().sort(function (a, b) { return a.data < b.data ? 1 : a.data > b.data ? -1 : 0; });
       render();
     })
