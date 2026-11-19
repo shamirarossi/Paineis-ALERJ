@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-19T11:30:46+00:00",
+ "atualizado": "2026-11-19T12:46:53+00:00",
  "status": {
   "ok": false,
-  "ultimaExecucao": "2026-11-19T11:30:40+00:00",
+  "ultimaExecucao": "2026-11-19T12:46:46+00:00",
   "edicaoLida": "2026-11-18",
-  "mensagem": "A leitura de 19/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-12-01 at 00:00 UTC.'}, 'request_id': 'req_011ChCDCABx9ShZ757kG719B'}). Ela roda de novo no próximo agendamento."
+  "mensagem": "A leitura de 19/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-12-01 at 00:00 UTC.'}, 'request_id': 'req_011ChCJzpyCeDHBJV6gimoFC'}). Ela roda de novo no próximo agendamento."
  },
  "edicoes": [
   {
