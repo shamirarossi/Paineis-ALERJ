@@ -1,6 +1,125 @@
 {
- "atualizado": "2026-11-19T15:17:31+00:00",
+ "atualizado": "2026-11-19T16:30:32+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação final",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa \"Me Ajude\", com aplicativo de emergência de acionamento discreto, localização e envio de alerta a contatos de confiança para mulheres em risco de violência doméstica, stalking e cárcere privado. Prevê observância da LGPD e integração com órgãos de segurança e parcerias com instituições de ensino e pesquisa.",
+   "situacao": "Redação final publicada, com emendas da CCJ aprovadas",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Política de proteção à mulher baseada em tecnologia, com cláusulas de LGPD e parcerias com instituições de pesquisa. Vale acompanhar a votação final e a futura regulamentação.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8529/2026",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Altera a Política Estadual do Idoso (Lei 6.559/2013) para incluir envelhecimento ativo, apoio a cuidadores, acesso a tecnologias assistivas e inclusão digital, esta também para pessoas com 50 anos ou mais.",
+   "situacao": "A imprimir; segue para CCJ, Criança, Adolescente e Idoso, Ciência e Tecnologia e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Inclui diretriz de inclusão digital e tecnologias assistivas, e o projeto passará pela Comissão de Ciência e Tecnologia.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Ata da Comissão de Cultura",
+   "ref": "3ª Reunião Ordinária, 17.11.2026",
+   "autor": "Dep. Verônica Lima (presidente)",
+   "ementa": "Aprovados 10 pareceres favoráveis a projetos de lei, entre eles dois sob relatoria de Dani Balbi. Também foram aprovados os 110 selecionados para o Diploma Heloneida Studart de Cultura/2026 e a dinâmica da solenidade.",
+   "situacao": "Ata publicada",
+   "gabinete": true,
+   "nota": "Dani Balbi consta como relatora de dois projetos e está entre os membros da comissão citados no ato.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (relatoria Dani Balbi)",
+   "ref": "PL 957/2023 e PL 4909/2025",
+   "autor": "Dep. Rosenverg Reis (PL 957/2023); Dep. Élika Takimoto (PL 4909/2025) (relatora: Dep. Dani Balbi)",
+   "ementa": "Pareceres favoráveis exarados pela dep. Dani Balbi e lidos em reunião pela dep. Giselle Monteiro. A ata não informa o assunto dos projetos.",
+   "situacao": "Aprovados na Comissão de Cultura",
+   "gabinete": true,
+   "nota": "Dani Balbi é a relatora dos dois projetos. Convém conferir o conteúdo e o encaminhamento seguinte.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Diploma Heloneida Studart de Cultura/2026",
+   "ref": "Comissão de Cultura",
+   "autor": "Dep. Verônica Lima (presidente)",
+   "ementa": "A lista aprovada inclui o Fórum Estadual de Travestis e Transexuais do Rio de Janeiro. A solenidade será em 08.12.2026, às 18h, no Plenário Barbosa Lima Sobrinho.",
+   "situacao": "Lista aprovada na reunião de 17.11",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Reconhecimento a uma organização trans e travesti. Pode ser oportunidade de contato e presença na solenidade.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável com substitutivo da CCJ",
+   "ref": "PL 6184/2025",
+   "autor": "Dep. Carlinhos BNH (relator: Dep. Alan Lopes)",
+   "ementa": "Proíbe o ingresso e a permanência em estádios e arenas de condenados por violência doméstica e familiar contra a mulher.",
+   "situacao": "Aprovado na Comissão de Esporte e Lazer",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Medida de enfrentamento à violência contra a mulher por meio do esporte. Pode merecer apoio nas próximas comissões.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião de comissão",
+   "ref": "Comissão de Normas Internas, 6ª Reunião Ordinária",
+   "autor": "Convocada por Dep. Rodrigo Amorim (presidente)",
+   "ementa": "Dia 19.11.2026, às 14h, por meio remoto. Pauta de 39 pareceres, em sua maioria medalhas, diplomas e utilidade pública, com relatores Rodrigo Amorim, Chico Machado, Poubel, Fred Pacheco e Yuri Moura.",
+   "situacao": "Convocada",
+   "gabinete": true,
+   "nota": "O PR 2835/2026, de Dani Balbi, está na pauta.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Pauta: Medalha Tiradentes à UNE",
+   "ref": "PR 2835/2026",
+   "autor": "Dep. Dani Balbi (relator: Dep. Yuri Moura)",
+   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma à União Nacional dos Estudantes (UNE).",
+   "situacao": "Na pauta da Comissão de Normas Internas de 19.11",
+   "gabinete": true,
+   "nota": "Proposição de autoria do gabinete. Acompanhar a votação do parecer do dep. Yuri Moura.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul: \"O que tem de Lilás no Azul?\"",
+   "autor": "ELERJ",
+   "ementa": "Evento presencial em 26.11.2026, das 13h às 17h (4h), com mesas sobre saúde do homem e a responsabilidade masculina no enfrentamento à violência contra a mulher.",
+   "situacao": "Inscrições até 16.11 (prazo já encerrado)",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Debate sobre violência contra a mulher com ativista da Lei Maria da Penha. A inscrição já encerrou, mas a equipe pode verificar com a ELERJ.",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
   {
    "grupo": "Outros",
    "tipo": "Resoluções promulgadas",

@@ -1,0 +1,164 @@
+{
+ "data": "2026-11-10",
+ "sessoes": [
+  "Sessão Ordinária · 15h"
+ ],
+ "atualizadaSite": "06/11/2026 às 14h00",
+ "lidoEm": "2026-11-19T16:32:17+00:00",
+ "hash": "f4bdb82447666c87",
+ "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/pauta/?op=D&data=2026;11;10",
+ "itens": [
+  {
+   "ordem": "1º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 3800/2021",
+   "autor": "Deputado Carlos Macedo",
+   "ementa": "Altera a Lei nº 5.883/2011, que institui o Programa Condomínio Seguro em todo o Estado do Rio de Janeiro.",
+   "fase": "redação final (assim emendada) · discussão única · regime de urgência",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=144&URL=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMTViODE4YThlMmYwMjBlZDAzMjU4ZWE1MDA3MjE3YzQ/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjEwMzAzODAw&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8223/2026",
+   "autor": "Poder Executivo (Mensagem nº 16/2026)",
+   "ementa": "Ratifica e incorpora à legislação tributária estadual o Convênio ICMS nº 04/2026, estabelece metas de desempenho e dispõe sobre a avaliação de seus resultados.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "CCJ: constitucionalidade, com emenda; Economia: favorável; Tributação: favorável; Orçamento: favorável",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência, com pareceres pendentes às emendas de plenário, inclusive o da Comissão de Economia. Verificar o conteúdo das emendas e definir a orientação de voto da bancada.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZWM5ODFmYTQ3ZmU0MjZhOTAzMjU4ZTVhMDA3NzYwNjc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4MjIz&"
+  },
+  {
+   "ordem": "3º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8277/2026",
+   "autor": "Poder Executivo (Mensagem nº 19/2026)",
+   "ementa": "Institui regime tributário especial do ICMS para operações com querosene de aviação (QAV) no abastecimento de aeronaves no RJ, aderindo ao tratamento previsto na legislação de Minas Gerais.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "CCJ: constitucionalidade; Economia: favorável; Tributação: favorável; Orçamento: favorável",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência que trata de benefício fiscal, com pareceres pendentes às emendas de plenário, inclusive o da Comissão de Economia. Avaliar o impacto na arrecadação e orientar o voto da bancada.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYTc0NzkyZGZlZWE3MmQ3NDAzMjU4ZTY1MDA2MTI0NGE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4Mjc3&"
+  },
+  {
+   "ordem": "4º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4184/2024",
+   "autor": "Deputado Thiago Gagliasso",
+   "ementa": "Altera a Lei nº 3.613/2001, que dispõe sobre os direitos dos usuários dos serviços e das ações de saúde no Estado do Rio de Janeiro.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: legalidade; Pessoa com Deficiência: favorável; Saúde: favorável; Orçamento: favorável",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMWUyYWU5YzIyMTg5ZmNmYzAzMjU4YmEyMDA1NGFmMjU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzA0MTg0&"
+  },
+  {
+   "ordem": "5º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4919/2025",
+   "autor": "Deputado Renan Jordy",
+   "ementa": "Declara o Município de Itaperuna como a Capital do Charque no âmbito do Estado do Rio de Janeiro.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: juridicidade; Assuntos Municipais e Desenvolvimento Regional: favorável",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZThkZDliOTYyOWVkYWVmYTAzMjU4YzRiMDA1YWUyOTg/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwMzA0OTE5&"
+  },
+  {
+   "ordem": "6º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2649/2026",
+   "autor": "Deputado Márcio Gualberto",
+   "ementa": "Concede o Diploma Construtor da Paz ao Pastor Paulo Pereira da Silva Júnior.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável, com emendas",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNjg3YTBiYmE5YjE4ZjY1ODAzMjU4ZTExMDA2NTU1YmU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjQ5&"
+  },
+  {
+   "ordem": "7º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2686/2026",
+   "autor": "Deputado Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja de Nova Vida, de Guapimirim.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNGI4YmM5ZTkxZWVhMTViMTAzMjU4ZTFhMDAxMmFkMGY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjg2&"
+  },
+  {
+   "ordem": "8º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2762/2026",
+   "autor": "Deputado Val Ceasa",
+   "ementa": "Concede o Prêmio Anna Nery ao Dr. Pablo de Mello Rodrigues Guedes.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMGI3NmIwMTllOTMxZWNlNzAzMjU4ZTUwMDA0YzcxM2Y/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzYy&"
+  },
+  {
+   "ordem": "9º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2779/2026",
+   "autor": "Deputado Alan Lopes",
+   "ementa": "Concede o Diploma Russell Philip Shedd ao Pastor José Rodrigues da Silva.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTA2ZDMzNWM0OTBmNTY1MjAzMjU4ZTYwMDA1YWVkNjA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzc5&"
+  },
+  {
+   "ordem": "10º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2818/2026",
+   "autor": "Deputado Rodrigo Amorim",
+   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma ao Dr. William Akerman Gomes.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZTNhMzM4MjZiYjcyNzJmMzAzMjU4ZTg4MDA0OGM2ZWQ/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODE4&"
+  }
+ ]
+}

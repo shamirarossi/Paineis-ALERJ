@@ -1,0 +1,228 @@
+{
+ "data": "2026-11-04",
+ "sessoes": [
+  "Sessão Ordinária · 15h"
+ ],
+ "atualizadaSite": "29/10/2026 às 12h54",
+ "lidoEm": "2026-11-19T16:31:38+00:00",
+ "hash": "cc6d40ec08686ebd",
+ "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/pauta/?op=D&data=2026;11;4",
+ "itens": [
+  {
+   "ordem": "1º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8223/2026 (Mensagem 16/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Ratifica e incorpora à legislação tributária estadual o Convênio ICMS nº 04/2026, estabelece metas de desempenho e dispõe sobre a avaliação de seus resultados.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "Nenhum parecer dado até agora",
+   "pendente_de": [
+    "de Constituição e Justiça",
+    "de Economia, Indústria e Comércio",
+    "de Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "de Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência, com parecer pendente na Comissão de Economia, Indústria e Comércio. Se for a voto, será preciso definir a orientação da bancada e acompanhar os pareceres em plenário.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZWM5ODFmYTQ3ZmU0MjZhOTAzMjU4ZTVhMDA3NzYwNjc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4MjIz&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8277/2026 (Mensagem 19/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Institui regime tributário especial do ICMS para operações com querosene de aviação (QAV) destinadas ao abastecimento de aeronaves no estado, aderindo ao tratamento previsto na legislação de Minas Gerais e incorporando convênios do Confaz.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "Nenhum parecer dado até agora",
+   "pendente_de": [
+    "de Constituição e Justiça",
+    "de Economia, Indústria e Comércio",
+    "de Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "de Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência que concede tratamento tributário especial, com parecer pendente na Comissão de Economia, Indústria e Comércio. Avaliar o impacto na arrecadação e orientar o voto da bancada.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYTc0NzkyZGZlZWE3MmQ3NDAzMjU4ZTY1MDA2MTI0NGE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4Mjc3&"
+  },
+  {
+   "ordem": "3º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8377/2026 (Mensagem 20/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Dispõe sobre a Revisão 2027 do Plano Plurianual 2024-2027, instituído pela Lei nº 10.276/2024.",
+   "fase": "discussão prévia - 2º dia · regime de prioridade",
+   "pareceres": "Orçamento: favorável",
+   "executivo": true,
+   "nota": "Revisão do PPA enviada pelo Executivo, em 2º dia de discussão prévia. Verificar se as prioridades de trabalho, seguridade social e ciência e tecnologia estão contempladas e orientar o voto da bancada.",
+   "categorias": [
+    "executivo"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMDc4Yzc3OGIyN2RkOTBjOTAzMjU4ZTgyMDA3OWY1MmE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4Mzc3&"
+  },
+  {
+   "ordem": "4º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8378/2026 (Mensagem 21/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Estima a receita e fixa a despesa do Estado do Rio de Janeiro para o exercício financeiro de 2027 (Lei Orçamentária Anual).",
+   "fase": "discussão prévia - 2º dia · regime de prioridade",
+   "pareceres": "Orçamento: favorável",
+   "executivo": true,
+   "nota": "É o orçamento de 2027 do Executivo, em 2º dia de discussão prévia. Analisar as dotações para políticas sociais, mulheres, ciência e tecnologia (UERJ, UENF, UEZO, Faperj), considerar emendas ou destaques e orientar o voto da bancada.",
+   "categorias": [
+    "executivo"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZWU5ZDhjODQxY2YxOGE1NTAzMjU4ZTgyMDA3YTc0Yzc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4Mzc4&"
+  },
+  {
+   "ordem": "5º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 5615-A/2025",
+   "autor": "Deputados Tia Ju, Carlos Macedo, Franciane Motta e Samuel Malafaia",
+   "ementa": "Estabelece diretrizes para a articulação intersetorial entre assistência social, saúde e educação no estado, para identificar e acompanhar jovens e adultos sem escolarização e subsidiar políticas de Educação de Jovens e Adultos (EJA).",
+   "fase": "2ª discussão - redação do vencido · tramitação ordinária",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYjkxNWNiYzE3MjlkMmY2MDAzMjU4Y2E2MDA2MDNhNzY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwMzA1NjE1&"
+  },
+  {
+   "ordem": "6º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 5312/2022",
+   "autor": "Deputado Rosenverg Reis",
+   "ementa": "Altera a Lei estadual nº 8.355/2019, que trata do direito de amamentar durante a realização de concursos públicos estaduais.",
+   "fase": "em votação - 1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emenda; Mulher: favorável; Servidores Públicos: favorável; Orçamento: favorável, com a emenda da CCJ. Novos pareceres às emendas de plenário: CCJ, Servidores e Orçamento com emenda 01 prejudicada e emenda 02 favorável; Mulher: favorável.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata do direito à amamentação em concursos públicos, tema de maternidade e direitos das mulheres. Acompanhar a votação e orientar voto favorável da bancada.",
+   "categorias": [
+    "pautas"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=144&URL=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvM2RlM2Y2ZDJhYTJiMWE0NTAzMjU4N2RkMDA1NjcxOWM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjIwMzA1MzEy&"
+  },
+  {
+   "ordem": "7º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 5343/2022",
+   "autor": "Deputada Martha Rocha",
+   "ementa": "Obriga proprietários de bares, restaurantes e similares a disponibilizar mobiliário adequado à acessibilidade de cadeirantes.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas; Pessoa com Deficiência: favorável; Economia: favorável, com as emendas da CCJ; Orçamento: favorável, com as emendas da CCJ.",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=144&URL=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOGRhOGI3Mjc4OGU1NDc1YzAzMjU4N2UyMDA0ZTdiMTM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjIwMzA1MzQz&"
+  },
+  {
+   "ordem": "8º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4051/2024",
+   "autor": "Deputado Brazão",
+   "ementa": "Declara patrimônio cultural imaterial do Estado do Rio de Janeiro o Grêmio Recreativo Escola de Samba Renascer de Jacarepaguá.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emenda; Cultura: favorável, com a emenda da CCJ; Assuntos Municipais e Desenvolvimento Regional: favorável, com a emenda da CCJ.",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYmY5MWY2Njk0MzAzYTFiYzAzMjU4Yjg2MDA0ZDc3YzI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzA0MDUx&"
+  },
+  {
+   "ordem": "9º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2659/2026",
+   "autor": "Deputado Márcio Gualberto",
+   "ementa": "Concede o Prêmio Construtor da Paz ao Pastor Cristiano Nogueira.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNTcyNzI1ZjE1YTJhY2ZjMDAzMjU4ZTBiMDA2NjYyNDg/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjU5&"
+  },
+  {
+   "ordem": "10º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2683/2026",
+   "autor": "Deputado Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja Cristã Casa do Oleiro, de Guapimirim.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMzQ1MTNiOGI1MWQ2NzdkNDAzMjU4ZTFhMDAxMmZiYjM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjgz&"
+  },
+  {
+   "ordem": "11º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2732/2026",
+   "autor": "Deputado Alan Lopes",
+   "ementa": "Concede o Diploma Russell Philip Shedd ao Pastor Gilmar Pereira dos Santos.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZTg2MzZlMDI2NTg1MDI0NzAzMjU4ZTQxMDA2MWM3ZWM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzMy&"
+  },
+  {
+   "ordem": "12º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2812/2026",
+   "autor": "Deputado Yuri Moura",
+   "ementa": "Concede o Diploma Cristo Redentor ao Festival Rock the Mountain, realizado no distrito de Itaipava, em Petrópolis.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTNhYTQwZjdlYmY4YTY3YjAzMjU4ZTk2MDA1YWE3MGI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODEy&"
+  },
+  {
+   "ordem": "13º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2817/2026",
+   "autor": "Deputado Rodrigo Amorim",
+   "ementa": "Concede o título de Cidadão do Estado do Rio de Janeiro ao Senhor Hanno Olaf Erwes.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNDQwMWFlNzRiNmJmZTdiZjAzMjU4ZTk2MDA2Zjc4NTU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODE3&"
+  },
+  {
+   "ordem": "14º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 7950/2026",
+   "autor": "Deputada Lilian Behring",
+   "ementa": "Altera a Lei nº 5.645/2010 para incluir no calendário oficial do estado o Dia Estadual da Enfermagem Forense.",
+   "fase": "1ª discussão · tramitação ordinária · incluído na Ordem do Dia conforme o § 1º do art. 47 do Regimento Interno",
+   "pendente_de": [
+    "da Comissão de Constituição e Justiça"
+   ],
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMzEyNzYxMzYxMDc2Y2RhZjAzMjU4ZTI2MDA1NGRlNjM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA3OTUw&"
+  }
+ ]
+}

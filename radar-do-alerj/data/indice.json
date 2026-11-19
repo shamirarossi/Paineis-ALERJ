@@ -1,12 +1,26 @@
 {
- "atualizado": "2026-11-19T15:17:31+00:00",
+ "atualizado": "2026-11-19T16:30:32+00:00",
  "status": {
-  "ok": false,
-  "ultimaExecucao": "2026-11-19T15:17:25+00:00",
-  "edicaoLida": "2026-11-18",
-  "mensagem": "A leitura de 19/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specified API usage limits. You will regain access on 2026-12-01 at 00:00 UTC.'}, 'request_id': 'req_011ChCWV6DJ1rHTHYy4sUkkv'}). Ela roda de novo no próximo agendamento."
+  "ok": true,
+  "ultimaExecucao": "2026-11-19T16:29:07+00:00",
+  "edicaoLida": "2026-11-19",
+  "mensagem": null
  },
  "edicoes": [
+  {
+   "id": "2026-11-19",
+   "data": "2026-11-19",
+   "edicao": "Ano LII · Nº 212",
+   "extra": false,
+   "contagem": {
+    "total": 21,
+    "gabinete": 4,
+    "lgbt": 1,
+    "mulheres": 3,
+    "ct": 2
+   },
+   "relatorio": "relatorios/2026-11-19.pdf"
+  },
   {
    "id": "2026-11-18",
    "data": "2026-11-18",

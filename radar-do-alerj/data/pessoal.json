@@ -1,6 +1,30 @@
 {
- "atualizado": "2026-11-19T15:17:31+00:00",
+ "atualizado": "2026-11-19T16:30:32+00:00",
  "atos": [
+  {
+   "acao": "nomeacao",
+   "nome": "PAULA SIQUEIRA DOS SANTOS",
+   "cargo": "Assessor Parlamentar III",
+   "simbolo": "CCDAL-3",
+   "lotacao": "Gabinete da Deputada Sarah Poncio",
+   "deputado": "Sarah Poncio",
+   "vaga_de": "Victor Matheus de Pinho Louro",
+   "ato": "Ato E/MD 4509/2026",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "LAIS PEREIRA DA SILVA CORREA",
+   "cargo": "Assessor Parlamentar VI",
+   "simbolo": "CCDAL-6",
+   "lotacao": "Gabinete da Deputada Célia Jordão",
+   "deputado": "Célia Jordão",
+   "vaga_de": "Alailton Carneiro Da Silva",
+   "ato": "Ato E/MD 4508/2026",
+   "edicaoId": "2026-11-19",
+   "data": "2026-11-19"
+  },
   {
    "acao": "exoneracao",
    "nome": "BRUNA PEREZ DUARTE DE OLIVEIRA GONÇALVES BRAGA",
