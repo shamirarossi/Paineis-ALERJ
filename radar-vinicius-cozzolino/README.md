@@ -15,7 +15,7 @@ O painel destaca:
 
 ## Como funciona
 
-O painel usa o mesmo robô do [Radar do Diário Oficial (ALERJ)](../radar-do-alerj/). Todo dia útil de manhã, o Claude lê a edição **uma única vez** e separa o que importa para cada gabinete, com temas, notas e resumo próprios. A leitura completa fica em `../leituras/`, e este painel recebe só a parte dele em `data/`.
+O painel usa o mesmo robô do [Radar do Diário Oficial (ALERJ)](../radar-do-alerj/), mas **é atualizado sob demanda**, para economizar: a leitura automática de todo dia útil é só do painel da Dani. Para atualizar este painel, vá em **Actions → Radar DO ALERJ → Run workflow**, escolha **Vinicius** em "Para qual painel ler" e, se quiser outra data, preencha `AAAA-MM-DD`. Cada leitura fica em `../leituras/`, e este painel recebe a parte dele em `data/`.
 
 - Os temas e os critérios ficam no perfil `"vc"` em `../radar-do-alerj/scripts/ler_do.py` (variável `PERFIS`).
 - Os nomes e as cores das abas ficam no bloco `window.PERFIL`, no `index.html` desta pasta.

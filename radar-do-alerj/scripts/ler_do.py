@@ -2,7 +2,7 @@
 """Radar do Diário Oficial — leitura diária da Parte II (Poder Legislativo) do DOERJ.
 
 Baixa o caderno do dia no site da Imprensa Oficial (IOERJ), extrai o texto e pede ao
-Claude UMA leitura que serve a todos os gabinetes cadastrados em PERFIS: cada ato recebe
+Claude UMA leitura para os gabinetes pedidos (padrão: PADRAO; os demais de PERFIS só sob demanda): cada ato recebe
 os temas de cada gabinete, a marcação de "do gabinete" e uma nota por gabinete.
 A leitura completa fica em leituras/AAAA-MM-DD.json, e cada painel recebe a sua parte
 em <pasta do painel>/data/.
@@ -11,6 +11,7 @@ Uso:
     python radar-do-alerj/scripts/ler_do.py                 # edição de hoje (horário de Brasília)
     python radar-do-alerj/scripts/ler_do.py --data 2026-11-10
     python radar-do-alerj/scripts/ler_do.py --forcar        # relê mesmo que a edição já exista
+    python radar-do-alerj/scripts/ler_do.py --gabinetes vc  # lê só para o painel do Vinicius (sob demanda)
 
 Variáveis de ambiente:
     ANTHROPIC_API_KEY   chave da API da Anthropic (obrigatória)
@@ -171,13 +172,16 @@ PERFIS = {
     },
 }
 TODOS_TEMAS = [t for p in PERFIS.values() for t in p["temas"]]
+# Gabinetes lidos automaticamente todo dia; os outros só quando alguém pede (--gabinetes).
+PADRAO = ["dani"]
 
 
 # ---------------------------------------------------------------- leitura com o Claude
 
-def instrucoes() -> str:
-    gabs = "\n".join(f'- "{pid}": {p["parlamentar"]}' for pid, p in PERFIS.items())
-    temas = "\n".join(f'- "{t}" (gabinete "{pid}"): {d}' for pid, p in PERFIS.items() for t, d in p["temas"].items())
+def instrucoes(pids: list[str]) -> str:
+    sel = {pid: PERFIS[pid] for pid in pids}
+    gabs = "\n".join(f'- "{pid}": {p["parlamentar"]}' for pid, p in sel.items())
+    temas = "\n".join(f'- "{t}" (gabinete "{pid}"): {d}' for pid, p in sel.items() for t, d in p["temas"].items())
     return f"""Você lê o Diário Oficial do Estado do Rio de Janeiro, Parte II (Poder Legislativo, ALERJ), para as
 equipes destes gabinetes da ALERJ:
 {gabs}
@@ -232,8 +236,9 @@ Seja conciso: ementa com no máximo 2 frases curtas, cada nota com no máximo 2 
 que 40 itens. Não invente nada: se um dado não aparece no texto, omita o campo."""
 
 
-def esquema() -> dict:
-    ids = list(PERFIS)
+def esquema(pids: list[str]) -> dict:
+    ids = list(pids)
+    temas_sel = [t for pid in ids for t in PERFIS[pid]["temas"]]
     por_gab = lambda desc: {"type": "object", "properties": {pid: {"type": "string", "description": desc} for pid in ids},
                             "additionalProperties": False}
     return {
@@ -253,7 +258,7 @@ def esquema() -> dict:
                         "autor": {"type": "string"},
                         "ementa": {"type": "string", "description": "1 ou 2 frases suas, fiéis ao texto"},
                         "situacao": {"type": "string"},
-                        "temas": {"type": "array", "items": {"type": "string", "enum": TODOS_TEMAS}},
+                        "temas": {"type": "array", "items": {"type": "string", "enum": temas_sel}},
                         "gabinetes": {"type": "array", "items": {"type": "string", "enum": ids}},
                         "notas": por_gab("Por que importa para este gabinete"),
                     },
@@ -286,7 +291,7 @@ def esquema() -> dict:
     }
 
 
-def classificar(texto: str, dia: dt.date, extra: bool) -> dict:
+def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str]) -> dict:
     import anthropic
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -298,10 +303,10 @@ def classificar(texto: str, dia: dt.date, extra: bool) -> dict:
     with cliente.messages.stream(
         model=modelo,
         max_tokens=64000,
-        system=instrucoes(),
+        system=instrucoes(pids),
         messages=[{"role": "user", "content": f"{cabecalho}\n\n<diario_oficial>\n{texto}\n</diario_oficial>"}],
         # resposta em JSON garantido pelo esquema (structured outputs)
-        extra_body={"output_config": {"format": {"type": "json_schema", "schema": esquema()}}},
+        extra_body={"output_config": {"format": {"type": "json_schema", "schema": esquema(pids)}}},
     ) as fluxo:
         resp = fluxo.get_final_message()
     if resp.stop_reason == "max_tokens":
@@ -359,7 +364,8 @@ def item_do_perfil(it: dict, pid: str) -> dict:
 
 
 def exportar(eid: str, leitura: dict) -> None:
-    for pid, p in PERFIS.items():
+    for pid in leitura.get("gabinetes") or list(PERFIS):  # leituras antigas cobriam todos
+        p = PERFIS[pid]
         itens = [item_do_perfil(it, pid) for it in leitura.get("itens", [])]
         itens.sort(key=lambda it: 0 if (it.get("temas") or it.get("gabinete")) else 1)
         gravar_json(RAIZ / p["pasta"] / "data" / "edicoes" / f"{eid}.json", {
@@ -395,9 +401,10 @@ def gravar_json(p: Path, obj) -> None:
     p.write_text(json.dumps(obj, ensure_ascii=False, indent=1) + "\n", "utf-8")
 
 
-def reconstruir_indices(status: dict) -> None:
+def reconstruir_indices(status: dict, pids: list[str] | None = None) -> None:
     """Em cada painel, refaz indice.json (lista de edições), destaques.json (atos com tema ou do gabinete)
-    e pessoal.json (nomeações, exonerações, designações e dispensas)."""
+    e pessoal.json (nomeações, exonerações, designações e dispensas). O `status` só vale para os painéis em
+    `pids` (padrão: todos); os demais mantêm o aviso que já tinham."""
     agora = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     for pid, p in PERFIS.items():
         dados = RAIZ / p["pasta"] / "data"
@@ -417,28 +424,45 @@ def reconstruir_indices(status: dict) -> None:
                     destaques.append({**it, "edicaoId": eid, "data": ed["data"]})
             for a in ed.get("atosPessoal", []):
                 pessoal.append({**a, "edicaoId": eid, "data": ed["data"]})
-        gravar_json(dados / "indice.json", {"atualizado": agora, "status": status, "edicoes": eds})
+        st = status if (pids is None or pid in pids) else status_atual(pid)
+        gravar_json(dados / "indice.json", {"atualizado": agora, "status": st, "edicoes": eds})
         gravar_json(dados / "destaques.json", {"atualizado": agora, "itens": destaques})
         gravar_json(dados / "pessoal.json", {"atualizado": agora, "atos": pessoal})
 
 
-def status_atual() -> dict:
-    return ler_json(RAIZ / PERFIS["dani"]["pasta"] / "data" / "indice.json", {}).get("status", {})
+def status_atual(pid: str = "dani") -> dict:
+    return ler_json(RAIZ / PERFIS[pid]["pasta"] / "data" / "indice.json", {}).get("status", {})
+
+
+def arquivo_leitura(eid: str, pids: list[str]) -> Path:
+    """Leitura que cobre todos os gabinetes: AAAA-MM-DD.json; só alguns: AAAA-MM-DD.dani.json etc."""
+    return LEITURAS / (f"{eid}.json" if set(pids) == set(PERFIS) else f"{eid}.{'+'.join(pids)}.json")
+
+
+def ja_lida(eid: str, pid: str) -> bool:
+    return (RAIZ / PERFIS[pid]["pasta"] / "data" / "edicoes" / f"{eid}.json").exists()
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", help="AAAA-MM-DD (padrão: hoje, horário de Brasília)")
     ap.add_argument("--forcar", action="store_true", help="relê edições já lidas")
+    ap.add_argument("--gabinetes", default=os.environ.get("GABINETES") or ",".join(PADRAO),
+                    help=f"ids separados por vírgula, entre {', '.join(PERFIS)} (padrão: {','.join(PADRAO)})")
     ap.add_argument("--so-indices", action="store_true", help="só reexporta as leituras e refaz os índices")
     a = ap.parse_args()
+    pids = [g.strip() for g in a.gabinetes.split(",") if g.strip()]
+    if not pids or any(g not in PERFIS for g in pids):
+        print(f"--gabinetes inválido: {a.gabinetes!r}; use {', '.join(PERFIS)}", file=sys.stderr)
+        return 2
 
     agora = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     dia = dt.date.fromisoformat(a.data) if a.data else dt.datetime.now(FUSO).date()
-    status = status_atual()
+    status = status_atual(pids[0])
     if a.so_indices:
-        for f in sorted(LEITURAS.glob("*.json")):
-            exportar(f.stem, ler_json(f, {}))
+        # primeiro as leituras conjuntas antigas, depois as por gabinete (mais novas ganham)
+        for f in sorted(LEITURAS.glob("*.json"), key=lambda f: (f.name.count("."), f.name)):
+            exportar(f.name.split(".")[0], ler_json(f, {}))
         reconstruir_indices(status)
         return 0
 
@@ -449,35 +473,36 @@ def main() -> int:
         if not cadernos:
             print(f"Sem Parte II em {dia} (ainda não saiu, ou não há edição hoje).")
             if status.get("ok") is False:  # limpa um aviso de falha antigo
-                reconstruir_indices({**status, "ok": True, "mensagem": None})
+                reconstruir_indices({**status, "ok": True, "mensagem": None}, pids)
             return 0
         novas = 0
         for c in cadernos:
-            destino = LEITURAS / f"{c['id']}.json"
-            if destino.exists() and not a.forcar:
-                print(f"{c['id']} já foi lida; use --forcar para reler.")
+            faltam = pids if a.forcar else [g for g in pids if not ja_lida(c["id"], g)]
+            if not faltam:
+                print(f"{c['id']} já foi lida para {', '.join(pids)}; use --forcar para reler.")
                 continue
             novas += 1
             texto = baixar_texto(c["pdf"], s)
             if len(texto.strip()) < 500:
                 raise RuntimeError("o PDF veio sem texto legível")
-            leitura = limpar(classificar(texto, dia, c["extra"]))
+            leitura = limpar(classificar(texto, dia, c["extra"], faltam))
             leitura = {"data": dia.isoformat(), "extra": c["extra"], "link": url_indice(dia), "lidoEm": agora,
+                       "gabinetes": faltam,
                        **{k: leitura.get(k) for k in ("edicao", "resumos", "pessoal", "itens", "atos_pessoal")}}
-            gravar_json(destino, leitura)
+            gravar_json(arquivo_leitura(c["id"], faltam), leitura)
             exportar(c["id"], leitura)
-            for pid in PERFIS:
+            for pid in faltam:
                 n = contagem([item_do_perfil(it, pid) for it in leitura["itens"]], pid)
                 print(f"{c['id']} [{pid}]: " + " · ".join(f"{k} {v}" for k, v in n.items()))
         if not novas and status.get("ok") is not False:
             return 0  # nada novo: não grava nada, para não gerar publicações à toa
         reconstruir_indices({"ok": True, "ultimaExecucao": agora if novas else status.get("ultimaExecucao", agora),
-                             "edicaoLida": dia.isoformat(), "mensagem": None})
+                             "edicaoLida": dia.isoformat(), "mensagem": None}, pids)
         return 0
     except Exception as e:  # registra a falha nos painéis e sai com erro para o GitHub avisar
         msg = f"A leitura de {dia.strftime('%d/%m/%Y')} falhou ({type(e).__name__}: {e}). Ela roda de novo no próximo agendamento."
         print(msg, file=sys.stderr)
-        reconstruir_indices({**status, "ok": False, "ultimaExecucao": agora, "mensagem": msg})
+        reconstruir_indices({**status, "ok": False, "ultimaExecucao": agora, "mensagem": msg}, pids)
         return 1
 
 

@@ -30,6 +30,8 @@ Endereço do painel: `https://shamirarossi.github.io/Paineis-ALERJ/radar-do-aler
 
 Para ler uma data específica ou refazer uma leitura, use **Run workflow**, preencha a data (`AAAA-MM-DD`) e marque *forçar* se a edição já estiver no painel.
 
+O automático lê só para o painel da Dani. O painel do [Vinicius Cozzolino](../radar-vinicius-cozzolino/) é atualizado sob demanda: no **Run workflow**, escolha **Vinicius** (ou **Os dois**) em "Para qual painel ler".
+
 **Custo:** cada leitura usa o Claude Sonnet 5.5 e custa por volta de US$ 0,10 a 0,15, cerca de US$ 3 por mês. Para trocar o modelo, crie a variável `MODELO` em **Settings → Secrets and variables → Actions → Variables**.
 
 **Visibilidade:** o repositório é público, então qualquer pessoa com o link vê o painel, inclusive as notas "Por que importa". O conteúdo de base também é público (é o Diário Oficial), mas escreva as orientações internas pensando nisso.

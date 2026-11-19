@@ -21,6 +21,11 @@ on:
         description: "Reler mesmo que a edição já esteja no painel"
         type: boolean
         default: false
+      gabinete:
+        description: "Para qual painel ler. O automático lê só o da Dani; o do Vinicius é sob demanda."
+        type: choice
+        options: [Dani, Vinicius, Os dois]
+        default: Dani
 
 permissions:
   contents: write
@@ -55,7 +60,13 @@ jobs:
           MODELO: ${{ vars.MODELO }}
           DATA: ${{ inputs.data }}
           FORCAR: ${{ inputs.forcar }}
+          GABINETE: ${{ inputs.gabinete }}
         run: |
+          case "$GABINETE" in
+            Vinicius) export GABINETES=vc ;;
+            "Os dois") export GABINETES=dani,vc ;;
+            *) export GABINETES=dani ;;
+          esac
           ARGS=""
           if [ -n "$DATA" ]; then ARGS="$ARGS --data $DATA"; fi
           if [ "$FORCAR" = "true" ]; then ARGS="$ARGS --forcar"; fi
