@@ -1,0 +1,179 @@
+{
+ "data": "2026-11-24",
+ "sessoes": [
+  "Sessão Ordinária · 15h"
+ ],
+ "atualizadaSite": "19/11/2026 às 15h30",
+ "lidoEm": "2026-11-20T11:30:16+00:00",
+ "hash": "8f9e7e9fea356bd4",
+ "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/pauta/?op=D&data=2026;11;24",
+ "itens": [
+  {
+   "ordem": "1º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 7315/2026",
+   "autor": "Deputadas Célia Jordão e Sarah Poncio",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa \"Me Ajude\", para auxiliar mulheres em situação de risco.",
+   "fase": "redação final",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Projeto de proteção a mulheres em situação de risco, tema central do gabinete. Está em redação final, então o mais provável é acompanhar e orientar voto favorável da bancada.",
+   "categorias": [
+    "pautas"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNmQwNGNjNjJlM2NlOWFjMzAzMjU4ZWIzMDA1ZjYzMGI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA3MzE1&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei Complementar",
+   "ref": "PLC 66/2026",
+   "autor": "Poder Executivo (Mensagem 25/2026)",
+   "ementa": "Institui programa especial de regularização de créditos tributários de ICMS, com redução de juros e multas (Convênio ICMS 111/2026), e prevê remissão parcial de créditos de ICMS do setor de petróleo e gás natural (Convênio 114/2026).",
+   "fase": "discussão única · regime de urgência",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Legislação Constitucional Complementar e Códigos",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência, com cinco pareceres pendentes, incluindo a Comissão de Economia. Vale analisar a remissão para petróleo e gás e definir a orientação da bancada e a necessidade de parecer em plenário.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNGNjMjUzMmQxYWJjZTFkZjAzMjU4ZWFlMDA3NzIwYzk/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMjAwMDY2&"
+  },
+  {
+   "ordem": "3º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 6590-A/2025",
+   "autor": "Deputado Rodrigo Amorim",
+   "ementa": "Inclui o Dia Estadual do Mestre de Jiu-Jitsu no calendário oficial de datas comemorativas do estado (altera a Lei 5.645/2010).",
+   "fase": "2ª discussão · redação do vencido · tramitação ordinária",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZjdhNTRjNjcyNjIxZTQ4ZDAzMjU4ZWIzMDA1ZGFjYTY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwMzA2NTkw&"
+  },
+  {
+   "ordem": "4º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 19/2023",
+   "autor": "Deputado Alan Lopes",
+   "ementa": "Dispõe sobre a matrícula de filhos e dependentes legais de agentes de segurança pública na rede pública estadual de ensino.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas, concluindo por substitutivo; Educação, Servidores Públicos, Segurança Pública e Orçamento: favoráveis com o substitutivo da CCJ",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNDEyODY2YTE4ZTk3NTg5MzAzMjU4OTRhMDA1MjI4MTE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwMDE5&"
+  },
+  {
+   "ordem": "5º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 2415/2023",
+   "autor": "Deputado Renato Miranda",
+   "ementa": "Institui a Política de Prevenção do Câncer de Cabeça e Pescoço no estado do Rio de Janeiro.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas; Saúde e Orçamento: favoráveis, com as emendas da CCJ",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOGE2OWY3ZDE0ZTdhZmYzMzAzMjU4YTQwMDA2MzgyODE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAyNDE1&"
+  },
+  {
+   "ordem": "6º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 3991/2024",
+   "autor": "Deputado Valdecy da Saúde",
+   "ementa": "Institui no estado do Rio de Janeiro o Projeto Verão e Prevenção.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas; Saúde e Orçamento: favoráveis, com as emendas da CCJ",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZjU5ZDJhYzk0MDExYzNlNzAzMjU4YWQ5MDA0ODA4YzA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzAzOTkx&"
+  },
+  {
+   "ordem": "7º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4965/2025",
+   "autor": "Deputado Val Ceasa",
+   "ementa": "Dispõe sobre a revitalização e manutenção de campos públicos destinados ao futebol amador e estabelece diretrizes para sua gestão.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas; Esporte e Lazer, Assuntos Municipais e Desenvolvimento Regional e Orçamento: favoráveis",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYWJhODBiZDYxYjhhMDI0NjAzMjU4YzUyMDA0ZTU5OGI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwMzA0OTY1&"
+  },
+  {
+   "ordem": "8º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 1364/2025",
+   "autor": "Deputado Alexandre Knoploch",
+   "ementa": "Concede o Diploma Ulysses Guimarães ao deputado federal Altineu Côrtes.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYzFiNDZiYmZlNjlmNzdhZDAzMjU4YzkxMDA2MTFkMTA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwNTAxMzY0&"
+  },
+  {
+   "ordem": "9º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2648/2026",
+   "autor": "Deputado Márcio Gualberto",
+   "ementa": "Concede o Diploma Construtor da Paz à pastora Vitória Maíza de Freitas Fonseca Monteiro.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável, com emendas",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZmVmNmQ3MmIwNjdjNmI5ODAzMjU4ZTExMDA2NWEyNjc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjQ4&"
+  },
+  {
+   "ordem": "10º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2681/2026",
+   "autor": "Deputado Júlio Rocha",
+   "ementa": "Concede o Diploma Russell Philip Shedd à Igreja do Nazareno, de Guapimirim (RJ).",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMThmNzdhMTU2NjU1Mzg0ZDAzMjU4ZTFhMDAxMzIxNjM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNjgx&"
+  },
+  {
+   "ordem": "11º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2742/2026",
+   "autor": "Deputado Jari Oliveira",
+   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma ao senhor Israel Carlos da Silva.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNjM1ODMyNGI4NTg2ZjcwNDAzMjU4ZTUwMDA1MDVhYWU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzQy&"
+  },
+  {
+   "ordem": "12º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2752/2026",
+   "autor": "Deputado Fred Pacheco",
+   "ementa": "Concede o Diploma Ulysses Guimarães ao senhor Paulo Cesar Rito Nunes.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvODNiZGVkYjc1ZjNhZmFjYjAzMjU4ZTUwMDA1MmQ4ZTY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzUy&"
+  }
+ ]
+}

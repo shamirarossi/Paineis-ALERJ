@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T16:34:09+00:00",
+ "atualizado": "2026-11-20T11:30:59+00:00",
  "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/",
  "pautas": [
   {
@@ -130,6 +130,51 @@
    "atualizadaSite": "17/11/2026 às 17h44",
    "contagem": {
     "total": 10,
+    "executivo": 0,
+    "pautas": 0,
+    "comissoes": 0,
+    "premio": 0,
+    "gabinete": 0
+   }
+  },
+  {
+   "data": "2026-11-24",
+   "sessoes": [
+    "Sessão Ordinária · 15h"
+   ],
+   "atualizadaSite": "19/11/2026 às 15h30",
+   "contagem": {
+    "total": 12,
+    "executivo": 1,
+    "pautas": 1,
+    "comissoes": 1,
+    "premio": 0,
+    "gabinete": 0
+   }
+  },
+  {
+   "data": "2026-11-25",
+   "sessoes": [
+    "Sessão Ordinária · 15h"
+   ],
+   "atualizadaSite": "19/11/2026 às 15h43",
+   "contagem": {
+    "total": 11,
+    "executivo": 0,
+    "pautas": 1,
+    "comissoes": 0,
+    "premio": 0,
+    "gabinete": 0
+   }
+  },
+  {
+   "data": "2026-11-26",
+   "sessoes": [
+    "Sessão Ordinária · 10h30"
+   ],
+   "atualizadaSite": "19/11/2026 às 15h33",
+   "contagem": {
+    "total": 9,
     "executivo": 0,
     "pautas": 0,
     "comissoes": 0,
