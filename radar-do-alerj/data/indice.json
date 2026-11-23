@@ -1,12 +1,26 @@
 {
- "atualizado": "2026-11-19T16:30:32+00:00",
+ "atualizado": "2026-11-23T11:31:02+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-19T16:29:07+00:00",
-  "edicaoLida": "2026-11-19",
+  "ultimaExecucao": "2026-11-23T11:28:55+00:00",
+  "edicaoLida": "2026-11-23",
   "mensagem": null
  },
  "edicoes": [
+  {
+   "id": "2026-11-23",
+   "data": "2026-11-23",
+   "edicao": "Ano LII · Nº 213",
+   "extra": false,
+   "contagem": {
+    "total": 32,
+    "gabinete": 7,
+    "lgbt": 5,
+    "mulheres": 10,
+    "ct": 8
+   },
+   "relatorio": "relatorios/2026-11-23.pdf"
+  },
   {
    "id": "2026-11-19",
    "data": "2026-11-19",

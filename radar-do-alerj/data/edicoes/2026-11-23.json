@@ -1,0 +1,365 @@
+{
+ "data": "2026-11-23",
+ "edicao": "Ano LII · Nº 213",
+ "extra": false,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMjM%3D",
+ "lidoEm": "2026-11-23T11:28:55+00:00",
+ "resumo": "O principal para o gabinete é o parecer favorável da Comissão de Defesa do Consumidor ao PL 3560/2024, da Dep. Dani Balbi, que inclui o nome social dos consumidores nas comunicações das concessionárias de água, luz e gás. Em 24/11, às 11h, a CCJ vota pauta com três projetos da deputada (5035/2025, 7335/2026 e 4765/2025), e a Comissão de Combate às Discriminações, que a convoca como suplente, reúne-se no mesmo horário com vários projetos de pauta LGBT. Entre os temas de mulheres, o PL 7315/2026 (programa 'Me Ajude') está na ordem do dia, e há projetos sobre feminicídio e violência cibernética nas pautas. Em ciência e tecnologia, destaca-se o PL 8533/2026, sobre dispositivos vestíveis de captação e privacidade do consumidor. A Escola do Legislativo promove o 'Novembro Azul' em 26/11, com mesa sobre violência contra a mulher.",
+ "pessoal": "1 nomeação, 0 exonerações, 0 designações e 0 dispensas.",
+ "itens": [
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 3560/2024",
+   "autor": "Dep. Dani Balbi (relator: Dep. Dionisio Lins)",
+   "ementa": "Inclui o nome social dos consumidores nas comunicações das concessionárias estaduais de água, luz e gás encanado. O relator não viu óbices à tramitação.",
+   "situacao": "Parecer favorável aprovado na 1ª Reunião Extraordinária da Comissão de Defesa do Consumidor, em 11/11/2026.",
+   "temas": [
+    "lgbt"
+   ],
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, voltado ao uso do nome social por pessoas trans e travestis. Acompanhar a tramitação nas comissões seguintes."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia (urgência)",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão (CCJ, relatora: Dep. Sarah Poncio)",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', destinado ao auxílio de mulheres em situação de risco. A CCJ opinou pela constitucionalidade, com emendas, concluindo por substitutivo.",
+   "situacao": "Em discussão única, em regime de urgência, na sessão de 17/11; pendente de pareceres das comissões da Mulher, de Ciência e Tecnologia, de Segurança Pública e de Orçamento.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Proteção de mulheres em risco, com parecer pendente da Comissão de Ciência e Tecnologia. Vale acompanhar esses pareceres e o substitutivo."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8533/2026",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Estabelece medidas de proteção à intimidade e à privacidade dos consumidores diante de dispositivos vestíveis (óculos, relógios, broches) capazes de captar imagens e sons em estabelecimentos. Exige informação clara e canal de reclamações, ressalvadas tecnologias assistivas e atividade jornalística.",
+   "situacao": "Despachado em 19/11 à CCJ e às comissões de Defesa do Consumidor e de Economia, Indústria e Comércio.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de tecnologia de captação e privacidade, com referência à LGPD (Lei 13.709/2018). Pode interessar à agenda de dados pessoais e tecnologia."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Reunião de comissão (CCJ)",
+   "ref": "11ª Reunião Extraordinária da CCJ",
+   "autor": "Dep. Rodrigo Amorim (presidente)",
+   "ementa": "Em 24/11/2026, às 11h, na sala 1809 do Edifício Lúcio Costa, a comissão vota pareceres sobre cerca de 50 proposições. Entre elas estão três projetos da Dep. Dani Balbi.",
+   "situacao": "Convocada em 19/11/2026.",
+   "gabinete": true,
+   "nota": "A deputada é autora de três projetos na pauta (5035/2025, 7335/2026 e 4765/2025), com relatores distintos. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 5035/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Estabelece norma de entrega de produtos por aplicativos no Estado do Rio de Janeiro.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, relatado pelo presidente da CCJ. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 7335/2026",
+   "autor": "Dep. Dani Balbi (relator: Dep. Fred Pacheco)",
+   "ementa": "Dispõe sobre prevenção, caracterização e responsabilização da segunda geração do assédio moral na administração pública estadual direta e fundacional e altera o Decreto-Lei 220/1975.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com relatoria de Fred Pacheco. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 4765/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Veda a divulgação de campanhas publicitárias institucionais em veículos condenados por difusão de notícias falsas ou por crimes de discriminação ou preconceito.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com relatoria de Knoploch. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 7227/2026",
+   "autor": "Dep. Rosenverg Reis (relator: Dep. Fred Pacheco)",
+   "ementa": "Reserva 5% das vagas de concursos públicos estaduais para filhos de vítimas de feminicídio.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Política de amparo a órfãos do feminicídio, tema da pauta de mulheres. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 7190/2026",
+   "autor": "Dep. Elton Cristo (relator: Dep. Fred Pacheco)",
+   "ementa": "Obriga as instituições de ensino a oferecer plataforma digital anônima para comunicar situações de violência sexual, com uso de inteligência artificial.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Combina violência sexual e inteligência artificial, cobrindo mulheres e tecnologia. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 3819/2021",
+   "autor": "Dep. Martha Rocha (relator: Dep. Marcelo Dino)",
+   "ementa": "Obriga o autor de violência doméstica e familiar a custear o tratamento médico e psicológico e a recuperação da vítima.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de violência doméstica e Lei Maria da Penha. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 8143/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Marcelo Dino)",
+   "ementa": "Dispõe sobre a reserva de espaços para mulheres empreendedoras em feiras, exposições, festivais e eventos realizados ou apoiados pelo Estado.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Promoção da equidade econômica das mulheres. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 7909/2026",
+   "autor": "Dep. Giselle Monteiro (relator: Dep. Fred Pacheco)",
+   "ementa": "Inclui no calendário oficial a 'Semana Estadual de Conscientização sobre Denúncias Falsas e Preservação da Presunção de Inocência'.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Marcado na dúvida: campanhas sobre denúncias falsas podem afetar o acolhimento de vítimas de violência de gênero. Vale avaliar o texto."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 550/2023",
+   "autor": "Dep. Rodrigo Amorim (relator: Dep. Fred Pacheco)",
+   "ementa": "Autoriza o Poder Executivo a usar reconhecimento facial automatizado nas forças de segurança pública.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve tecnologia de vigilância e dados biométricos. Vale avaliar os impactos sobre dados pessoais."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ",
+   "ref": "PL 5917/2025",
+   "autor": "Dep. Sarah Poncio (relator: Dep. Fred Pacheco)",
+   "ementa": "Institui o programa estadual 'Infância Conectada', de proteção, educação e bem-estar digital de crianças e adolescentes online.",
+   "situacao": "Parecer na pauta da CCJ de 24/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de internet e segurança digital, na pauta de tecnologia. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Reunião de comissão",
+   "ref": "1ª Reunião Ordinária - Comissão de Combate às Discriminações e Preconceitos",
+   "autor": "Dep. Professor Josemar (presidente)",
+   "ementa": "Em 24/11/2026, às 11h, por meios digitais, a comissão faz distribuição de proposições e vota pareceres sobre 38 projetos. A Dep. Dani Balbi está convocada como suplente.",
+   "situacao": "Convocada em 19/11/2026.",
+   "gabinete": true,
+   "nota": "A deputada é suplente e autora do PL 4374/2024 na pauta. A pauta tem vários projetos LGBT e de violência contra mulheres."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 1905/2023",
+   "autor": "Dep. Verônica Lima (relator: Dep. Professor Josemar)",
+   "ementa": "Inclui no calendário oficial o 'Dia Estadual da Visibilidade Lésbica'.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Visibilidade lésbica, tema LGBT. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 2634/2023",
+   "autor": "Dep. Renata Souza (relator: Dep. Professor Josemar)",
+   "ementa": "Declara patrimônio cultural e imaterial do Estado a Parada do Orgulho LGBTI de Copacabana.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Reconhecimento da Parada LGBTI, tema central do mandato. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 2912/2024",
+   "autor": "Dep. Dani Monteiro (relator: Dep. Professor Josemar)",
+   "ementa": "Cria o selo 'Empresa Amiga da População Trans e Travesti' no Estado do Rio de Janeiro.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Política de inclusão de pessoas trans e travestis. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 1866/2023",
+   "autor": "Dep. Renata Souza (relator: Dep. Átila Nunes)",
+   "ementa": "Inclui o Dia da Visibilidade da Mulher Lésbica Negra no calendário oficial do Estado.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "nota": "Une visibilidade lésbica e agenda de mulheres negras. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3142/2024",
+   "autor": "Comissão Parlamentar de Inquérito da Res. 31/2023 (relator: Dep. Professor Josemar)",
+   "ementa": "Institui campanha permanente de conscientização, informação e combate à violência cibernética contra mulheres.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Violência de gênero no ambiente digital. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3714/2024",
+   "autor": "Comissão Parlamentar de Inquérito da Res. 31/2023, Martha Rocha (relator: Dep. Professor Josemar)",
+   "ementa": "Institui rede de pesquisa sobre violência cibernética contra as mulheres no Estado do Rio de Janeiro.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Combina pesquisa e violência cibernética contra mulheres. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 3255/2024",
+   "autor": "Dep. Martha Rocha (relator: Dep. Carlos Minc)",
+   "ementa": "Cria campanha de incentivo à inclusão digital no Estado do Rio de Janeiro.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Inclusão digital, tema de ciência e tecnologia. Acompanhar a votação."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta de comissão",
+   "ref": "PL 4374/2024",
+   "autor": "Dep. Dani Balbi (relator: Dep. Átila Nunes)",
+   "ementa": "Altera a Lei 9.212/2021, sobre o programa de assistência às vítimas de intolerância religiosa.",
+   "situacao": "Parecer na pauta de 24/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada na pauta da comissão em que é suplente. Acompanhar o parecer."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul",
+   "ementa": "Evento presencial em 26/11/2026, das 13h às 17h, com 100 vagas. Reúne saúde do homem e a proposta 'O que tem de Lilás no Azul?', com mesa sobre o papel masculino no enfrentamento à violência contra a mulher.",
+   "situacao": "Edital de 12/11/2026; inscrições indicadas até 16/11.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Inclui debate com ativista da Lei Maria da Penha sobre violência contra a mulher. As inscrições indicadas já encerraram; confirmar vagas com a Escola."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Ordem do dia das sessões de 17, 18 e 19/11",
+   "ref": "Edital de Sessão",
+   "ementa": "Editais de convocação das sessões ordinárias com pauta de projetos de lei e resoluções. Entre eles: PL 374-A/2023 (Orquestra nas Escolas), PL 7518/2026 (Dia Estadual de Capacitação sobre violências contra crianças e adolescentes), PL 8191/2026 (prorrogação de concursos) e diplomas e medalhas.",
+   "situacao": "Publicado em 23/11/2026."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Projetos publicados",
+   "ref": "PL 8534/2026; PL 5124/2025 (republicado); PR 2863/2026",
+   "autor": "Dep. André Corrêa; Deps. Luiz Paulo, Tia Ju e Guilherme Schleder; Dep. Filipe Soares",
+   "ementa": "PL 8534/2026 reconhece a decisão singular na JUCERJA como encargo especial, autorizando a Gratificação de Encargos Especiais. PL 5124/2025 (Dia Estadual do Pickleball) foi republicado por incorreções. PR 2863/2026 concede a Medalha Dom Pedro II a Cristiano de Freitas Neves.",
+   "situacao": "Despachados às comissões competentes; o PL 5124/2025 foi republicado."
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (Defesa do Consumidor)",
+   "ref": "PL 3053/2017; 1573/2019; 4814/2021; 5511/2022; 205/2023; 481/2023; 2894/2024; 3878/2024",
+   "autor": "Relatores: Deps. Thiago Rangel e Dionisio Lins",
+   "ementa": "Pareceres favoráveis sobre seguros em produtos, segunda via gratuita da nota fiscal, corte de serviços essenciais, aviso de interrupção de telecomunicações, direitos em voos, peso das porções e preços promocionais em postos.",
+   "situacao": "Aprovados em reuniões da Comissão de Defesa do Consumidor (5/2/2026 e 11/11/2026)."
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Controle Interno em Rede",
+   "ementa": "Evento presencial em 25/11/2026, das 9h às 16h, sobre controle interno preventivo e integridade pública, com 100 vagas. Voltado a servidores e estudantes.",
+   "situacao": "Edital de 11/11/2026; inscrições indicadas até 16/11."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resultado da sessão de 19/11",
+   "ref": "Ata da 103ª Sessão Ordinária",
+   "ementa": "Aprovados em 2ª discussão os PLs 4446-A/2024 (Dia dos ODS), 5124-A/2025 (Pickleball), 6555-A/2025 (Mega Dance) e 6100/2025 (utilidade pública VRB Social). O PL 3708/2024 (sarcopenia) passou em 1ª discussão, e foram aprovadas resoluções honoríficas e inclusões em pauta (PLs 7546/2026, 4689/2021, 5765-A/2025 e 63/2023).",
+   "situacao": "Sessão presidida por Val Ceasa e Tia Ju; Dani Balbi consta entre os presentes."
+  },
+  {
+   "grupo": "Atos da Mesa",
+   "tipo": "Resoluções promulgadas",
+   "ref": "Resoluções 2560 a 2564/2026",
+   "autor": "Presidente Douglas Ruas",
+   "ementa": "Promulgadas as resoluções que concedem Diploma Ulysses Guimarães, Prêmio Anna Nery da Saúde, Prêmio Construtor da Paz e Medalhas Tiradentes a diversos homenageados.",
+   "situacao": "Promulgadas em 19/11/2026."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Redação do vencido",
+   "ref": "PL 6951-A/2025; PL 7518-A/2026",
+   "autor": "Comissão de Redação (Dep. Carlos Macedo, presidente)",
+   "ementa": "Emendas de redação corrigem o nome do Instituto Cultural Ile Axe Nito Omin Odé no PL 6951/2025 e a concordância no PL 7518/2026, da Dep. Lilian Behring (dia de capacitação sobre violências contra crianças e adolescentes, em 12 de outubro).",
+   "situacao": "Publicadas para a 2ª discussão."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Portaria do Diretor-Geral e errata",
+   "ref": "Portaria E/DG/456/2026",
+   "autor": "Diretor-Geral",
+   "ementa": "Cessa o efeito de seis portarias de 2024 e 2025. Errata corrige para 06/11/2026 o início dos efeitos da Portaria E/DG/444/2026.",
+   "situacao": "Publicadas em 19/11/2026."
+  }
+ ],
+ "atosPessoal": [
+  {
+   "acao": "nomeacao",
+   "nome": "AGRÍCIA DE SOUZA SANTANA",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Anderson Moraes",
+   "deputado": "Anderson Moraes",
+   "vaga_de": "Bianca Silva Menezes de Oliveira",
+   "ato": "Ato E/MD 4510/2026"
+  }
+ ]
+}

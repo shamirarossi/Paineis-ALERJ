@@ -1,6 +1,18 @@
 {
- "atualizado": "2026-11-19T16:30:32+00:00",
+ "atualizado": "2026-11-23T11:31:02+00:00",
  "atos": [
+  {
+   "acao": "nomeacao",
+   "nome": "AGRÍCIA DE SOUZA SANTANA",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Anderson Moraes",
+   "deputado": "Anderson Moraes",
+   "vaga_de": "Bianca Silva Menezes de Oliveira",
+   "ato": "Ato E/MD 4510/2026",
+   "edicaoId": "2026-11-23",
+   "data": "2026-11-23"
+  },
   {
    "acao": "nomeacao",
    "nome": "PAULA SIQUEIRA DOS SANTOS",
