@@ -213,6 +213,11 @@ vale para todos os projetos abaixo dela, até o próximo "Relator(a)". Para cada
 3) se um(a) dos parlamentares acima relatar outros projetos da pauta, um item "Outras relatorias de <nome>"
    listando número, autor e assunto de cada um.
 
+Audiências públicas: cada audiência pública convocada, adiada, cancelada ou aprovada no dia vira um item
+próprio, com tipo "Audiência pública" (ou "Audiência pública adiada" etc.), "audiencia_publica": true e, na
+ementa, data, hora, local, comissão ou proponente e tema. Requerimentos de audiência aprovados numa reunião
+também recebem "audiencia_publica": true.
+
 "notas": para cada gabinete em que o ato tem tema ou envolvimento direto, 1 ou 2 frases dizendo por que
 importa PARA AQUELE gabinete e o que fazer, se houver algo. Deixe sem nota os gabinetes para os quais o ato
 não importa.
@@ -261,6 +266,8 @@ def esquema(pids: list[str]) -> dict:
                         "temas": {"type": "array", "items": {"type": "string", "enum": temas_sel}},
                         "gabinetes": {"type": "array", "items": {"type": "string", "enum": ids}},
                         "notas": por_gab("Por que importa para este gabinete"),
+                        "audiencia_publica": {"type": "boolean",
+                                              "description": "true quando o ato convoca, adia, cancela ou aprova audiência pública"},
                     },
                     "required": ["grupo", "tipo", "ementa"],
                     "additionalProperties": False,
@@ -323,7 +330,7 @@ def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str]) -> dict:
 def limpar(leitura: dict) -> dict:
     itens = []
     for it in leitura.get("itens", []):
-        it = {k: v for k, v in it.items() if v not in (None, "", [], {})}
+        it = {k: v for k, v in it.items() if v not in (None, "", [], {}, False)}
         it["temas"] = [t for t in it.get("temas", []) if t in TODOS_TEMAS]
         it["gabinetes"] = [g for g in it.get("gabinetes", []) if g in PERFIS]
         it["notas"] = {g: n for g, n in (it.get("notas") or {}).items() if g in PERFIS and n}
