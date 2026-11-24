@@ -1,6 +1,478 @@
 {
- "atualizado": "2026-11-23T11:31:02+00:00",
+ "atualizado": "2026-11-24T13:38:39+00:00",
  "itens": [
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Requerimento",
+   "ref": "Requerimento 87/2026",
+   "autor": "Comissão Especial instituída pelo Req. 70/2025 (Renata Souza, Dani Balbi, Flávio Serafini, Carlos Minc, Zeidan e Marina do MST)",
+   "ementa": "Pede a prorrogação, por mais 90 dias, do funcionamento da Comissão Especial das Favelas e Periferias, alegando que ainda precisa ouvir entidades e requisitar documentos para o relatório final.",
+   "situacao": "Despacho do Presidente em 23.11.2026: a imprimir.",
+   "gabinete": true,
+   "nota": "Dani Balbi é vice-presidenta da comissão e assina o pedido. O texto cita prazo até 05/07/2026 e data de 15/06/2026, então vale conferir o prazo vigente.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável e parecer pela anexação",
+   "ref": "PR 2827/2026 e PR 2838/2026",
+   "autor": "Giovani Ratinho (PR 2827) e Jorge Felippe Neto (PR 2838); relator: Dep. Rodrigo Amorim",
+   "ementa": "O PR 2827 concede a Medalha Tiradentes à vereadora de Niterói Fernanda Louback, citada como primeira presidente do PL Mulher em Niterói e mãe atípica. O PR 2838, com a mesma homenagem à vice-governadora eleita, teve parecer pela anexação ao 2827.",
+   "situacao": "Aprovados em 19/11/2026 na 6ª Reunião Ordinária de Normas Internas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de passagem: a homenagem é a uma política que atua com mulheres na política e mães atípicas. Marcado na dúvida, sem ação necessária.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 1475/2023",
+   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui a política de enfrentamento ao assédio sexual e outras violências contra mulheres nas instituições de ensino superior do estado. O parecer cita pesquisa do Senado sobre a violência contra a mulher.",
+   "situacao": "Parecer favorável aprovado na CTLSSS em 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Dani Balbi é a relatora e preside a comissão. Acompanhar a tramitação nas próximas comissões.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável com emenda",
+   "ref": "PL 2725/2023",
+   "autor": "Dep. Renato Miranda (relatora: Dep. Dani Balbi)",
+   "ementa": "Altera a Lei 8.694/2019 sobre o aplicativo SOS Mulher Protegida. A emenda modificativa nº 1 amplia o app para violências físicas, sexuais, psicológicas, morais ou patrimoniais, dentro ou fora do contexto da Lei Maria da Penha.",
+   "situacao": "Aprovado na CTLSSS em 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "A emenda é da relatora Dani Balbi e amplia a proteção a todas as formas de violência de gênero. Acompanhar a votação do texto emendado.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável com emenda",
+   "ref": "PL 5228/2025",
+   "autor": "Dep. Sarah Poncio (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria o selo Empresa Amiga da Mãe Atípica. A emenda aditiva exige o cumprimento de ao menos duas condições, como contratação formal, jornada flexível, compra de produtos de mães atípicas e auxílio para terapias.",
+   "situacao": "Aprovado na CTLSSS em 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Pauta de mães atípicas e economia do cuidado, com relatoria e emenda de Dani Balbi. Acompanhar a tramitação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável com emendas da CCJ",
+   "ref": "PL 5631/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
+   "ementa": "Altera a Lei 6.165/2012, que indeniza pessoas constantes da folha interna do Instituto Estadual de Dermatologia Sanitária ou do Hospital Estadual Tavares Macedo. O parecer destaca a atualização de valores defasados.",
+   "situacao": "Aprovado na CTLSSS em 11/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com parecer favorável aprovado. Acompanhar os próximos passos até o Plenário.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Pareceres favoráveis (CTLSSS)",
+   "ref": "PLs 5425/2022, 3162/2024, 4550/2024, 4824/2025, 5063/2025, 5331/2025, 6026/2025 e 7082/2026",
+   "autor": "Relatora: Dep. Dani Balbi (3162/2024: relator Dep. Valdecy da Saúde)",
+   "ementa": "Tratam de auxílio emergencial para secas e enchentes, apoio ao pescador artesanal, desprecarização de agentes comunitários de saúde, climatização de cozinhas escolares, saúde de profissionais da saúde, EPIs, descanso de técnicos em radiologia e diretrizes para enfermagem em home care.",
+   "situacao": "Aprovados na CTLSSS em 11/11/2026, vários com emendas (CCJ, Agricultura ou da relatora).",
+   "gabinete": true,
+   "nota": "Dani Balbi relata sete deles e preside a comissão. No 7082/2026 ela propôs emenda ao art. 3º sobre remuneração e jornada de 40h.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "CCJ - 24ª Reunião Ordinária",
+   "autor": "Dep. Rodrigo Amorim (Presidente)",
+   "ementa": "Reunião em 25/11/2026, às 11h, na sala 1809 do Edifício Lúcio Costa, com 56 projetos em pauta. Relatam Fred Pacheco, Luiz Paulo, Rodrigo Amorim, Sarah Poncio, Alexandre Knoploch, Elika Takimoto e Marcelo Dino; não há audiência pública a deliberar.",
+   "situacao": "Convocada em 23/11/2026.",
+   "temas": [
+    "mulheres",
+    "ct",
+    "lgbt"
+   ],
+   "gabinete": true,
+   "nota": "A pauta inclui três PLs de Dani Balbi (7335/2026, 5035/2025 e 4765/2025) e outros projetos sobre mulheres, tecnologia e discriminação, detalhados nos itens seguintes. Ela não é membro da CCJ; vale acompanhar a votação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7335/2026",
+   "autor": "Dep. Dani Balbi (relatora: Dep. Sarah Poncio)",
+   "ementa": "Dispõe sobre prevenção, caracterização e responsabilização da segunda geração do assédio moral na administração pública estadual direta e fundacional, e altera o Decreto-Lei 220/1975.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 24.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com relatoria de Sarah Poncio. Acompanhar a reunião e o resultado da votação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 5035/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Estabelece norma de entrega de produtos por aplicativos no estado do Rio de Janeiro.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 40.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada; o relator Rodrigo Amorim também preside a CCJ. Acompanhar a votação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 4765/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Veda a divulgação de campanhas publicitárias institucionais em veículos condenados por difusão de notícias falsas ou por crimes de discriminação ou preconceito.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 43.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada. Acompanhar a votação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7782/2026",
+   "autor": "Dep. India Armelau (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Altera a Lei 7.041/2015 para incluir medidas de prevenção e repressão administrativa à imputação falsa de condutas discriminatórias.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 3.",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "A ementa não diz a quais discriminações se refere. Marcado na dúvida: ler o texto para ver se pode inibir denúncias, inclusive de LGBTfobia.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7909/2026",
+   "autor": "Dep. Giselle Monteiro (relator: Dep. Fred Pacheco)",
+   "ementa": "Inclui no calendário oficial a Semana Estadual de Conscientização sobre Denúncias Falsas e Preservação da Presunção de Inocência.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 16.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Marcado na dúvida: campanhas sobre denúncias falsas costumam atingir vítimas de violência de gênero. Verificar o texto e o enfoque.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7190/2026",
+   "autor": "Dep. Elton Cristo (relatora: Dep. Sarah Poncio)",
+   "ementa": "Obriga as instituições de ensino a disponibilizar plataforma digital anônima, com recursos de inteligência artificial, para comunicar situações de violência sexual.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 23.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Combina enfrentamento à violência sexual e uso de IA e dados. É afim ao PL 1475/2023, relatado por Dani Balbi.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7311/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Institui diretrizes para o planejamento familiar e o acesso igualitário a técnicas de reprodução humana assistida no SUS.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 30.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Saúde reprodutiva e maternidade; marcado na dúvida. Observar se o acesso inclui casais e pessoas LGBTQIA+.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 8143/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Marcelo Dino)",
+   "ementa": "Reserva espaços para mulheres empreendedoras em feiras, exposições, festivais e eventos realizados ou apoiados pelo Estado.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 37.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Política de igualdade e autonomia econômica das mulheres, em pauta na CCJ.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7227/2026",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Sarah Poncio)",
+   "ementa": "Reserva 5% das vagas de concursos públicos estaduais para filhos de vítimas de feminicídio.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 42.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Proteção às vítimas indiretas do feminicídio, em pauta na CCJ.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 3819/2021",
+   "autor": "Dep. Martha Rocha (relator: Dep. Marcelo Dino)",
+   "ementa": "Obriga o autor de violência doméstica e familiar a custear o tratamento médico e psicológico e a recuperação da vítima.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 55.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema de violência doméstica e Lei Maria da Penha, em pauta na CCJ.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 550/2023",
+   "autor": "Dep. Rodrigo Amorim (relatora: Dep. Sarah Poncio)",
+   "ementa": "Autoriza o Poder Executivo a usar tecnologia de reconhecimento facial automatizado nas forças de segurança pública.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 41.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Tecnologia e dados pessoais. Vale avaliar o impacto sobre a LGPD e sobre erros de identificação.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 5917/2025",
+   "autor": "Dep. Sarah Poncio (relator: Dep. Fred Pacheco)",
+   "ementa": "Institui o programa estadual Infância Conectada, de proteção, educação e bem-estar digital de crianças e adolescentes no ambiente online.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 20.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Tema de internet, proteção digital e educação para o uso da tecnologia.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCJ (25/11)",
+   "ref": "PL 7814/2026",
+   "autor": "Dep. India Armelau (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 9.742/2022 para aperfeiçoar acessibilidade comunicacional, consentimento informado e inclusão digital da pessoa surda nos serviços privados de saúde.",
+   "situacao": "Pauta da CCJ, 25/11/2026, item 34.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Inclusão digital de pessoas surdas; marcado pelo componente de inclusão digital.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "CCT - 1ª Reunião Ordinária",
+   "autor": "Dep. Elika Takimoto (Presidente)",
+   "ementa": "Reunião da Comissão de Ciência e Tecnologia em 25/11/2026, às 10h, por meios digitais, com 23 pareceres. Elika Takimoto relata os itens 1 a 9 e Dani Balbi os itens 10 a 23; não há audiência a deliberar.",
+   "situacao": "Convocada em 23/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Dani Balbi é vice-presidenta convocada e relata 14 projetos da pauta. Preparar os pareceres e a presença na reunião; o edital traz um cabeçalho solto 'Relator: Vitor Junior', que não parece ser marca de relatoria.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 1989/2023",
+   "autor": "Dep. Filipe Soares (relatora: Dep. Elika Takimoto)",
+   "ementa": "Estabelece nos sítios eletrônicos do Estado o protocolo 'Acesso para Todos'.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 1.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Tema de acessibilidade e inclusão digital em sites públicos.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 5751/2022",
+   "autor": "Dep. Eliomar Coelho (relatora: Dep. Elika Takimoto)",
+   "ementa": "Isenta o pagamento de inscrição em processos seletivos de universidades estaduais nos casos que menciona.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 8.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Acesso às universidades estaduais, como a UERJ.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 1259/2023",
+   "autor": "Dep. Carlos Minc (relatora: Dep. Elika Takimoto)",
+   "ementa": "Cria programa de incentivo à educação tecnológica e digital para a inclusão social.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 9.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Inclusão digital e educação tecnológica.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 6524/2025",
+   "autor": "Dep. Elika Takimoto (relatora: Dep. Dani Balbi)",
+   "ementa": "Institui política de incentivo à pesquisa científica e ao desenvolvimento de tecnologias de detecção de metanol em bebidas alcoólicas.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 12.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Dani Balbi é a relatora; o projeto trata de pesquisa científica e tecnologia aplicada.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 2756/2023",
+   "autor": "Dep. Professor Josemar (relatora: Dep. Dani Balbi)",
+   "ementa": "Altera a Lei 6.914/2014 para dispor sobre a reserva de vagas nos cursos de pós-graduação.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 13.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria de Dani Balbi; tema de pós-graduação e acesso à pesquisa.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "Emendas de Plenário ao PL 1650/2019",
+   "autor": "Dep. Danniel Librelon (relatora: Dep. Dani Balbi)",
+   "ementa": "Emendas de Plenário ao projeto que obriga os órgãos públicos estaduais a manterem seus sítios eletrônicos atualizados.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 14.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria de Dani Balbi; tema de internet e transparência digital.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 4812/2025",
+   "autor": "Dep. Carlos Minc (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria programa de incentivo e fomento a projetos ambientais pelas universidades públicas estaduais e pela UFF.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 16.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria de Dani Balbi; envolve universidades públicas e pesquisa.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Pauta da CCT (25/11)",
+   "ref": "PL 3289/2024",
+   "autor": "Dep. Vinicius Cozzolino (relatora: Dep. Dani Balbi)",
+   "ementa": "Dispõe sobre medidas de segurança para compras e vendas online realizadas por particulares.",
+   "situacao": "Pauta da CCT, 25/11/2026, item 22.",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Relatoria de Dani Balbi; tema de internet e segurança digital.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Outras relatorias de Dani Balbi (CCT, 25/11)",
+   "ref": "PLs 2839/2020, 3770/2024, 842/2025, 1227/2023, 3114/2024, 4090/2024, 1009/2023, 2940/2024 e 3305/2020",
+   "autor": "Dep. Dani Balbi (relatora)",
+   "ementa": "2839/2020 (Danniel Librelon): doença de Crohn. 3770/2024 (Elika Takimoto): altera a Lei 1.729/1990. 842/2025 (Marcelo Dino): combate ao cyberbullying nas escolas. 1227/2023 (Elika): Lei de Responsabilidade Educacional. 3114/2024 (Carlos Minc): substituição do isopor. 4090/2024 (Minc): logística reversa de baterias e placas fotovoltaicas. 1009/2023 (Elika): economia da cooperação. 2940/2024 (Andrezinho Ceciliano): passeio escolar. 3305/2020 (Jair Bittencourt): energia fotovoltaica.",
+   "situacao": "Pauta da CCT, 25/11/2026.",
+   "gabinete": true,
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de reunião",
+   "ref": "CDH - 3ª Reunião Extraordinária",
+   "autor": "Dep. Alexandre Knoploch (Presidente); relator de todos os itens",
+   "ementa": "Reunião em 26/11/2026, às 14h, por meios remotos, com 13 pareceres a votar. A pauta inclui o PL 5606/2025 (sepultamento digno de nascituros e natimortos) e o PL 2741/2023 (mesas reservadas a gestantes, idosos e pessoas com deficiência).",
+   "situacao": "Convocada em 23/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Marcado na dúvida, por tratar de maternidade e luto gestacional (PL 5606/2025) e de gestantes (PL 2741/2023). Nenhum projeto da deputada na pauta.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Edital de audiência pública",
+   "ref": "Comissão de Representação para Acompanhar o Cumprimento das Leis - 39ª Audiência Pública",
+   "autor": "Dep. Carlos Minc (Presidente)",
+   "ementa": "Audiência pública em 27/11/2026, às 13h30, no auditório 1801 do Edifício Lúcio Costa, sobre o apoio à cadeia integrada da música e dos pequenos palcos.",
+   "situacao": "Convocada em 23/11/2026.",
+   "gabinete": true,
+   "nota": "Dani Balbi consta como suplente convocada. O tema não é da pauta do gabinete.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul - 'O que tem de Lilás no Azul?'",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Evento presencial em 26/11/2026, das 13h às 17h, sobre saúde do homem. Inclui mesa que liga a campanha ao combate à violência contra a mulher; 100 vagas e inscrições anunciadas até 16/11/2026.",
+   "situacao": "Edital de 11/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A segunda mesa trata da responsabilidade masculina no enfrentamento à violência contra a mulher, com ativista da Lei Maria da Penha.",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
   {
    "grupo": "Pareceres de comissão",
    "tipo": "Parecer favorável",

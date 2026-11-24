@@ -1,6 +1,53 @@
 {
- "atualizado": "2026-11-23T11:31:02+00:00",
+ "atualizado": "2026-11-24T13:38:39+00:00",
  "atos": [
+  {
+   "acao": "nomeacao",
+   "nome": "LEONARDO GANCZ ARANTES",
+   "cargo": "Assessor Parlamentar VIII",
+   "simbolo": "CCDAL-8",
+   "lotacao": "Gabinete do Deputado Rosenverg Reis",
+   "deputado": "Rosenverg Reis",
+   "vaga_de": "Mateus Santos de Castro Viana",
+   "ato": "Ato E/MD 4514/2026",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "GEOVANE FELIPE FERNANDES VALENTE",
+   "cargo": "Assessor Parlamentar IX",
+   "simbolo": "CCDAL-9",
+   "lotacao": "Gabinete do Deputado Fred Pacheco",
+   "deputado": "Fred Pacheco",
+   "vaga_de": "André Luiz de Souza",
+   "ato": "Ato E/MD 4512/2026",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "acao": "nomeacao",
+   "nome": "ADILSON DE FARIA MACIEL",
+   "cargo": "Assessor Parlamentar V",
+   "simbolo": "CCDAL-5",
+   "lotacao": "Gabinete do Deputado Alan Lopes",
+   "deputado": "Alan Lopes",
+   "vaga_de": "Ricardo Torquato Cavalcanti de Mello",
+   "ato": "Ato E/MD 4513/2026",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
+  {
+   "acao": "designacao",
+   "nome": "DANILTON BERNARDO DA SILVA BORGES",
+   "cargo": "Auxiliar I (função gratificada)",
+   "simbolo": "CAI-16",
+   "lotacao": "Subdiretoria-Geral da Escola do Legislativo",
+   "vaga_de": "Maria Alice Oliveira Tavares (aposentadoria)",
+   "ato": "Ato E/GS 295/2026",
+   "edicaoId": "2026-11-24",
+   "data": "2026-11-24"
+  },
   {
    "acao": "nomeacao",
    "nome": "AGRÍCIA DE SOUZA SANTANA",
