@@ -1,6 +1,245 @@
 {
- "atualizado": "2026-11-24T22:48:49+00:00",
+ "atualizado": "2026-11-25T12:57:43+00:00",
  "itens": [
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião",
+   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social – 1ª Reunião Ordinária",
+   "autor": "Dep. Dani Balbi (presidenta)",
+   "ementa": "Reunião de 11/11/2026, por meios digitais, às 11h30. Foram aprovados 14 pareceres, 13 relatados por Dani Balbi e 2 por Valdecy da Saúde e Professor Josemar (3162/2024 e 4428/2024; o 5631/2025, de Dani, teve relator Prof. Josemar), e também a deliberação de audiência pública sobre a ECT.",
+   "situacao": "Pareceres aprovados; ata publicada",
+   "gabinete": true,
+   "nota": "O gabinete preside a comissão e relatou a maioria dos projetos da pauta; confira os pareceres e as emendas aprovadas para o acompanhamento nas próximas comissões.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Audiência pública aprovada",
+   "ref": "Comissão de Trabalho, Legislação Social e Seguridade Social",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Aprovada por unanimidade a realização de audiência pública sobre 'Crise e reestruturação da ECT: trabalhadores em luta contra a precarização das condições de trabalho e a perda de direitos, em prol da saúde, da dignidade e da qualidade do serviço postal público'. A ata não informa data, hora ou local.",
+   "situacao": "Aprovada em 11/11/2026; data a definir",
+   "audiencia_publica": true,
+   "gabinete": true,
+   "nota": "Ainda é preciso marcar data e local e convocar os sindicatos dos Correios e a sociedade civil.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 5631/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Professor Josemar)",
+   "ementa": "Projeto de autoria de Dani Balbi, aprovado na Comissão de Trabalho com parecer favorável e as emendas da CCJ. O assunto do projeto não consta na ata.",
+   "situacao": "Aprovado na Comissão de Trabalho em 11/11/2026",
+   "gabinete": true,
+   "nota": "Projeto do mandato com parecer favorável; acompanhar a tramitação nas demais comissões.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Outras relatorias de Dani Balbi",
+   "ref": "Comissão de Trabalho – pareceres de 11/11/2026",
+   "autor": "Dep. Dani Balbi (relatora)",
+   "ementa": "Todos favoráveis e aprovados: PL 2725/2023 (Renato Miranda, com emenda); 5425/2022 (Mônica Francisco, Dani Monteiro, Eliomar Coelho, Flávio Serafini e Renata Souza); 7010/2026 (Renata Souza); 4824/2025 (Marina do MST, com emendas da CCJ); 1475/2023 (Renata Souza); 6026/2025 (Jorge Felippe Neto, com emendas da CCJ); 5063/2025 (Lilian Behring); 4550/2024 (Prof. Josemar, com emendas da CCJ); 5331/2025 (Lilian Behring); 5228/2025 (Sarah Poncio, com emenda); 7082/2026 (Lilian Behring, com emenda). A ata não traz o assunto de cada projeto.",
+   "situacao": "Aprovados na comissão",
+   "gabinete": true,
+   "nota": "Relatorias do gabinete; os projetos seguem para as comissões seguintes.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei complementar em urgência",
+   "ref": "PLC 66/2026 (Mensagem 25/2026)",
+   "autor": "Poder Executivo",
+   "ementa": "Institui programa de regularização de ICMS com redução de juros e multas (Convênio 111/2026) e remissão parcial de ICMS para petróleo e gás (Convênio 114/2026). Em discussão única, o projeto recebeu 81 emendas e voltou às comissões. Dani Balbi seguiu o parecer da CCJ na Comissão de Economia.",
+   "situacao": "Recebeu 81 emendas e retorna às comissões",
+   "gabinete": true,
+   "nota": "O gabinete emitiu parecer pela Comissão de Economia, Indústria e Comércio e seguiu a CCJ. A matéria volta às comissões com 81 emendas, então vale decidir a posição para a nova votação.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação final aprovada",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão e Dep. Sarah Poncio",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa 'Me Ajude', para auxílio de mulheres em situação de risco. Aprovada a redação final; vai a Autógrafo.",
+   "situacao": "Aprovada; vai a Autógrafo",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Programa de proteção a mulheres em risco, tema do mandato. Carlos Minc declarou voto favorável e lembrou que as leis sozinhas não bastam diante do aumento do feminicídio.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Indicações e requerimentos",
+   "tipo": "Requerimento de urgência",
+   "ref": "PL 7939/2026",
+   "autor": "Dep. Munir Neto",
+   "ementa": "Requer urgência e inclusão na ordem do dia do PL 7939/2026, que altera a Lei 8.049/2018. Deferido automaticamente pelo art. 127, § 4º do Regimento. O requerimento traz a assinatura de Dani Balbi e de Lilian Behring.",
+   "situacao": "Deferido",
+   "gabinete": true,
+   "nota": "Dani assina o requerimento, e o texto do PL 7939/2026 não foi publicado hoje; vale conferir o conteúdo antes da votação.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei com urgência",
+   "ref": "PL 8535/2026",
+   "autor": "Dep. Douglas Ruas",
+   "ementa": "Destina R$ 250 milhões das economias dos duodécimos da ALERJ aos 92 municípios para ações e serviços de saúde, pelo Fundo Estadual de Saúde, com piso de R$ 1 milhão e teto de R$ 20 milhões por município. O requerimento de urgência foi deferido e traz a assinatura de Dani Balbi.",
+   "situacao": "Urgência deferida; segue para CCJ, Saúde, Assuntos Municipais, Orçamento e Mesa",
+   "gabinete": true,
+   "nota": "Dani assinou o pedido de urgência. A justificativa do projeto traz a ressalva de que o estudo de rateio é uma simulação técnica, e vale acompanhar a instrução.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Proposta de emenda constitucional",
+   "ref": "PEC 35/2026",
+   "autor": "Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle",
+   "ementa": "Estende os mecanismos de desvinculação de recursos e de transferência de superávits ao Tesouro até o fim da participação do estado no PROPAG. O novo § 2º do art. 332 da Constituição dispensa o estado de compensar os percentuais não repassados à FAPERJ em 2015-2020.",
+   "situacao": "Impressa; segue para a Comissão de Emendas Constitucionais e Vetos (admissibilidade)",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Extingue o passivo com a FAPERJ de 2015-2020, ponto sensível para ciência e pesquisa. Acompanhar a admissibilidade e a posição da comunidade científica.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8541/2026",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "Altera a Lei 11.199/2026 (inclusão da mulher no mercado de trabalho) para ligar os cursos de qualificação profissional às oportunidades de emprego, usando a intermediação de mão de obra já existente, sem criar estrutura ou cadastro novo.",
+   "situacao": "Segue para CCJ, Direitos da Mulher, Trabalho, Economia e Orçamento",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Reforça a política estadual de inclusão da mulher no trabalho e passa pela Comissão de Trabalho, que o gabinete preside. Dani pode pedir a relatoria.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8544/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Institui a Campanha Estadual de Incentivo ao Descanso Materno e de Enfrentamento à Sobrecarga do Trabalho de Cuidado, sobre a divisão desigual do cuidado e seus efeitos na saúde das mulheres e mães.",
+   "situacao": "Segue para CCJ, Direitos da Mulher, Saúde e Orçamento",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata de maternidade, cuidado e igualdade de gênero. Há espaço para coautoria ou apoio.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8546/2026",
+   "autor": "Dep. Márcio Gualberto",
+   "ementa": "Garante às mulheres vítimas de violência sexual a assistência religiosa nos estabelecimentos de saúde e unidades de acolhimento da rede pública estadual. Permite também o acolhimento em casas mantidas por organizações religiosas.",
+   "situacao": "Segue para CCJ, Direitos da Mulher, Combate às Discriminações e Saúde",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Envolve vítimas de violência sexual e a rede de atendimento. Vale analisar com cuidado o acolhimento por entidades religiosas e a garantia do consentimento e do atendimento da Lei 12.845.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8542/2026",
+   "autor": "Dep. Tia Ju",
+   "ementa": "Institui a política 'A Voz da Infância' para a escuta especializada de crianças e adolescentes vítimas ou testemunhas de violência, com capacitação de servidores municipais e plataforma tecnológica de registro sigiloso.",
+   "situacao": "Segue para CCJ, Criança e Adolescente, Direitos Humanos, Educação, Saúde e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "A plataforma digital compartilha dados sensíveis de crianças e menciona a LGPD, o que toca o tema de dados pessoais. Vale conferir as garantias de sigilo e segurança.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8539/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Prevê a Carteira CIPTEA com dispositivo de geolocalização (GPS), facultativo e com autorização do titular ou responsável. Permite compartilhar a localização com familiares cadastrados, observada a proteção de dados.",
+   "situacao": "Segue para CCJ, Pessoa com Deficiência e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Usa tecnologia de localização e dados pessoais de pessoas autistas, com risco de privacidade. Conferir a regulamentação do acesso às informações.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei",
+   "ref": "PL 8548/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Cria programa de capacitação em mecânica automotiva da FAETEC, ligada à SECTI, em cooperação com os órgãos de segurança, para a manutenção das viaturas. Inclui cursos sobre eletrônica veicular e veículos híbridos e elétricos.",
+   "situacao": "Segue para CCJ, Segurança, Defesa Civil, Ciência e Tecnologia, Trabalho e Orçamento",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Passa pela Comissão de Ciência e Tecnologia e envolve educação técnica da FAETEC e tecnologias veiculares; o enquadramento em ct é mais fraco.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de resolução (honraria)",
+   "ref": "PR 2864/2026",
+   "autor": "Dep. Tia Ju",
+   "ementa": "Concede o Prêmio Dorinha de Mello Pacheco a Fernanda Anchieta Louback Michelini, mãe atípica e defensora das famílias atípicas, vice-governadora eleita.",
+   "situacao": "Segue para a Comissão de Normas Internas e Proposições Externas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A homenageada é mãe atípica, e a justificativa destaca a atuação em favor das famílias atípicas. A justificativa a identifica como conservadora e católica.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de resolução (honraria)",
+   "ref": "PR 2865/2026",
+   "autor": "Dep. Renata Souza",
+   "ementa": "Concede o Prêmio Marielle Franco a Ana Elisa Santos Silva, deputada federal eleita pelo PT por Minas Gerais, pela atuação em representatividade, direitos humanos e combate ao racismo e às desigualdades de gênero.",
+   "situacao": "Segue para a Comissão de Normas Internas e Proposições Externas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Homenagem a jovem mulher eleita, ligada à representação feminina na política.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Escola do Legislativo",
+   "tipo": "Edital de evento",
+   "ref": "Novembro Azul – 'O que tem de Lilás no Azul?'",
+   "autor": "Escola do Legislativo (ELERJ)",
+   "ementa": "Evento presencial em 26/11/2026, das 13h às 17h, no auditório da ELERJ (Rua da Ajuda, 5, 2º andar), com 100 vagas. Une saúde do homem e o papel dos homens no enfrentamento da violência contra a mulher, com mesas, com ativista da Lei Maria da Penha e a Sociedade Brasileira de Urologia (RJ). O prazo de inscrição indicado no edital foi 16/11.",
+   "situacao": "Edital publicado",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Atividade de enfrentamento à violência contra a mulher com foco na responsabilidade masculina. Inscrições encerradas em 16/11; a equipe pode consultar a ELERJ sobre vagas.",
+   "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
   {
    "grupo": "Indicações e requerimentos",
    "tipo": "Requerimento",
