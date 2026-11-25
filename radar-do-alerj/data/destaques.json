@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T12:57:43+00:00",
+ "atualizado": "2026-11-25T23:10:07+00:00",
  "itens": [
   {
    "grupo": "Reuniões e audiências",
@@ -238,6 +238,18 @@
    ],
    "nota": "Atividade de enfrentamento à violência contra a mulher com foco na responsabilidade masculina. Inscrições encerradas em 16/11; a equipe pode consultar a ELERJ sobre vagas.",
    "edicaoId": "2026-11-25",
+   "data": "2026-11-25"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia - discussão única (urgência)",
+   "ref": "PLC 66/2026",
+   "autor": "Poder Executivo (Mensagem nº 25/2026)",
+   "ementa": "Institui programa especial de regularização de créditos tributários de ICMS, com redução de juros e multas (Convênio ICMS 111/2026). Dispõe também sobre a remissão parcial de créditos de ICMS do setor de petróleo e gás natural (Convênio 114/2026).",
+   "situacao": "Em votação na sessão de 26/11, em regime de urgência. Pareceres favoráveis da CCJ (com emenda), de Legislação Constitucional Complementar e Códigos, de Economia, de Tributação e de Orçamento. Os pareceres às emendas de plenário ainda estão pendentes. Relatores: Luiz Paulo, Marcelo Dino, Dani Balbi, Luiz Paulo e Carlos Macedo.",
+   "gabinete": true,
+   "nota": "A deputada Dani Balbi relatou o projeto na Comissão de Economia, Indústria e Comércio, com parecer favorável com a emenda da CCJ. Vale acompanhar a votação em plenário e as emendas de plenário pendentes.",
+   "edicaoId": "2026-11-25-extra",
    "data": "2026-11-25"
   },
   {

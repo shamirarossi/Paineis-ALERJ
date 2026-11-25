@@ -1,8 +1,8 @@
 {
- "atualizado": "2026-11-25T12:57:43+00:00",
+ "atualizado": "2026-11-25T23:10:07+00:00",
  "status": {
   "ok": true,
-  "ultimaExecucao": "2026-11-25T12:56:08+00:00",
+  "ultimaExecucao": "2026-11-25T23:09:46+00:00",
   "edicaoLida": "2026-11-25",
   "mensagem": null
  },
@@ -20,6 +20,20 @@
     "ct": 4
    },
    "relatorio": "relatorios/2026-11-25.pdf"
+  },
+  {
+   "id": "2026-11-25-extra",
+   "data": "2026-11-25",
+   "edicao": "Ano LII · Nº 215-A",
+   "extra": true,
+   "contagem": {
+    "total": 7,
+    "gabinete": 1,
+    "lgbt": 0,
+    "mulheres": 0,
+    "ct": 0
+   },
+   "relatorio": "relatorios/2026-11-25-extra.pdf"
   },
   {
    "id": "2026-11-24",

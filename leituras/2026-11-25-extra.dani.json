@@ -1,0 +1,79 @@
+{
+ "data": "2026-11-25",
+ "extra": true,
+ "link": "https://www.ioerj.com.br/portal/modules/conteudoonline/do_seleciona_edicao.php?data=MjAyNjExMjU%3D",
+ "lidoEm": "2026-11-25T23:09:46+00:00",
+ "gabinetes": [
+  "dani"
+ ],
+ "edicao": "Ano LII · Nº 215-A",
+ "resumos": {
+  "dani": "Edição extra, republicada por incorreções, com a ordem do dia da sessão ordinária de 26/11, às 10h30. O destaque para o gabinete é o PLC 66/2026, do Executivo, que cria programa de regularização de créditos de ICMS e prevê remissão parcial para o setor de petróleo e gás. A deputada Dani Balbi é relatora do projeto na Comissão de Economia, Indústria e Comércio, que deu parecer favorável com a emenda da CCJ. Não há atos de pessoal nem itens nos temas LGBT, mulheres ou ciência e tecnologia. O restante da pauta traz projetos de lei, resoluções honoríficas e a prorrogação da Comissão Especial das Favelas e Periferias."
+ },
+ "pessoal": "Nenhum ato de pessoal publicado nesta edição.",
+ "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia - discussão única (urgência)",
+   "ref": "PLC 66/2026",
+   "autor": "Poder Executivo (Mensagem nº 25/2026)",
+   "ementa": "Institui programa especial de regularização de créditos tributários de ICMS, com redução de juros e multas (Convênio ICMS 111/2026). Dispõe também sobre a remissão parcial de créditos de ICMS do setor de petróleo e gás natural (Convênio 114/2026).",
+   "situacao": "Em votação na sessão de 26/11, em regime de urgência. Pareceres favoráveis da CCJ (com emenda), de Legislação Constitucional Complementar e Códigos, de Economia, de Tributação e de Orçamento. Os pareceres às emendas de plenário ainda estão pendentes. Relatores: Luiz Paulo, Marcelo Dino, Dani Balbi, Luiz Paulo e Carlos Macedo.",
+   "gabinetes": [
+    "dani"
+   ],
+   "notas": {
+    "dani": "A deputada Dani Balbi relatou o projeto na Comissão de Economia, Indústria e Comércio, com parecer favorável com a emenda da CCJ. Vale acompanhar a votação em plenário e as emendas de plenário pendentes."
+   }
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Redação do vencido - 2ª discussão",
+   "ref": "PL 7518-A/2026",
+   "autor": "Dep. Lilian Behring",
+   "ementa": "Inclui no calendário oficial do estado o \"Dia Estadual de Capacitação em Diagnóstico e Tratamento das Violências contra Crianças e Adolescentes\", alterando a Lei 5.645/2010.",
+   "situacao": "Em 2ª discussão, redação do vencido assim emendada, na sessão de 26/11."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia - 1ª discussão",
+   "ref": "PL 4193/2024",
+   "autor": "Deps. Fred Pacheco e Rodrigo Amorim",
+   "ementa": "Dispõe sobre a cinoterapia como modalidade de terapia assistida por cães.",
+   "situacao": "Em 1ª discussão. A CCJ deu parecer pela constitucionalidade, com emendas, concluindo por substitutivo. Defesa dos Animais, Saúde, Educação e Orçamento são favoráveis ao substitutivo da CCJ."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia - 1ª discussão",
+   "ref": "PL 4657/2025",
+   "autor": "Dep. Alexandre Knoploch",
+   "ementa": "Cria o Programa de Avanço do Ensino da Língua Inglesa no Estado do Rio de Janeiro.",
+   "situacao": "Em 1ª discussão. CCJ (juridicidade, com emendas), Educação, Trabalho e Orçamento são favoráveis, com as emendas da CCJ."
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Ordem do dia - 1ª discussão",
+   "ref": "PL 7546/2026",
+   "autor": "Dep. Samuel Malafaia",
+   "ementa": "Dispõe sobre a instalação de infraestrutura para recarga de veículos elétricos em condomínios edilícios e edificações. Estabelece normas de segurança contra incêndio.",
+   "situacao": "Em 1ª discussão, pendente de pareceres de CCJ, Política Urbana, Minas e Energia e Defesa Civil."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Resoluções honoríficas - discussão única",
+   "ref": "PR 353/2023, 550/2023, 1379/2025, 2155/2025 e 2795/2026",
+   "autor": "Deps. Alan Lopes, Wellington José, Franciane Motta, Rodrigo Amorim e Renato Miranda",
+   "ementa": "Concedem a Medalha Tiradentes (a Alexandre Eggers Garcia e a Maria Teresa Alvaro Nunes), o Diploma Juíza Patricia Acioli (a Alfredo Hilário de Souza), o Prêmio Construtor da Paz (à Secretaria de Polícia Civil) e a Medalha Dom Pedro II (ao Grande Oriente do Rio de Janeiro - GORJ).",
+   "situacao": "Parecer favorável da Comissão de Normas Internas e Proposições Externas em todas, em discussão única."
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Requerimento de prorrogação",
+   "ref": "Requerimento 87/2026",
+   "autor": "Comissão Especial (Requerimento 70/2025)",
+   "ementa": "Solicita a prorrogação do prazo de funcionamento da Comissão Especial das Favelas e Periferias.",
+   "situacao": "Incluído na ordem do dia pelo § 1º do art. 47 do Regimento Interno; prazo registrado: 05/07/2026."
+  }
+ ],
+ "atos_pessoal": []
+}
