@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T12:59:15+00:00",
+ "atualizado": "2026-11-25T22:03:32+00:00",
  "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/",
  "pautas": [
   {
@@ -159,12 +159,12 @@
    ],
    "atualizadaSite": "19/11/2026 às 15h33",
    "contagem": {
-    "total": 9,
-    "executivo": 0,
+    "total": 11,
+    "executivo": 1,
     "pautas": 0,
-    "comissoes": 0,
+    "comissoes": 1,
     "premio": 0,
-    "gabinete": 0
+    "gabinete": 1
    }
   }
  ]

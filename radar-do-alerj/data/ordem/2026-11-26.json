@@ -4,23 +4,51 @@
   "Sessão Ordinária · 10h30"
  ],
  "atualizadaSite": "19/11/2026 às 15h33",
- "lidoEm": "2026-11-20T11:30:59+00:00",
- "hash": "0070059f2c938b6b",
+ "lidoEm": "2026-11-25T22:02:08+00:00",
+ "hash": "58e35cf083040af2",
  "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/pauta/?op=D&data=2026;11;26",
  "itens": [
   {
    "ordem": "1º",
    "sessao": "Sessão Ordinária · 10h30",
+   "tipo": "Projeto de Lei Complementar",
+   "ref": "PLC 66/2026",
+   "autor": "Poder Executivo (Mensagem 25/2026)",
+   "ementa": "Institui programa especial de regularização de créditos tributários de ICMS com redução de juros e multas, conforme o Convênio ICMS 111/2026, e prevê remissão parcial de créditos de ICMS do setor de petróleo e gás natural, conforme o Convênio 114/2026.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "CCJ: constitucionalidade, com emenda; Legislação Constitucional Complementar e Códigos: favorável, com a emenda da CCJ; Economia: favorável, com a emenda da CCJ; Tributação: favorável; Orçamento: favorável",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Legislação Constitucional Complementar e Códigos",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "gabinete": true,
+   "nota": "Projeto do Poder Executivo em urgência, no qual Dani Balbi é relatora do parecer da Comissão de Economia. Ainda faltam os pareceres às emendas de plenário, inclusive o da Economia; preparar o parecer em plenário e definir a orientação de voto da bancada.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNGNjMjUzMmQxYWJjZTFkZjAzMjU4ZWFlMDA3NzIwYzk/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMjAwMDY2&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Lei",
    "ref": "PL 7518-A/2026",
    "autor": "Deputada Lilian Behring",
-   "ementa": "Altera a Lei nº 5.645/2010 para incluir no calendário oficial do Estado o Dia Estadual de Capacitação em Diagnóstico e Tratamento das Violências contra Crianças e Adolescentes.",
+   "ementa": "Inclui no calendário oficial do Estado o Dia Estadual de Capacitação em Diagnóstico e Tratamento das Violências contra Crianças e Adolescentes, alterando a Lei 5.645/2010.",
    "fase": "2ª discussão · redação do vencido, assim emendada · tramitação ordinária",
    "categorias": [],
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNDlkMzI2MTMyMGM4YjY0MjAzMjU4ZWI0MDA1ZTEyMzA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA3NTE4&"
   },
   {
-   "ordem": "2º",
+   "ordem": "3º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Lei",
    "ref": "PL 4193/2024",
@@ -32,7 +60,7 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTY5MjcwZjJkM2ExZmNkNDAzMjU4YmEzMDA2MzZkZmU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzA0MTkz&"
   },
   {
-   "ordem": "3º",
+   "ordem": "4º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Lei",
    "ref": "PL 4657/2025",
@@ -44,7 +72,7 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNTA5MTcyNGE2MmU4ZDhlYjAzMjU4YzI3MDA1YWYxZDA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwMzA0NjU3&"
   },
   {
-   "ordem": "4º",
+   "ordem": "5º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Resolução",
    "ref": "PR 353/2023",
@@ -57,12 +85,12 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvM2QxOWY0YTViZGVlM2ZlODAzMjU4YTQ0MDA0M2IyNTU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwNTAwMzUz&"
   },
   {
-   "ordem": "5º",
+   "ordem": "6º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Resolução",
    "ref": "PR 550/2023",
    "autor": "Deputado Wellington José",
-   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma à Doutora Maria Teresa Alvaro Nunes, chefe de gabinete da Vice-Governadoria.",
+   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma à doutora Maria Teresa Alvaro Nunes, chefe de gabinete da Vice-Governadoria do Estado.",
    "fase": "discussão única · tramitação ordinária",
    "pareceres": "Normas Internas e Proposições Externas: favorável",
    "premio": true,
@@ -70,12 +98,12 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYzQwY2M4MWZmMzc0NzYyNDAzMjU4YTcwMDA1N2ZmZjk/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwNTAwNTUw&"
   },
   {
-   "ordem": "6º",
+   "ordem": "7º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Resolução",
    "ref": "PR 1379/2025",
    "autor": "Deputada Franciane Motta",
-   "ementa": "Concede o Diploma Juíza Patricia Acioli ao Desembargador do TRF Dr. Alfredo Hilário de Souza.",
+   "ementa": "Concede o Diploma Juíza Patricia Acioli ao desembargador do TRF Dr. Alfredo Hilário de Souza.",
    "fase": "discussão única · tramitação ordinária",
    "pareceres": "Normas Internas e Proposições Externas: favorável",
    "premio": true,
@@ -83,7 +111,7 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOGFlZjNmOTQ1ZGRmYzgwMjAzMjU4YzkxMDA1ZWZiMGM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwNTAxMzc5&"
   },
   {
-   "ordem": "7º",
+   "ordem": "8º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Resolução",
    "ref": "PR 2155/2025",
@@ -96,7 +124,7 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvN2M1MDJlYTIwODZlNzYxMDAzMjU4ZDVjMDA1NDgzNTI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjUwNTAyMTU1&"
   },
   {
-   "ordem": "8º",
+   "ordem": "9º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Resolução",
    "ref": "PR 2795/2026",
@@ -109,13 +137,24 @@
    "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNWE2ODNhYjU0M2UxZDkxMDAzMjU4ZTdiMDA1NDIzNDU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzk1&"
   },
   {
-   "ordem": "9º",
+   "ordem": "10º",
+   "sessao": "Sessão Ordinária · 10h30",
+   "tipo": "Requerimento",
+   "ref": "Requerimento 87/2026",
+   "autor": "Comissão Especial (Requerimento 70/2025)",
+   "ementa": "Solicita a prorrogação do prazo de funcionamento da Comissão Especial das Favelas e Periferias.",
+   "fase": "discussão única · incluído na Ordem do Dia nos termos do § 1º do art. 47 do Regimento Interno · prazo 05/07/2026",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZDdmMzIxODRkZDA2YmVhYjAzMjU4ZWI4MDA2NGQyMTg/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYxMDAwMDg3&"
+  },
+  {
+   "ordem": "11º",
    "sessao": "Sessão Ordinária · 10h30",
    "tipo": "Projeto de Lei",
    "ref": "PL 7546/2026",
    "autor": "Deputado Samuel Malafaia",
-   "ementa": "Dispõe sobre a instalação de infraestrutura para recarga de veículos elétricos em condomínios edilícios e edificações, estabelecendo normas de segurança contra incêndio.",
-   "fase": "1ª discussão · tramitação ordinária · incluído na Ordem do Dia conforme § 1º do art. 47 do Regimento Interno",
+   "ementa": "Dispõe sobre a instalação de infraestrutura para recarga de veículos elétricos em condomínios edilícios e edificações no Estado e estabelece normas de segurança contra incêndio.",
+   "fase": "1ª discussão · tramitação ordinária",
    "pendente_de": [
     "Constituição e Justiça",
     "Política Urbana, Habitação e Assuntos Fundiários",
