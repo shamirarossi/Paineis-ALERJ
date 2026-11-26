@@ -1,6 +1,26 @@
 {
- "atualizado": "2026-11-25T23:10:07+00:00",
+ "atualizado": "2026-11-26T11:05:37+00:00",
  "atos": [
+  {
+   "acao": "designacao",
+   "nome": "FERNANDA DANTAS CARRANO",
+   "cargo": "Assistente VII",
+   "simbolo": "CCDAL-7",
+   "lotacao": "Subdiretoria Geral da Escola do Legislativo",
+   "ato": "Portaria \"E\"/GS/Nº 17/2026",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "acao": "dispensa",
+   "nome": "AUGUSTO CESAR GAMA DE SOUZA",
+   "cargo": "Auxiliar I",
+   "simbolo": "CAI-16",
+   "lotacao": "Subdiretoria Geral da Escola do Legislativo",
+   "ato": "Portaria \"E\"/GS/Nº 17/2026",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
   {
    "acao": "nomeacao",
    "nome": "LEONARDO GANCZ ARANTES",

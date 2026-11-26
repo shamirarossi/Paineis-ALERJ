@@ -1,6 +1,226 @@
 {
- "atualizado": "2026-11-25T23:10:07+00:00",
+ "atualizado": "2026-11-26T11:05:37+00:00",
  "itens": [
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade",
+   "ref": "PL 4765/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Veda por cinco anos a publicidade institucional em veículos condenados por fake news ou por crimes de discriminação e preconceito. A CCJ apontou ofensa à liberdade de imprensa, à proporcionalidade e à competência da União sobre licitações.",
+   "situacao": "Parecer aprovado na 24ª Reunião Ordinária da CCJ, em 25/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada, com vícios que a CCJ considera do núcleo da proposta. Avaliar se vale reapresentar uma versão reformulada ou recorrer.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade",
+   "ref": "PL 5035/2025",
+   "autor": "Dep. Dani Balbi (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Fixa a taxa de entrega por aplicativo em 10% do valor dos produtos (mínimo de R$ 10), com repasse integral ao entregador, e limita a 3 km as entregas de bicicleta. A CCJ viu invasão da competência da União sobre direito civil e comercial e afronta à livre iniciativa.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "gabinete": true,
+   "nota": "Projeto de autoria da deputada barrado na CCJ. Avaliar eventual versão ajustada, voltada a entregadores, que respeite a competência federal.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Atos da Mesa",
+   "tipo": "Despacho da Mesa Diretora",
+   "ref": "Processo 18034/2026",
+   "autor": "Mesa Diretora",
+   "ementa": "Autoriza republicar os dados de vinculação da placa de representação RJ 093 (Presidente de Comissão da ALERJ) ao veículo locado pela Dep. Dani Balbi. O Jeep Commander placa RQV-5B27 substitui o anterior, e o aditivo de locação fixa o valor mensal em R$ 16.000, a partir de 05/10/2026.",
+   "situacao": "Despacho de 25/11/2026.",
+   "gabinete": true,
+   "nota": "Confirmar que a placa e o veículo constantes da publicação estão corretos. O texto traz grafias divergentes da placa (RQV-5B27 e RQV-5887) e do valor (R$ 16.000 e R$R16.000).",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela prejudicabilidade",
+   "ref": "PL 3819/2021",
+   "autor": "Dep. Martha Rocha (relator: Dep. Marcelo Dino)",
+   "ementa": "Obrigava o autor de violência doméstica a custear o tratamento médico e psicológico da vítima. A CCJ entendeu que o tema já é coberto pela Lei Maria da Penha (art. 9º, § 4º) e pelas Leis estaduais 7.538/2017 e 11.123/2026.",
+   "situacao": "Aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A proposta de responsabilização do agressor, tema do mandato, fica prejudicada pela legislação existente. Vale acompanhar a aplicação da Lei 11.123/2026.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade e transformação em indicação",
+   "ref": "PL 7227/2026",
+   "autor": "Dep. Rosenverg Reis (relatora: Dep. Sarah Poncio)",
+   "ementa": "Reservava 5% das vagas de concursos estaduais para filhos de vítimas de feminicídio. A CCJ apontou vício de iniciativa (iniciativa privativa do Governador) e propôs transformá-lo em indicação simples.",
+   "situacao": "Aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A política afirmativa para órfãos do feminicídio perde força como projeto de lei e passa a ser mera sugestão ao Executivo. O gabinete pode apoiar a indicação ou buscar o Governo para que envie proposta própria.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela constitucionalidade com substitutivo",
+   "ref": "PL 5926/2025",
+   "autor": "Dep. Bruno Alves Boaretto (relator: Dep. Fred Pacheco)",
+   "ementa": "Orientação sobre noções básicas de enfermagem a cuidadores não remunerados de crianças com deficiência, doença rara ou transtorno do neurodesenvolvimento. O substitutivo dá atenção especial às mulheres cuidadoras e altera a Lei 10.958/2025.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026; segue para as demais comissões (Mulher, Saúde e Orçamento).",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Toca em mães atípicas e cuidadoras. Acompanhar na Comissão de Defesa dos Direitos da Mulher e verificar se o gabinete quer propor ajustes.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela constitucionalidade com substitutivo",
+   "ref": "PL 7311/2026",
+   "autor": "Dep. Felipinho Ravis (relator: Dep. Alexandre Knoploch)",
+   "ementa": "Altera a Lei 7.904/2018 (Programa de Reprodução Humana Assistida) para vedar discriminação por orientação sexual, identidade de gênero, estado civil ou configuração familiar. Inclui casais homoafetivos e famílias monoparentais e fixa renda familiar de até 5 salários mínimos.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "nota": "Amplia o acesso à reprodução assistida para casais LGBT e mulheres solteiras, uma pauta do mandato. Acompanhar nas demais comissões e considerar apoio público.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela constitucionalidade",
+   "ref": "PL 7782/2026",
+   "autor": "Dep. Índia Armelau (relator: Dep. Rodrigo Amorim)",
+   "ementa": "Altera a Lei 7.041/2015 para prever responsabilização administrativa de quem faça imputação dolosamente falsa de conduta discriminatória por sexo ou orientação sexual.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "lgbt",
+    "mulheres"
+   ],
+   "nota": "Mexe na lei de combate à discriminação por orientação sexual e pode inibir denúncias de LGBTfobia e de violência de gênero. Analisar o texto completo e preparar posicionamento.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela inconstitucionalidade e transformação em indicação",
+   "ref": "PL 550/2023",
+   "autor": "Dep. Rodrigo Amorim (relatora: Dep. Sarah Poncio)",
+   "ementa": "Autorizava o uso de reconhecimento facial automatizado pelas forças de segurança. A CCJ viu norma meramente autorizativa e sugeriu transformá-la em indicação, ressalvando privacidade e proteção de dados.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Tecnologia de vigilância e dados pessoais (LGPD), tema de ciência e tecnologia. Acompanhar se a indicação segue com salvaguardas de privacidade.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela juridicidade com emenda",
+   "ref": "PL 7814/2026",
+   "autor": "Dep. Índia Armelau (relatora: Dep. Elika Takimoto)",
+   "ementa": "Altera a Lei 9.742/2022 para aperfeiçoar a acessibilidade comunicacional, o consentimento informado e a inclusão digital da pessoa surda nos serviços privados de saúde. Emenda suprime o art. 6º.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve inclusão digital e acessibilidade na saúde. Pode interessar ao mandato como pauta de acessibilidade.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer pela legalidade",
+   "ref": "PL 7433/2026",
+   "autor": "Dep. Marcio Gualberto (relator: Dep. Fred Pacheco)",
+   "ementa": "Inclui no calendário oficial o Dia Estadual do Método de Ovulação Billings, em 1º de abril. A CCJ afirmou que o projeto não impõe preferência pelo método.",
+   "situacao": "Parecer aprovado na CCJ em 25/11/2026.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Data ligada a método natural de planejamento familiar. Acompanhar para que a campanha não substitua a informação científica sobre contracepção e saúde da mulher.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto novo",
+   "ref": "PL 8557/2026",
+   "autor": "Dep. Rosenverg Reis",
+   "ementa": "Institui o Programa Estadual de Proteção Imediata à Mulher Vítima de Violência Doméstica, com canal digital direto com a polícia e kit de proteção individual para quem tem medida protetiva.",
+   "situacao": "Despachado para CCJ, Defesa dos Direitos da Mulher, Segurança Pública e Orçamento.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Pauta central de violência doméstica. Acompanhar na Comissão da Mulher e verificar eventual sobreposição com programas já existentes e questões de proteção de dados.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto aprovado em 2ª discussão",
+   "ref": "PL 1728-A/2023",
+   "autor": "Dep. Yuri Moura, Tia Ju e Lilian Behring",
+   "ementa": "Institui o programa Pré-Natal Masculino no estado. Plenário aprovou a redação do vencido e as emendas, e a CCJ foi contrária às emendas de plenário.",
+   "situacao": "Aprovado em 25/11/2026; vai a autógrafo.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Aprovação em tema de saúde da mulher e paternidade responsável. Vale registrar o apoio e acompanhar a sanção ou veto.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto republicado",
+   "ref": "PL 7315/2026",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Institui o Programa Estadual de Proteção Silenciosa \"Me Ajude\", destinado ao auxílio de mulheres em situação de risco. Republicado por ter saído com incorreções.",
+   "situacao": "Republicado; despachado para CCJ, Mulher, Ciência e Tecnologia, Segurança e Orçamento.",
+   "temas": [
+    "mulheres",
+    "ct"
+   ],
+   "nota": "Programa de proteção a mulheres que passa também pela Comissão de Ciência e Tecnologia. Acompanhar a tramitação.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de resolução novo",
+   "ref": "PR 2872/2026",
+   "autor": "Dep. Verônica Lima",
+   "ementa": "Concede o Diploma Abdias do Nascimento à deputada federal eleita por MG Ana Elisa Santos Silva, por sua atuação em defesa da cultura afro-brasileira. O currículo destaca a jovem eleita pela Federação Brasil da Esperança (PT, PCdoB e PV).",
+   "situacao": "Despachado para a Comissão de Normas Internas e Proposições Externas.",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Homenagem a jovem mulher eleita pela federação do partido da deputada. Pode haver interesse em apoio ou coautoria.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Audiência pública",
+   "ref": "39ª Audiência Pública",
+   "autor": "Comissão de Representação para Acompanhar o Cumprimento das Leis da Alerj (Dep. Carlos Minc)",
+   "ementa": "27/11/2026 (sexta-feira), 13h30, auditório da ELERJ, 2º andar do Edifício Lúcio Costa. Tema: apoio à cadeia integrada da música e dos pequenos palcos.",
+   "situacao": "Convocada. Dani Balbi consta como membro suplente convocada.",
+   "audiencia_publica": true,
+   "gabinete": true,
+   "nota": "A deputada está convocada como suplente. Confirmar presença ou justificar ausência.",
+   "edicaoId": "2026-11-26",
+   "data": "2026-11-26"
+  },
   {
    "grupo": "Reuniões e audiências",
    "tipo": "Ata de reunião",
