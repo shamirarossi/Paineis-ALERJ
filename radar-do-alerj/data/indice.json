@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-26T11:05:37+00:00",
+ "atualizado": "2026-11-27T11:10:44+00:00",
  "status": {
-  "ok": true,
-  "ultimaExecucao": "2026-11-26T11:04:09+00:00",
+  "ok": false,
+  "ultimaExecucao": "2026-11-27T11:10:20+00:00",
   "edicaoLida": "2026-11-26",
-  "mensagem": null
+  "mensagem": "A leitura de 27/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'prompt is too long: 1651429 tokens > 1000000 maximum'}, 'request_id': 'req_011ChTL8h18SNR8P3jCm66Dt'}). Ela roda de novo no próximo agendamento."
  },
  "edicoes": [
   {
