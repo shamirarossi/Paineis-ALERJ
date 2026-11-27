@@ -1,0 +1,312 @@
+{
+ "data": "2026-12-02",
+ "sessoes": [
+  "Sessão Ordinária · 15h",
+  "Sessão Extraordinária · 18h35"
+ ],
+ "atualizadaSite": "27/11/2026 às 14h47",
+ "lidoEm": "2026-11-27T21:43:19+00:00",
+ "hash": "5e16b68fdcfc54b9",
+ "fonte": "https://www2.alerj.rj.gov.br/ordemdodia/pauta/?op=D&data=2026;12;2",
+ "itens": [
+  {
+   "ordem": "1º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4411/2024",
+   "autor": "Poder Executivo (Mensagem 19/2024)",
+   "ementa": "Altera a Lei nº 8.445, de 3 de julho de 2019, e dá outras providências (a pauta não detalha o conteúdo).",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "CCJ: constitucionalidade, com emendas, concluindo por substitutivo; Economia: favorável; Tributação: favorável, com o substitutivo da CCJ; Orçamento: favorável",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "executivo": true,
+   "nota": "Projeto do Executivo em urgência, com parecer da Comissão de Economia pendente sobre as emendas de plenário. Verificar o conteúdo do substitutivo da CCJ e orientar o voto da bancada.",
+   "categorias": [
+    "executivo",
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYjNhMzgyZDA0YmEwYWU0OTAzMjU4YmMxMDA2YjNiZDI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzA0NDEx&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8535/2026",
+   "autor": "Deputado Douglas Ruas",
+   "ementa": "Destina R$ 250 milhões de saldos financeiros dos duodécimos repassados à Alerj aos 92 municípios fluminenses, para ações e serviços públicos de saúde.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "nenhum parecer registrado",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Saúde",
+    "Assuntos Municipais e de Desenvolvimento Regional",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle",
+    "Mesa Diretora"
+   ],
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvM2FiMDhiNDVmMWY4NzJkYzAzMjU4ZWI5MDA1MTFmODk/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4NTM1&"
+  },
+  {
+   "ordem": "3º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 19-A/2023",
+   "autor": "Deputados Alan Lopes e Claudio Caiado",
+   "ementa": "Altera a Lei nº 4.359/2004, que trata da matrícula em escolas estaduais de filhos de policiais e bombeiros militares, policiais civis e agentes penitenciários mortos em serviço.",
+   "fase": "2ª discussão · redação do vencido, assim emendada · tramitação ordinária",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNDAxMjlkN2E1NWEyMGZlNDAzMjU4ZWJhMDA1ZDVlZjc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwMDE5&"
+  },
+  {
+   "ordem": "4º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 3991-A/2024",
+   "autor": "Deputado Valdecy da Saúde",
+   "ementa": "Altera a Lei nº 10.960/2025, que institui o Programa Estadual de Refúgios Climáticos no Estado do Rio de Janeiro.",
+   "fase": "2ª discussão · redação do vencido · tramitação ordinária",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMDhmM2YzZjZmZjU3NjkyMDAzMjU4ZWI5MDA2ZGU2ZTI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzAzOTkx&"
+  },
+  {
+   "ordem": "5º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 448/2023",
+   "autor": "Deputado Sérgio Fernandes",
+   "ementa": "Dispõe sobre a priorização de transferência de alunos da rede estadual de ensino quando houver incapacidade temporária ou definitiva das unidades escolares.",
+   "fase": "em votação · 1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: inconstitucionalidade, concluindo por transformação em indicação legislativa; Educação, Defesa Civil e Orçamento: transformação em indicação legislativa. Novos pareceres às emendas de plenário (CCJ, Educação, Defesa Civil e Orçamento): favoráveis às emendas 01, 02 e 03 e contrários às emendas 04, 05 e 06",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZDJiZDY2NDlhNTgwMjI5ZDAzMjU4OTczMDA2OTM0NDk/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwNDQ4&"
+  },
+  {
+   "ordem": "6º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 494/2023",
+   "autor": "Deputado Luiz Claudio Ribeiro",
+   "ementa": "Altera a Lei nº 5.547/2009 para obrigar os serviços de atendimento ao cliente com prefixo 0300 a informar o tempo estimado de espera no Estado do Rio de Janeiro.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: juridicidade; Defesa do Consumidor: favorável; Economia: favorável; Orçamento: favorável",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNWZjMDcyNjk1NGNjMmU3NTAzMjU4OTc5MDA1YzM2MWY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwNDk0&"
+  },
+  {
+   "ordem": "7º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 7834/2026",
+   "autor": "Deputada Giselle Monteiro",
+   "ementa": "Inclui o Dia da Mãe Solo no calendário oficial do Estado do Rio de Janeiro, alterando o anexo da Lei nº 5.645/2010.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: legalidade",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata de maternidade e do reconhecimento das mães solo, tema do gabinete. Avaliar apoio à aprovação e orientar voto favorável da bancada.",
+   "categorias": [
+    "pautas"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYTc3MmUzMjg2NzlmZjU2MTAzMjU4ZTEzMDA0ODhiNzQ/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA3ODM0&"
+  },
+  {
+   "ordem": "8º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2758/2026",
+   "autor": "Deputada Carla Machado",
+   "ementa": "Concede o Prêmio Dorinha de Mello Pacheco à Sra. Geane Cordeiro Vincler, prefeita do Município de Cardoso Moreira.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvODI0ZmZjOTU3MzRhODAxNjAzMjU4ZTRmMDA2NzFjNWU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzU4&"
+  },
+  {
+   "ordem": "9º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2793/2026",
+   "autor": "Deputado Renato Miranda",
+   "ementa": "Concede a Medalha Dom Pedro II ao Grande Oriente do Brasil no Estado do Rio de Janeiro (GOB-RJ).",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvZGJjM2NmMDNhZDU3OTg2MDAzMjU4ZTdiMDA1MzczNWU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyNzkz&"
+  },
+  {
+   "ordem": "10º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2800/2026",
+   "autor": "Deputada Tia Ju",
+   "ementa": "Concede o Diploma Ulysses Guimarães à Sra. Mayara de Souza Machado Rezende Tebaldi, médica e vereadora do Município de Macaé.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNWE5ZmRmN2Y5NjIxMDRkODAzMjU4ZTdiMDA3MDY2NTM/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODAw&"
+  },
+  {
+   "ordem": "11º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2805/2026",
+   "autor": "Deputado Rodrigo Amorim",
+   "ementa": "Concede o Diploma de Patrimônio Histórico, Cultural e Imaterial do Estado do Rio de Janeiro ao America Football Club.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvY2QxMTBjMDg4MzEzOTNiMTAzMjU4ZThhMDA0N2Q0NjI/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODA1&"
+  },
+  {
+   "ordem": "12º",
+   "sessao": "Sessão Ordinária · 15h",
+   "tipo": "Projeto de Resolução",
+   "ref": "PR 2814/2026",
+   "autor": "Deputado Rosenverg Reis",
+   "ementa": "Concede a Medalha Tiradentes e o respectivo diploma ao subtenente da Polícia Militar Mario Duarte de Jesus.",
+   "fase": "discussão única",
+   "pareceres": "Normas Internas e Proposições Externas: favorável",
+   "premio": true,
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvODYwMTg2MDMyMjc0ZDRiZjAzMjU4ZTg4MDA1NWVkYmU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwNTAyODE0&"
+  },
+  {
+   "ordem": "1º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 8553/2026",
+   "autor": "Comissão de Orçamento, Finanças, Fiscalização Financeira e Controle",
+   "ementa": "Exige a antecipação parcial do ICMS na entrada no território fluminense de mercadorias de outros estados, com penalidades por desvio de fiscalização, rito sumário de perdimento de bens, salvaguardas ao pequeno produtor e tratamento diferenciado ao Simples Nacional, conforme o Tema 456 e a ADC 49 do STF.",
+   "fase": "discussão única · regime de urgência",
+   "pareceres": "nenhum parecer registrado",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Economia, Indústria e Comércio",
+    "Tributação, Controle da Arrecadação Estadual e de Fiscalização dos Tributos Estaduais"
+   ],
+   "nota": "Projeto de tema tributário em urgência, sem pareceres de CCJ, Economia e Tributação. Acompanhar a votação e avaliar o impacto sobre pequenos produtores e o Simples Nacional para orientar a bancada.",
+   "categorias": [
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Economia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMGZhOTUxMWFmMjRmNDkwYzAzMjU4ZWJhMDA1MWFmMzU/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjYwMzA4NTUz&"
+  },
+  {
+   "ordem": "2º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 6149/2022",
+   "autor": "Deputado Carlos Minc",
+   "ementa": "Cria o Programa Estadual de Incentivo à Pesquisa da Ancestralidade Africana e Indígena.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade; Combate às Discriminações e Preconceitos: favorável, com emenda; Saúde: favorável, com a emenda da comissão anterior; Cultura: favorável; Ciência e Tecnologia: favorável; Orçamento: favorável",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Cria programa de incentivo à pesquisa, tema de ciência do gabinete, e já tem parecer favorável das comissões de Cultura e de Ciência e Tecnologia. Recomenda-se apoiar e orientar voto favorável.",
+   "categorias": [
+    "pautas"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=144&URL=L3NjcHJvMTkyMy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNThjMDZkNTgwZTRkYTI3NzAzMjU4ODcxMDA1ZTYyNDc/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjIwMzA2MTQ5&"
+  },
+  {
+   "ordem": "3º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 61/2023",
+   "autor": "Deputada Martha Rocha",
+   "ementa": "Cria campos nos registros de ocorrência da Polícia Civil sobre os tipos de transporte em que ocorreram crimes de violência contra a mulher no Estado do Rio de Janeiro.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas, concluindo por substitutivo, com voto em separado pela constitucionalidade do Dep. Guilherme Delaroli (relator original); Defesa dos Direitos da Mulher: favorável; Transportes: favorável; Segurança Pública: favorável, com as emendas da CCJ; Orçamento: favorável, com as emendas da CCJ",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata de violência contra a mulher e de qualificação dos dados sobre esses crimes. Recomenda-se apoiar e orientar voto favorável da bancada.",
+   "categorias": [
+    "pautas"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNDZmZDA1YWFmNWM0NGRlYzAzMjU4OTRmMDA1MGVhOTE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwMDYx&"
+  },
+  {
+   "ordem": "4º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 1470/2023",
+   "autor": "Deputado Yuri Moura",
+   "ementa": "Dispõe sobre o Programa de Publicidade e Propaganda dos Polos de Moda e Gastronômicos do Município de Petrópolis.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "CCJ: constitucionalidade, com emendas; Economia: favorável, com as emendas da CCJ; Assuntos Municipais: favorável, com as emendas da CCJ; Orçamento: favorável, com as emendas da CCJ",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvNGI2Njg0NTIwNjcyNzRkOTAzMjU4OWRjMDA2OWVkZjE/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAxNDcw&"
+  },
+  {
+   "ordem": "5º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 3226/2024",
+   "autor": "Deputados India Armelau e Felipinho Ravis",
+   "ementa": "Altera a Lei nº 3.499/2000 (programa \"Um Lar para Mim\") para instituir auxílio-adoção ao servidor público estadual que acolher criança ou adolescente órfão ou abandonado.",
+   "fase": "1ª discussão · tramitação ordinária · incluído na Ordem do Dia conforme o § 3º do art. 47 do Regimento Interno",
+   "pareceres": "CCJ: constitucionalidade; Criança, Adolescente e Idoso: favorável; Pessoa com Deficiência: favorável; Saúde: favorável; Orçamento: favorável",
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvYWU5OGE2YjBiNDkzMTAwODAzMjU4YWU1MDA2YWNlNzA/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzAzMjI2&"
+  },
+  {
+   "ordem": "6º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 54/2023",
+   "autor": "Deputado Rodrigo Amorim",
+   "ementa": "Dispõe sobre a Lei Geral do Concurso Público no âmbito do Estado do Rio de Janeiro.",
+   "fase": "em votação · 1ª discussão · incluído na Ordem do Dia conforme o § 1º do art. 47 do Regimento Interno",
+   "pareceres": "CCJ: constitucionalidade; Servidores Públicos: favorável, com emendas; Pessoa com Deficiência: favorável; Orçamento: favorável",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Servidores Públicos",
+    "Pessoa com Deficiência",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "categorias": [],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvMWY4NTBhYzE4MTk4YzY3NjAzMjU4OTRhMDA1YWMwNjY/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjMwMzAwMDU0&"
+  },
+  {
+   "ordem": "7º",
+   "sessao": "Sessão Extraordinária · 18h35",
+   "tipo": "Projeto de Lei",
+   "ref": "PL 4293/2024",
+   "autor": "Deputada Índia Armelau",
+   "ementa": "Dispõe sobre o direito dos estudantes de formar grupos sociais, de estudos ou de interesse para praticar atividades afins nos intervalos escolares e no contraturno.",
+   "fase": "1ª discussão · tramitação ordinária",
+   "pareceres": "nenhum parecer registrado",
+   "pendente_de": [
+    "Constituição e Justiça",
+    "Educação",
+    "Ciência e Tecnologia",
+    "Orçamento, Finanças, Fiscalização Financeira e Controle"
+   ],
+   "nota": "Está pendente de parecer da Comissão de Ciência e Tecnologia, além de CCJ, Educação e Orçamento. Verificar se há pedido de parecer em plenário e se o tema exige posição do gabinete.",
+   "categorias": [
+    "comissoes"
+   ],
+   "comissoes_alvo": [
+    "Ciência e Tecnologia"
+   ],
+   "link": "http://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=161&URL=L3NjcHJvMjMyNy5uc2YvMGM1YmY1Y2RlOTU2MDFmOTAzMjU2Y2FhMDAyMzEzMWIvOTI0NjJlZjkyOWQwYWEzZTAzMjU4YmI4MDA2NDI2M2Q/T3BlbkRvY3VtZW50JkhpZ2hsaWdodD0wLDIwMjQwMzA0Mjkz&"
+  }
+ ]
+}
