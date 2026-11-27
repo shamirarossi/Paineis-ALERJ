@@ -112,7 +112,8 @@ def cadernos_parte_ii(dia: dt.date, s: requests.Session) -> list[dict]:
     return cadernos
 
 
-def baixar_texto(url_pdf: str, s: requests.Session) -> str:
+def baixar_paginas(url_pdf: str, s: requests.Session) -> list[str]:
+    """Texto de cada página do PDF, na ordem."""
     r = s.get(url_pdf, timeout=120)
     r.raise_for_status()
     if not r.content.startswith(b"%PDF"):
@@ -123,11 +124,66 @@ def baixar_texto(url_pdf: str, s: requests.Session) -> str:
         try:
             # sem -layout: lê coluna por coluna, na ordem de leitura
             out = subprocess.run(["pdftotext", "-enc", "UTF-8", str(pdf), "-"],
-                                 capture_output=True, check=True, timeout=120)
-            return out.stdout.decode("utf-8", "replace")
-        except (FileNotFoundError, subprocess.CalledProcessError):
+                                 capture_output=True, check=True, timeout=600)
+            paginas = out.stdout.decode("utf-8", "replace").split("\f")  # pdftotext separa páginas com \f
+            return paginas[:-1] if paginas and not paginas[-1].strip() else paginas
+        except (FileNotFoundError, subprocess.CalledProcessError, subprocess.TimeoutExpired):
             from pypdf import PdfReader  # alternativa sem poppler
-            return "\n".join((pg.extract_text() or "") for pg in PdfReader(str(pdf)).pages)
+            return [(pg.extract_text() or "") for pg in PdfReader(str(pdf)).pages]
+
+
+# Edições comuns cabem numa leitura só. Edições gigantes (anexos do orçamento, centenas de emendas)
+# são lidas em partes, sem as páginas que são só tabelas de números, e com um teto de custo.
+BLOCO = 450_000      # caracteres por parte (~150 mil tokens, abaixo da faixa de preço de contexto longo)
+MAX_PARTES = 4       # teto por edição (~600 mil tokens no total)
+
+
+def eh_tabela(pag: str) -> bool:
+    """Página dominada por números (quadros orçamentários, planilhas)."""
+    sem_espaco = "".join(pag.split())
+    if len(sem_espaco) < 800:
+        return False
+    digitos = sum(ch.isdigit() for ch in sem_espaco)
+    return digitos / len(sem_espaco) > 0.30
+
+
+def faixas(nums: list[int]) -> str:
+    """[3,4,5,9] -> '3–5, 9'"""
+    out, ini, ant = [], None, None
+    for n in nums:
+        if ini is None:
+            ini = ant = n
+        elif n == ant + 1:
+            ant = n
+        else:
+            out.append(f"{ini}–{ant}" if ant > ini else str(ini)); ini = ant = n
+    if ini is not None:
+        out.append(f"{ini}–{ant}" if ant > ini else str(ini))
+    return ", ".join(out)
+
+
+def montar_partes(paginas: list[str]) -> tuple[list[tuple[str, int, int]], list[int], list[int]]:
+    """Agrupa as páginas em partes de até BLOCO caracteres. Devolve (partes, páginas de tabela puladas,
+    páginas não lidas por passar do teto). Cada parte é (texto, primeira página, última página)."""
+    total = sum(len(p) for p in paginas)
+    if total <= BLOCO:
+        return [("\n".join(paginas), 1, len(paginas))], [], []
+    tabelas, partes, fora = [], [], []
+    atual, ini, fim, tam = [], None, None, 0
+    for i, pag in enumerate(paginas, 1):
+        if eh_tabela(pag):
+            tabelas.append(i); continue
+        if len(partes) >= MAX_PARTES:
+            fora.append(i); continue
+        bloco = f"[página {i}]\n{pag}"
+        if atual and tam + len(bloco) > BLOCO:
+            partes.append(("\n".join(atual), ini, fim)); atual, ini, tam = [], None, 0
+            if len(partes) >= MAX_PARTES:
+                fora.append(i); continue
+        atual.append(bloco[:BLOCO]); ini = ini or i; fim = i; tam += min(len(bloco), BLOCO)
+    if atual and len(partes) < MAX_PARTES:
+        partes.append(("\n".join(atual), ini, fim))
+    return partes, tabelas, fora
 
 
 # ---------------------------------------------------------------- gabinetes atendidos
@@ -298,7 +354,7 @@ def esquema(pids: list[str]) -> dict:
     }
 
 
-def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str]) -> dict:
+def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str], parte: str = "") -> dict:
     import anthropic
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -306,7 +362,7 @@ def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str]) -> dict:
                            "Settings → Secrets and variables → Actions")
     cliente = anthropic.Anthropic()
     modelo = os.environ.get("MODELO") or "claude-sonnet-5-5"
-    cabecalho = f"Edição de {dia.strftime('%d/%m/%Y')}{' (edição extra)' if extra else ''}."
+    cabecalho = f"Edição de {dia.strftime('%d/%m/%Y')}{' (edição extra)' if extra else ''}.{parte}"
     with cliente.messages.stream(
         model=modelo,
         max_tokens=64000,
@@ -325,6 +381,58 @@ def classificar(texto: str, dia: dt.date, extra: bool, pids: list[str]) -> dict:
         return json.loads(texto_resp)
     except json.JSONDecodeError:
         raise RuntimeError("a resposta do Claude não veio no formato esperado")
+
+
+def resumir(itens: list[dict], pessoal: str, dia: dt.date, pids: list[str]) -> dict:
+    """Escreve os resumos do dia a partir dos atos já lidos (usado quando a edição foi lida em partes)."""
+    import anthropic
+
+    cliente = anthropic.Anthropic()
+    sel = {pid: PERFIS[pid] for pid in pids}
+    gabs = "\n".join(f'- "{pid}": {p["parlamentar"]}; temas: {", ".join(p["temas"])}' for pid, p in sel.items())
+    esq = {"type": "object", "properties": {"resumos": {"type": "object", "properties": {
+        pid: {"type": "string"} for pid in pids}, "required": list(pids), "additionalProperties": False}},
+        "required": ["resumos"], "additionalProperties": False}
+    resp = cliente.messages.create(
+        model=os.environ.get("MODELO") or "claude-sonnet-5-5", max_tokens=4000,
+        system=("Você escreve, em português do Brasil, o resumo do dia do Diário Oficial do RJ (Parte II) para "
+                "cada gabinete abaixo, a partir da lista de atos já extraída. Um parágrafo de 3 a 5 frases por "
+                "gabinete, começando pelos destaques dele (atos com temas, gabinetes ou notas dele); se não houver "
+                "nada, diga isso e resuma o principal do dia. Diga que a edição foi extensa. Nunca mencione um "
+                "gabinete no texto do outro.\n" + gabs),
+        messages=[{"role": "user", "content": f"Edição de {dia.strftime('%d/%m/%Y')}. Pessoal: {pessoal or '-'}\n"
+                   f"<atos>{json.dumps(itens, ensure_ascii=False)}</atos>"}],
+        extra_body={"output_config": {"format": {"type": "json_schema", "schema": esq}}},
+    )
+    texto = next((b.text for b in resp.content if getattr(b, "type", "") == "text"), "{}")
+    return json.loads(texto).get("resumos", {})
+
+
+def ler_edicao(paginas: list[str], dia: dt.date, extra: bool, pids: list[str]) -> dict:
+    partes, tabelas, fora = montar_partes(paginas)
+    if len(partes) == 1 and not tabelas and not fora:
+        return limpar(classificar(partes[0][0], dia, extra, pids))
+    print(f"Edição extensa: {len(paginas)} páginas, {sum(len(p) for p in paginas):,} caracteres; "
+          f"{len(partes)} partes, {len(tabelas)} páginas de tabela puladas, {len(fora)} além do teto.")
+    leituras = []
+    for k, (texto, a, b) in enumerate(partes, 1):
+        nota = (f" Esta edição é muito extensa e está sendo lida em {len(partes)} partes; esta é a parte {k} "
+                f"(páginas {a} a {b}). Liste só os atos desta parte; um ato pode começar ou terminar no meio.")
+        leituras.append(limpar(classificar(texto, dia, extra, pids, nota)))
+    itens = [it for l in leituras for it in l.get("itens", [])]
+    pessoal = " ".join(l["pessoal"] for l in leituras if l.get("pessoal"))
+    puladas = []
+    if tabelas:
+        puladas.append(f"páginas {faixas(tabelas)} (tabelas e quadros numéricos)")
+    if fora:
+        puladas.append(f"páginas {faixas(fora)} (a edição passou do limite de leitura automática)")
+    if puladas:
+        itens.append({"grupo": "Outros", "tipo": "Páginas não lidas",
+                      "ementa": f"Edição com {len(paginas)} páginas. Não foram lidas pelo robô: "
+                                f"{'; '.join(puladas)}. Consulte o Diário Oficial para esse trecho."})
+    return {"edicao": next((l.get("edicao") for l in leituras if l.get("edicao")), None),
+            "resumos": resumir(itens, pessoal, dia, pids), "pessoal": pessoal or None, "itens": itens,
+            "atos_pessoal": [a for l in leituras for a in l.get("atos_pessoal", [])]}
 
 
 def limpar(leitura: dict) -> dict:
@@ -489,10 +597,10 @@ def main() -> int:
                 print(f"{c['id']} já foi lida para {', '.join(pids)}; use --forcar para reler.")
                 continue
             novas += 1
-            texto = baixar_texto(c["pdf"], s)
-            if len(texto.strip()) < 500:
+            paginas = baixar_paginas(c["pdf"], s)
+            if sum(len(p.strip()) for p in paginas) < 500:
                 raise RuntimeError("o PDF veio sem texto legível")
-            leitura = limpar(classificar(texto, dia, c["extra"], faltam))
+            leitura = ler_edicao(paginas, dia, c["extra"], faltam)
             leitura = {"data": dia.isoformat(), "extra": c["extra"], "link": url_indice(dia), "lidoEm": agora,
                        "gabinetes": faltam,
                        **{k: leitura.get(k) for k in ("edicao", "resumos", "pessoal", "itens", "atos_pessoal")}}
