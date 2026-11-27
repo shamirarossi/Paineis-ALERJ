@@ -1,12 +1,26 @@
 {
- "atualizado": "2026-11-27T13:12:41+00:00",
+ "atualizado": "2026-11-27T18:39:00+00:00",
  "status": {
-  "ok": false,
-  "ultimaExecucao": "2026-11-27T13:12:21+00:00",
-  "edicaoLida": "2026-11-26",
-  "mensagem": "A leitura de 27/11/2026 falhou (BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'prompt is too long: 1651429 tokens > 1000000 maximum'}, 'request_id': 'req_011ChTVSDKYGKftDNsJQsjvE'}). Ela roda de novo no próximo agendamento."
+  "ok": true,
+  "ultimaExecucao": "2026-11-27T18:32:55+00:00",
+  "edicaoLida": "2026-11-27",
+  "mensagem": null
  },
  "edicoes": [
+  {
+   "id": "2026-11-27",
+   "data": "2026-11-27",
+   "edicao": "Ano LII · Nº 217",
+   "extra": false,
+   "contagem": {
+    "total": 127,
+    "gabinete": 22,
+    "lgbt": 7,
+    "mulheres": 34,
+    "ct": 39
+   },
+   "relatorio": "relatorios/2026-11-27.pdf"
+  },
   {
    "id": "2026-11-26",
    "data": "2026-11-26",

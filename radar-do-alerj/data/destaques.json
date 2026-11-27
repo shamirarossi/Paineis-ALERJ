@@ -1,6 +1,1132 @@
 {
- "atualizado": "2026-11-27T13:12:41+00:00",
+ "atualizado": "2026-11-27T18:39:00+00:00",
  "itens": [
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Projeto de lei apresentado",
+   "ref": "PL 8568/2026",
+   "autor": "Dep. Renato Miranda",
+   "ementa": "Obriga estabelecimentos de saúde que fazem partos a oferecer a coleta de biometria neonatal (digitais) da mãe e do recém-nascido em até 24h, com consentimento e eliminação dos dados após a transmissão ao banco do TJ-RJ. Prevê multa para a rede privada.",
+   "situacao": "A imprimir; segue à CCJ, Defesa dos Direitos da Mulher, Criança/Adolescente/Idoso, Saúde, Economia e Orçamento",
+   "temas": [
+    "ct",
+    "mulheres"
+   ],
+   "nota": "Trata de dados biométricos sensíveis (LGPD) e de segurança da mãe e do bebê no parto. Vale acompanhar quando chegar à Comissão da Mulher.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Substitutivo aprovado",
+   "ref": "PLC 66/2026 (Mensagem 25/2026)",
+   "autor": "Poder Executivo (relator CCJ: Dep. Rodrigo Amorim)",
+   "ementa": "Institui programa de regularização do ICMS com redução de 95% de juros e multas (Convênio 111/2026) e remissão de 50% para petróleo e gás (Convênio 114/2026). O prazo de adesão vai até 23/12/2026; entre as emendas aceitas está a divulgação por CNPJ dos beneficiários (emenda 75).",
+   "situacao": "Substitutivo da CCJ aprovado em votação simbólica; vai a autógrafo (PT se absteve; PSOL votou a favor)",
+   "gabinete": true,
+   "nota": "Dani Balbi estava designada relatora na Comissão de Economia, mas foi chamada e não falou. Val Ceasa deu o parecer, acompanhando a CCJ.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 4428/2024",
+   "autor": "Dep. Val Ceasa (relator: Dep. Professor Josemar)",
+   "ementa": "Cria espaços públicos de coworking para fomentar inovação, colaboração e empreendedorismo entre pequenos empreendedores e startups. Parecer favorável com as emendas da CCJ.",
+   "situacao": "Aprovado na 1ª Reunião Ordinária da Comissão de Trabalho (11/11/2026)",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "A Comissão de Trabalho, presidida por Dani, aprovou o parecer. O projeto toca inovação e startups, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Pareceres de comissão",
+   "tipo": "Parecer favorável",
+   "ref": "PL 7010/2026",
+   "autor": "Dep. Renata Souza (relatora: Dep. Dani Balbi)",
+   "ementa": "Cria a Política Estadual de Apoio e Fomento ao Ofício das Pessoas Trancistas. A relatora destaca a prática ancestral de mulheres negras, reconhecida em 2025 na CBO.",
+   "situacao": "Parecer favorável aprovado em 11/11/2026 na Comissão de Trabalho",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Dani foi a relatora e presidiu a reunião. O ofício envolve mulheres negras e o trabalho autônomo delas; vale divulgar a aprovação.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Reuniões e audiências",
+   "tipo": "Ata de reunião de comissão",
+   "ref": "2ª Reunião Ordinária da Comissão de Trabalho (18/11/2026)",
+   "autor": "Dep. Dani Balbi (presidenta)",
+   "ementa": "Aprovou a indicação de Dani Balbi como Conselheira Titular e de Lucas Guimarães Rocha como suplente no Conselho Estadual de Economia Solidária (CEES/RJ). Tia Ju questionou a legitimidade, e a presidenta citou a Lei 5.315/2008, que prevê dois parlamentares da ALERJ no conselho.",
+   "situacao": "Indicação aprovada",
+   "gabinete": true,
+   "nota": "A deputada passa a ser titular do CEES/RJ, e seu suplente é o assessor Lucas Guimarães Rocha. Convém acompanhar a posse e a agenda do conselho.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda ao PPA",
+   "ref": "Emenda 9 (PL 8377/2026)",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Cria ação para implantar o programa de defesa pessoal para mulheres vítimas de violência doméstica (Lei 10.260/2023), no programa de políticas para mulheres.",
+   "situacao": "Apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Dá previsão orçamentária a uma lei estadual de enfrentamento à violência contra a mulher. Pode ser apoiada na votação.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas ao PPA",
+   "ref": "Emendas 10 e 54 (PL 8377/2026)",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "A emenda 10 cria a ação 'Cuidando de Quem Cuida', de apoio a mães e pais atípicos (Lei 10.922/2025). A emenda 54 prevê programa de saúde mental para cuidadores de pessoas com deficiência (Lei 10.194/2023).",
+   "situacao": "Apresentadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Atingem mães atípicas e cuidadoras, público do tema mulheres. Vale avaliar apoio.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas ao PPA",
+   "ref": "Emendas 47 e 53 (PL 8377/2026)",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "A emenda 47 cria meta de exames de ecocardiograma fetal no pré-natal (PL 3549/2024). A emenda 53 cria meta de pigmentação de mama após cirurgia, para mulheres com câncer ou queimaduras (PL 897/2023).",
+   "situacao": "Apresentadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tratam de saúde da mulher (pré-natal e reparação de mama). Podem ser apoiadas.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda ao PPA",
+   "ref": "Emenda 16 (PL 8377/2026)",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Cria o Programa Jovens Programadores, de formação técnica em tecnologia, automação e inteligência artificial para estudantes da rede pública (PL 7610/2026).",
+   "situacao": "Apresentada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve formação em tecnologia e IA, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda ao PPA",
+   "ref": "Emenda 61 (PL 8377/2026)",
+   "autor": "Dep. Márcio Gualberto",
+   "ementa": "Cria ação de sustentação e acesso às plataformas de gestão e aprendizagem da Fundação CECIERJ. Prevê data center em nuvem, governança de dados, cibersegurança, conformidade com a LGPD e laboratórios de livre acesso nos polos.",
+   "situacao": "Apresentada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de infraestrutura de TI, dados e LGPD na educação a distância pública (CECIERJ).",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda ao PPA",
+   "ref": "Emenda 85 (PL 8377/2026)",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "Cria ação de combate a crimes cibernéticos na Polícia Civil, com perícia digital, prevenção e educação digital. A justificativa cita a violência online contra mulheres.",
+   "situacao": "Apresentada",
+   "temas": [
+    "ct",
+    "mulheres"
+   ],
+   "nota": "Foco em crimes digitais, com menção à violência online contra mulheres. Marcada na dúvida razoável.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas à LOA (prioridade)",
+   "ref": "Emendas 2196 e 2200 (PL 8378/2026)",
+   "autor": "Dep. Carla Machado",
+   "ementa": "Pedem a implantação de um Centro Especializado de Atendimento à Mulher (CEAM) e de uma Delegacia de Atendimento à Mulher (DEAM) em São João da Barra, para descentralizar a rede de proteção.",
+   "situacao": "Apresentadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Ampliam a rede de enfrentamento à violência contra a mulher no interior. Podem ser apoiadas.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva à LOA",
+   "ref": "Emenda 1553 (PL 8378/2026)",
+   "autor": "Dep. Bruno Dauaire",
+   "ementa": "Destina R$ 200 mil à OSC 'A Sala Entre Vozes e Escolhas', em Teresópolis, para acolhida e assistência jurídica a mulheres vítimas de violência.",
+   "situacao": "Apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Financia o atendimento a mulheres vítimas de violência na ponta.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva à LOA",
+   "ref": "Emenda 2180 (PL 8378/2026)",
+   "autor": "Dep. Carla Machado",
+   "ementa": "Destina R$ 197.269 à Associação Educacional Beneficente São José para oficinas de formação tecnológica, inclusão digital, cultura maker e música a estudantes da rede pública de Campos dos Goytacazes e São João da Barra.",
+   "situacao": "Apresentada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolve inclusão digital e formação tecnológica, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (mulheres)",
+   "ref": "Emendas 668, 671, 682, 687 e 770",
+   "autor": "Dep. Carlinhos BNH",
+   "ementa": "Atendimento psicológico por telemedicina a mulheres em situação de violência em Vassouras (R$ 200 mil), Hospital da Mulher e reforma do CAV Mulher em Nova Iguaçu, mamógrafo para Mangaratiba. A emenda 671 prioriza famílias chefiadas por mulheres em curso de artesãos.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Mostram outro parlamentar atuando em violência doméstica e saúde da mulher. Vale ver se há convergência com as emendas do gabinete (237 e 248).",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (mulheres)",
+   "ref": "Emenda 1404",
+   "autor": "Dep. Carlos Macedo",
+   "ementa": "R$ 250 mil ao Hospital Estadual da Mulher Heloneida Studart (São João de Meriti), para UTI maternal e neonatal, banco de leite e programa SOS Mulher.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Emenda sobre saúde materna e atendimento a mulheres, tema do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (LGBTQIA+)",
+   "ref": "Emenda 34",
+   "autor": "Dep. Carlos Minc",
+   "ementa": "R$ 233.024 ao Grupo Arco-Íris para reforçar a política de promoção e defesa dos direitos LGBTQIA+, com base nas Leis 9.496/2021 e 7.041/2015.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Emenda de outro parlamentar na mesma ação orçamentária que a emenda 247 do gabinete (promoção e defesa dos direitos LGBTQIA+).",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (mulheres)",
+   "ref": "Emendas 31, 37 e 40",
+   "autor": "Dep. Carlos Minc",
+   "ementa": "Projeto Dia Delas, com mulheres de Anchieta (R$ 150 mil). Cursos contra violência obstétrica e mortalidade materna em São Gonçalo (R$ 200 mil). Doulas na UERJ (R$ 217.269), pela Lei 8.307/2019.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tratam de saúde materna e de mulheres, tema do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (ciência e tecnologia)",
+   "ref": "Emendas 29, 33 e 41",
+   "autor": "Dep. Carlos Minc",
+   "ementa": "Divulgação científica e pesquisa sobre cannabis medicinal na UERJ (R$ 167.269). Centro de educação digital Formando o Futuro (R$ 550 mil). Extensão UERJ e pré-vestibulares populares (R$ 120 mil).",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Emendas de pesquisa na UERJ e de formação em tecnologia, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (ciência e tecnologia)",
+   "ref": "Emendas 2100, 2101 e 2106",
+   "autor": "Dep. Célia Jordão",
+   "ementa": "Apoio ao laboratório MAPE do IESP/UERJ (R$ 100 mil), observatório da economia azul (R$ 100 mil) e ambiente maker com equipamentos tecnológicos em 22 escolas de Angra dos Reis (R$ 1,15 milhão).",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Emendas de pesquisa, inovação e tecnologia educacional, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (mulheres)",
+   "ref": "Emenda 292",
+   "autor": "Dep. Chico Machado",
+   "ementa": "R$ 100 mil para ar-condicionado e mobiliário de uma sala lilás, para atendimento de mulheres e crianças vítimas de violência, na 132ª DP de Macaé.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Emenda sobre atendimento a mulheres vítimas de violência, tema do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao texto da lei orçamentária (ciência)",
+   "ref": "Emendas 69, 70 e 81",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Garantem repasse mensal de um doze avos às universidades estaduais e à FAPERJ. Excluem de limitação de empenho o custeio, a assistência estudantil e as bolsas de UERJ, UENF, FAPERJ, FAETEC e Pré-Vestibular Social. Destinam ao menos 20% dos créditos de royalties à educação, inclusive pesquisa nas universidades.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Emendas do gabinete que protegem o financiamento da pesquisa e das universidades estaduais.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao texto da lei orçamentária (mulheres)",
+   "ref": "Emenda 78",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "O Executivo identificaria no SIAFE-Rio as dotações para igualdade racial e políticas para as mulheres e publicaria o anexo em 60 dias, com relatório quadrimestral de execução.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Dá visibilidade ao gasto em políticas para mulheres. Acompanhar a tramitação.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao texto da lei orçamentária",
+   "ref": "Emendas 67, 68, 71 a 77 e 79 a 86",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Pedem transparência e limites: ressalva da saúde e da assistência social na limitação de empenho, relatórios de renúncia fiscal e do piso do magistério, limites de 15% e 20% para créditos, supressão do §4º do art. 4º e rastreio das transferências especiais.",
+   "situacao": "Emendas apresentadas",
+   "gabinete": true,
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (mulheres)",
+   "ref": "Emenda 237",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 21.378.967 para recompor a ação de enfrentamento à violência contra a mulher da SEDSODH, que cai de R$ 31,4 milhões para R$ 10 milhões no PLOA 2027. O cancelamento recai sobre a ação 4830 da Polícia Militar.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Emenda central do gabinete na rede de acolhimento de mulheres. Vale acompanhar a votação e articular apoio.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (mulheres)",
+   "ref": "Emenda 248",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 20 milhões para recompor a ação de saúde da mulher, materna e infantil, que cai 77% no PLOA 2027 (de R$ 130 milhões para R$ 30 milhões).",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Defende pré-natal, parto seguro e puerpério. Prioridade para a negociação do orçamento.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (LGBTQIA+)",
+   "ref": "Emenda 247",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 10 milhões para manter o programa Rio Sem LGBTIfobia, cuja ação cai 55% no PLOA 2027 (de R$ 28,8 milhões para R$ 12,8 milhões).",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "lgbt"
+   ],
+   "gabinete": true,
+   "nota": "Protege os centros de cidadania LGBTQIAPN+. Pode ser citada junto à emenda 34, de Carlos Minc, na mesma ação.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (mulheres)",
+   "ref": "Emenda 1974",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 2,5 milhões para implantar a DEAM de Petrópolis no imóvel doado pela prefeitura, com reforma, mobiliário e equipamentos. A emenda cita decisão judicial que exigia a unidade até 27/8/2026.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Atende às Leis 11.340/2006 e 14.541/2023 e à ordem judicial. Boa pauta para acompanhar com a Defensoria.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (ciência: FAPERJ)",
+   "ref": "Emendas 234, 238 e 242",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 17,52 milhões, R$ 60 milhões e R$ 25 milhões para as bolsas da FAPERJ, para um reajuste de 40% (mestrado e doutorado). A ação de bolsas tem só R$ 110 milhões no PLOA 2027.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "As três emendas somam parte do custo de R$ 102,5 milhões do reajuste. Defender a recomposição das bolsas.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (ciência: UENF e UERJ)",
+   "ref": "Emendas 249, 250, 251, 252 e 266",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "UENF: R$ 10 milhões e R$ 5,9 milhões para repor o corte de 30%. UERJ: R$ 10 milhões para ensino, pesquisa e extensão, R$ 5 milhões para permanência estudantil e R$ 7,2 milhões para auxílio-alimentação de docentes substitutos.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Reforçam as universidades estaduais, prioridade do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento",
+   "ref": "Emendas 225 a 233, 235, 236, 239 a 241, 243 a 246 e 1975",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Recomposições em alimentação e manutenção escolar, assistência social (SUAS), bem-estar animal, qualificação e certificação profissional, cultura, igualdade racial, proteção a defensores de direitos humanos e Pré-Vestibular Social. Inclui indenização aos atingidos pela hanseníase (Lei 6.165/2012).",
+   "situacao": "Emendas apresentadas",
+   "gabinete": true,
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (saúde e cidadania LGBT)",
+   "ref": "Emendas 1979, 1981 e 1997",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 50 mil cada: capacitação de pessoas trans como promotoras de saúde na Zona Oeste, ações da CEDS Rio de promoção da cidadania LGBTI+ e material educativo sobre saúde trans na Marcha Trans.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "lgbt"
+   ],
+   "gabinete": true,
+   "nota": "Emendas do gabinete sobre saúde trans, nome social e combate à LGBTIfobia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (educação e universidade, LGBT)",
+   "ref": "Emendas 1984, 1994, 2008 e 2011",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Escola Marjorie Marchi sobre diversidade nas escolas estaduais (R$ 50 mil), bolsas para estudantes trans na UFRRJ, cartilha LGBTQIAPN+ da UERJ junto à pesquisa sobre EJA, e avaliação das cotas para pessoas trans.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "lgbt",
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Combinam permanência de estudantes trans e pesquisa universitária. A UFRRJ e a UERJ são beneficiárias.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (mulheres)",
+   "ref": "Emenda 2000",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 50 mil para implantar o Museu Comunitário Mulheres de Pedra, em Pedra de Guaratiba, dando visibilidade ao protagonismo de mulheres negras e caiçaras.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Emenda cultural com foco em mulheres negras e caiçaras.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (ciência e tecnologia)",
+   "ref": "Emendas 1992, 1995, 2003, 2006, 2009, 2012 a 2017",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Apoio a pesquisa e laboratórios: FRIPERJ/UENF, IFRJ Resende, laboratórios de análises clínicas da FAETEC, Audiolab da UERJ, calor extremo e saúde do trabalhador, algas (CEPA/UFRJ), laboratórios BIM da UFRRJ e outros projetos universitários (R$ 50 mil a R$ 100 mil).",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Emendas do gabinete em pesquisa, inovação e universidades. Acompanhar a execução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (cannabis medicinal)",
+   "ref": "Emenda 2002",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 50 mil ao Fundo Municipal de Saúde de Petrópolis para formar profissionais do SUS e orientar famílias, em especial mães e cuidadores de crianças atípicas, sobre cannabis medicinal.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "ct",
+    "mulheres"
+   ],
+   "gabinete": true,
+   "nota": "Marcada em mulheres por atender mães e cuidadoras de crianças atípicas, e em ciência por tratar de evidências científicas.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (UERJ)",
+   "ref": "Emenda 2130",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 25 milhões para a Fase 1 da reforma do prédio Moacyr Bastos, em Campo Grande, novo Campus Zona Oeste da UERJ. Os recursos vêm do programa Governo Presente nas Cidades e de despesas de TI e administrativas.",
+   "situacao": "Emenda apresentada",
+   "temas": [
+    "ct"
+   ],
+   "gabinete": true,
+   "nota": "Amplia o acesso ao ensino superior público na Zona Oeste. É um dos maiores valores do gabinete nesta edição.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (cultura, educação, esporte e saúde)",
+   "ref": "Emendas 1976 a 1978, 1980, 1982, 1983, 1985 a 1991, 1993, 1996, 1998, 1999, 2001, 2004, 2005, 2018",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "Apoios de R$ 50 mil a R$ 340 mil a OSCs e projetos de cultura (Feira do Livro da Cinelândia, afoxé, escolas de samba, hip-hop, museus de memória), educação extracurricular, futsal e saúde preventiva.",
+   "situacao": "Emendas apresentadas",
+   "gabinete": true,
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda ao orçamento (educação inclusiva)",
+   "ref": "Emenda 2131",
+   "autor": "Dep. Dani Balbi",
+   "ementa": "R$ 19,15 milhões para equipar as 383 Salas de Recursos Multifuncionais da rede estadual (R$ 50 mil por sala), com recursos de comunicação e de apoio administrativo.",
+   "situacao": "Emenda apresentada",
+   "gabinete": true,
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao orçamento (ciência e universidade)",
+   "ref": "Emendas 2038, 2040, 2041, 2043 a 2049, 2051 a 2057",
+   "autor": "Dep. Dani Monteiro",
+   "ementa": "Pesquisa e extensão na UERJ, UENF e FAETEC: dados de abastecimento de água nas favelas, programa de pesquisa do FRIPERJ, sequenciador genético para transplantes, observatório de cotas, saúde mental, auxílio-transporte (R$ 15 milhões) e isenção da taxa do vestibular da UERJ.",
+   "situacao": "Emendas apresentadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Emendas de outra deputada em temas de pesquisa e universidades. Algumas se sobrepõem às do gabinete, como o programa FRIPERJ (emenda 1992).",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas aditivas ao orçamento 2027",
+   "ref": "Emendas 2068 a 2083",
+   "autor": "Dep. Dani Monteiro",
+   "ementa": "Emendas aditivas ao Anexo IV (Outras Metas e Prioridades) que pedem priorizar em 2027 recursos para prevenção de desastres, esgotamento sanitário, água, habitação de interesse social, regularização fundiária, transporte coletivo, acesso à justiça, economia verde, micro e pequenas empresas, esporte, culturas urbanas (hip hop e funk) e comunidades tradicionais. Incluem pesquisa e desenvolvimento científico e tecnológico, e prazo até 30/06/2027 para empenhar e pagar saúde, educação e assistência social.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Inclui prioridade para fomento à pesquisa e ao desenvolvimento científico e tecnológico, com foco nas universidades estaduais. A autora é a Dep. Dani Monteiro, e não a Dep. Dani Balbi.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda aditiva ao orçamento 2027",
+   "ref": "Emenda 2077",
+   "autor": "Dep. Dani Monteiro",
+   "ementa": "Pede priorizar em 2027 recursos para o pacto contra o feminicídio e para políticas de defesa da vida das mulheres. Prevê fortalecer a rede de atendimento e acolhimento, o monitoramento de medidas protetivas e a autonomia econômica.",
+   "situacao": "Publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Tema central do gabinete (feminicídio e rede de proteção). Vale acompanhar e avaliar apoio ou emenda convergente.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda de prioridade",
+   "ref": "Emenda 2117",
+   "autor": "Dep. Dani Monteiro",
+   "ementa": "Destina recursos do PROPAG à aquisição definitiva e consolidação patrimonial dos campi da Zona Oeste (UERJ-ZO) e da FEBF, da UERJ. Visa eliminar custos de locação e a insegurança jurídica dos imóveis.",
+   "situacao": "Publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Fortalece a infraestrutura da UERJ, tema de ciência e universidades. Acompanhar a prioridade.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas de prioridade e impositivas (mulheres)",
+   "ref": "Emendas 344, 346, 349, 355, 359 e 364",
+   "autor": "Dep. Danniel Librelon",
+   "ementa": "Prioridades para absorventes a pessoas vulneráveis, fomento ao Conselho Estadual da Mulher (CEDIM), ampliação do Programa Maria da Penha, carteiras de identificação para mães atípicas, Centros de Referência para mulheres vítimas de violência e campanhas contra a violência à mulher.",
+   "situacao": "Publicadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Reúne dignidade menstrual, mães atípicas e rede de enfrentamento à violência contra a mulher. Pode servir de referência para articulação ou apoio.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas de prioridade (ciência e inclusão digital)",
+   "ref": "Emendas 365 e 394",
+   "autor": "Dep. Danniel Librelon",
+   "ementa": "A emenda 365 pede fomento à pesquisa científica e tecnológica na Secretaria de Ciência, Tecnologia e Inovação. A 394 pede pontos de inclusão digital e atendimento ao cidadão em Três Rios.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Tocam fomento à pesquisa e inclusão digital, temas de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (saúde da mulher)",
+   "ref": "Emendas 387, 391 e 392",
+   "autor": "Dep. Delegado Carlos Augusto",
+   "ementa": "Mobiliário para DEAMs, NIAMs e Sala Lilás da Polícia Civil (R$ 58.024). Reforço de R$ 50 mil para o Complexo Regional de Mesquita – Maternidade e Clínica da Mulher e R$ 50 mil para o Hospital da Mulher Heloneida Studart.",
+   "situacao": "Publicadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Combinam atendimento a mulheres vítimas de violência e saúde materna, ambos temas do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (UERJ e IA)",
+   "ref": "Emendas 219 e 221",
+   "autor": "Dep. Dionísio Lins",
+   "ementa": "R$ 1.037.269 para obras e equipamentos no campus Vaz Lobo da UERJ. R$ 200 mil para ferramentas computacionais e de inteligência artificial de análise do comportamento político e social (LEMEP/IESP-UERJ).",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolvem a UERJ e inteligência artificial em pesquisa, temas de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva",
+   "ref": "Emenda 1392",
+   "autor": "Dep. Dr. Deodalto",
+   "ementa": "R$ 500 mil para o INADH capacitar e gerar renda para mães de crianças vítimas de violência e mães atípicas, na ação de autonomia econômica da mulher da Secretaria da Mulher.",
+   "situacao": "Publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata de mães atípicas e autonomia econômica das mulheres, temas do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (educação tecnológica)",
+   "ref": "Emendas 615, 616 e 621",
+   "autor": "Dep. Dr. Pedro Ricardo",
+   "ementa": "R$ 250 mil cada para a Associação Encaminhando executar o Projeto Conectados do Bem, de formação tecnológica, socioemocional e empreendedora de jovens em escolas de Saquarema.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Envolvem formação tecnológica de jovens. Tema de ciência e tecnologia é tangencial, marcado por precaução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas (saúde da mulher)",
+   "ref": "Emendas 1562, 1564, 1576, 1580 e 1625",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "R$ 100 milhões para a política de saúde da mulher, materna e infantil. Reforço ao Centro de Saúde da Mulher de Barra do Piraí, ao Espaço Multivioleta do Hospital Heloneida Studart e à Maternidade Alexander Fleming. Prioridade de R$ 11,5 milhões para o Hospital Estadual da Mãe em São Gonçalo.",
+   "situacao": "Publicadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Saúde materna, atendimento a vítimas de violência e redução da mortalidade materna são pautas do gabinete. Acompanhar a execução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas (violência contra a mulher)",
+   "ref": "Emendas 1616 a 1619, 1633, 1680 e 1699",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "DEAMs em Armação dos Búzios, Itaperuna, Petrópolis e Seropédica (R$ 500 mil cada) e Núcleo de Atendimento à Mulher em Miracema. Reforço e viatura para a Patrulha Maria da Penha em Campos, São Francisco de Itabapoana e São João da Barra.",
+   "situacao": "Publicadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Expandem a rede de proteção contra a violência de gênero para o interior. Pode servir de base para articulação.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda de prioridade",
+   "ref": "Emenda 1668",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "R$ 15,5 milhões para programa de apoio à saúde mental de mães atípicas nos estabelecimentos públicos de saúde do estado.",
+   "situacao": "Publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata de mães atípicas e cuidadoras, tema do gabinete. Vale acompanhar.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda de prioridade",
+   "ref": "Emenda 1623",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "R$ 500 mil para fortalecer a DECRADI e expandir sua atuação no estado. A delegacia combate racismo, homofobia e intolerância religiosa; a justificativa cita a comunidade LGBTQIA+.",
+   "situacao": "Publicada",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Fortalece a investigação de crimes de homofobia e intolerância. Acompanhar a execução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (UERJ, mulheres e ciência)",
+   "ref": "Emendas 1566 e 1590",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "R$ 50 mil cada ao grupo de pesquisa DAGEOP (Geografia, UERJ-FFP). Estruturam o curso de cartografia digital para mulheres de São Gonçalo (com o Instituto ELA) e apoiam ações culturais e eventos do grupo.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct",
+    "mulheres"
+   ],
+   "nota": "Unem pesquisa universitária, geoprocessamento e formação de mulheres. Cobrem temas de ciência e de mulheres.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas (universidades e pesquisa)",
+   "ref": "Emendas 1572, 1574, 1578, 1584, 1586, 1587, 1598, 1605, 1606, 1609, 1634, 1645, 1676, 1679 e 1698",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "Apoio a UERJ, UENF e FAPERJ: pós-graduação em Engenharia Eletrônica, laboratório de Matemática da FEBF, pesquisa sobre educação especial nos planos municipais e permanência estudantil (R$ 100 milhões). Incluem reajuste da Dedicação Exclusiva (R$ 369 milhões), auxílio-saúde (R$ 74 milhões), plano de cargos da UENF (R$ 110 milhões) e manutenção da UENF (R$ 50 milhões).",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Pacote de financiamento e valorização das universidades estaduais e da pesquisa, tema de ciência e tecnologia. Acompanhar as prioridades.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas (tecnologia e inclusão digital)",
+   "ref": "Emendas 1582, 1597, 1614, 1628, 1632, 1656, 1660, 1662 e 1675",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "Laboratórios de informática em escolas estaduais e modernização de laboratórios da FAETEC. Curso de Análise e Desenvolvimento de Sistemas, software de prevenção de afogamentos para o CBMERJ e fortalecimento da Delegacia de Crimes de Informática.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Abrangem inclusão digital, tecnologia aplicada e combate a crimes cibernéticos (proteção de dados).",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas ao texto da lei orçamentária",
+   "ref": "Emendas 1703 a 1710 (PL 8378/2026)",
+   "autor": "Dep. Elika Takimoto",
+   "ementa": "Demonstrativos temáticos de educação e de pessoas com deficiência, detalhamento dos investimentos do PROPAG (Juros por Educação) e recomposição salarial pelo IPCA. Incluem proteção dos duodécimos das universidades contra cancelamento de dotações (art. 309-A da Constituição Estadual), reserva de royalties para o RioPrevidência e publicidade dos decretos de remanejamento.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "A emenda sobre os duodécimos das universidades estaduais toca o financiamento da pesquisa e do ensino superior.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (inclusão digital)",
+   "ref": "Emenda 1493",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "R$ 537.269 para a Federação de Esportes Eletrônicos do RJ (FERJEE) executar educação digital e formação tecnológica com jogos eletrônicos. O projeto prevê aulas de inglês e introdução ao desenvolvimento de jogos digitais para jovens vulneráveis em Nova Iguaçu.",
+   "situacao": "Publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de inclusão digital e formação tecnológica de jovens.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (saúde da mulher)",
+   "ref": "Emenda 1498",
+   "autor": "Dep. Felipinho Ravis",
+   "ementa": "R$ 200 mil ao Fundo Municipal de Saúde de Nova Iguaçu para o Projeto Viva Bem Mulher, de educação e prevenção em saúde da mulher (check-up feminino, Lei 11.356/2026).",
+   "situacao": "Publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Prevenção em saúde da mulher, tema do gabinete.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (LGBTQIA+)",
+   "ref": "Emenda 2247",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "R$ 75 mil na ação de Promoção e Defesa dos Direitos LGBTQIA+ para passagens aéreas de times do futebol gay (Beescats Soccer Boys e outras equipes da LIGAY) em torneios nacionais e internacionais.",
+   "situacao": "Publicada",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Financia a inclusão LGBTQIA+ no esporte pela ação orçamentária de direitos LGBTQIA+. Acompanhar a execução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (clima, ciência e meninas)",
+   "ref": "Emenda 2248",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "R$ 50 mil para a UERJ apoiar o Projeto Meninas pelo Clima, com equipamentos de medição climática e formação de jovens, em Duque de Caxias.",
+   "situacao": "Publicada",
+   "temas": [
+    "ct",
+    "mulheres"
+   ],
+   "nota": "Une divulgação científica na UERJ e formação de meninas. Cobre temas de ciência e de mulheres.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (pesquisa e universidades)",
+   "ref": "Emendas 2231, 2232, 2233, 2235 e 2250",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "Observatório de Educação Ambiental (Unirio/FAPERJ), mini auditório na UERJ e programa de pesquisa do Fórum de Reitores (UENF). Continuidade do Observatório do Orçamento Climático da UERJ, com a plataforma RADAR CLIMA.RJ, e pesquisa da UFRJ sobre a rede estadual de ensino.",
+   "situacao": "Publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Apoiam pesquisa em universidades e FAPERJ e a plataforma digital de dados públicos, temas de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emenda impositiva (saúde pélvica)",
+   "ref": "Emenda 2246",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "R$ 300 mil, via Fundação Euclides Cunha, para estruturar o ambulatório de Fisioterapia Pélvica da UFF. O atendimento é voltado a disfunções do assoalho pélvico como a incontinência.",
+   "situacao": "Publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "A fisioterapia pélvica atende sobretudo a saúde da mulher, mas a emenda cita homens e idosos. Tema marcado por precaução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Projetos de lei",
+   "tipo": "Emendas impositivas (economia solidária)",
+   "ref": "Emendas 2222 e 2223",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "R$ 50 mil cada: cooperativa de costura na Ocupação Gilberto Domingos, para a autonomia econômica de trabalhadoras, e oficinas de economia solidária e agricultura urbana no Complexo da Maré, com prioridade a mulheres vulneráveis.",
+   "situacao": "Publicadas",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Geração de renda e autonomia econômica de mulheres em territórios vulneráveis. Tema marcado por precaução.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (FAPERJ/UFRJ)",
+   "ref": "Emenda 2255",
+   "autor": "Dep. Flávio Serafini (com Renata Souza e Luiz Paulo)",
+   "ementa": "Destina R$ 70.000 pelo programa da FAPERJ à UFRJ para pesquisa sobre a evolução dos gastos com pessoal do Executivo estadual entre 2016 e 2026, considerando o Regime de Recuperação Fiscal.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Financia pesquisa universitária via FAPERJ, tema de ciência e tecnologia.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (equipamentos tecnológicos)",
+   "ref": "Emenda 2257",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "Destina R$ 60.000 para computadores, impressoras e outros equipamentos tecnológicos do CE Doutor Galdino do Valle Filho, em Nova Friburgo.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de tecnologia e inclusão digital em escola; marcada na dúvida.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (Fiotec)",
+   "ref": "Emenda 2258",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "Destina R$ 97.562 à Fiotec para pesquisa da Fiocruz e da UFF sobre trabalho docente e saúde de tutores de educação a distância do CEDERJ.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Financia pesquisa científica em instituições públicas.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (FAPERJ/Fundação Euclides da Cunha)",
+   "ref": "Emenda 2260",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "Destina R$ 100.000 pelo programa da FAPERJ à Fundação Euclides da Cunha para o Programa de Apoio a Alunos com Comportamento Superdotado, do grupo de pesquisa da UFF.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Apoia pesquisa e extensão universitária via FAPERJ.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda de prioridade (UERJ)",
+   "ref": "Emenda 2265",
+   "autor": "Dep. Flávio Serafini",
+   "ementa": "Prioriza no orçamento de pessoal da UERJ a majoração da Dedicação Exclusiva dos docentes para 120%. A justificativa aponta a defasagem salarial frente a outras universidades.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de remuneração docente na UERJ, universidade estadual.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (autonomia econômica da mulher)",
+   "ref": "Emenda 305",
+   "autor": "Dep. Fred Pacheco",
+   "ementa": "Destina R$ 150.000 à Renovação Carismática Católica (RCC) para ações de autonomia econômica da mulher e empreendedorismo feminino, pela Secretaria da Mulher e de Políticas Inclusivas.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Recurso para autonomia econômica das mulheres; vale acompanhar a execução e o público atendido.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas impositivas (UERJ)",
+   "ref": "Emendas 312 e 313",
+   "autor": "Dep. Fred Pacheco",
+   "ementa": "Destinam R$ 100.000 cada ao Laboratório MAPE do IESP/UERJ: a plataforma \"O Que Funciona\" de avaliação de políticas públicas e a medição de demandas por políticas em nível intramunicipal. Preveem bolsas de pesquisa.",
+   "situacao": "Emendas publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Financiam pesquisa e bolsas na UERJ.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (saúde da mulher)",
+   "ref": "Emenda 61",
+   "autor": "Dep. Giselle Monteiro",
+   "ementa": "Destina R$ 350.000 à saúde da mulher e ao atendimento materno-infantil na rede estadual, com prioridade para a Zona Oeste do Rio.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Reforça a saúde da mulher e materno-infantil, com foco na Zona Oeste.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (infraestrutura tecnológica escolar)",
+   "ref": "Emenda 1182",
+   "autor": "Dep. Guilherme Delaroli",
+   "ementa": "Destina R$ 287.269 à modernização da infraestrutura tecnológica de escolas estaduais, com foco em Itaboraí.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de tecnologia e inclusão digital nas escolas; marcada na dúvida.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda impositiva (UERJ/EJA)",
+   "ref": "Emenda 1879",
+   "autor": "Dep. Gustavo Tutuca",
+   "ementa": "Destina R$ 50.000 à UERJ para diagnóstico da oferta e da acessibilidade à EJA nos 92 municípios fluminenses, como instrumento de planejamento e atuação parlamentar.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Financia pesquisa e diagnóstico na UERJ.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas impositivas (TI em escolas)",
+   "ref": "Emendas 1883, 1888, 1889 e 1890",
+   "autor": "Dep. Gustavo Tutuca",
+   "ementa": "Destinam R$ 100.000 cada à infraestrutura tecnológica de quatro escolas estaduais, em Seropédica, Rio das Flores, Piraí e Resende.",
+   "situacao": "Emendas publicadas",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata de tecnologia e inclusão digital em escolas; marcada na dúvida.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emendas que remanejam recursos da ação LGBTQIA+",
+   "ref": "Emendas 444, 455 e 457",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Cancelam do programa \"Promoção e Defesa dos Direitos LGBTQIA+\" R$ 5,5 milhões (primeira infância, 444), R$ 223.220 (violência contra idosos e PCD, 455) e R$ 223.220 (liberdade religiosa, 457). Somam cerca de R$ 5,95 milhões.",
+   "situacao": "Emendas publicadas",
+   "temas": [
+    "lgbt"
+   ],
+   "nota": "Retiram recursos da ação estadual de direitos LGBTQIA+ (fonte 1.761.122); vale acompanhar a tramitação e o impacto no programa.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda modificativa (mães e pais atípicos)",
+   "ref": "Emenda 453",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Cria a ação \"Cuidando de Quem Cuida\", com R$ 223.220 na Secretaria da Mulher, para atenção e orientação a mães e pais atípicos, conforme a Lei 10.922/2025. Cancela o mesmo valor da ação de promoção da pessoa com deficiência.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Atende mães atípicas e cuidadoras, tema de mulheres e maternidade.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda de prioridade (defesa pessoal para mulheres)",
+   "ref": "Emenda 501",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Prioriza na ação de enfrentamento à violência contra a mulher a execução do Programa de Defesa Pessoal para Mulheres vítimas ou ameaçadas de violência doméstica (Lei 10.260/2023).",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "mulheres"
+   ],
+   "nota": "Trata do enfrentamento à violência doméstica.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda de prioridade (UENF)",
+   "ref": "Emenda 486",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Prioriza o orçamento de pessoal e encargos da UENF, diante do crescimento vegetativo da folha e da reformulação do plano de cargos e vencimentos.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Trata do financiamento de pessoal de universidade estadual.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
+  {
+   "grupo": "Outros",
+   "tipo": "Emenda de prioridade (Jovens Programadores)",
+   "ref": "Emenda 513",
+   "autor": "Dep. Índia Armelau",
+   "ementa": "Prioriza recursos da educação profissional para o Programa Jovens Programadores, que forma estudantes da rede pública em tecnologia da informação e programação, conforme o PL 7.610/2026.",
+   "situacao": "Emenda publicada",
+   "temas": [
+    "ct"
+   ],
+   "nota": "Qualificação em tecnologia da informação e inclusão digital de jovens.",
+   "edicaoId": "2026-11-27",
+   "data": "2026-11-27"
+  },
   {
    "grupo": "Pareceres de comissão",
    "tipo": "Parecer pela inconstitucionalidade",
